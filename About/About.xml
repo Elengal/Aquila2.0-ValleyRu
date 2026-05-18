@@ -6,7 +6,7 @@
     <li>1.6</li>
   </supportedVersions>
   <packageId>Elengal.Aquila20ValleyRu</packageId>
-  <description>Русификатор для мода [TY2.0] Aquila 2.0 Valley (Долина Орла).
+  <description>Русификатор для мода [TY2.0] Aquila 2.0 Valley (Долины Аквилы).
 
 Автор перевода:
 • Elengal
@@ -36,7 +36,7 @@
   </modDependencies>
   <loadAfter>
     <li>TYll.valley</li>
-	<li>Elengal.HARRu</li>
+        <li>Elengal.HARRu</li>
     <li>Elengal.Aquila20CoreRu</li>
   </loadAfter>
 </ModMetaData>

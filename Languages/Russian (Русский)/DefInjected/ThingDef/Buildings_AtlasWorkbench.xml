@@ -29,7 +29,7 @@
   <RV_Disappearer_JailTransporter.comps.2.wantedList.0.label>Архив высокого титула</RV_Disappearer_JailTransporter.comps.2.wantedList.0.label>
   <RV_Disappearer_JailTransporter.comps.2.wantedList.1.label>Архив среднего титула</RV_Disappearer_JailTransporter.comps.2.wantedList.1.label>
   <RV_Disappearer_JailTransporter.comps.2.wantedList.2.label>Имперцы</RV_Disappearer_JailTransporter.comps.2.wantedList.2.label>
-  <RV_Disappearer_JailTransporter.comps.2.wantedList.3.label>Церковь Славы</RV_Disappearer_JailTransporter.comps.2.wantedList.3.label>
+  <RV_Disappearer_JailTransporter.comps.2.wantedList.3.label>Слава</RV_Disappearer_JailTransporter.comps.2.wantedList.3.label>
   <RV_Disappearer_JailTransporter.comps.2.wantedList.4.label>Ядовитые пираты</RV_Disappearer_JailTransporter.comps.2.wantedList.4.label>
   <RV_Disappearer_JailTransporter.comps.2.wantedList.5.label>Враждебные импиды</RV_Disappearer_JailTransporter.comps.2.wantedList.5.label>
   <RV_Disappearer_JailTransporter.comps.2.wantedList.6.label>Ксено-яттакинские пираты</RV_Disappearer_JailTransporter.comps.2.wantedList.6.label>
@@ -49,12 +49,12 @@
   <TY_B_RV_Disappearer_JailTransporter.comps.2.wantedList.4.label>Свинокожие</TY_B_RV_Disappearer_JailTransporter.comps.2.wantedList.4.label>
   <TY_B_RV_Disappearer_JailTransporter.comps.2.wantedList.5.label>Мирные племена</TY_B_RV_Disappearer_JailTransporter.comps.2.wantedList.5.label>
   <TY_B_RV_Disappearer_JailTransporter.comps.2.wantedList.6.label>Воинственные племена</TY_B_RV_Disappearer_JailTransporter.comps.2.wantedList.6.label>
-  <TY_B_RV_Disappearer_JailTransporter_Blueprint.label>囚犯交换赎金传送器 (чертёж)</TY_B_RV_Disappearer_JailTransporter_Blueprint.label>
-  <TY_B_RV_Disappearer_JailTransporter_Frame.label>囚犯交换赎金传送器 (строительство)</TY_B_RV_Disappearer_JailTransporter_Frame.label>
-  <TY_B_RV_Disappearer_JailTransporter_Frame.description>可以用这个传送给其他派系来换取一些赎金,不过需要注意的是,只有较大的派系才可能可以交换</TY_B_RV_Disappearer_JailTransporter_Frame.description>
+  <TY_B_RV_Disappearer_JailTransporter_Blueprint.label>Транспортёр заключённых для обмена на выкуп (чертёж)</TY_B_RV_Disappearer_JailTransporter_Blueprint.label>
+  <TY_B_RV_Disappearer_JailTransporter_Frame.label>Транспортёр заключённых для обмена на выкуп (строительство)</TY_B_RV_Disappearer_JailTransporter_Frame.label>
+  <TY_B_RV_Disappearer_JailTransporter_Frame.description>Можно использовать это для передачи другим фракциям в обмен на выкуп, однако следует отметить, что только крупные фракции могут обмениваться.</TY_B_RV_Disappearer_JailTransporter_Frame.description>
   <TY_A_Nano_industrial_manufacturing_station.label>Нано-промышленная производственная станция</TY_A_Nano_industrial_manufacturing_station.label>
   <TY_A_Nano_industrial_manufacturing_station.description>Временная мера, позже будет исправлено. Ну, проще говоря, не было времени писать C#. Придётся подождать отпуска, чтобы найти время для его доработки, так что пока это просто обычная машина.</TY_A_Nano_industrial_manufacturing_station.description>
-  <TY_A_Nano_industrial_manufacturing_station_Blueprint_Install.label>纳米工业制造站 (чертёж)</TY_A_Nano_industrial_manufacturing_station_Blueprint_Install.label>
+  <TY_A_Nano_industrial_manufacturing_station_Blueprint_Install.label>Нано-промышленная производственная станция (чертёж)</TY_A_Nano_industrial_manufacturing_station_Blueprint_Install.label>
   <Blueprint_TY_A_Workbench_Building.label>Производственное предприятие сырья Долины (чертёж)</Blueprint_TY_A_Workbench_Building.label>
   <Blueprint_Install_TY_A_Workbench_Building.label>Производственное предприятие сырья Долины (чертёж)</Blueprint_Install_TY_A_Workbench_Building.label>
   <Frame_TY_A_Workbench_Building.label>Производственное предприятие сырья Долины (строительство)</Frame_TY_A_Workbench_Building.label>

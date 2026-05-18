@@ -43,7 +43,7 @@
   <TY_A_R_MechanicalFoot_W.label>Стопа механоида Федерации</TY_A_R_MechanicalFoot_W.label>
   <TY_A_Q_MechanicalThoraxCanManipulate.label>Грудь</TY_A_Q_MechanicalThoraxCanManipulate.label>
   <TY_A_Q_MechanicalNeck.label>Шасси</TY_A_Q_MechanicalNeck.label>
-  <TY_A_Q_MechanicalHead.label>Туловище</TY_A_Q_MechanicalHead.label>
+  <TY_A_Q_MechanicalHead.label>Голова механоида</TY_A_Q_MechanicalHead.label>
   <TY_A_Q_MechanicalHead_QW.label>Броневая плита</TY_A_Q_MechanicalHead_QW.label>
   <TY_A_Q_ArtificialBrain.label>Компьютер управления механоидом</TY_A_Q_ArtificialBrain.label>
   <TY_A_SightSensor.label>Оптические системы Федерации</TY_A_SightSensor.label>

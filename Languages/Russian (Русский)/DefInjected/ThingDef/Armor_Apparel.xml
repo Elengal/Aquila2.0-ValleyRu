@@ -42,24 +42,24 @@
   <AS_A_Refugee_clothing.description>Одежда беженца</AS_A_Refugee_clothing.description>
   <AH_A_MiscA.label>Кепи Долины</AH_A_MiscA.label>
   <AH_A_MiscA.description>Кепи Долины</AH_A_MiscA.description>
-  <AP_N_MiscA.label>Одежда Аквилы: наряд монахини</AP_N_MiscA.label>
+  <AP_N_MiscA.label>Аквила: костюм монахини</AP_N_MiscA.label>
   <AP_N_MiscA.description>Несколько нескромный наряд монахини. ——Отрисовка: Маньчжушахуа</AP_N_MiscA.description>
-  <AP_N_MiscB.label>Одежда Аквилы: наряд Фрейи</AP_N_MiscB.label>
-  <AP_N_MiscB.description>Одежда Фреи Арлгранде Джорал из ранобэ и манги</AP_N_MiscB.description>
-  <AP_N_MiscC.label>Одежда Аквилы: Весенний ливень</AP_N_MiscC.label>
+  <AP_N_MiscB.label>Аквила: одежда Фрейи</AP_N_MiscB.label>
+  <AP_N_MiscB.description>Одежда Фрейи Арлгранде Джорал из ранобэ и манги</AP_N_MiscB.description>
+  <AP_N_MiscC.label>Аквила: ночной дождь и весенние волны</AP_N_MiscC.label>
   <AP_N_MiscC.description>Одежда Райдэн Мэй из видеоигры</AP_N_MiscC.description>
-  <AP_N_MiscE.label>Одежда Аквилы: Ципао Ваньси</AP_N_MiscE.label>
+  <AP_N_MiscE.label>Аквила: ципао клана Ваньси</AP_N_MiscE.label>
   <AP_N_MiscE.description>Одна из одежд культуры Ваньси.</AP_N_MiscE.description>
-  <AP_N_MiscF.label>Одежда Аквилы: Чёрный бодикапрон</AP_N_MiscF.label>
-  <AP_N_MiscF.description>Чёрный бодикапрон... Похоже на наряд одной из...</AP_N_MiscF.description>
-  <AP_N_MiscG.label>Одежда Аквилы: Ритуальное облачение Славы</AP_N_MiscG.label>
-  <AP_N_MiscG.description>Ритуальное облачение Славы</AP_N_MiscG.description>
-  <AP_N_MiscH.label>Одежда Аквилы: Медсестринская форма</AP_N_MiscH.label>
-  <AP_N_MiscH.description>Форма медсестры</AP_N_MiscH.description>
-  <AP_N_MiscI.label>Одежда Аквилы: Наряд Селесты</AP_N_MiscI.label>
+  <AP_N_MiscF.label>Аквила: чёрный комбинезон</AP_N_MiscF.label>
+  <AP_N_MiscF.description>Чёрный комбинезон... Похоже на наряд одной из...</AP_N_MiscF.description>
+  <AP_N_MiscG.label>Аквила: ритуальное одеяние Славы</AP_N_MiscG.label>
+  <AP_N_MiscG.description>Ритуальное одеяние Славы</AP_N_MiscG.description>
+  <AP_N_MiscH.label>Аквила: костюм медсестры</AP_N_MiscH.label>
+  <AP_N_MiscH.description>Костюм медсестры</AP_N_MiscH.description>
+  <AP_N_MiscI.label>Аквила: одежда Селесты</AP_N_MiscI.label>
   <AP_N_MiscI.description>Наряд Селесты</AP_N_MiscI.description>
-  <AP_N_MiscJ.label>Одежда Аквилы: Броня Брунгильды</AP_N_MiscJ.label>
-  <AP_N_MiscJ.description>Одежда Брунгильды из видеоигры</AP_N_MiscJ.description>
+  <AP_N_MiscJ.label>Аквила: доспех Брюнхильды</AP_N_MiscJ.label>
+  <AP_N_MiscJ.description>Одежда Брюнхильды из видеоигры</AP_N_MiscJ.description>
   <AS_N_JSyan.label>Кошачий боди</AS_N_JSyan.label>
   <AS_N_JSyan.description>О видео с кошкодевочками от «Цзяньдань Икэсин» на Bilibili.</AS_N_JSyan.description>
   <AP_N_KBND.label>Соблазнительный вампирский набор</AP_N_KBND.label>
@@ -70,10 +70,10 @@
   <AP_N_JHYB.description>Чёрные колготки-боди</AP_N_JHYB.description>
   <AP_N_XinZuang.label>Костюм дворецкого</AP_N_XinZuang.label>
   <AP_N_XinZuang.description>Костюм дворецкого</AP_N_XinZuang.description>
-  <AH_N_MiscA.label>Одежда Аквилы: Императорская корона</AH_N_MiscA.label>
+  <AH_N_MiscA.label>Аквила: корона</AH_N_MiscA.label>
   <AH_N_MiscA.description>Императорская корона</AH_N_MiscA.description>
-  <AH_N_MiscJ.label>Одежда Аквилы: Головной убор Брунгильды</AH_N_MiscJ.label>
-  <AH_N_MiscJ.description>Одежда Брунгильды из видеоигры</AH_N_MiscJ.description>
+  <AH_N_MiscJ.label>Аквила: головной убор Брюнхильды</AH_N_MiscJ.label>
+  <AH_N_MiscJ.description>Одежда Брюнхильды из видеоигры</AH_N_MiscJ.description>
   <AS_N_JSyana.label>Кошачий шлем-боди</AS_N_JSyana.label>
   <AS_N_JSyana.description>О видео с кошкодевочками от «Цзяньдань Икэсин» на Bilibili.</AS_N_JSyana.description>
 </LanguageData>

@@ -3,7 +3,7 @@
   <TY_A_Overclocking_armor.label>Штурмовая перегрузка</TY_A_Overclocking_armor.label>
   <TY_A_Overclocking_armor.description>Перегрузить систему нано-машин для значительного повышения производительности и восстановления повреждённых структур.</TY_A_Overclocking_armor.description>
   <TY_Flashstorm.label>Выстрелить плазменным миномётным снарядом</TY_Flashstorm.label>
-  <TY_Flashstorm.description>Fire a special plasma mortar shell that deals damage, while generating a regional lightning storm that strikes with lightning for a period of time and then dissipates.发射一枚电浆迫击炮弹特殊,在造成伤害的同时生成一个局部的闪电风暴，风暴会用闪电袭击一段时间然后消散.</TY_Flashstorm.description>
+  <TY_Flashstorm.description>Выстрелить особым плазменным миномётным снарядом, наносящим урон, одновременно создавая локальный грозовой шторм, который поражает молниями в течение некоторого времени, а затем рассеивается.</TY_Flashstorm.description>
   <TY_A_Launch_nano_flying_knives.label>Запуск нано-эрозийных метательных ножей</TY_A_Launch_nano_flying_knives.label>
   <TY_A_Launch_nano_flying_knives.description>Запуск нано-эрозийных метательных ножей</TY_A_Launch_nano_flying_knives.description>
   <TY_A_MechDriveSjump.label>Прыжок</TY_A_MechDriveSjump.label>
