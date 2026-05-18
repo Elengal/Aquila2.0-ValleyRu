@@ -24,5 +24,12 @@
   <MechSpeedBoost_WRJ.label>Модуль улучшения беспилотного летательного аппарата "Гроза-TK19 Гроза"</MechSpeedBoost_WRJ.label>
   <MechSpeedBoost_WRJ.description>Механоид был улучшен.</MechSpeedBoost_WRJ.description>
 
+  <!-- BaZhu turrets hediffs -->
+  <BaZhu_MainTurret_Hediff.label>Главная пушка «БаZhu»</BaZhu_MainTurret_Hediff.label>
+  <BaZhu_MainTurret_Hediff.description>Правая главная турель «БаZhu», являющаяся основной огневой мощью меха.</BaZhu_MainTurret_Hediff.description>
+
+  <BaZhu_SecondaryTurret_Hediff.label>Вспомогательная пушка «БаZhu»</BaZhu_SecondaryTurret_Hediff.label>
+  <BaZhu_SecondaryTurret_Hediff.description>Левая вспомогательная турель «БаZhu», обеспечивающая непрерывное подавление и дополнительный огонь.</BaZhu_SecondaryTurret_Hediff.description>
+
 
 </LanguageData>

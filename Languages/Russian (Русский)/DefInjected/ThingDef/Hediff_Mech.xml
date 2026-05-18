@@ -12,6 +12,4 @@
   <MechMultiUpgradeModule_WRJ.label>Модуль улучшения беспилотного летательного аппарата "Гроза-TK19"</MechMultiUpgradeModule_WRJ.label>
   <MechMultiUpgradeModule_WRJ.description>Модуль улучшения для повышения характеристик беспилотного летательного аппарата "Гроза-TK19".</MechMultiUpgradeModule_WRJ.description>
   <MechMultiUpgradeModule_WRJ.modExtensions.0.upgradeEffects.0.label>Усиление беспилотного летательного аппарата "Гроза-TK19"</MechMultiUpgradeModule_WRJ.modExtensions.0.upgradeEffects.0.label>
-  <MechStateRecoveryChip.label>Чип восстановления состояния механоида</MechStateRecoveryChip.label>
-  <MechStateRecoveryChip.description>Специальный чип данных, восстанавливающий ранее применённые улучшения механоида.</MechStateRecoveryChip.description>
 </LanguageData>

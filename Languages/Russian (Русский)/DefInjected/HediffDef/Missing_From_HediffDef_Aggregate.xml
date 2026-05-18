@@ -17,8 +17,6 @@
   <MySpecialWeaponHediff.label>Скелет‑мех — дополнительная стойка под оружие</MySpecialWeaponHediff.label>
   <TestState_D.description>«Доберман»-4: дополнительная броня.</TestState_D.description>
   <TestState_D.label>«Доберман»-4: дополнительная броня</TestState_D.label>
-  <TurretImplant_LaserCannon.description>Продвинутая имплант‑система лазерной пушки для дополнительной огневой поддержки носителя.</TurretImplant_LaserCannon.description>
-  <TurretImplant_LaserCannon.label>Имплант: трёхствольная пушка</TurretImplant_LaserCannon.label>
   <XG_BingTuanJ1_module.description>Тяжёлая щитовая броня на плечах; повышает защиту, но замедляет перезарядку и ход.\nРез/тупая защита +25%  +3% к времени перезарядки дальн. атак  −10% к общ. скорости работы</XG_BingTuanJ1_module.description>
   <XG_BingTuanJ1_module.label>Скелет‑мех: тяжёлые круглые наплечники‑щиты</XG_BingTuanJ1_module.label>
   <XG_BingTuanJ2_module.description>Лёгкие круглые наплечники на плечах.\n+10% к защите</XG_BingTuanJ2_module.description>

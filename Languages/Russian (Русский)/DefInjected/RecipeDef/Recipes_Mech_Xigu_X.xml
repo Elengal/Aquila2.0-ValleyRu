@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Make_JiPu.label>Вырастить механоида-пса "Доберман"-4</Make_JiPu.label>
@@ -17,10 +17,6 @@
   <Make_BRM3A.description>Вырастить механоида-пса "Охотничий Тигр"-3 самоходную колёсную гаубицу.</Make_BRM3A.description>
   <Make_BRM3A.jobString>выращивает механоида.</Make_BRM3A.jobString>
 
-  <Make_MiniUMV.label>Вырастить самоходную колёсную миномётную машину "Праща"-7</Make_MiniUMV.label>
-  <Make_MiniUMV.description>Вырастить самоходную колёсную миномётную машину "Праща"-7</Make_MiniUMV.description>
-  <Make_MiniUMV.jobString>выращивает механоида.</Make_MiniUMV.jobString>
-
   <Make_JiXieTi.label>Вырастить огнемётную машину</Make_JiXieTi.label>
   <Make_JiXieTi.description>Вырастить огнемётную машину</Make_JiXieTi.description>
   <Make_JiXieTi.jobString>выращивает механоида.</Make_JiXieTi.jobString>
@@ -28,6 +24,5 @@
   <Make_TY_A_Mech_GongBingJQR.label>Вырастить строительного робота "Гигантская Обезьяна"-7</Make_TY_A_Mech_GongBingJQR.label>
   <Make_TY_A_Mech_GongBingJQR.description>Вырастить строительного робота "Гигантская Обезьяна"-7</Make_TY_A_Mech_GongBingJQR.description>
   <Make_TY_A_Mech_GongBingJQR.jobString>выращивает механоида.</Make_TY_A_Mech_GongBingJQR.jobString>
-
 
 </LanguageData>

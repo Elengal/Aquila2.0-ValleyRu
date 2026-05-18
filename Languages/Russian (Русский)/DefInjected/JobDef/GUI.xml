@@ -5,5 +5,9 @@
 
   <OperateRadioStationJob.reportString>Работает на радиостанции</OperateRadioStationJob.reportString>
 
+  <!-- Boss jobs -->
+  <CastDashWithDrag.reportString>Рывок с захватом</CastDashWithDrag.reportString>
+  <CastKickDash.reportString>Пинок-рывок к цели</CastKickDash.reportString>
+  <CastShockwaveKnockback.reportString>Отбрасывает окружающих врагов</CastShockwaveKnockback.reportString>
 
 </LanguageData>

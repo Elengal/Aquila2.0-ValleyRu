@@ -2,10 +2,36 @@
 <LanguageData>
   <TY_A_Nano_industrial_manufacturing_station_NO.label>Нано-промышленная производственная станция (Неактивна)</TY_A_Nano_industrial_manufacturing_station_NO.label>
   <TY_A_Nano_industrial_manufacturing_station_NO.description>При активации будет излучать электромагнитные волны определённого частотного диапазона, которые привлекут внимание близлежащих механоидов. Активация продлится 5 дней, в течение которых неизбежно будет привлечено большое количество механоидных подразделений для рейда. Пожалуйста, подготовьте свои оборонительные сооружения.</TY_A_Nano_industrial_manufacturing_station_NO.description>
-  <TY_A_Nano_industrial_manufacturing_station_NO_Blueprint.label>Нано-промышленная производственная станция (Неактивна)</TY_A_Nano_industrial_manufacturing_station_NO_Blueprint.label>
-  <TY_A_Nano_industrial_manufacturing_station_NO_Frame.label>Нано-промышленная производственная станция (Неактивна)</TY_A_Nano_industrial_manufacturing_station_NO_Frame.label>
-  <TY_A_Nano_industrial_manufacturing_station_NO_Frame.description>При активации будет излучать электромагнитные волны определённого частотного диапазона, которые привлекут внимание близлежащих механоидов. Активация продлится 5 дней, в течение которых неизбежно будет привлечено большое количество механоидных подразделений для рейда. Пожалуйста, подготовьте свои оборонительные сооружения.</TY_A_Nano_industrial_manufacturing_station_NO_Frame.description>
-  <Blueprint_TY_A_Nano_industrial_manufacturing_station_NO.label>Нано-промышленная производственная станция (Неактивна)</Blueprint_TY_A_Nano_industrial_manufacturing_station_NO.label>
-  <Frame_TY_A_Nano_industrial_manufacturing_station_NO.label>Нано-промышленная производственная станция (Неактивна)</Frame_TY_A_Nano_industrial_manufacturing_station_NO.label>
-  <Frame_TY_A_Nano_industrial_manufacturing_station_NO.description>При активации будет излучать электромагнитные волны определённого частотного диапазона, которые привлекут внимание близлежащих механоидов. Активация продлится 5 дней, в течение которых неизбежно будет привлечено большое количество механоидных подразделений для рейда. Пожалуйста, подготовьте свои оборонительные сооружения.</Frame_TY_A_Nano_industrial_manufacturing_station_NO.description>
+
+  <!-- BaZhu turrets -->
+  <BaZhu_MainTurret.label>Главная пушка «БаZhu»</BaZhu_MainTurret.label>
+  <BaZhu_MainTurret.description>Правая главная турель «БаZhu». Использует высокоинтенсивный электромагнитный бронебойный огонь для поражения целей на средних и дальних дистанциях.</BaZhu_MainTurret.description>
+
+  <BaZhu_SecondaryTurret.label>Вспомогательная пушка «БаZhu»</BaZhu_SecondaryTurret.label>
+  <BaZhu_SecondaryTurret.description>Левая вспомогательная турель «БаZhu». Ведёт непрерывный заградительный огонь по целям на близких и средних дистанциях.</BaZhu_SecondaryTurret.description>
+
+  <!-- Mech_A_BaZhu -->
+  <Mech_A_BaZhu.label>«БаZhu» — заброшенный</Mech_A_BaZhu.label>
+  <Mech_A_BaZhu.description>(Незавершённый) Разработан бывшей Федерацией Долины. Стандартная конфигурация левого и правого оружейных пилонов — 14,5-мм тяжёлый пулемёт и 125-мм бронебойная рельсовая пушка; на спине обычно устанавливается кластерный ракетный отсек. Ноги на базе электромышечных приводов обеспечивают прыжки, рывки и пинки. Данная модель широко принята на вооружение Новым Красным Армией Новой Федерации Долины. В оригинальной конструкции 125-мм рельсовая пушка могла стрелять малыми тактическими ядерными снарядами, позиционируясь как танк-убийца. Однако все прототипы, оставшиеся на окраинных мирах, данным типом боеприпасов не оснащены. Из-за многолетнего отсутствия обслуживания реактор прототипа сильно деградировал и работает крайне нестабильно. Оставшийся срок службы — около одного часа, после чего произойдёт перегрузка и самоликвидация.</Mech_A_BaZhu.description>
+  <Mech_A_BaZhu.tools.0.label>раздавливание</Mech_A_BaZhu.tools.0.label>
+
+  <!-- MBaoLei_B_Weapon -->
+  <MBaoLei_B_Weapon.label>Встроенная пушка</MBaoLei_B_Weapon.label>
+  <MBaoLei_B_Weapon.description>14,5x114 мм бортовой тяжёлый пулемёт</MBaoLei_B_Weapon.description>
+
+  <!-- AH_A_QiongQioff -->
+  <AH_A_QiongQioff.label>Тактический ПНВ (включён)</AH_A_QiongQioff.label>
+  <AH_A_QiongQioff.description>Тактический прибор ночного видения</AH_A_QiongQioff.description>
+
+  <!-- XG_BaoDanQiang -->
+  <XG_BaoDanQiang.label>23-мм безгильзовый карабин</XG_BaoDanQiang.label>
+  <XG_BaoDanQiang.description>Специализированная версия для городских боёв.</XG_BaoDanQiang.description>
+
+  <!-- XG_CrowMask -->
+  <XG_CrowMask.label>Маска «Ворон»</XG_CrowMask.label>
+  <XG_CrowMask.description>Заполнитель</XG_CrowMask.description>
+
+  <!-- XG_FlyingCrowHelmet -->
+  <XG_FlyingCrowHelmet.label>Антенна «Ворон»</XG_FlyingCrowHelmet.label>
+  <XG_FlyingCrowHelmet.description>Заполнитель</XG_FlyingCrowHelmet.description>
 </LanguageData>

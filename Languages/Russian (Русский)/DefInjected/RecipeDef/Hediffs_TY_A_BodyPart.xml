@@ -1,22 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- 物品 -->
-
-  <TY_A_Fighter_chip_A_Advanced.label>Установить ОГАС: Базовый чип стрельбы</TY_A_Fighter_chip_A_Advanced.label>
-  <TY_A_Fighter_chip_A_Advanced.description>Установить ОГАС: Базовый чип стрельбы</TY_A_Fighter_chip_A_Advanced.description>
-  <TY_A_Fighter_chip_A_Advanced.jobString>устанавливает ОГАС: Базовый чип стрельбы</TY_A_Fighter_chip_A_Advanced.jobString>
-
-  <TY_A_Fighter_chip_AA.label>Изготовить ОГАС: Базовый чип стрельбы</TY_A_Fighter_chip_AA.label>
-  <TY_A_Fighter_chip_AA.description>Изготовить ОГАС: Базовый чип стрельбы.</TY_A_Fighter_chip_AA.description>
-  <TY_A_Fighter_chip_AA.jobString>изготавливает</TY_A_Fighter_chip_AA.jobString>
-
-  <TY_A_ShingLanArm_AA.label>Изготовить сельскохозяйственную руку Долины</TY_A_ShingLanArm_AA.label>
-  <TY_A_ShingLanArm_AA.description>Изготовить сельскохозяйственную руку Долины.</TY_A_ShingLanArm_AA.description>
-  <TY_A_ShingLanArm_AA.jobString>изготавливает</TY_A_ShingLanArm_AA.jobString>
-
-  <TY_A_ShingLanArm_AAA.label>Установить сельскохозяйственную руку Долины</TY_A_ShingLanArm_AAA.label>
-  <TY_A_ShingLanArm_AAA.description>Проводит операцию по установке.</TY_A_ShingLanArm_AAA.description>
-
 
 </LanguageData>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<LanguageData>
-  <Magic_AtCY.label>Первиян</Magic_AtCY.label>
-  <Magic_AtCY.description>Боевые стимуляторы Первияна применяются солдатами в Сумеречных войнах между звёздными империями. Они относительно дешёвы и значительно усиливают боеспособность. Сейчас активно используются Церковью Славы в новой Сумеречной войне для тактики быстрого прорыва.</Magic_AtCY.description>
-  <Magic_AtCY.ingestible.ingestCommandString>Выпить {0}</Magic_AtCY.ingestible.ingestCommandString>
-  <Magic_AtCY.ingestible.ingestReportString>Нести {0}.</Magic_AtCY.ingestible.ingestReportString>
-</LanguageData>

@@ -2,24 +2,8 @@
 <LanguageData>
 
   <!-- Human / Человек -->
-  <Human.label>человек</Human.label>
-  <Human.description>Обычный человек, практически не изменённый генной инженерией или эволюционными процессами других планет.</Human.description>
-  <Human.tools.left_fist.label>левый кулак</Human.tools.left_fist.label>
-  <Human.tools.left_fist.labelNoLocation>кулак</Human.tools.left_fist.labelNoLocation>
-  <Human.tools.right_fist.label>правый кулак</Human.tools.right_fist.label>
-  <Human.tools.right_fist.labelNoLocation>кулак</Human.tools.right_fist.labelNoLocation>
-  <Human.tools.teeth.label>зубы</Human.tools.teeth.label>
-  <Human.tools.head.label>голова</Human.tools.head.label>
 
   <!-- CreepJoiner / Крип-присоединитель (Anomaly DLC) -->
-  <CreepJoiner.label>человек</CreepJoiner.label>
-  <CreepJoiner.description>Обычный человек, практически не изменённый генной инженерией и эволюционным воздействием других планет.</CreepJoiner.description>
-  <CreepJoiner.tools.left_fist.label>левый кулак</CreepJoiner.tools.left_fist.label>
-  <CreepJoiner.tools.left_fist.labelNoLocation>кулак</CreepJoiner.tools.left_fist.labelNoLocation>
-  <CreepJoiner.tools.right_fist.label>правый кулак</CreepJoiner.tools.right_fist.label>
-  <CreepJoiner.tools.right_fist.labelNoLocation>кулак</CreepJoiner.tools.right_fist.labelNoLocation>
-  <CreepJoiner.tools.teeth.label>зубы</CreepJoiner.tools.teeth.label>
-  <CreepJoiner.tools.head.label>голова</CreepJoiner.tools.head.label>
 
 </LanguageData>
 

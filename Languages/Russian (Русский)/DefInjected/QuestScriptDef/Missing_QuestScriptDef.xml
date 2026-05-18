@@ -41,5 +41,29 @@
   <TY_A_PrisonerBounty.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>Шаттл для перевозки заключённых прибыл</TY_A_PrisonerBounty.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>
   <TY_A_PrisonerBounty.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>Шаттл для перевозки заключённых прибыл</TY_A_PrisonerBounty.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>
 
+  <!-- Квест: Группа боссов -->
+  <TY_A_Bossgroup_Quest.questNameRules.rulesStrings.0>questName->группа боссов</TY_A_Bossgroup_Quest.questNameRules.rulesStrings.0>
+  <TY_A_Bossgroup_Quest.questDescriptionRules.rulesStrings.0>questDescription->группа боссов</TY_A_Bossgroup_Quest.questDescriptionRules.rulesStrings.0>
+
+  <!-- Квест: Маяк Натальи -->
+  <TY_A_NataliaBeaconDropPodQuest.questNameRules.rulesStrings.0>questName->Маяк призыва Натальи</TY_A_NataliaBeaconDropPodQuest.questNameRules.rulesStrings.0>
+  <TY_A_NataliaBeaconDropPodQuest.questDescriptionRules.rulesStrings.0>questDescription->После принятия вы получите 1 маяк призыва Натальи через десантную капсулу.</TY_A_NataliaBeaconDropPodQuest.questDescriptionRules.rulesStrings.0>
+
+  <!-- Квест: Награда за босса-заключённого -->
+  <TY_A_PrisonerBounty_boos.questNameRules.rulesStrings.0>questName->Шаттл для перевозки заключённых</TY_A_PrisonerBounty_boos.questNameRules.rulesStrings.0>
+  <TY_A_PrisonerBounty_boos.questDescriptionRules.rulesStrings.0>questDescription->Отправлен шаттл для перевозки заключённых, ожидайте.</TY_A_PrisonerBounty_boos.questDescriptionRules.rulesStrings.0>
+
+  <!-- Квест: Транспортный корабль — доставка -->
+  <TY_Util_TransportShip_DropOff.questNameRules.rulesStrings.0>questName->Транспортный шаттл — доставка</TY_Util_TransportShip_DropOff.questNameRules.rulesStrings.0>
+  <TY_Util_TransportShip_DropOff.questDescriptionRules.rulesStrings.0>questDescription->Транспортный шаттл прибыл для доставки.</TY_Util_TransportShip_DropOff.questDescriptionRules.rulesStrings.0>
+
+  <!-- Квест: Транспортный корабль — забор -->
+  <TY_Util_TransportShip_Pickup.questNameRules.rulesStrings.0>questName->Транспортный шаттл — забор</TY_Util_TransportShip_Pickup.questNameRules.rulesStrings.0>
+  <TY_Util_TransportShip_Pickup.questDescriptionRules.rulesStrings.0>questDescription->Шаттл для перевозки заключённых прибыл</TY_Util_TransportShip_Pickup.questDescriptionRules.rulesStrings.0>
+
+  <!-- Квест: Транспортный корабль — забор (босс) -->
+  <TY_Util_TransportShip_Pickup_boos.questNameRules.rulesStrings.0>questName->Транспортный шаттл — забор</TY_Util_TransportShip_Pickup_boos.questNameRules.rulesStrings.0>
+  <TY_Util_TransportShip_Pickup_boos.questDescriptionRules.rulesStrings.0>questDescription->Шаттл для перевозки заключённых прибыл</TY_Util_TransportShip_Pickup_boos.questDescriptionRules.rulesStrings.0>
+
 </LanguageData>
 

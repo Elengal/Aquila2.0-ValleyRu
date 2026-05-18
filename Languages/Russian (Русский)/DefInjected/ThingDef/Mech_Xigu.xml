@@ -1,92 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Corpse_Mech_A_ChengBao.description>Труп щитового робота "Движущаяся крепость"-96</Corpse_Mech_A_ChengBao.description>
-  <Corpse_Mech_A_ChengBao.label>Труп щитового робота "Движущаяся крепость"-96</Corpse_Mech_A_ChengBao.label>
-  <Corpse_Mech_A_ChengBao_C.description>Труп крупного ближнего беспилотного летательного аппарата "Прорыв"-1</Corpse_Mech_A_ChengBao_C.description>
-  <Corpse_Mech_A_ChengBao_C.label>Труп крупного ближнего беспилотного летательного аппарата "Прорыв"-1</Corpse_Mech_A_ChengBao_C.label>
-  <Corpse_Mech_A_Diabolus.description>Труп тяжёлой артиллерийской брони "Сжигатель"-3</Corpse_Mech_A_Diabolus.description>
-  <Corpse_Mech_A_Diabolus.label>Труп тяжёлой артиллерийской брони "Сжигатель"-3</Corpse_Mech_A_Diabolus.label>
-  <Corpse_Mech_A_JiPu.description>Труп робота 0-173</Corpse_Mech_A_JiPu.description>
-  <Corpse_Mech_A_JiPu.label>Труп робота 0-173</Corpse_Mech_A_JiPu.label>
-  <Corpse_Mech_A_LiMing.description>Труп боевого робота "Аврора"-9</Corpse_Mech_A_LiMing.description>
-  <Corpse_Mech_A_LiMing.label>Труп боевого робота "Аврора"-9</Corpse_Mech_A_LiMing.label>
-  <Corpse_Mech_A_Nurse.description>Труп медицинского робота "Маленькая медсестра"</Corpse_Mech_A_Nurse.description>
-  <Corpse_Mech_A_Nurse.label>Труп медицинского робота "Маленькая медсестра"</Corpse_Mech_A_Nurse.label>
-  <Corpse_Mech_A_XwSnake.description>Труп механизированной брони "Кроталь"-94</Corpse_Mech_A_XwSnake.description>
-  <Corpse_Mech_A_XwSnake.label>Труп механизированной брони "Кроталь"-94</Corpse_Mech_A_XwSnake.label>
-  <Corpse_Mech_A_battle_fortress.description>Труп беспилотной боевой крепости "Королева пчёл"-9</Corpse_Mech_A_battle_fortress.description>
-  <Corpse_Mech_A_battle_fortress.label>Труп беспилотной боевой крепости "Королева пчёл"-9</Corpse_Mech_A_battle_fortress.label>
-  <Corpse_TY_A_Mech_Nurse_QET.description>Труп снайперского робота "Алёша"</Corpse_TY_A_Mech_Nurse_QET.description>
-  <Corpse_TY_A_Mech_Nurse_QET.label>Труп снайперского робота "Алёша"</Corpse_TY_A_Mech_Nurse_QET.label>
-  <Corpse_TY_A_check.description>Труп транспортного робота "Лось"-1</Corpse_TY_A_check.description>
-  <Corpse_TY_A_check.label>Труп транспортного робота "Лось"-1</Corpse_TY_A_check.label>
-  <Corpse_TY_Mech_Agrihand.description>Труп трактора "Фермер"-9</Corpse_TY_Mech_Agrihand.description>
-  <Corpse_TY_Mech_Agrihand.label>Труп трактора "Фермер"-9</Corpse_TY_Mech_Agrihand.label>
-  <Mech_A_BRM2A_Corpse.description>Труп робота-ополченца «Легион-1».</Mech_A_BRM2A_Corpse.description>
-  <Mech_A_BRM2A_Corpse.label>Труп робота-ополченца «Легион-1»</Mech_A_BRM2A_Corpse.label>
-  <Mech_A_BRM3A_Corpse.description>Труп самоходной колёсной гаубицы «Охотничий тигр-3».</Mech_A_BRM3A_Corpse.description>
-  <Mech_A_BRM3A_Corpse.label>Труп самоходной гаубицы «Охотничий тигр-3»</Mech_A_BRM3A_Corpse.label>
   <Mech_A_ChengBao.description>Щитовой робот "Мобильная крепость"-96, как тяжёлое щитовое бронированное подразделение, признан грозной мобильной крепостью. Его 19,5-мм пулемёт обеспечивает мощную огневую мощь наряду с массивным энергетическим щитом, служа не только для защиты основного механитора Корпуса механоидов, но и для защиты бронированных транспортных средств от противотанкового оружия и дронов.</Mech_A_ChengBao.description>
   <Mech_A_ChengBao.label>Щитовой робот "Движущаяся крепость"-96</Mech_A_ChengBao.label>
   <Mech_A_ChengBao.tools.0.label>Удар</Mech_A_ChengBao.tools.0.label>
   <Mech_A_ChengBao_C.description>Из-за широкого использования Церковью Славы скрытных подразделений в Гражданской войне системы Аквила для специальных операций проникновения и атак живой волной на цели, Красная Армия Новой Федерации Долины срочно потребовала крупных ближних механоидов для защиты своих тыловых районов и критических мест.\nТак родился "Прорыв"-1.\nЕго массивная рама в сочетании с большим тяжёлым молотом обеспечивает базовую безопасность для целей Федерации. В критические моменты он может значительно повысить боевую производительность, перегружая свою систему наномашинной структуры, а также оснащён многочисленными тактическими вспомогательными системами.</Mech_A_ChengBao_C.description>
   <Mech_A_ChengBao_C.label>Крупный ближний беспилотный летательный аппарат "Прорыв"-1</Mech_A_ChengBao_C.label>
   <Mech_A_ChengBao_C.tools.0.label>Удар</Mech_A_ChengBao_C.tools.0.label>
-  <Mech_A_ChengBao_C_Corpse.description>Труп крупного ближнего БПЛА «Прорыв»-1</Mech_A_ChengBao_C_Corpse.description>
-  <Mech_A_ChengBao_C_Corpse.label>Труп крупного ближнего БПЛА «Прорыв»-1</Mech_A_ChengBao_C_Corpse.label>
-  <Mech_A_ChengBao_Corpse.description>Труп щитового робота «Движущаяся крепость»-96</Mech_A_ChengBao_Corpse.description>
-  <Mech_A_ChengBao_Corpse.label>Труп щитового робота «Движущаяся крепость»-96</Mech_A_ChengBao_Corpse.label>
   <Mech_A_Diabolus.description>"Сжигатель"-3 — это тяжёлое механизированное пехотное подразделение, разработанное Новой Федерацией Долины (Красный Сектор) в 5492 году. Вооружённый пушкой деления "Сжигатель" и 19,5-мм тяжёлым пулемётом, он выполняет задачи противотанковой обороны, против укреплений и подавления пехоты. Высоко ценится боевыми инженерами Федерации благодаря своей исключительной эффективности при штурме вражеских укреплённых опорных пунктов и скоплений брони.</Mech_A_Diabolus.description>
   <Mech_A_Diabolus.label>Тяжёлая артиллерийская броня "Сжигатель"-3</Mech_A_Diabolus.label>
   <Mech_A_Diabolus.tools.0.label>Удар</Mech_A_Diabolus.tools.0.label>
-  <Mech_A_Diabolus_Corpse.description>Труп тяжёлой артиллерийской брони «Инцинератор»-3</Mech_A_Diabolus_Corpse.description>
-  <Mech_A_Diabolus_Corpse.label>Труп тяжёлой артиллерийской брони «Инцинератор»-3</Mech_A_Diabolus_Corpse.label>
   <Mech_A_JiPu.description><![CDATA[<color=#A02A22><b>Дань уважения советскому научно-фантастическому фильму 1935 года "Гибель сенсации"</b></color>\nПрототип робота 0-173 не был создан во время <color=#A02A22><b>Социалистической эры</b></color>. Его происхождение лежит в <color=#A02A22><b>Андроиде универсального назначения</b></color>, изобретённом Кими Повом, учёным-инженером из малой нации во время периода планетарного объединения Федерации Долины.\nКими стремился решить <color=#A02A22><b>Неравенство богатства</b></color> через революцию производительности этой машины. Но после того, как буржуазия использовала многоцелевые машины для достижения "промышленной самодостаточности", они развязали <color=#A02A22><b>Кровавую резню</b></color> против пролетариата. Через <color=#A02A22><b>взлом, захват заводов и партизанскую войну</b></color> пролетариат устранил местную буржуазию во время Великой революции. Века страданий и кровавых уроков выковали глобальное осознание: <color=#A02A22><b>Скачки производительности не приносят милосердия правящего класса!</b></color>\n\nСегодня робот 0-173 служит в ролях экологического исследования и помощи при бедствиях, выполняя функции, такие как спасение при стихийных бедствиях, охрана пионерских поселений и разведка местности.\nВ пограничных поселениях, защищающихся от рейдов бандитов, они обычно оснащаются крупнокалиберными пулемётами.]]></Mech_A_JiPu.description>
   <Mech_A_JiPu.label>Робот 0-173</Mech_A_JiPu.label>
   <Mech_A_JiPu.tools.0.label>Удар</Mech_A_JiPu.tools.0.label>
-  <Mech_A_JiPu_Corpse.description>Труп робота 0-173</Mech_A_JiPu_Corpse.description>
-  <Mech_A_JiPu_Corpse.label>Труп робота 0-173</Mech_A_JiPu_Corpse.label>
   <Mech_A_LiMing.description>«Рассвет»-9 — базовый боевой робот Новой Федерации: прожигает броню, умеет тушить огонь пеной, прыгать на ранцах и ставить дымовую завесу.</Mech_A_LiMing.description>
   <Mech_A_LiMing.label>«Рассвет»-9 — армейский мех</Mech_A_LiMing.label>
   <Mech_A_LiMing.tools.0.label>Удар</Mech_A_LiMing.tools.0.label>
-  <Mech_A_LiMing_Corpse.description>Труп боевого робота «Аврора»-9</Mech_A_LiMing_Corpse.description>
-  <Mech_A_LiMing_Corpse.label>Труп боевого робота «Аврора»-9</Mech_A_LiMing_Corpse.label>
   <Mech_A_Nurse.description>Роботы-медсёстры широко используются в медицинской, сервисной и военной отраслях Федерации Долины.\nИх порядок приоритета работы: медицинская помощь — готовка — уборка. Большое количество роботов-медсестёр также широко используется в пионерских коммунах. Модели, используемые в пионерских коммунах и военных силах, обычно оснащены посохом эфирной энергии и соответствующим щитом с рейтингом 200 очков.</Mech_A_Nurse.description>
   <Mech_A_Nurse.label>Медицинский робот "Маленькая медсестра"</Mech_A_Nurse.label>
   <Mech_A_Nurse.tools.0.label>Удар</Mech_A_Nurse.tools.0.label>
-  <Mech_A_Nurse_Corpse.description>Труп медицинского робота «Маленькая медсестра»</Mech_A_Nurse_Corpse.description>
-  <Mech_A_Nurse_Corpse.label>Труп медицинского робота «Маленькая медсестра»</Mech_A_Nurse_Corpse.label>
-  <Mech_A_TY_BaZhu_Corpse.description>Труп сверхтяжёлого механоида «Бачжу».</Mech_A_TY_BaZhu_Corpse.description>
-  <Mech_A_TY_BaZhu_Corpse.label>Труп механоида «Бачжу»</Mech_A_TY_BaZhu_Corpse.label>
   <Mech_A_XwSnake.description>Механизированная броня "Кроталь"-94 — это универсальный боевой механоид, широко используемый в Красной Армии Новой Федерации Долины. Они вооружены 19,5-мм тяжёлыми пулемётами и 65-мм гранатомётами. Они способны к распылению дыма, пенной тушению и реактивному прыжку.</Mech_A_XwSnake.description>
   <Mech_A_XwSnake.label>Механизированная броня "Кроталь"-94</Mech_A_XwSnake.label>
   <Mech_A_XwSnake.tools.0.label>Раздавливание</Mech_A_XwSnake.tools.0.label>
-  <Mech_A_XwSnake_Corpse.description>Труп механизированной брони «Кроталь»-94</Mech_A_XwSnake_Corpse.description>
-  <Mech_A_XwSnake_Corpse.label>Труп механизированной брони «Кроталь»-94</Mech_A_XwSnake_Corpse.label>
   <Mech_A_battle_fortress.description>Наземный авианосец, который может постоянно развёртывать боевые дроны для операций по отвлечению огня. Шиповые дроны могут быть вызваны для ближнего уничтожения врага. После уничтожения наномашинные структуры, хранящиеся в подушках безопасности шиповых дронов, быстро конденсируются и снова изменяются, образуя два дрона "Спираль".</Mech_A_battle_fortress.description>
   <Mech_A_battle_fortress.label>Беспилотная боевая крепость "Королева пчёл"-9</Mech_A_battle_fortress.label>
   <Mech_A_battle_fortress.tools.0.label>Удар</Mech_A_battle_fortress.tools.0.label>
-  <Mech_A_battle_fortress_Corpse.description>Труп беспилотной боевой крепости «Матка»-9</Mech_A_battle_fortress_Corpse.description>
-  <Mech_A_battle_fortress_Corpse.label>Труп беспилотной боевой крепости «Матка»-9</Mech_A_battle_fortress_Corpse.label>
   <Mech_Close_combat_unmanned_aerial_vehicle.description>Дрон "Террор" — это быстрая противотанковая единица, разработанная Федерацией Долины, которая может вводить металлические струи напрямую во враждебные подразделения. После получения достаточного урона весь вражеский механоид разделится пополам. После уничтожения наномашинные структуры, хранящиеся в подушках безопасности, быстро конденсируются и снова изменяются, образуя два дрона "Спираль".</Mech_Close_combat_unmanned_aerial_vehicle.description>
   <Mech_Close_combat_unmanned_aerial_vehicle.label>Дрон "Террор"</Mech_Close_combat_unmanned_aerial_vehicle.label>
   <Mech_Close_combat_unmanned_aerial_vehicle.tools.0.label>Острое лезвие</Mech_Close_combat_unmanned_aerial_vehicle.tools.0.label>
   <TY_A_Mech_Nurse_QET.description>Коммуна Алёша когда-то пострадала от наводнения, когда коммуны из других регионов отправили персонал и ресурсы для помощи в ликвидации последствий бедствия. После восстановления коммуна Алёша разработала специального гуманоидного робота по имени Алёша как выражение благодарности другим коммунам.\nИзначально разработанный как гражданский робот, Алёша позже был обнаружен во время войны способным использовать винтовки Гаусса, имея самую низкую стоимость производства среди роботов своего размера. Следовательно, большинство из них были переоборудованы для военного использования.\nДля конструктов Люсии механоиды по сути функционируют как "Протезы, независимые от тела". Эти выразительные гуманоидные роботы напоминают костюмы аниме-талисманов. Некоторые даже отметили, что конструкты Люсии по сути являются "Гештальт-системой".</TY_A_Mech_Nurse_QET.description>
   <TY_A_Mech_Nurse_QET.label>Снайперский робот "Алёша"</TY_A_Mech_Nurse_QET.label>
   <TY_A_Mech_Nurse_QET.tools.0.label>Удар</TY_A_Mech_Nurse_QET.tools.0.label>
-  <TY_A_Mech_Nurse_QET_Corpse.description>Труп снайперского робота «Алёша»</TY_A_Mech_Nurse_QET_Corpse.description>
-  <TY_A_Mech_Nurse_QET_Corpse.label>Труп снайперского робота «Алёша»</TY_A_Mech_Nurse_QET_Corpse.label>
   <TY_A_Mech_WarUrchin.description>Встроенный чип сигнализирует наноструктурам быстро конденсироваться в нестабильный механоид, который может запускать колючие снаряды.</TY_A_Mech_WarUrchin.description>
   <TY_A_Mech_WarUrchin.label>Дрон "Спираль"</TY_A_Mech_WarUrchin.label>
   <TY_A_Mech_WarUrchin.tools.0.label>Острое лезвие</TY_A_Mech_WarUrchin.tools.0.label>
   <TY_A_check.description>Разработанный правительством Красного Сектора (Новая Федерация Долины) в окраинном мире, он широко используется в горных районах для отправки товаров и дипломатических караванов.</TY_A_check.description>
   <TY_A_check.label>Транспортный робот "Лось"-1</TY_A_check.label>
   <TY_A_check.tools.0.label>Удар</TY_A_check.tools.0.label>
-  <TY_A_check_Corpse.description>Труп транспортного робота «Лось»-1</TY_A_check_Corpse.description>
-  <TY_A_check_Corpse.label>Труп транспортного робота «Лось»-1</TY_A_check_Corpse.label>
   <TY_Mech_Agrihand.description>Трактор "Фермер"-9 можно проследить до программы сети ОГАС бывшей Федерации Бюрократической избирательной реформы. Он эффективно освободил сельскохозяйственную производительность в отдалённых районах. Благодаря их крайне дешёвой цене производства и отличному соотношению цена-качество, его улучшенные модели всё ещё активны в сельскохозяйственном производстве, нечувствительном к земле, и новых колониях/лагерях по сей день.</TY_Mech_Agrihand.description>
   <TY_Mech_Agrihand.label>Трактор "Фермер"-9</TY_Mech_Agrihand.label>
   <TY_Mech_Agrihand.tools.0.label>Лезвие</TY_Mech_Agrihand.tools.0.label>
-  <TY_Mech_Agrihand_Corpse.description>Труп трактора «Фермер»-9</TY_Mech_Agrihand_Corpse.description>
-  <TY_Mech_Agrihand_Corpse.label>Труп трактора «Фермер»-9</TY_Mech_Agrihand_Corpse.label>
 </LanguageData>

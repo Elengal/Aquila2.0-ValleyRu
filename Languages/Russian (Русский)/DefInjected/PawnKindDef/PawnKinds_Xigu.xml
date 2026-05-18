@@ -94,42 +94,7 @@
   <AtPawn_A_GongBing.labelFemalePlural>Боевые инженеры Долины</AtPawn_A_GongBing.labelFemalePlural>
 
 
-  <!-- <PawnKindDef ParentName="AtlasBase">
-                <defName>AtPawn_A_JueDou</defName>
-                <label>溪谷突击战士</label>
-                <combatPower>90</combatPower>
-                <apparelRequired>
-                        <li>Apparel_ShieldBelt</li>
-                </apparelRequired>
-                <minTitleRequired>Freeholder</minTitleRequired>
-                        <biocodeWeaponChance>1</biocodeWeaponChance>
-                <weaponMoney>
-                        <min>2500</min>
-                        <max>3000</max>
-                </weaponMoney>
-                <weaponTags>
-                        <li>PLZ_A_AtWT</li>
-                        <li>GMC_A_AtWT</li>
-                </weaponTags>
-                     <skills Inherit="False">
-                        <li>
-                           <skill>Shooting</skill>
-                           <range>4~7</range>
-                        </li>
-                        <li>
-                           <skill>Melee</skill>
-                           <range>12~16</range>
-                        </li>
-                     </skills>
-                <backstoryFiltersOverride>
-                        <li>
-                                <categories>
-                                        <li>溪谷近战</li>
-                                        <li>溪谷童年</li>
-                                </categories>
-                        </li>
-                </backstoryFiltersOverride>
-        </PawnKindDef> -->
+
 
   <!-- Chinese: 新溪谷反装甲组 -->
   <AtPawn_A_FanZJ.label>Противотанковая группа Долины</AtPawn_A_FanZJ.label>
@@ -156,8 +121,6 @@
   <!-- EN: 溪谷工程兵 -->
   <!-- EN: 溪谷警卫队 -->
   <!-- EN: 溪谷火炮射手 -->
-  <!-- EN: 溪谷突击战士 -->
-  <!--<AtPawn_A_JueDou.label>TODO</AtPawn_A_JueDou.label>-->
   <!-- EN: 溪谷司令官 -->
   <!-- EN: 溪谷光棱射手 -->
   <!-- EN: 溪谷榴弹射手 -->

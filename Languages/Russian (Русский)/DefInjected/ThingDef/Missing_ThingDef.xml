@@ -1,16 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Странная кукла -->
-  <TY_A_strange_and_peculiar_doll.label>кукла конструкта Люсии</TY_A_strange_and_peculiar_doll.label>
-  <TY_A_strange_and_peculiar_doll.description>Талисман-игрушка, но почему она в этой категории? Конечно, она не имеет никакой развлекательной функции, это просто украшение.</TY_A_strange_and_peculiar_doll.description>
 
   <!-- Метки уничтожения -->
   <TY_A_Mech_A_Nurse_DropPodIncoming.comps.Comp_RV_DestroyAfterDelay.countdownLabel>сгорит через</TY_A_Mech_A_Nurse_DropPodIncoming.comps.Comp_RV_DestroyAfterDelay.countdownLabel>
   <TY_A_A_RV_Skyfaller_DropPodIncoming.comps.Comp_RV_DestroyAfterDelay.countdownLabel>сгорит через</TY_A_A_RV_Skyfaller_DropPodIncoming.comps.Comp_RV_DestroyAfterDelay.countdownLabel>
   <TY_A_RV_Skyfaller_DropPodIncoming.comps.Comp_RV_DestroyAfterDelay.countdownLabel>сгорит через</TY_A_RV_Skyfaller_DropPodIncoming.comps.Comp_RV_DestroyAfterDelay.countdownLabel>
   <TY_A_N_BScfq_Bulding.comps.Comp_RV_DestroyAfterDelay.countdownLabel>сгорит через</TY_A_N_BScfq_Bulding.comps.Comp_RV_DestroyAfterDelay.countdownLabel>
-  <TY_A_LYPT_AtBT.comps.Comp_RV_DestroyAfterDelay.countdownLabel>сгорит через</TY_A_LYPT_AtBT.comps.Comp_RV_DestroyAfterDelay.countdownLabel>
 
   <!-- Ракета -->
   <LBD_AtTB_B.label>плазменная импульсная ракета</LBD_AtTB_B.label>
@@ -198,5 +195,4 @@
   <TY_A_AInduced_signal_transmitter.comps.CompUsable.useLabel>призвать механоидов гауссового ядра</TY_A_AInduced_signal_transmitter.comps.CompUsable.useLabel>
 
 </LanguageData>
-
 

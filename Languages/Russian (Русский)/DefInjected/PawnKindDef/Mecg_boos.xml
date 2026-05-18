@@ -10,5 +10,11 @@
   <TY_A_Mech_Apocriton.lifeStages.1.label>"Червь"</TY_A_Mech_Apocriton.lifeStages.1.label>
   <TY_A_Mech_Apocriton.lifeStages.1.labelPlural>"Черви"</TY_A_Mech_Apocriton.lifeStages.1.labelPlural>
 
+  <!-- Boss PawnKindDefs -->
+  <TY_A_Mech_Apocriton_A.label>Наталья I</TY_A_Mech_Apocriton_A.label>
+  <TY_A_Mech_Apocriton_B.label>Наталья II</TY_A_Mech_Apocriton_B.label>
+
+  <!-- BaZhu mech PawnKindDef -->
+  <Mech_A_BaZhu.label>«БаZhu»</Mech_A_BaZhu.label>
 
 </LanguageData>

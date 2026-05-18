@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<LanguageData>
-  <TY_Incident_XiaJoin.label>Странствующий герой</TY_Incident_XiaJoin.label>
-  <TY_Incident_XiaJoin.letterText>Проходящий мимо [PAWN_kind] замечает кризис колонии.\nСможет ли [PAWN_pronoun] облегчить бедствие?</TY_Incident_XiaJoin.letterText>
-  <TY_Incident_XiaJoin.letterLabel>Странствующий герой</TY_Incident_XiaJoin.letterLabel>
-</LanguageData>

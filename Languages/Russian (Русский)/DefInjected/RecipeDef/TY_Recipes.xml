@@ -17,5 +17,10 @@
   <TY_A_Make_ChemfuelFromWood.description>Переработать химтопливо из промышленной кукурузы.</TY_A_Make_ChemfuelFromWood.description>
   <TY_A_Make_ChemfuelFromWood.jobString>Работает на перерабатывающем предприятии</TY_A_Make_ChemfuelFromWood.jobString>
 
+  <!-- Make_ChemfuelFromWood -->
+  <Make_ChemfuelFromWood.label>Переработать древесину</Make_ChemfuelFromWood.label>
+  <Make_ChemfuelFromWood.description>Получить химтопливо путём прессования древесины.</Make_ChemfuelFromWood.description>
+  <Make_ChemfuelFromWood.jobString>Перерабатывает химтопливо из древесины.</Make_ChemfuelFromWood.jobString>
+
 
 </LanguageData>

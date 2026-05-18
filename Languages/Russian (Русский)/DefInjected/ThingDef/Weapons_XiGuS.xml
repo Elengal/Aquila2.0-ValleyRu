@@ -28,7 +28,6 @@
   <!-- EN: 子弹 -->
   <!-- EN: 气弹 -->
   <!-- EN: 大口径子弹 -->
-  <!--<JiQiangS_Atlas.label>TODO</JiQiangS_Atlas.label>-->
   <!-- EN: 高能弹 -->
   <!-- EN: 天启轰雷炮 -->
   <!-- EN: 终极武器 -->
@@ -39,11 +38,6 @@
   <!-- EN: 枪托 -->
   <!--<TY_A_Dawn_Weapons.tools.0.label>TODO</TY_A_Dawn_Weapons.tools.0.label>-->
   <!--<TY_A_Dawn_Weapons.verbs.Verb_Shoot.label>TODO</TY_A_Dawn_Weapons.verbs.Verb_Shoot.label>-->
-  <!-- EN: 破坏神超重型机枪 -->
-  <!--<TY_A_Destroy_Weapons.label>TODO</TY_A_Destroy_Weapons.label>-->
-  <!--<TY_A_Destroy_Weapons.description>TODO</TY_A_Destroy_Weapons.description>-->
-  <!--<TY_A_Destroy_Weapons.tools.0.label>TODO</TY_A_Destroy_Weapons.tools.0.label>-->
-  <!--<TY_A_Destroy_Weapons.verbs.Verb_Shoot.label>TODO</TY_A_Destroy_Weapons.verbs.Verb_Shoot.label>-->
   <!-- EN: 鹰眼步枪 -->
   <!--<TY_A_Eagle_Weapons.tools.0.label>TODO</TY_A_Eagle_Weapons.tools.0.label>-->
   <!--<TY_A_Eagle_Weapons.verbs.Verb_Shoot.label>TODO</TY_A_Eagle_Weapons.verbs.Verb_Shoot.label>-->

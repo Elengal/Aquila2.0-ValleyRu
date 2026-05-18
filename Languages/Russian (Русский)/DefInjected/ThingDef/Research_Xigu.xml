@@ -1,38 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- <ResearchProjectDef ParentName="AtlasQRese">
-    <defName>Qqzj_AtRe</defName>
-    <label>射向固执己见者的箭刃</label>
-    <description>射向固执己见者的箭刃</description>
-    <baseCost>650</baseCost>
-    <prerequisites>
-      <li>Gnwq_AtRe</li>
-    </prerequisites>
-    <requiredResearchFacilities> 
-		<li>TY_Scientific_research</li>
-	</requiredResearchFacilities>
-    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
-		<researchViewX>5.5</researchViewX>
-		<researchViewY>0.25</researchViewY>
-  </ResearchProjectDef>
-
-  <ResearchProjectDef ParentName="AtlasQRese">
-    <defName>Twzj_AtRe</defName>
-    <label>Стрела, направленная на коварных</label>
-    <description>Стрела, направленная на коварных</description>
-    <baseCost>820</baseCost>
-    <prerequisites>
-      <li>Gnwq_AtRe</li>
-    </prerequisites>
-    <requiredResearchFacilities> 
-		<li>TY_Scientific_research</li>
-	</requiredResearchFacilities>
-    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
-		<researchViewX>5.5</researchViewX>
-		<researchViewY>4.75</researchViewY>
-  </ResearchProjectDef> -->
-
   <TY_A_NanostructuringChip.label>Чертёж производства микро суперионных конденсаторов</TY_A_NanostructuringChip.label>
   <TY_A_NanostructuringChip.description>На нём написано "Чертёж, который поймут даже обезьяны". Благодаря метафорам и иллюстрациям очевидно, что автор приложил значительные дополнительные усилия, чтобы приспособить его для технически неподготовленного персонала в отдалённых районах.</TY_A_NanostructuringChip.description>
   <TY_A_NanostructuringChip.comps.1.jobString>Анализировать чертёж производства микро суперионных конденсаторов</TY_A_NanostructuringChip.comps.1.jobString>

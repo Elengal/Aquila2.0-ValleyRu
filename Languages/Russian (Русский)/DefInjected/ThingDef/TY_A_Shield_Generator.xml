@@ -1,8 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <RV_Skyfaller_DropPodIncoming.label>Капсула десанта (Прибывает)</RV_Skyfaller_DropPodIncoming.label>
-
 
   <!-- 护盾物品 -->
 
@@ -12,15 +11,10 @@
   <TY_A_RV_Skyfaller_DropPodIncoming.label>Тактический щит Долины для высокоугловых снарядов</TY_A_RV_Skyfaller_DropPodIncoming.label>
   <TY_A_RV_Skyfaller_DropPodIncoming.description>Обеспечивает защиту от высокоугловых снарядов.</TY_A_RV_Skyfaller_DropPodIncoming.description>
 
-
   <!-- 护盾许可 -->
 
   <TY_A_N_BScfq_Bulding.label>Лёгкая оборонительная турель</TY_A_N_BScfq_Bulding.label>
   <TY_A_N_BScfq_Bulding.description>Лёгкая турель, разработанная для борьбы с мелкими зверями и бандитами. Не ожидайте, что она выполнит какую-либо функцию, кроме привлечения огня в крупномасштабном бою.</TY_A_N_BScfq_Bulding.description>
-
-  <TY_A_LYPT_AtBT.label>Одноразовая лазерная турель Ланьян</TY_A_LYPT_AtBT.label>
-  <TY_A_LYPT_AtBT.description>Лазерная турель для оборонительных целей.</TY_A_LYPT_AtBT.description>
-
 
 </LanguageData>
 

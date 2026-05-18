@@ -6,5 +6,15 @@
   <MiningTrader.description>Специализируется на покупке и продаже различных минералов и металлического сырья,\nдля обеспечения сырьём собственных фабрик коммуны пионеров.</MiningTrader.description>
   <WeaponTrader.description>Оружие и броня, произведённые и выведенные из эксплуатации коммуной.\nПродаётся в рамках логистики снабжения и распределения с рыночной корректировкой и контролем.</WeaponTrader.description>
 
+  <!-- Radio station traders -->
+  <LuoKeJiXieChang.traderName>Завод автоматизации «Луоко»</LuoKeJiXieChang.traderName>
+  <LuoKeJiXieChang.description>Промышленные товары и детали для механиков производства «Луоко»\nГуманное производство вторичных ядер (продвинутый уровень)</LuoKeJiXieChang.description>
+
+  <LanAnJiTiLongZhuang.traderName>Сеть государственной закупки и сбыта продовольствия</LanAnJiTiLongZhuang.traderName>
+  <LanAnJiTiLongZhuang.description>Сеть государственных закупок и сбыта Новой Федерации Долины\nГуманное производство вторичных ядер (продвинутый уровень)</LanAnJiTiLongZhuang.description>
+
+  <GuoYingKongTouFanDiang.traderName>Государственная доставка еды</GuoYingKongTouFanDiang.traderName>
+  <GuoYingKongTouFanDiang.description>Государственная служба доставки еды Новой Федерации Долины\nПо сути — дешёвая еда на дом</GuoYingKongTouFanDiang.description>
+
 
 </LanguageData>

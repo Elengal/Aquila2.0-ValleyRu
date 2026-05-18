@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <TY_A_titanium_alloy.label>Гражданский нанококтейль</TY_A_titanium_alloy.label>
@@ -13,9 +13,6 @@
 
   <TestBioc.label>Тест</TestBioc.label>
   <TestBioc.description>Тест.</TestBioc.description>
-
-  <TY_A_Nano_solvent.label>Нанороботы</TY_A_Nano_solvent.label>
-  <TY_A_Nano_solvent.description>Одна из ключевых технологических систем звёздной системы Аквила, нанороботы используются в военном оружии, гражданском строительстве, высоких технологиях, медицине, развитии псионики, строительных работах и механизмах.</TY_A_Nano_solvent.description>
 
 </LanguageData>
 

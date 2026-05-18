@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<LanguageData>
-  <TY_N_BaiLingS_Weapon.label>Дробовой пистолет</TY_N_BaiLingS_Weapon.label>
-  <TY_N_BaiLingS_Weapon.description>Короткоствольный дробовик со складным прикладом, вмещающий лишь два патрона. Теоретически пригоден для сигнализации, но популярен среди пиратов, рейдеров и даже имперских военных.</TY_N_BaiLingS_Weapon.description>
-  <TY_N_BaiLingS_Weapon.tools.0.label>Приклад</TY_N_BaiLingS_Weapon.tools.0.label>
-  <TY_N_BaiLingS_Weapon.tools.1.label>Рукоять</TY_N_BaiLingS_Weapon.tools.1.label>
-</LanguageData>

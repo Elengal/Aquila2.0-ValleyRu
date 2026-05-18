@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Bxzd_AtB.label>19,5-мм патрон тяжёлого пулемёта</Bxzd_AtB.label>
-  <Jzpjd_A_Weapon.label>Оружейная система: Пулемётная станция «Белый медведь»</Jzpjd_A_Weapon.label>
-  <Jzpjd_A_Weapon.description>Оружие вооружённого вертолёта «Белый медведь», предназначенное против тяжёлобронированных противников.</Jzpjd_A_Weapon.description>
   <TY_A_Gun_Incinerator_A.label>Тракторный огнемёт</TY_A_Gun_Incinerator_A.label>
   <TY_A_Gun_Incinerator_A.description>Установлен на тракторе для очистки сорняков.</TY_A_Gun_Incinerator_A.description>
   <MjiQ_AtB.label>Патрон 7.62x40мм</MjiQ_AtB.label>
