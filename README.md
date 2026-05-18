@@ -4,6 +4,8 @@
 
 **Полный русский перевод мода [Aquila 2.0 Valley](https://steamcommunity.com/sharedfiles/filedetails/?id=3280990469) для RimWorld**
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/Elengal/Aquila2.0-ValleyRu)
+
 [![RimWorld](https://img.shields.io/badge/RimWorld-1.6-blueviolet?style=flat-square)](https://rimworldgame.com/)
 [![Язык](https://img.shields.io/badge/Перевод-Русский-red?style=flat-square)]()
 [![Версия](https://img.shields.io/badge/Версия_мода-2.0-orange?style=flat-square)]()
@@ -22,7 +24,7 @@
 ## ⚙️ Установка
 
 ### Вариант 1: Через Steam Workshop
-Подписка на русификатор в Steam Workshop автоматически загрузит и обновит перевод.
+Подписка на русификатор в [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3607398404) автоматически загрузит и обновит перевод.
 
 ### Вариант 2: Вручную
 1. Скачайте [последний релиз](../../releases) или нажмите **Code → Download ZIP**
@@ -34,12 +36,12 @@
 
 | Мод | Ссылка | Примечание |
 |-----|--------|------------|
-| **Aquila 2.0 Valley** | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3280990469) | Обязательный |
-| **Aquila 2.0 Core** | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3280989190) | Обязательный |
-| **Aquila 2.0 Core Ru** | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3607397722) / [GitHub](https://github.com/Elengal/Aquila2.0-CoreRu) | Обязательный |
-| **Базовый русификатор RimWorld** | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3615283148) | Обязательный |
-| **HAR (Humanoid Alien Races)** | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=839005762) | Обязательный |
-| **HAR Русификатор** | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3616740991) | Обязательный |
+| **Aquila 2.0 Valley** | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3280990469) | Обязательный |
+| **Aquila 2.0 Core** | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3280989190) | Обязательный |
+| **Aquila 2.0 Core Ru** | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3607397722) / [GitHub](https://github.com/Elengal/Aquila2.0-CoreRu) | Обязательный |
+| **Базовый русификатор RimWorld** | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3615283148) / [GitHub](https://github.com/Elengal/RWRM) | Обязательный |
+| **HAR (Humanoid Alien Races)** | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=839005762) | Обязательный |
+| **HAR Русификатор** | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3616740991) / [GitHub](https://github.com/Elengal/Humanoid-Alien-Races-Ru) | Обязательный |
 
 > ⚠️ **Порядок загрузки:** Aquila 2.0 Core → Aquila 2.0 Core Ru → Aquila 2.0 Valley → Aquila 2.0 Valley Ru
 
