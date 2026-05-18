@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Bxzd_AtB.label>19.5mm Heavy Machinegun Round</Bxzd_AtB.label>
-  <Jzpjd_A_Weapon.label>Weapon System: "Polar Bear" Machinegun Station</Jzpjd_A_Weapon.label>
-  <Jzpjd_A_Weapon.description>The weapon of "Polar Bear" Armed Helicopter, especially against heavily armoured enemies.</Jzpjd_A_Weapon.description>
+  <Bxzd_AtB.label>19,5-мм патрон тяжёлого пулемёта</Bxzd_AtB.label>
+  <Jzpjd_A_Weapon.label>Оружейная система: Пулемётная станция «Белый медведь»</Jzpjd_A_Weapon.label>
+  <Jzpjd_A_Weapon.description>Оружие вооружённого вертолёта «Белый медведь», предназначенное против тяжёлобронированных противников.</Jzpjd_A_Weapon.description>
   <TY_A_Gun_Incinerator_A.label>Тракторный огнемёт</TY_A_Gun_Incinerator_A.label>
   <TY_A_Gun_Incinerator_A.description>Установлен на тракторе для очистки сорняков.</TY_A_Gun_Incinerator_A.description>
   <MjiQ_AtB.label>Патрон 7.62x40мм</MjiQ_AtB.label>
@@ -33,7 +33,7 @@
   <TY_A_Gauss_rifle.label>Винтовка Гаусса</TY_A_Gauss_rifle.label>
   <TY_A_Gauss_rifle.description>Винтовка Гаусса</TY_A_Gauss_rifle.description>
   <TY_A_Hammer_WeaponM_MechAndPawn.label>Магнитное сопротивление "Прорыв"</TY_A_Hammer_WeaponM_MechAndPawn.label>
-  <TY_A_Hammer_WeaponM_MechAndPawn.description>Магнитное сопротивление похоже на молот, но его наконечник излучает ЭМИ-излучение. Его прототип — взрывное копьё, разработанное для солдат в старом обществе Звезды Речной Долины. В период планетарного объединения это взрывное копьё было улучшено, чтобы оно больше не случайно ранило пользователя.</TY_A_Hammer_WeaponM_MechAndPawn.description>
+  <TY_A_Hammer_WeaponM_MechAndPawn.description>Магнитное сопротивление похоже на молот, но его наконечник излучает ЭМИ-излучение. Его прототип — взрывное копьё, разработанное для солдат в старом обществе Звезды Долины. В период планетарного объединения это взрывное копьё было улучшено, чтобы оно больше не случайно ранило пользователя.</TY_A_Hammer_WeaponM_MechAndPawn.description>
   <TY_A_Hammer_WeaponM_MechAndPawn.tools.0.label>Боёк (Удар)</TY_A_Hammer_WeaponM_MechAndPawn.tools.0.label>
   <HellsphereCannon_A_Weapon.label>Пушка деления "Сжигатель"</HellsphereCannon_A_Weapon.label>
   <HellsphereCannon_A_Weapon.description>Пушки деления "Сжигатель" основаны на принципе запуска тяжёлой ракеты и после попадания в цель высвобождения сложной плазмы внутри для нанесения массивного урона.</HellsphereCannon_A_Weapon.description>

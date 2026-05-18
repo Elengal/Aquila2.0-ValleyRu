@@ -5,7 +5,7 @@
   <LBHW_AtBT_Blueprint.label>Ракетная установка «Гроза» (чертёж)</LBHW_AtBT_Blueprint.label>
   <LBHW_AtBT_Blueprint_Install.label>Ракетная установка «Гроза» (чертёж)</LBHW_AtBT_Blueprint_Install.label>
   <LBHW_AtBT_Frame.label>Ракетная установка «Гроза» (строительство)</LBHW_AtBT_Frame.label>
-  <LBHW_AtBT_Frame.description>A new, relatively inexpensive solution for countering large-scale raids. The plasma pulse rockets it launches cause damage while simultaneously generating disruptive interference.</LBHW_AtBT_Frame.description>
+  <LBHW_AtBT_Frame.description>Новое, относительно недорогое решение для противодействия крупномасштабным рейдам. Запускаемые плазменные импульсные ракеты наносят урон, одновременно создавая разрушительные помехи.</LBHW_AtBT_Frame.description>
   <LBD_AtTB.label>Плазменная импульсная ракета</LBD_AtTB.label>
   <LBFSQ_AtTW.label>Плазменная импульсная ракетная установка</LBFSQ_AtTW.label>
   <LBFSQ_AtTW.description>Новое, относительно недорогое решение для противодействия крупномасштабным рейдам. Запускаемые плазменные импульсные ракеты наносят урон, одновременно создавая разрушительные помехи.</LBFSQ_AtTW.description>
@@ -14,7 +14,7 @@
   <LBHW_AtBT_EMP_B_Blueprint.label>EMP-ракетная установка «Гроза» (чертёж)</LBHW_AtBT_EMP_B_Blueprint.label>
   <LBHW_AtBT_EMP_B_Blueprint_Install.label>EMP-ракетная установка «Гроза» (чертёж)</LBHW_AtBT_EMP_B_Blueprint_Install.label>
   <LBHW_AtBT_EMP_B_Frame.label>EMP-ракетная установка «Гроза» (строительство)</LBHW_AtBT_EMP_B_Frame.label>
-  <LBHW_AtBT_EMP_B_Frame.description>A new, relatively inexpensive solution for countering large-scale mechanoid raids. The Plasma Pulse EMP Rockets it launches can strike through various high-angle shields from a far distance.</LBHW_AtBT_EMP_B_Frame.description>
+  <LBHW_AtBT_EMP_B_Frame.description>Новое, относительно недорогое решение для противодействия крупномасштабным рейдам механоидов. Запускаемые плазменные импульсные ЭМИ-ракеты могут пробивать различные высокоугловые щиты с большого расстояния.</LBHW_AtBT_EMP_B_Frame.description>
   <LBFSQ_AtTW_EMP.label>Плазменная импульсная ЭМИ-ракетная установка</LBFSQ_AtTW_EMP.label>
   <LBFSQ_AtTW_EMP.description>Новое, относительно недорогое решение для противодействия крупномасштабным рейдам механоидов. Запускаемые плазменные импульсные ЭМИ-ракеты могут пробивать различные высокоугловые щиты с большого расстояния.</LBFSQ_AtTW_EMP.description>
   <LBFSQ_AtTW_EMP_A.label>Плазменная импульсная ЭМИ-ракета</LBFSQ_AtTW_EMP_A.label>
@@ -23,14 +23,14 @@
   <TY_A_Heavy_double_fired_mortar_Blueprint.label>Общефедеративная артиллерия (чертёж)</TY_A_Heavy_double_fired_mortar_Blueprint.label>
   <TY_A_Heavy_double_fired_mortar_Blueprint_Install.label>Общефедеративная артиллерия (чертёж)</TY_A_Heavy_double_fired_mortar_Blueprint_Install.label>
   <TY_A_Heavy_double_fired_mortar_Frame.label>Общефедеративная артиллерия (строительство)</TY_A_Heavy_double_fired_mortar_Frame.label>
-  <TY_A_Heavy_double_fired_mortar_Frame.description>A general-purpose artillery piece. Though reportedly an antiquated design from centuries past, its low cost and high reliability keep it active in low-intensity battlefields. Due to material limitations, it requires a 10-second cooldown after firing two shells. Note: The traversing mechanism cannot withstand the force of re-aiming between shots, so the artillery cannot be re-aimed until after firing this two-shell salvo.</TY_A_Heavy_double_fired_mortar_Frame.description>
+  <TY_A_Heavy_double_fired_mortar_Frame.description>Универсальное артиллерийское орудие. Хотя, по сообщениям, это устаревшая конструкция столетней давности, его низкая стоимость и высокая надёжность сохраняют его активным на полях сражений низкой интенсивности. Из-за ограничений материалов требуется 10-секундная перезарядка после выстрела двумя снарядами. Примечание: Механизм поворота не выдерживает силу перенаведения между выстрелами, поэтому артиллерия не может быть перенаведена до тех пор, пока не будет произведён залп из двух снарядов.</TY_A_Heavy_double_fired_mortar_Frame.description>
   <TY_A_Heavy_double_fired_mortar_turret.label>Башня обычной артиллерии Федерации</TY_A_Heavy_double_fired_mortar_turret.label>
   <TY_A_Heavy_double_fired_mortar_turret.description>Башня обычной артиллерии Федерации.</TY_A_Heavy_double_fired_mortar_turret.description>
   <LYPT_AtBT.label>Лазерная башня "Ланьянь"</LYPT_AtBT.label>
   <LYPT_AtBT.description>Лазерная пушка с отличными бронебойными способностями и высокой летальностью, но за счёт очень сильного снижения дальности.</LYPT_AtBT.description>
   <LYPT_AtBT_Blueprint.label>Лазерная турель «Ланьянь» (чертёж)</LYPT_AtBT_Blueprint.label>
   <LYPT_AtBT_Frame.label>Лазерная турель «Ланьянь» (строительство)</LYPT_AtBT_Frame.label>
-  <LYPT_AtBT_Frame.description>A laser gun with excellent armour-piercing capabilities and high lethality, but at the cost of very severe range degradation.</LYPT_AtBT_Frame.description>
+  <LYPT_AtBT_Frame.description>Лазерная пушка с отличными бронебойными способностями и высокой летальностью, но за счёт очень сильного снижения дальности.</LYPT_AtBT_Frame.description>
   <LY_AtTB.label>Красный лазер</LY_AtTB.label>
   <LYFSQ_AtTW.label>Лазерная установка "Ланьянь"</LYFSQ_AtTW.label>
   <LYFSQ_AtTW.description>Пушка "Аврора", которая была модифицирована для большей мощности.</LYFSQ_AtTW.description>
@@ -38,7 +38,7 @@
   <TY_A_Wall_Building_defence.description>Фортификационная стена передовой линии. Её высокая прочность может эффективно использоваться для различных оборонительных целей.</TY_A_Wall_Building_defence.description>
   <TY_A_Wall_Building_defence_Blueprint.label>Крепостная стена (чертёж)</TY_A_Wall_Building_defence_Blueprint.label>
   <TY_A_Wall_Building_defence_Frame.label>Крепостная стена (строительство)</TY_A_Wall_Building_defence_Frame.label>
-  <TY_A_Wall_Building_defence_Frame.description>Front line fortification wall. Its high durability can be effectively used for various defence purposes.</TY_A_Wall_Building_defence_Frame.description>
+  <TY_A_Wall_Building_defence_Frame.description>Фортификационная стена передовой линии. Её высокая прочность может эффективно использоваться для различных оборонительных целей.</TY_A_Wall_Building_defence_Frame.description>
   <Blueprint_LBHW_AtBT.label>Ракетная установка "Гроза" (чертёж)</Blueprint_LBHW_AtBT.label>
   <Blueprint_Install_LBHW_AtBT.label>Ракетная установка "Гроза" (чертёж)</Blueprint_Install_LBHW_AtBT.label>
   <Frame_LBHW_AtBT.label>Ракетная установка "Гроза" (строительство)</Frame_LBHW_AtBT.label>

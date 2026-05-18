@@ -1,40 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AtPawn_A_PlayerDrivsS.label>Синтетик-пионер</AtPawn_A_PlayerDrivsS.label>
-  <AtPawn_A_PlayerDrivsS.labelPlural>Синтетики-пионеры</AtPawn_A_PlayerDrivsS.labelPlural>
-  <AtPawn_A_PlayerDrivsS.labelMale>Мужчина Синтетик-пионер</AtPawn_A_PlayerDrivsS.labelMale>
-  <AtPawn_A_PlayerDrivsS.labelMalePlural>Мужчины Синтетики-пионеры</AtPawn_A_PlayerDrivsS.labelMalePlural>
-  <AtPawn_A_PlayerDrivsS.labelFemale>Женщина Синтетик-пионер</AtPawn_A_PlayerDrivsS.labelFemale>
-  <AtPawn_A_PlayerDrivsS.labelFemalePlural>Женщины Синтетики-пионеры</AtPawn_A_PlayerDrivsS.labelFemalePlural>
+  <!-- Chinese: 拓荒机械师 -->
+  <AtPawn_A_PlayerDrivsS.label>Механитор-первопроходец</AtPawn_A_PlayerDrivsS.label>
+  <AtPawn_A_PlayerDrivsS.labelPlural>Механиторы-первопроходцы</AtPawn_A_PlayerDrivsS.labelPlural>
+  <AtPawn_A_PlayerDrivsS.labelMale>Механитор-первопроходец</AtPawn_A_PlayerDrivsS.labelMale>
+  <AtPawn_A_PlayerDrivsS.labelMalePlural>Механиторы-первопроходцы</AtPawn_A_PlayerDrivsS.labelMalePlural>
+  <AtPawn_A_PlayerDrivsS.labelFemale>Механитор-первопроходец</AtPawn_A_PlayerDrivsS.labelFemale>
+  <AtPawn_A_PlayerDrivsS.labelFemalePlural>Механиторы-первопроходцы</AtPawn_A_PlayerDrivsS.labelFemalePlural>
 
-  <AtPawn_A_PlayerDrivsS_2.label>Пионер Розария</AtPawn_A_PlayerDrivsS_2.label>
-  <AtPawn_A_PlayerDrivsS_2.labelPlural>Пионеры Розарии</AtPawn_A_PlayerDrivsS_2.labelPlural>
-  <AtPawn_A_PlayerDrivsS_2.labelMale>Мужчина-пионер Розария</AtPawn_A_PlayerDrivsS_2.labelMale>
-  <AtPawn_A_PlayerDrivsS_2.labelMalePlural>Мужчины-пионеры Розарии</AtPawn_A_PlayerDrivsS_2.labelMalePlural>
-  <AtPawn_A_PlayerDrivsS_2.labelFemale>Женщина-пионер Розария</AtPawn_A_PlayerDrivsS_2.labelFemale>
-  <AtPawn_A_PlayerDrivsS_2.labelFemalePlural>Женщины-пионеры Розарии</AtPawn_A_PlayerDrivsS_2.labelFemalePlural>
+  <!-- Chinese: 拓荒构造体 -->
+  <AtPawn_A_PlayerDrivsS_2.label>Конструкт-первопроходец</AtPawn_A_PlayerDrivsS_2.label>
+  <AtPawn_A_PlayerDrivsS_2.labelPlural>Конструкты-первопроходцы</AtPawn_A_PlayerDrivsS_2.labelPlural>
+  <AtPawn_A_PlayerDrivsS_2.labelMale>Конструкт-первопроходец</AtPawn_A_PlayerDrivsS_2.labelMale>
+  <AtPawn_A_PlayerDrivsS_2.labelMalePlural>Конструкты-первопроходцы</AtPawn_A_PlayerDrivsS_2.labelMalePlural>
+  <AtPawn_A_PlayerDrivsS_2.labelFemale>Конструкт-первопроходец</AtPawn_A_PlayerDrivsS_2.labelFemale>
+  <AtPawn_A_PlayerDrivsS_2.labelFemalePlural>Конструкты-первопроходцы</AtPawn_A_PlayerDrivsS_2.labelFemalePlural>
 
-  <AtPawn_A_PlayerDrivsS_Q.label>Синтетик-беженец</AtPawn_A_PlayerDrivsS_Q.label>
-  <AtPawn_A_PlayerDrivsS_Q.labelPlural>Синтетики-беженцы</AtPawn_A_PlayerDrivsS_Q.labelPlural>
-  <AtPawn_A_PlayerDrivsS_Q.labelMale>Мужчина Синтетик-беженец</AtPawn_A_PlayerDrivsS_Q.labelMale>
-  <AtPawn_A_PlayerDrivsS_Q.labelMalePlural>Мужчины Синтетики-беженцы</AtPawn_A_PlayerDrivsS_Q.labelMalePlural>
-  <AtPawn_A_PlayerDrivsS_Q.labelFemale>Женщина Синтетик-беженка</AtPawn_A_PlayerDrivsS_Q.labelFemale>
-  <AtPawn_A_PlayerDrivsS_Q.labelFemalePlural>Женщины Синтетики-беженки</AtPawn_A_PlayerDrivsS_Q.labelFemalePlural>
+  <!-- Chinese: 构造体难民 -->
+  <AtPawn_A_PlayerDrivsS_Q.label>Констракт-беженец</AtPawn_A_PlayerDrivsS_Q.label>
+  <AtPawn_A_PlayerDrivsS_Q.labelPlural>Конструкты-беженцы</AtPawn_A_PlayerDrivsS_Q.labelPlural>
+  <AtPawn_A_PlayerDrivsS_Q.labelMale>Констракт-беженец</AtPawn_A_PlayerDrivsS_Q.labelMale>
+  <AtPawn_A_PlayerDrivsS_Q.labelMalePlural>Конструкты-беженцы</AtPawn_A_PlayerDrivsS_Q.labelMalePlural>
+  <AtPawn_A_PlayerDrivsS_Q.labelFemale>Констракт-беженка</AtPawn_A_PlayerDrivsS_Q.labelFemale>
+  <AtPawn_A_PlayerDrivsS_Q.labelFemalePlural>Конструкты-беженки</AtPawn_A_PlayerDrivsS_Q.labelFemalePlural>
 
-  <AtPawn_A_PlayerDrivsS_W.label>Доброволец-механитор</AtPawn_A_PlayerDrivsS_W.label>
-  <AtPawn_A_PlayerDrivsS_W.labelPlural>Добровольцы-механиторы</AtPawn_A_PlayerDrivsS_W.labelPlural>
-  <AtPawn_A_PlayerDrivsS_W.labelMale>Мужчина-доброволец-механитор</AtPawn_A_PlayerDrivsS_W.labelMale>
-  <AtPawn_A_PlayerDrivsS_W.labelMalePlural>Мужчины-добровольцы-механиторы</AtPawn_A_PlayerDrivsS_W.labelMalePlural>
-  <AtPawn_A_PlayerDrivsS_W.labelFemale>Женщина-доброволец-механитор</AtPawn_A_PlayerDrivsS_W.labelFemale>
-  <AtPawn_A_PlayerDrivsS_W.labelFemalePlural>Женщины-добровольцы-механиторы</AtPawn_A_PlayerDrivsS_W.labelFemalePlural>
+  <!-- Chinese: 构造体志愿者 -->
+  <AtPawn_A_PlayerDrivsS_W.label>Констракт-доброволец</AtPawn_A_PlayerDrivsS_W.label>
+  <AtPawn_A_PlayerDrivsS_W.labelPlural>Конструкты-добровольцы</AtPawn_A_PlayerDrivsS_W.labelPlural>
+  <AtPawn_A_PlayerDrivsS_W.labelMale>Констракт-доброволец</AtPawn_A_PlayerDrivsS_W.labelMale>
+  <AtPawn_A_PlayerDrivsS_W.labelMalePlural>Конструкты-добровольцы</AtPawn_A_PlayerDrivsS_W.labelMalePlural>
+  <AtPawn_A_PlayerDrivsS_W.labelFemale>Конструкт-доброволец</AtPawn_A_PlayerDrivsS_W.labelFemale>
+  <AtPawn_A_PlayerDrivsS_W.labelFemalePlural>Конструкты-добровольцы</AtPawn_A_PlayerDrivsS_W.labelFemalePlural>
 
-  <AtPawn_A_PlayerDrivsS_E.label>Доброволец-Синтетик</AtPawn_A_PlayerDrivsS_E.label>
-  <AtPawn_A_PlayerDrivsS_E.labelPlural>Добровольцы-Синтетики</AtPawn_A_PlayerDrivsS_E.labelPlural>
-  <AtPawn_A_PlayerDrivsS_E.labelMale>Мужчина-доброволец-Синтетик</AtPawn_A_PlayerDrivsS_E.labelMale>
-  <AtPawn_A_PlayerDrivsS_E.labelMalePlural>Мужчины-добровольцы-Синтетики</AtPawn_A_PlayerDrivsS_E.labelMalePlural>
-  <AtPawn_A_PlayerDrivsS_E.labelFemale>Женщина-доброволец-Синтетик</AtPawn_A_PlayerDrivsS_E.labelFemale>
-  <AtPawn_A_PlayerDrivsS_E.labelFemalePlural>Женщины-добровольцы-Синтетики</AtPawn_A_PlayerDrivsS_E.labelFemalePlural>
+  <!-- Chinese: 构造体志愿者 -->
+  <AtPawn_A_PlayerDrivsS_E.label>Констракт-доброволец</AtPawn_A_PlayerDrivsS_E.label>
+  <AtPawn_A_PlayerDrivsS_E.labelPlural>Конструкты-добровольцы</AtPawn_A_PlayerDrivsS_E.labelPlural>
+  <AtPawn_A_PlayerDrivsS_E.labelMale>Констракт-доброволец</AtPawn_A_PlayerDrivsS_E.labelMale>
+  <AtPawn_A_PlayerDrivsS_E.labelMalePlural>Конструкты-добровольцы</AtPawn_A_PlayerDrivsS_E.labelMalePlural>
+  <AtPawn_A_PlayerDrivsS_E.labelFemale>Конструкт-доброволец</AtPawn_A_PlayerDrivsS_E.labelFemale>
+  <AtPawn_A_PlayerDrivsS_E.labelFemalePlural>Конструкты-добровольцы</AtPawn_A_PlayerDrivsS_E.labelFemalePlural>
 
 
   <!-- EN: 拓荒者 -->

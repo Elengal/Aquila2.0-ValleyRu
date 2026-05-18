@@ -3,12 +3,12 @@
 
   <!-- 版本更新的话，外星人XML有问题一般出在 <race> 里面 -->
 
-  <DriveS.label>Синтетики Розарии</DriveS.label>
-  <DriveS.description>Синтетики Розарии изначально были модификациями для рабочих-модельников, а также позволяли им обслуживать терминалы и сетевые станции сети ОГАС.\nПозже красношкурые военачальники де-факто раскололи старую Федерацию Речной Долины. После краха строительства сети ОГАС Синтетики потеряли субсидии на протезы и были вытеснены более продвинутыми киборгами, оставив их в нищете.\nОднако в революционном Красном Секторе сеть ОГАС была восстановлена, и улучшенные Синтетики получили способность управлять механоидами и наномашинами.</DriveS.description>
+  <DriveS.label>Конструкт Люсии</DriveS.label>
+  <DriveS.description>Конструкты Люсии изначально были &lt;color=#A02A22&gt;&lt;b&gt;привилегией модификации&lt;/b&gt;&lt;/color&gt; для передовиков труда, а также позволяли им обслуживать терминалы и сетевые станции &lt;color=#A02A22&gt;&lt;b&gt;сети ОГАС&lt;/b&gt;&lt;/color&gt;.\nПозже краснокожие военачальники де-факто &lt;color=#A02A22&gt;&lt;b&gt;раскололи прежнюю Федерацию Долины&lt;/b&gt;&lt;/color&gt;. После краха строительства сети ОГАС конструкты лишились субсидий на протезы и были вытеснены &lt;color=#A02A22&gt;&lt;b&gt;более совершенными киборгами&lt;/b&gt;&lt;/color&gt;, оставив их в нищете.\nОднако в революционном Красном Секторе &lt;color=#A02A22&gt;&lt;b&gt;сеть ОГАС&lt;/b&gt;&lt;/color&gt; была восстановлена, и модернизированные конструкты обрели способность &lt;color=#A02A22&gt;&lt;b&gt;управлять механоидами и наномашинами&lt;/b&gt;&lt;/color&gt;</DriveS.description>
   <DriveS.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>Кожа</DriveS.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
   <DriveS.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>Волосы</DriveS.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
-  <DriveS.tools.0.label>Удар</DriveS.tools.0.label>
-  <DriveS.tools.1.label>Удар</DriveS.tools.1.label>
+  <DriveS.tools.0.label>Удар кулаком</DriveS.tools.0.label>
+  <DriveS.tools.1.label>Удар кулаком</DriveS.tools.1.label>
   <DriveS.tools.2.label>Удар ногой</DriveS.tools.2.label>
 
 

@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <YYS_YTCDMechlinkImplant.label>Мехлинк Синтетиков</YYS_YTCDMechlinkImplant.label>
-  <YYS_YTCDMechlinkImplant.description>Изначально Синтетики Розарии служили ручными базовыми станциями для сети ОГАС, но позже было обнаружено, что они неожиданно хорошо подходят для установки дешёвых гештальт-мехлинков.\nСпециализированные мехлинки Синтетиков Розарии управляют подразделениями механоидов. Хотя большинство промышленных зон Новой Федерации Речной Долины теперь напрямую используют систему ОГАС, контрольные узлы Розарии остаются полезными только в пограничном освоении и военных операциях.</YYS_YTCDMechlinkImplant.description>
+  <YYS_YTCDMechlinkImplant.label>Мехлинк конструктов Люсии</YYS_YTCDMechlinkImplant.label>
+  <YYS_YTCDMechlinkImplant.description>Изначально конструкты Люсии служили ручными базовыми станциями для сети ОГАС, но позже было обнаружено, что они неожиданно хорошо подходят для установки дешёвых гештальт-мехлинков.\nСпециализированные мехлинки конструктов Люсии управляют подразделениями механоидов. Хотя большинство промышленных зон Новой Федерации Долины теперь напрямую используют систему ОГАС, контрольные узлы Розарии остаются полезными только в пограничном освоении и военных операциях.</YYS_YTCDMechlinkImplant.description>
 
 
   <!-- 损坏机械残骸 -->
 
-  <YYS_YTCDMechlinkImplantSH.label>Повреждённый мехлинк Синтетиков</YYS_YTCDMechlinkImplantSH.label>
+  <YYS_YTCDMechlinkImplantSH.label>Повреждённый мехлинк конструктов Люсии</YYS_YTCDMechlinkImplantSH.label>
   <YYS_YTCDMechlinkImplantSH.description>Требуется "Высокая мехтехнология" для ремонта.</YYS_YTCDMechlinkImplantSH.description>
-  <YYS_YTCDMechlinkImplantSH.labelNoun>Повреждённый мехлинк Синтетиков</YYS_YTCDMechlinkImplantSH.labelNoun>
+  <YYS_YTCDMechlinkImplantSH.labelNoun>Повреждённый мехлинк конструктов Люсии</YYS_YTCDMechlinkImplantSH.labelNoun>
 
 
 </LanguageData>

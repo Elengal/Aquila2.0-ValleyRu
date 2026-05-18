@@ -4,13 +4,13 @@
   <TY_A_PassengerShuttle.description>Большой грузовой шаттл Федерации, благодаря своим размерам, имеет подавляющее преимущество в перевозке грузов.</TY_A_PassengerShuttle.description>
   <TY_A_PassengerShuttle_Blueprint.label>Большой грузовой шаттл Федерации (чертёж)</TY_A_PassengerShuttle_Blueprint.label>
   <TY_A_PassengerShuttle_Frame.label>Большой грузовой шаттл Федерации (строительство)</TY_A_PassengerShuttle_Frame.label>
-  <TY_A_PassengerShuttle_Frame.description>Federation Large Cargo Shuttle, with its large size, has an overwhelming advantage in carrying loads.</TY_A_PassengerShuttle_Frame.description>
+  <TY_A_PassengerShuttle_Frame.description>Большой грузовой шаттл Федерации, благодаря своим размерам, имеет подавляющее преимущество в перевозке грузов.</TY_A_PassengerShuttle_Frame.description>
   <TY_A_PassengerShuttleLeaving.label>Большой грузовой шаттл (отбытие)</TY_A_PassengerShuttleLeaving.label>
   <TY_A_PassengerShuttleIncoming.label>Большой грузовой шаттл (прибытие)</TY_A_PassengerShuttleIncoming.label>
   <Blueprint_TY_A_PassengerShuttle.label>Большой грузовой шаттл Федерации (чертёж)</Blueprint_TY_A_PassengerShuttle.label>
   <Frame_TY_A_PassengerShuttle.label>Большой грузовой шаттл Федерации (строительство)</Frame_TY_A_PassengerShuttle.label>
   <Frame_TY_A_PassengerShuttle.description>Большой грузовой шаттл Федерации, благодаря своим размерам, имеет подавляющее преимущество в перевозке грузов.</Frame_TY_A_PassengerShuttle.description>
-  <TY_A_DR_PassengerShuttle.label>Одноместный шаттл Новой Федерации Речной Долины</TY_A_DR_PassengerShuttle.label>
+  <TY_A_DR_PassengerShuttle.label>Одноместный шаттл Новой Федерации Долины</TY_A_DR_PassengerShuttle.label>
   <TY_A_DR_PassengerShuttle.description>Его огромный размер обеспечивает подавляющее преимущество в грузоподъёмности, обычно используется для грузовых перевозок. Изначально сверхсветовые корабли, используемые Красной Армией Красного Сектора, были созданы на основе более крупного прототипа этого шаттла.</TY_A_DR_PassengerShuttle.description>
   <TY_A_DR_PassengerShuttle.comps.CompLaunchable.cooldownEndedMessage>{0} готов к повторному запуску.</TY_A_DR_PassengerShuttle.comps.CompLaunchable.cooldownEndedMessage>
   <TY_A_DR_PassengerShuttle.comps.CompRefuelable.fuelGizmoLabel>химтопливо</TY_A_DR_PassengerShuttle.comps.CompRefuelable.fuelGizmoLabel>

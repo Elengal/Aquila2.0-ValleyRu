@@ -7,7 +7,7 @@
   <TY_A_Fighter_chip_A.description>Базовые чипы стрельбы, широко доступные в Федеральной Армии через технологию ОГАС, содержат программы, которые помогают в прицеливании и измерении параметров стрельбы.</TY_A_Fighter_chip_A.description>
   <TY_A_Fighter_chip_A.labelNoun>ОГАС: Базовый чип стрельбы</TY_A_Fighter_chip_A.labelNoun>
 
-  <TY_A_ShingLanArm.label>Сельскохозяйственная рука Речной Долины</TY_A_ShingLanArm.label>
+  <TY_A_ShingLanArm.label>Сельскохозяйственная рука Долины</TY_A_ShingLanArm.label>
   <TY_A_ShingLanArm.description>Вторая Атомная Революция принесла совершенно новые экологически чистые источники энергии, а вместе с ними и новые протезные технологии.</TY_A_ShingLanArm.description>
 
 
@@ -61,14 +61,14 @@
   <TY_Invisibility_A.description>Путем высвобождения наномашин для прикрепления к поверхности тела и изменения природы наномашин, это достигает эффекта оптического камуфляжа.</TY_Invisibility_A.description>
 
   <TY_A_C_Sian_Weinstein.label>Наномашины: Чип Сандевистан</TY_A_C_Sian_Weinstein.label>
-  <TY_A_C_Sian_Weinstein.description>Путем манипуляции наномашинами для передачи сигналов ускорения в нервную систему, тело Синтетика входит в состояние полного ускоренного перегруза. Скорость настолько экстремальна, что оставляет только остаточные изображения в зрении обычных людей.</TY_A_C_Sian_Weinstein.description>
+  <TY_A_C_Sian_Weinstein.description>Путем манипуляции наномашинами для передачи сигналов ускорения в нервную систему, тело конструкта Люсии входит в состояние полного ускоренного перегруза. Скорость настолько экстремальна, что оставляет только остаточные изображения в зрении обычных людей.</TY_A_C_Sian_Weinstein.description>
 
   <TY_A_C_Sian_Weinstein_AA.label>Сандевистан активирован</TY_A_C_Sian_Weinstein_AA.label>
   <TY_A_C_Sian_Weinstein_AA.description>Сандевистан активирован</TY_A_C_Sian_Weinstein_AA.description>
   <!-- <TY_A_C_Sian_Weinstein_AA.labelNoun>Sandevistan Activated</TY_A_C_Sian_Weinstein_AA.labelNoun> -->
 
   <TY_A_C_Bully_chip.label>Наномашины: Чип момента неуязвимости</TY_A_C_Bully_chip.label>
-  <TY_A_C_Bully_chip.description>Путем активации всех наноструктур внутри Синтетика, позволяя им быть активными и постоянно ремонтировать тело для владельца, чтобы выдерживать урон и ускорять функционирование тела, чтобы достичь короткого периода времени для получения сверхчеловеческого и бессмертного тела.</TY_A_C_Bully_chip.description>
+  <TY_A_C_Bully_chip.description>Путем активации всех наноструктур внутри конструкта Люсии, позволяя им быть активными и постоянно ремонтировать тело для владельца, чтобы выдерживать урон и ускорять функционирование тела, чтобы достичь короткого периода времени для получения сверхчеловеческого и бессмертного тела.</TY_A_C_Bully_chip.description>
 
   <TY_A_C_Bully_chip_AA.label>Момент неуязвимости!!</TY_A_C_Bully_chip_AA.label>
   <TY_A_C_Bully_chip_AA.description>"Гипер Мутеки"!! (Из Камен Райдер Ex-Aid)</TY_A_C_Bully_chip_AA.description>

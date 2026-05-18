@@ -25,7 +25,7 @@
   <TYCommand_ForceBlock.comps.CompAbilityEffect_ForceBlock.message>{INITIATOR_labelShort} успешно принудительно остановил {RECIPIENT_labelShort}.</TYCommand_ForceBlock.comps.CompAbilityEffect_ForceBlock.message>
 
   <!-- Способности щитов и механоидов -->
-  <TY_A_Mech_A_Nurse_DropPodIncoming_A.label>тактический высотный щит Речной Долины</TY_A_Mech_A_Nurse_DropPodIncoming_A.label>
+  <TY_A_Mech_A_Nurse_DropPodIncoming_A.label>тактический высотный щит Долины</TY_A_Mech_A_Nurse_DropPodIncoming_A.label>
   <TY_A_Mech_A_Nurse_DropPodIncoming_A.description>Обычно может перехватывать снаряды с высокой траекторией, но не может перехватывать низколетящие объекты.</TY_A_Mech_A_Nurse_DropPodIncoming_A.description>
 
   <TY_A_Overloaded_exercise_of_the_heart.label>перегрузка сердца</TY_A_Overloaded_exercise_of_the_heart.label>
@@ -58,10 +58,10 @@
   <TY_Invisibility.description>Выпускает наномашины для прикрепления к поверхности тела и изменяет их свойства для достижения эффекта оптического камуфляжа.</TY_Invisibility.description>
 
   <TY_A_C_Sian_Weinstein_A.label>Сиан Вайнштайн</TY_A_C_Sian_Weinstein_A.label>
-  <TY_A_C_Sian_Weinstein_A.description>Передаёт ускоряющий сигнал нервной системе через наномашины, вводя тело Синтетика в состояние полной перегрузки ускорения. Скорость настолько высока, что обычные люди видят лишь размытый образ.</TY_A_C_Sian_Weinstein_A.description>
+  <TY_A_C_Sian_Weinstein_A.description>Передаёт ускоряющий сигнал нервной системе через наномашины, вводя тело конструкта Люсии в состояние полной перегрузки ускорения. Скорость настолько высока, что обычные люди видят лишь размытый образ.</TY_A_C_Sian_Weinstein_A.description>
 
   <TY_A_C_Bully_chip_A.label>время неуязвимости активировано!!</TY_A_C_Bully_chip_A.label>
-  <TY_A_C_Bully_chip_A.description>Активирует все наноструктуры внутри Синтетика, чтобы они активно блокировали урон для хозяина, восстанавливали тело и ускоряли функции организма, достигая на короткое время сверхчеловеческого телосложения и бессмертного тела — "Времени Неуязвимости"!!</TY_A_C_Bully_chip_A.description>
+  <TY_A_C_Bully_chip_A.description>Активирует все наноструктуры внутри конструкта Люсии, чтобы они активно блокировали урон для хозяина, восстанавливали тело и ускоряли функции организма, достигая на короткое время сверхчеловеческого телосложения и бессмертного тела — "Времени Неуязвимости"!!</TY_A_C_Bully_chip_A.description>
 
   <TY_Wallraise.label>поднятие стены</TY_Wallraise.label>
   <TY_Wallraise.description>Наномашины быстро расширяются и затвердевают в пену, образуя укрытие.</TY_Wallraise.description>
@@ -115,10 +115,10 @@
   <DriveSjumpTY.description>Выполняет длинный прыжок за счёт укрепления мышц ног наномашинами.</DriveSjumpTY.description>
   <DriveSjumpTY.verbProperties.label>прыжок</DriveSjumpTY.verbProperties.label>
 
-  <TY_A_RemoteRepair.label>удалённый ремонт Синтетика</TY_A_RemoteRepair.label>
+  <TY_A_RemoteRepair.label>удалённый ремонт конструкта Люсии</TY_A_RemoteRepair.label>
   <TY_A_RemoteRepair.description>Устанавливает прямую психическую связь между мозгом и механоидом, обеспечивая психическое руководство для самовосстанавливающихся наномашин механоида для удалённого ремонта.</TY_A_RemoteRepair.description>
 
-  <TY_A_RemoteShield.label>модуль удалённого щита Синтетика</TY_A_RemoteShield.label>
+  <TY_A_RemoteShield.label>модуль удалённого щита конструкта Люсии</TY_A_RemoteShield.label>
   <TY_A_RemoteShield.description>Модуль обновления, позволяющий механитору удалённо проецировать щит на механоида. Механитор должен постоянно концентрировать внимание на целевом механоиде для поддержания щита, но это может спасти механоида в критический момент.</TY_A_RemoteShield.description>
 
   <ExplosiveDash.label>взрывной рывок</ExplosiveDash.label>

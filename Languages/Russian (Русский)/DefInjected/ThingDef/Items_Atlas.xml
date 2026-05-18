@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <titanium_alloy.label>Титановый сплав</titanium_alloy.label>
-  <titanium_alloy.description>Titanium possesses exceptional properties and is thus widely applied. Its main application fields include: aerospace, shipbuilding, chemical and petrochemical industries, transportation, weaponry, marine engineering, electric power, construction, metallurgy, medical, sports equipment, daily necessities, and light industry.</titanium_alloy.description>
+  <titanium_alloy.description>Титан обладает выдающимися свойствами и поэтому широко применяется. Основные области применения: аэрокосмическая промышленность, судостроение, химическая и нефтехимическая промышленность, транспорт, вооружение, морская инженерия, энергетика, строительство, металлургия, медицина, спортивное оборудование, предметы повседневного обихода и лёгкая промышленность.</titanium_alloy.description>
   <titanium_alloy.stuffProps.stuffAdjective>Титановый сплав</titanium_alloy.stuffProps.stuffAdjective>
   <TIalloy.label>TI2 Сплав</TIalloy.label>
-  <TIalloy.description>Solid and durable armour steel obtained by welding and fusing metals with different properties.</TIalloy.description>
+  <TIalloy.description>Прочная и долговечная бронзовая сталь, получаемая путём сварки и сплавления металлов с различными свойствами.</TIalloy.description>
   <TIalloy.stuffProps.stuffAdjective>TI2 Сплав</TIalloy.stuffProps.stuffAdjective>
   <EtherM.label>Оригинальная электронная кассета</EtherM.label>
   <EtherM.description>Выглядит идентично большим кассетам из бывшего Срединного мира, но этот электронный компонент фактически хранит электроны в гибких рулонных лентах.\nС превосходной прочностью и долговечностью по сравнению с металлическими компонентами, его можно складывать для значительной экономии пространства.</EtherM.description>

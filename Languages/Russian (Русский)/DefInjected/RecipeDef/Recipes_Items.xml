@@ -5,9 +5,9 @@
   <Make_EtherM.jobString>Изготовить кристалл-ленту</Make_EtherM.jobString>
   <Make_titanium_alloy.label>Синтезировать титановые сплавы x100</Make_titanium_alloy.label>
   <Make_titanium_alloy.description>Синтез титановых сплавов менее эффективным методом</Make_titanium_alloy.description>
-  <Make_titanium_alloy.jobString>Synthesize Titanium Alloys</Make_titanium_alloy.jobString>
+  <Make_titanium_alloy.jobString>Синтезирует титановые сплавы</Make_titanium_alloy.jobString>
   <Make_TIalloy.label>Плавка TI2 сплавов x35</Make_TIalloy.label>
-  <Make_TIalloy.description>Smelting TI2 Alloys, an upgraded version of Titanium Alloy.</Make_TIalloy.description>
+  <Make_TIalloy.description>Плавка TI2-сплавов, улучшенной версии титанового сплава.</Make_TIalloy.description>
   <Make_TIalloy.jobString>Плавка TI2 сплавов</Make_TIalloy.jobString>
   <Make_ZXA.label>Синтезировать нейтроамин</Make_ZXA.label>
   <Make_ZXA.description>Синтезировать нейтроамин</Make_ZXA.description>

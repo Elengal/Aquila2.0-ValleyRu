@@ -1,71 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Make_TY_A_Type_53_military_uniform.label>изготовить военную форму Речной Долины Тип 53</Make_TY_A_Type_53_military_uniform.label>
-  <Make_TY_A_Type_53_military_uniform.description>Изготовить военную форму Речной Долины Тип 53.</Make_TY_A_Type_53_military_uniform.description>
-  <Make_TY_A_Type_53_military_uniform.jobString>изготавливает военную форму Речной Долины Тип 53.</Make_TY_A_Type_53_military_uniform.jobString>
-  <Make_TY_A_Type_81_military_cap.label>изготовить военную фуражку Речной Долины Тип 53</Make_TY_A_Type_81_military_cap.label>
-  <Make_TY_A_Type_81_military_cap.description>Изготовить военную фуражку Речной Долины Тип 53.</Make_TY_A_Type_81_military_cap.description>
-  <Make_TY_A_Type_81_military_cap.jobString>изготавливает военную фуражку Речной Долины Тип 53.</Make_TY_A_Type_81_military_cap.jobString>
-  <Make_AP_A_Uniform.label>изготовить военную форму Речной Долины Тип 86</Make_AP_A_Uniform.label>
-  <Make_AP_A_Uniform.description>Изготовить военную форму Речной Долины Тип 86.</Make_AP_A_Uniform.description>
-  <Make_AP_A_Uniform.jobString>изготавливает военную форму Речной Долины Тип 86.</Make_AP_A_Uniform.jobString>
-  <Make_AH_A_Uniform.label>изготовить военную фуражку Речной Долины Тип 86</Make_AH_A_Uniform.label>
-  <Make_AH_A_Uniform.description>Изготовить военную фуражку Речной Долины Тип 86.</Make_AH_A_Uniform.description>
-  <Make_AH_A_Uniform.jobString>изготавливает военную фуражку Речной Долины Тип 86.</Make_AH_A_Uniform.jobString>
-  <Make_AP_A_Uniform_66ty.label>изготовить военную форму Речной Долины Тип 72</Make_AP_A_Uniform_66ty.label>
-  <Make_AP_A_Uniform_66ty.description>Изготовить военную форму Речной Долины Тип 72.</Make_AP_A_Uniform_66ty.description>
-  <Make_AP_A_Uniform_66ty.jobString>изготавливает военную форму Речной Долины Тип 72.</Make_AP_A_Uniform_66ty.jobString>
-  <Make_AH_A_Uniform_66ty.label>изготовить военную фуражку Речной Долины Тип 72</Make_AH_A_Uniform_66ty.label>
-  <Make_AH_A_Uniform_66ty.description>Изготовить военную фуражку Речной Долины Тип 72.</Make_AH_A_Uniform_66ty.description>
-  <Make_AH_A_Uniform_66ty.jobString>изготавливает военную фуражку Речной Долины Тип 72.</Make_AH_A_Uniform_66ty.jobString>
-  <Make_AP_A_Uniform_65ty.label>изготовить военную форму Речной Долины Тип 72 (Тип человеческого телосложения)</Make_AP_A_Uniform_65ty.label>
-  <Make_AP_A_Uniform_65ty.description>Изготовить военную форму Речной Долины Тип 72 (Тип человеческого телосложения).</Make_AP_A_Uniform_65ty.description>
-  <Make_AP_A_Uniform_65ty.jobString>изготавливает военную форму Речной Долины Тип 72 (Тип человеческого телосложения).</Make_AP_A_Uniform_65ty.jobString>
-  <Make_AP_A_MiscA.label>изготовить мягкий плащ Речной Долины</Make_AP_A_MiscA.label>
-  <Make_AP_A_MiscA.description>Изготовить мягкий плащ Речной Долины.</Make_AP_A_MiscA.description>
-  <Make_AP_A_MiscA.jobString>изготавливает мягкий плащ Речной Долины.</Make_AP_A_MiscA.jobString>
-  <Make_AP_A_MiscA_A.label>изготовить кожаную куртку Речной Долины</Make_AP_A_MiscA_A.label>
-  <Make_AP_A_MiscA_A.description>Изготовить кожаную куртку Речной Долины.</Make_AP_A_MiscA_A.description>
-  <Make_AP_A_MiscA_A.jobString>изготавливает кожаную куртку Речной Долины.</Make_AP_A_MiscA_A.jobString>
-  <Make_AP_A_MiscB.label>изготовить белую рубашку Речной Долины</Make_AP_A_MiscB.label>
-  <Make_AP_A_MiscB.description>Изготовить белую рубашку Речной Долины.</Make_AP_A_MiscB.description>
-  <Make_AP_A_MiscB.jobString>изготавливает белую рубашку Речной Долины.</Make_AP_A_MiscB.jobString>
-  <Make_AP_A_Misc4B.label>изготовить чисто-белую куртку Речной Долины</Make_AP_A_Misc4B.label>
-  <Make_AP_A_Misc4B.description>Изготовить чисто-белую куртку Речной Долины.</Make_AP_A_Misc4B.description>
-  <Make_AP_A_Misc4B.jobString>изготавливает чисто-белую куртку Речной Долины.</Make_AP_A_Misc4B.jobString>
+  <Make_TY_A_Type_53_military_uniform.label>изготовить военную форму Долины Тип 53</Make_TY_A_Type_53_military_uniform.label>
+  <Make_TY_A_Type_53_military_uniform.description>Изготовить военную форму Долины Тип 53.</Make_TY_A_Type_53_military_uniform.description>
+  <Make_TY_A_Type_53_military_uniform.jobString>изготавливает военную форму Долины Тип 53.</Make_TY_A_Type_53_military_uniform.jobString>
+  <Make_TY_A_Type_81_military_cap.label>изготовить военную фуражку Долины Тип 53</Make_TY_A_Type_81_military_cap.label>
+  <Make_TY_A_Type_81_military_cap.description>Изготовить военную фуражку Долины Тип 53.</Make_TY_A_Type_81_military_cap.description>
+  <Make_TY_A_Type_81_military_cap.jobString>изготавливает военную фуражку Долины Тип 53.</Make_TY_A_Type_81_military_cap.jobString>
+  <Make_AP_A_Uniform.label>изготовить военную форму Долины Тип 86</Make_AP_A_Uniform.label>
+  <Make_AP_A_Uniform.description>Изготовить военную форму Долины Тип 86.</Make_AP_A_Uniform.description>
+  <Make_AP_A_Uniform.jobString>изготавливает военную форму Долины Тип 86.</Make_AP_A_Uniform.jobString>
+  <Make_AH_A_Uniform.label>изготовить военную фуражку Долины Тип 86</Make_AH_A_Uniform.label>
+  <Make_AH_A_Uniform.description>Изготовить военную фуражку Долины Тип 86.</Make_AH_A_Uniform.description>
+  <Make_AH_A_Uniform.jobString>изготавливает военную фуражку Долины Тип 86.</Make_AH_A_Uniform.jobString>
+  <Make_AP_A_Uniform_66ty.label>изготовить военную форму Долины Тип 72</Make_AP_A_Uniform_66ty.label>
+  <Make_AP_A_Uniform_66ty.description>Изготовить военную форму Долины Тип 72.</Make_AP_A_Uniform_66ty.description>
+  <Make_AP_A_Uniform_66ty.jobString>изготавливает военную форму Долины Тип 72.</Make_AP_A_Uniform_66ty.jobString>
+  <Make_AH_A_Uniform_66ty.label>изготовить военную фуражку Долины Тип 72</Make_AH_A_Uniform_66ty.label>
+  <Make_AH_A_Uniform_66ty.description>Изготовить военную фуражку Долины Тип 72.</Make_AH_A_Uniform_66ty.description>
+  <Make_AH_A_Uniform_66ty.jobString>изготавливает военную фуражку Долины Тип 72.</Make_AH_A_Uniform_66ty.jobString>
+  <Make_AP_A_Uniform_65ty.label>изготовить военную форму Долины Тип 72 (Тип человеческого телосложения)</Make_AP_A_Uniform_65ty.label>
+  <Make_AP_A_Uniform_65ty.description>Изготовить военную форму Долины Тип 72 (Тип человеческого телосложения).</Make_AP_A_Uniform_65ty.description>
+  <Make_AP_A_Uniform_65ty.jobString>изготавливает военную форму Долины Тип 72 (Тип человеческого телосложения).</Make_AP_A_Uniform_65ty.jobString>
+  <Make_AP_A_MiscA.label>изготовить мягкий плащ Долины</Make_AP_A_MiscA.label>
+  <Make_AP_A_MiscA.description>Изготовить мягкий плащ Долины.</Make_AP_A_MiscA.description>
+  <Make_AP_A_MiscA.jobString>изготавливает мягкий плащ Долины.</Make_AP_A_MiscA.jobString>
+  <Make_AP_A_MiscA_A.label>изготовить кожаную куртку Долины</Make_AP_A_MiscA_A.label>
+  <Make_AP_A_MiscA_A.description>Изготовить кожаную куртку Долины.</Make_AP_A_MiscA_A.description>
+  <Make_AP_A_MiscA_A.jobString>изготавливает кожаную куртку Долины.</Make_AP_A_MiscA_A.jobString>
+  <Make_AP_A_MiscB.label>изготовить белую рубашку Долины</Make_AP_A_MiscB.label>
+  <Make_AP_A_MiscB.description>Изготовить белую рубашку Долины.</Make_AP_A_MiscB.description>
+  <Make_AP_A_MiscB.jobString>изготавливает белую рубашку Долины.</Make_AP_A_MiscB.jobString>
+  <Make_AP_A_Misc4B.label>изготовить чисто-белую куртку Долины</Make_AP_A_Misc4B.label>
+  <Make_AP_A_Misc4B.description>Изготовить чисто-белую куртку Долины.</Make_AP_A_Misc4B.description>
+  <Make_AP_A_Misc4B.jobString>изготавливает чисто-белую куртку Долины.</Make_AP_A_Misc4B.jobString>
   <Make_AP_A_Misc5B.label>изготовить фартук домохозяйки</Make_AP_A_Misc5B.label>
   <Make_AP_A_Misc5B.description>Изготовить фартук домохозяйки.</Make_AP_A_Misc5B.description>
   <Make_AP_A_Misc5B.jobString>изготавливает фартук домохозяйки.</Make_AP_A_Misc5B.jobString>
   <Make_AP_A_Misc6B.label>изготовить обнажённый фартук</Make_AP_A_Misc6B.label>
   <Make_AP_A_Misc6B.description>Изготовить обнажённый фартук.</Make_AP_A_Misc6B.description>
   <Make_AP_A_Misc6B.jobString>изготавливает обнажённый фартук.</Make_AP_A_Misc6B.jobString>
-  <Make_AP_A_Misc7B.label>изготовить юбку домохозяйки Речной Долины</Make_AP_A_Misc7B.label>
-  <Make_AP_A_Misc7B.description>Изготовить юбку домохозяйки Речной Долины.</Make_AP_A_Misc7B.description>
-  <Make_AP_A_Misc7B.jobString>изготавливает юбку домохозяйки Речной Долины.</Make_AP_A_Misc7B.jobString>
-  <Make_AP_A_Misc8B.label>изготовить чёрную юбку Речной Долины</Make_AP_A_Misc8B.label>
-  <Make_AP_A_Misc8B.description>Изготовить чёрную юбку Речной Долины.</Make_AP_A_Misc8B.description>
-  <Make_AP_A_Misc8B.jobString>изготавливает чёрную юбку Речной Долины.</Make_AP_A_Misc8B.jobString>
+  <Make_AP_A_Misc7B.label>изготовить юбку домохозяйки Долины</Make_AP_A_Misc7B.label>
+  <Make_AP_A_Misc7B.description>Изготовить юбку домохозяйки Долины.</Make_AP_A_Misc7B.description>
+  <Make_AP_A_Misc7B.jobString>изготавливает юбку домохозяйки Долины.</Make_AP_A_Misc7B.jobString>
+  <Make_AP_A_Misc8B.label>изготовить чёрную юбку Долины</Make_AP_A_Misc8B.label>
+  <Make_AP_A_Misc8B.description>Изготовить чёрную юбку Долины.</Make_AP_A_Misc8B.description>
+  <Make_AP_A_Misc8B.jobString>изготавливает чёрную юбку Долины.</Make_AP_A_Misc8B.jobString>
   <Make_AP_A_Misc9B.label>изготовить джинсовый комбинезон телесного цвета</Make_AP_A_Misc9B.label>
   <Make_AP_A_Misc9B.description>Изготовить джинсовый комбинезон телесного цвета.</Make_AP_A_Misc9B.description>
   <Make_AP_A_Misc9B.jobString>изготавливает джинсовый комбинезон телесного цвета.</Make_AP_A_Misc9B.jobString>
   <Make_AP_A_Misc10B.label>изготовить джинсовый комбинезон</Make_AP_A_Misc10B.label>
   <Make_AP_A_Misc10B.description>Изготовить джинсовый комбинезон.</Make_AP_A_Misc10B.description>
   <Make_AP_A_Misc10B.jobString>изготавливает джинсовый комбинезон.</Make_AP_A_Misc10B.jobString>
-  <Make_AP_A_Misc11B.label>изготовить красную юбку Речной Долины</Make_AP_A_Misc11B.label>
-  <Make_AP_A_Misc11B.description>Изготовить красную юбку Речной Долины.</Make_AP_A_Misc11B.description>
-  <Make_AP_A_Misc11B.jobString>изготавливает красную юбку Речной Долины.</Make_AP_A_Misc11B.jobString>
-  <Make_AS_A_S3_Child.label>изготовить школьную форму Речной Долины</Make_AS_A_S3_Child.label>
-  <Make_AS_A_S3_Child.description>Изготовить школьную форму Речной Долины.</Make_AS_A_S3_Child.description>
-  <Make_AS_A_S3_Child.jobString>изготавливает школьную форму Речной Долины.</Make_AS_A_S3_Child.jobString>
+  <Make_AP_A_Misc11B.label>изготовить красную юбку Долины</Make_AP_A_Misc11B.label>
+  <Make_AP_A_Misc11B.description>Изготовить красную юбку Долины.</Make_AP_A_Misc11B.description>
+  <Make_AP_A_Misc11B.jobString>изготавливает красную юбку Долины.</Make_AP_A_Misc11B.jobString>
+  <Make_AS_A_S3_Child.label>изготовить школьную форму Долины</Make_AS_A_S3_Child.label>
+  <Make_AS_A_S3_Child.description>Изготовить школьную форму Долины.</Make_AS_A_S3_Child.description>
+  <Make_AS_A_S3_Child.jobString>изготавливает школьную форму Долины.</Make_AS_A_S3_Child.jobString>
   <Make_AS_A_Refugee_clothing.label>изготовить одежду беженца</Make_AS_A_Refugee_clothing.label>
   <Make_AS_A_Refugee_clothing.description>Изготовить одежду беженца.</Make_AS_A_Refugee_clothing.description>
   <Make_AS_A_Refugee_clothing.jobString>изготавливает одежду беженца.</Make_AS_A_Refugee_clothing.jobString>
-  <Make_AH_A_MiscA.label>изготовить кепи Речной Долины</Make_AH_A_MiscA.label>
-  <Make_AH_A_MiscA.description>Изготовить кепи Речной Долины.</Make_AH_A_MiscA.description>
-  <Make_AH_A_MiscA.jobString>изготавливает кепи Речной Долины.</Make_AH_A_MiscA.jobString>
-  <Make_AR_A_Leotard.label>изготовить ремонтный скафандр Речной Долины</Make_AR_A_Leotard.label>
-  <Make_AR_A_Leotard.description>Изготовить ремонтный скафандр Речной Долины.</Make_AR_A_Leotard.description>
-  <Make_AR_A_Leotard.jobString>изготавливает ремонтный скафандр Речной Долины.</Make_AR_A_Leotard.jobString>
+  <Make_AH_A_MiscA.label>изготовить кепи Долины</Make_AH_A_MiscA.label>
+  <Make_AH_A_MiscA.description>Изготовить кепи Долины.</Make_AH_A_MiscA.description>
+  <Make_AH_A_MiscA.jobString>изготавливает кепи Долины.</Make_AH_A_MiscA.jobString>
+  <Make_AR_A_Leotard.label>изготовить ремонтный скафандр Долины</Make_AR_A_Leotard.label>
+  <Make_AR_A_Leotard.description>Изготовить ремонтный скафандр Долины.</Make_AR_A_Leotard.description>
+  <Make_AR_A_Leotard.jobString>изготавливает ремонтный скафандр Долины.</Make_AR_A_Leotard.jobString>
   <Make_AR_A_LeotardS.label>изготовить ремонтный костюм Красной Космической Армии</Make_AR_A_LeotardS.label>
   <Make_AR_A_LeotardS.description>Изготовить ремонтный костюм Красной Космической Армии.</Make_AR_A_LeotardS.description>
   <Make_AR_A_LeotardS.jobString>изготавливает ремонтный костюм Красной Космической Армии.</Make_AR_A_LeotardS.jobString>
@@ -168,9 +168,9 @@
   <Make_MechStateRecoveryChip.label>изготовить чип восстановления состояния механоида</Make_MechStateRecoveryChip.label>
   <Make_MechStateRecoveryChip.description>Изготовить чип восстановления состояния механоида.</Make_MechStateRecoveryChip.description>
   <Make_MechStateRecoveryChip.jobString>Изготовление чипа восстановления состояния механоида.</Make_MechStateRecoveryChip.jobString>
-  <Make_YYS_YTCDMechlinkImplantThing.label>изготовить шпильку мехлинка Синтетиков, повреждающую череп</Make_YYS_YTCDMechlinkImplantThing.label>
-  <Make_YYS_YTCDMechlinkImplantThing.description>Изготовить шпильку мехлинка Синтетиков, повреждающую череп.</Make_YYS_YTCDMechlinkImplantThing.description>
-  <Make_YYS_YTCDMechlinkImplantThing.jobString>изготавливает шпильку мехлинка Синтетиков, повреждающую череп.</Make_YYS_YTCDMechlinkImplantThing.jobString>
+  <Make_YYS_YTCDMechlinkImplantThing.label>изготовить шпильку мехлинка конструктов Люсии, повреждающую череп</Make_YYS_YTCDMechlinkImplantThing.label>
+  <Make_YYS_YTCDMechlinkImplantThing.description>Изготовить шпильку мехлинка конструктов Люсии, повреждающую череп.</Make_YYS_YTCDMechlinkImplantThing.description>
+  <Make_YYS_YTCDMechlinkImplantThing.jobString>изготавливает шпильку мехлинка конструктов Люсии, повреждающую череп.</Make_YYS_YTCDMechlinkImplantThing.jobString>
   <Make_TY_A_titanium_alloy.label>изготовить гражданский нанококтейль</Make_TY_A_titanium_alloy.label>
   <Make_TY_A_titanium_alloy.description>Изготовить гражданский нанококтейль.</Make_TY_A_titanium_alloy.description>
   <Make_TY_A_titanium_alloy.jobString>изготавливает гражданский нанококтейль.</Make_TY_A_titanium_alloy.jobString>
@@ -222,109 +222,109 @@
   <Make_TY_A_Hammer_WeaponM.label>изготовить магнитный резистор</Make_TY_A_Hammer_WeaponM.label>
   <Make_TY_A_Hammer_WeaponM.description>Изготовить магнитный резистор.</Make_TY_A_Hammer_WeaponM.description>
   <Make_TY_A_Hammer_WeaponM.jobString>изготавливает магнитный резистор.</Make_TY_A_Hammer_WeaponM.jobString>
-  <Make_AP_N_MiscA.label>изготовить Aquila Clothing: Nun's Costume</Make_AP_N_MiscA.label>
-  <Make_AP_N_MiscA.description>Изготовить Aquila Clothing: Nun's Costume.</Make_AP_N_MiscA.description>
-  <Make_AP_N_MiscA.jobString>Изготовление Aquila Clothing: Nun's Costume.</Make_AP_N_MiscA.jobString>
-  <Make_AP_N_MiscB.label>изготовить Aquila Clothing: Flare's Costume</Make_AP_N_MiscB.label>
-  <Make_AP_N_MiscB.description>Изготовить Aquila Clothing: Flare's Costume.</Make_AP_N_MiscB.description>
-  <Make_AP_N_MiscB.jobString>Изготовление Aquila Clothing: Flare's Costume.</Make_AP_N_MiscB.jobString>
-  <Make_AP_N_MiscC.label>изготовить Aquila Clothing: Aqueous Springtide</Make_AP_N_MiscC.label>
-  <Make_AP_N_MiscC.description>Изготовить Aquila Clothing: Aqueous Springtide.</Make_AP_N_MiscC.description>
-  <Make_AP_N_MiscC.jobString>Изготовление Aquila Clothing: Aqueous Springtide.</Make_AP_N_MiscC.jobString>
-  <Make_AP_N_MiscE.label>изготовить Aquila Clothing: Wanxi Cheongsam</Make_AP_N_MiscE.label>
-  <Make_AP_N_MiscE.description>Изготовить Aquila Clothing: Wanxi Cheongsam.</Make_AP_N_MiscE.description>
-  <Make_AP_N_MiscE.jobString>Изготовление Aquila Clothing: Wanxi Cheongsam.</Make_AP_N_MiscE.jobString>
-  <Make_AP_N_MiscF.label>изготовить Aquila Clothing: Black Bodysui</Make_AP_N_MiscF.label>
-  <Make_AP_N_MiscF.description>Изготовить Aquila Clothing: Black Bodysui.</Make_AP_N_MiscF.description>
-  <Make_AP_N_MiscF.jobString>Изготовление Aquila Clothing: Black Bodysui.</Make_AP_N_MiscF.jobString>
-  <Make_AP_N_MiscG.label>изготовить Aquila Clothing: Glory Ritual Clothing</Make_AP_N_MiscG.label>
-  <Make_AP_N_MiscG.description>Изготовить Aquila Clothing: Glory Ritual Clothing.</Make_AP_N_MiscG.description>
-  <Make_AP_N_MiscG.jobString>Изготовление Aquila Clothing: Glory Ritual Clothing.</Make_AP_N_MiscG.jobString>
-  <Make_AP_N_MiscH.label>изготовить Aquila Clothing: Nurse's Uniform</Make_AP_N_MiscH.label>
-  <Make_AP_N_MiscH.description>Изготовить Aquila Clothing: Nurse's Uniform.</Make_AP_N_MiscH.description>
-  <Make_AP_N_MiscH.jobString>Изготовление Aquila Clothing: Nurse's Uniform.</Make_AP_N_MiscH.jobString>
-  <Make_AP_N_MiscI.label>изготовить Aquila Clothing: Celeste's Clothing</Make_AP_N_MiscI.label>
-  <Make_AP_N_MiscI.description>Изготовить Aquila Clothing: Celeste's Clothing.</Make_AP_N_MiscI.description>
-  <Make_AP_N_MiscI.jobString>Изготовление Aquila Clothing: Celeste's Clothing.</Make_AP_N_MiscI.jobString>
-  <Make_AP_N_MiscJ.label>изготовить Aquila Clothing: Brynhild Combat Armour</Make_AP_N_MiscJ.label>
-  <Make_AP_N_MiscJ.description>Изготовить Aquila Clothing: Brynhild Combat Armour.</Make_AP_N_MiscJ.description>
-  <Make_AP_N_MiscJ.jobString>Изготовление Aquila Clothing: Brynhild Combat Armour.</Make_AP_N_MiscJ.jobString>
-  <Make_AS_N_JSyan.label>изготовить Pussycat Tights</Make_AS_N_JSyan.label>
-  <Make_AS_N_JSyan.description>Изготовить Pussycat Tights.</Make_AS_N_JSyan.description>
-  <Make_AS_N_JSyan.jobString>Изготовление Pussycat Tights.</Make_AS_N_JSyan.jobString>
-  <Make_AP_N_KBND.label>изготовить Horny Vampire Set</Make_AP_N_KBND.label>
-  <Make_AP_N_KBND.description>Изготовить Horny Vampire Set.</Make_AP_N_KBND.description>
-  <Make_AP_N_KBND.jobString>Изготовление Horny Vampire Set.</Make_AP_N_KBND.jobString>
-  <Make_AP_N_BG.label>изготовить Bunny Girl Suit</Make_AP_N_BG.label>
-  <Make_AP_N_BG.description>Изготовить Bunny Girl Suit.</Make_AP_N_BG.description>
-  <Make_AP_N_BG.jobString>Изготовление Bunny Girl Suit.</Make_AP_N_BG.jobString>
-  <Make_AP_N_JHYB.label>изготовить Complete Black Nylon Bodysuit</Make_AP_N_JHYB.label>
-  <Make_AP_N_JHYB.description>Изготовить Complete Black Nylon Bodysuit.</Make_AP_N_JHYB.description>
-  <Make_AP_N_JHYB.jobString>Изготовление Complete Black Nylon Bodysuit.</Make_AP_N_JHYB.jobString>
-  <Make_AP_N_XinZuang.label>изготовить Butler's Suit</Make_AP_N_XinZuang.label>
-  <Make_AP_N_XinZuang.description>Изготовить Butler's Suit.</Make_AP_N_XinZuang.description>
-  <Make_AP_N_XinZuang.jobString>Изготовление Butler's Suit.</Make_AP_N_XinZuang.jobString>
-  <Make_AH_N_MiscA.label>изготовить Aquila Clothing: Imperial Crown</Make_AH_N_MiscA.label>
-  <Make_AH_N_MiscA.description>Изготовить Aquila Clothing: Imperial Crown.</Make_AH_N_MiscA.description>
-  <Make_AH_N_MiscA.jobString>Изготовление Aquila Clothing: Imperial Crown.</Make_AH_N_MiscA.jobString>
-  <Make_AH_N_MiscJ.label>изготовить Aquila Clothing: Brynhild's Headdress</Make_AH_N_MiscJ.label>
-  <Make_AH_N_MiscJ.description>Изготовить Aquila Clothing: Brynhild's Headdress.</Make_AH_N_MiscJ.description>
-  <Make_AH_N_MiscJ.jobString>Изготовление Aquila Clothing: Brynhild's Headdress.</Make_AH_N_MiscJ.jobString>
-  <Make_AS_N_JSyana.label>изготовить Pussycat Tights Helmet</Make_AS_N_JSyana.label>
-  <Make_AS_N_JSyana.description>Изготовить Pussycat Tights Helmet.</Make_AS_N_JSyana.description>
-  <Make_AS_N_JSyana.jobString>Изготовление Pussycat Tights Helmet.</Make_AS_N_JSyana.jobString>
-  <Make_AR_N_LanYing.label>изготовить "Sapphire Silhouette" Breastplate</Make_AR_N_LanYing.label>
-  <Make_AR_N_LanYing.description>Изготовить "Sapphire Silhouette" Breastplate.</Make_AR_N_LanYing.description>
-  <Make_AR_N_LanYing.jobString>Изготовление "Sapphire Silhouette" Breastplate.</Make_AR_N_LanYing.jobString>
-  <Make_AH_N_LanYing.label>изготовить "Sapphire Silhouette" Helmet</Make_AH_N_LanYing.label>
-  <Make_AH_N_LanYing.description>Изготовить "Sapphire Silhouette" Helmet.</Make_AH_N_LanYing.description>
-  <Make_AH_N_LanYing.jobString>Изготовление "Sapphire Silhouette" Helmet.</Make_AH_N_LanYing.jobString>
-  <Make_AS_N_PowerExo.label>изготовить Powered Exoskeleton</Make_AS_N_PowerExo.label>
-  <Make_AS_N_PowerExo.description>Изготовить Powered Exoskeleton.</Make_AS_N_PowerExo.description>
-  <Make_AS_N_PowerExo.jobString>Изготовление Powered Exoskeleton.</Make_AS_N_PowerExo.jobString>
-  <Make_AH_N_Quantum.label>изготовить Quantum Analyse</Make_AH_N_Quantum.label>
-  <Make_AH_N_Quantum.description>Изготовить Quantum Analyse.</Make_AH_N_Quantum.description>
-  <Make_AH_N_Quantum.jobString>Изготовление Quantum Analyse.</Make_AH_N_Quantum.jobString>
-  <Make_AS_N_NirvanaShield.label>изготовить Nirvana Shield</Make_AS_N_NirvanaShield.label>
-  <Make_AS_N_NirvanaShield.description>Изготовить Nirvana Shield.</Make_AS_N_NirvanaShield.description>
-  <Make_AS_N_NirvanaShield.jobString>Изготовление Nirvana Shield.</Make_AS_N_NirvanaShield.jobString>
-  <Make_AR_A_Lynx.label>изготовить "Lynx" System Armour</Make_AR_A_Lynx.label>
-  <Make_AR_A_Lynx.description>Изготовить "Lynx" System Armour.</Make_AR_A_Lynx.description>
-  <Make_AR_A_Lynx.jobString>Изготовление "Lynx" System Armour.</Make_AR_A_Lynx.jobString>
-  <Make_AR_A_LynxS.label>изготовить "Lynx" Load-carrying System</Make_AR_A_LynxS.label>
-  <Make_AR_A_LynxS.description>Изготовить "Lynx" Load-carrying System.</Make_AR_A_LynxS.description>
-  <Make_AR_A_LynxS.jobString>Изготовление "Lynx" Load-carrying System.</Make_AR_A_LynxS.jobString>
-  <Make_AH_A_Lynx.label>изготовить "Lynx" Helmet</Make_AH_A_Lynx.label>
-  <Make_AH_A_Lynx.description>Изготовить "Lynx" Helmet.</Make_AH_A_Lynx.description>
-  <Make_AH_A_Lynx.jobString>Изготовление "Lynx" Helmet.</Make_AH_A_Lynx.jobString>
-  <Make_Magic_AtCY.label>изготовить Pervian Cracking Combat Potion</Make_Magic_AtCY.label>
-  <Make_Magic_AtCY.description>Изготовить Pervian Cracking Combat Potion.</Make_Magic_AtCY.description>
-  <Make_Magic_AtCY.jobString>Изготовление Pervian Cracking Combat Potion.</Make_Magic_AtCY.jobString>
-  <Make_TY_N_BaiLingS_Weapon.label>изготовить Short-barrelled Shotgun</Make_TY_N_BaiLingS_Weapon.label>
-  <Make_TY_N_BaiLingS_Weapon.description>Изготовить Short-barrelled Shotgun.</Make_TY_N_BaiLingS_Weapon.description>
-  <Make_TY_N_BaiLingS_Weapon.jobString>Изготовление Short-barrelled Shotgun.</Make_TY_N_BaiLingS_Weapon.jobString>
-  <Make_TY_N_RocketS_Weapon.label>изготовить Quadruple Rocket Launcher</Make_TY_N_RocketS_Weapon.label>
-  <Make_TY_N_RocketS_Weapon.description>Изготовить Quadruple Rocket Launcher.</Make_TY_N_RocketS_Weapon.description>
-  <Make_TY_N_RocketS_Weapon.jobString>Изготовление Quadruple Rocket Launcher.</Make_TY_N_RocketS_Weapon.jobString>
-  <Make_TY_N_BaiLingX_Weapon.label>изготовить Winchester-44 Modified Shotgun</Make_TY_N_BaiLingX_Weapon.label>
-  <Make_TY_N_BaiLingX_Weapon.description>Изготовить Winchester-44 Modified Shotgun.</Make_TY_N_BaiLingX_Weapon.description>
-  <Make_TY_N_BaiLingX_Weapon.jobString>Изготовление Winchester-44 Modified Shotgun.</Make_TY_N_BaiLingX_Weapon.jobString>
-  <Make_TY_N_BaiLingZ_Weapon.label>изготовить Ahka-1999 Automatic Rifle</Make_TY_N_BaiLingZ_Weapon.label>
-  <Make_TY_N_BaiLingZ_Weapon.description>Изготовить Ahka-1999 Automatic Rifle.</Make_TY_N_BaiLingZ_Weapon.description>
-  <Make_TY_N_BaiLingZ_Weapon.jobString>Изготовление Ahka-1999 Automatic Rifle.</Make_TY_N_BaiLingZ_Weapon.jobString>
-  <Make_TY_N_BaiLingJ_Weapon.label>изготовить Remington M1700</Make_TY_N_BaiLingJ_Weapon.label>
-  <Make_TY_N_BaiLingJ_Weapon.description>Изготовить Remington M1700.</Make_TY_N_BaiLingJ_Weapon.description>
-  <Make_TY_N_BaiLingJ_Weapon.jobString>Изготовление Remington M1700.</Make_TY_N_BaiLingJ_Weapon.jobString>
-  <Make_TY_N_CiHeZ_Weapon.label>изготовить Magnetic Charge Automatic Rifle</Make_TY_N_CiHeZ_Weapon.label>
-  <Make_TY_N_CiHeZ_Weapon.description>Изготовить Magnetic Charge Automatic Rifle.</Make_TY_N_CiHeZ_Weapon.description>
-  <Make_TY_N_CiHeZ_Weapon.jobString>Изготовление Magnetic Charge Automatic Rifle.</Make_TY_N_CiHeZ_Weapon.jobString>
-  <Make_TY_N_CiHeJ_Weapon.label>изготовить Magnetic Charge Sniper Rifle</Make_TY_N_CiHeJ_Weapon.label>
-  <Make_TY_N_CiHeJ_Weapon.description>Изготовить Magnetic Charge Sniper Rifle.</Make_TY_N_CiHeJ_Weapon.description>
-  <Make_TY_N_CiHeJ_Weapon.jobString>Изготовление Magnetic Charge Sniper Rifle.</Make_TY_N_CiHeJ_Weapon.jobString>
-  <Make_TY_N_CiHeX_Weapon.label>изготовить Magnetic Charge Shotgun</Make_TY_N_CiHeX_Weapon.label>
-  <Make_TY_N_CiHeX_Weapon.description>Изготовить Magnetic Charge Shotgun.</Make_TY_N_CiHeX_Weapon.description>
-  <Make_TY_N_CiHeX_Weapon.jobString>Изготовление Magnetic Charge Shotgun.</Make_TY_N_CiHeX_Weapon.jobString>
-  <Make_TY_N_FireGun_Weapon.label>изготовить "Lava" Machine Gun</Make_TY_N_FireGun_Weapon.label>
-  <Make_TY_N_FireGun_Weapon.description>Изготовить "Lava" Machine Gun.</Make_TY_N_FireGun_Weapon.description>
-  <Make_TY_N_FireGun_Weapon.jobString>Изготовление "Lava" Machine Gun.</Make_TY_N_FireGun_Weapon.jobString>
+  <Make_AP_N_MiscA.label>сшить Одежда Аквилы: монашеское платье</Make_AP_N_MiscA.label>
+  <Make_AP_N_MiscA.description>Сшить Одежда Аквилы: монашеское платье.</Make_AP_N_MiscA.description>
+  <Make_AP_N_MiscA.jobString>Шьёт Одежда Аквилы: монашеское платье.</Make_AP_N_MiscA.jobString>
+  <Make_AP_N_MiscB.label>сшить Одежда Аквилы: наряд Фрейи</Make_AP_N_MiscB.label>
+  <Make_AP_N_MiscB.description>Сшить Одежда Аквилы: наряд Фрейи.</Make_AP_N_MiscB.description>
+  <Make_AP_N_MiscB.jobString>Шьёт Одежда Аквилы: наряд Фрейи.</Make_AP_N_MiscB.jobString>
+  <Make_AP_N_MiscC.label>сшить Одежда Аквилы: ночной дождь и весенние волны</Make_AP_N_MiscC.label>
+  <Make_AP_N_MiscC.description>Сшить Одежда Аквилы: ночной дождь и весенние волны.</Make_AP_N_MiscC.description>
+  <Make_AP_N_MiscC.jobString>Шьёт Одежда Аквилы: ночной дождь и весенние волны.</Make_AP_N_MiscC.jobString>
+  <Make_AP_N_MiscE.label>сшить Одежда Аквилы: ципао клана Ваньси</Make_AP_N_MiscE.label>
+  <Make_AP_N_MiscE.description>Сшить Одежда Аквилы: ципао клана Ваньси.</Make_AP_N_MiscE.description>
+  <Make_AP_N_MiscE.jobString>Шьёт Одежда Аквилы: ципао клана Ваньси.</Make_AP_N_MiscE.jobString>
+  <Make_AP_N_MiscF.label>сшить Одежда Аквилы: чёрный комбинезон</Make_AP_N_MiscF.label>
+  <Make_AP_N_MiscF.description>Сшить Одежда Аквилы: чёрный комбинезон.</Make_AP_N_MiscF.description>
+  <Make_AP_N_MiscF.jobString>Шьёт Одежда Аквилы: чёрный комбинезон.</Make_AP_N_MiscF.jobString>
+  <Make_AP_N_MiscG.label>сшить Одежда Аквилы: ритуальное одеяние Славы</Make_AP_N_MiscG.label>
+  <Make_AP_N_MiscG.description>Сшить Одежда Аквилы: ритуальное одеяние Славы.</Make_AP_N_MiscG.description>
+  <Make_AP_N_MiscG.jobString>Шьёт Одежда Аквилы: ритуальное одеяние Славы.</Make_AP_N_MiscG.jobString>
+  <Make_AP_N_MiscH.label>сшить Одежда Аквилы: медсестринская форма</Make_AP_N_MiscH.label>
+  <Make_AP_N_MiscH.description>Сшить Одежда Аквилы: медсестринская форма.</Make_AP_N_MiscH.description>
+  <Make_AP_N_MiscH.jobString>Шьёт Одежда Аквилы: медсестринская форма.</Make_AP_N_MiscH.jobString>
+  <Make_AP_N_MiscI.label>сшить Одежда Аквилы: наряд Селесты</Make_AP_N_MiscI.label>
+  <Make_AP_N_MiscI.description>Сшить Одежда Аквилы: наряд Селесты.</Make_AP_N_MiscI.description>
+  <Make_AP_N_MiscI.jobString>Шьёт Одежда Аквилы: наряд Селесты.</Make_AP_N_MiscI.jobString>
+  <Make_AP_N_MiscJ.label>сшить Одежда Аквилы: боевая броня Брунхильд</Make_AP_N_MiscJ.label>
+  <Make_AP_N_MiscJ.description>Сшить Одежда Аквилы: боевая броня Брунхильд.</Make_AP_N_MiscJ.description>
+  <Make_AP_N_MiscJ.jobString>Шьёт Одежда Аквилы: боевая броня Брунхильд.</Make_AP_N_MiscJ.jobString>
+  <Make_AS_N_JSyan.label>сшить кошачий боди</Make_AS_N_JSyan.label>
+  <Make_AS_N_JSyan.description>Сшить кошачий боди.</Make_AS_N_JSyan.description>
+  <Make_AS_N_JSyan.jobString>Шьёт кошачий боди.</Make_AS_N_JSyan.jobString>
+  <Make_AP_N_KBND.label>сшить соблазнительный вампирский набор</Make_AP_N_KBND.label>
+  <Make_AP_N_KBND.description>Сшить соблазнительный вампирский набор.</Make_AP_N_KBND.description>
+  <Make_AP_N_KBND.jobString>Шьёт соблазнительный вампирский набор.</Make_AP_N_KBND.jobString>
+  <Make_AP_N_BG.label>сшить набор девушки-кролика</Make_AP_N_BG.label>
+  <Make_AP_N_BG.description>Сшить набор девушки-кролика.</Make_AP_N_BG.description>
+  <Make_AP_N_BG.jobString>Шьёт набор девушки-кролика.</Make_AP_N_BG.jobString>
+  <Make_AP_N_JHYB.label>сшить чёрные колготки-боди</Make_AP_N_JHYB.label>
+  <Make_AP_N_JHYB.description>Сшить чёрные колготки-боди.</Make_AP_N_JHYB.description>
+  <Make_AP_N_JHYB.jobString>Шьёт чёрные колготки-боди.</Make_AP_N_JHYB.jobString>
+  <Make_AP_N_XinZuang.label>сшить костюм дворецкого</Make_AP_N_XinZuang.label>
+  <Make_AP_N_XinZuang.description>Сшить костюм дворецкого.</Make_AP_N_XinZuang.description>
+  <Make_AP_N_XinZuang.jobString>Шьёт костюм дворецкого.</Make_AP_N_XinZuang.jobString>
+  <Make_AH_N_MiscA.label>сшить Одежда Аквилы: императорская корона</Make_AH_N_MiscA.label>
+  <Make_AH_N_MiscA.description>Сшить Одежда Аквилы: императорская корона.</Make_AH_N_MiscA.description>
+  <Make_AH_N_MiscA.jobString>Шьёт Одежда Аквилы: императорская корона.</Make_AH_N_MiscA.jobString>
+  <Make_AH_N_MiscJ.label>сшить Одежда Аквилы: головной убор Брунхильд</Make_AH_N_MiscJ.label>
+  <Make_AH_N_MiscJ.description>Сшить Одежда Аквилы: головной убор Брунхильд.</Make_AH_N_MiscJ.description>
+  <Make_AH_N_MiscJ.jobString>Шьёт Одежда Аквилы: головной убор Брунхильд.</Make_AH_N_MiscJ.jobString>
+  <Make_AS_N_JSyana.label>сшить кошачий шлем-боди</Make_AS_N_JSyana.label>
+  <Make_AS_N_JSyana.description>Сшить кошачий шлем-боди.</Make_AS_N_JSyana.description>
+  <Make_AS_N_JSyana.jobString>Шьёт кошачий шлем-боди.</Make_AS_N_JSyana.jobString>
+  <Make_AR_N_LanYing.label>изготовить нагрудник «Сапфировый силуэт»</Make_AR_N_LanYing.label>
+  <Make_AR_N_LanYing.description>Изготовить нагрудник «Сапфировый силуэт».</Make_AR_N_LanYing.description>
+  <Make_AR_N_LanYing.jobString>Изготавливает нагрудник «Сапфировый силуэт».</Make_AR_N_LanYing.jobString>
+  <Make_AH_N_LanYing.label>изготовить шлем «Сапфировый силуэт»</Make_AH_N_LanYing.label>
+  <Make_AH_N_LanYing.description>Изготовить шлем «Сапфировый силуэт».</Make_AH_N_LanYing.description>
+  <Make_AH_N_LanYing.jobString>Изготавливает шлем «Сапфировый силуэт».</Make_AH_N_LanYing.jobString>
+  <Make_AS_N_PowerExo.label>изготовить силовой экзоскелет</Make_AS_N_PowerExo.label>
+  <Make_AS_N_PowerExo.description>Изготовить силовой экзоскелет.</Make_AS_N_PowerExo.description>
+  <Make_AS_N_PowerExo.jobString>Изготавливает силовой экзоскелет.</Make_AS_N_PowerExo.jobString>
+  <Make_AH_N_Quantum.label>изготовить квантовый анализатор</Make_AH_N_Quantum.label>
+  <Make_AH_N_Quantum.description>Изготовить квантовый анализатор.</Make_AH_N_Quantum.description>
+  <Make_AH_N_Quantum.jobString>Изготавливает квантовый анализатор.</Make_AH_N_Quantum.jobString>
+  <Make_AS_N_NirvanaShield.label>изготовить стрелковый герметичный щит</Make_AS_N_NirvanaShield.label>
+  <Make_AS_N_NirvanaShield.description>Изготовить стрелковый герметичный щит.</Make_AS_N_NirvanaShield.description>
+  <Make_AS_N_NirvanaShield.jobString>Изготавливает стрелковый герметичный щит.</Make_AS_N_NirvanaShield.jobString>
+  <Make_AR_A_Lynx.label>изготовить системную броню «Рысь»</Make_AR_A_Lynx.label>
+  <Make_AR_A_Lynx.description>Изготовить системную броню «Рысь».</Make_AR_A_Lynx.description>
+  <Make_AR_A_Lynx.jobString>Изготавливает системную броню «Рысь».</Make_AR_A_Lynx.jobString>
+  <Make_AR_A_LynxS.label>изготовить подвесную систему «Рысь»</Make_AR_A_LynxS.label>
+  <Make_AR_A_LynxS.description>Изготовить подвесную систему «Рысь».</Make_AR_A_LynxS.description>
+  <Make_AR_A_LynxS.jobString>Изготавливает подвесную систему «Рысь».</Make_AR_A_LynxS.jobString>
+  <Make_AH_A_Lynx.label>изготовить шлем «Рысь»</Make_AH_A_Lynx.label>
+  <Make_AH_A_Lynx.description>Изготовить шлем «Рысь».</Make_AH_A_Lynx.description>
+  <Make_AH_A_Lynx.jobString>Изготавливает шлем «Рысь».</Make_AH_A_Lynx.jobString>
+  <Make_Magic_AtCY.label>приготовить боевой стимулятор Первияна</Make_Magic_AtCY.label>
+  <Make_Magic_AtCY.description>Приготовить боевой стимулятор Первияна.</Make_Magic_AtCY.description>
+  <Make_Magic_AtCY.jobString>Приготавливает боевой стимулятор Первияна.</Make_Magic_AtCY.jobString>
+  <Make_TY_N_BaiLingS_Weapon.label>изготовить дробовой пистолет</Make_TY_N_BaiLingS_Weapon.label>
+  <Make_TY_N_BaiLingS_Weapon.description>Изготовить дробовой пистолет.</Make_TY_N_BaiLingS_Weapon.description>
+  <Make_TY_N_BaiLingS_Weapon.jobString>Изготавливает дробовой пистолет.</Make_TY_N_BaiLingS_Weapon.jobString>
+  <Make_TY_N_RocketS_Weapon.label>изготовить четырёхствольный гранатомёт</Make_TY_N_RocketS_Weapon.label>
+  <Make_TY_N_RocketS_Weapon.description>Изготовить четырёхствольный гранатомёт.</Make_TY_N_RocketS_Weapon.description>
+  <Make_TY_N_RocketS_Weapon.jobString>Изготавливает четырёхствольный гранатомёт.</Make_TY_N_RocketS_Weapon.jobString>
+  <Make_TY_N_BaiLingX_Weapon.label>изготовить тяжёлый огненный дробовик</Make_TY_N_BaiLingX_Weapon.label>
+  <Make_TY_N_BaiLingX_Weapon.description>Изготовить тяжёлый огненный дробовик.</Make_TY_N_BaiLingX_Weapon.description>
+  <Make_TY_N_BaiLingX_Weapon.jobString>Изготавливает тяжёлый огненный дробовик.</Make_TY_N_BaiLingX_Weapon.jobString>
+  <Make_TY_N_BaiLingZ_Weapon.label>изготовить штурмовую винтовку</Make_TY_N_BaiLingZ_Weapon.label>
+  <Make_TY_N_BaiLingZ_Weapon.description>Изготовить штурмовую винтовку.</Make_TY_N_BaiLingZ_Weapon.description>
+  <Make_TY_N_BaiLingZ_Weapon.jobString>Изготавливает штурмовую винтовку.</Make_TY_N_BaiLingZ_Weapon.jobString>
+  <Make_TY_N_BaiLingJ_Weapon.label>изготовить полуавтоматическую снайперскую винтовку</Make_TY_N_BaiLingJ_Weapon.label>
+  <Make_TY_N_BaiLingJ_Weapon.description>Изготовить полуавтоматическую снайперскую винтовку.</Make_TY_N_BaiLingJ_Weapon.description>
+  <Make_TY_N_BaiLingJ_Weapon.jobString>Изготавливает полуавтоматическую снайперскую винтовку.</Make_TY_N_BaiLingJ_Weapon.jobString>
+  <Make_TY_N_CiHeZ_Weapon.label>изготовить магнитно-зарядную автоматическую винтовку</Make_TY_N_CiHeZ_Weapon.label>
+  <Make_TY_N_CiHeZ_Weapon.description>Изготовить магнитно-зарядную автоматическую винтовку.</Make_TY_N_CiHeZ_Weapon.description>
+  <Make_TY_N_CiHeZ_Weapon.jobString>Изготавливает магнитно-зарядную автоматическую винтовку.</Make_TY_N_CiHeZ_Weapon.jobString>
+  <Make_TY_N_CiHeJ_Weapon.label>изготовить магнитно-зарядную снайперскую винтовку</Make_TY_N_CiHeJ_Weapon.label>
+  <Make_TY_N_CiHeJ_Weapon.description>Изготовить магнитно-зарядную снайперскую винтовку.</Make_TY_N_CiHeJ_Weapon.description>
+  <Make_TY_N_CiHeJ_Weapon.jobString>Изготавливает магнитно-зарядную снайперскую винтовку.</Make_TY_N_CiHeJ_Weapon.jobString>
+  <Make_TY_N_CiHeX_Weapon.label>изготовить магнитно-зарядную дробовик</Make_TY_N_CiHeX_Weapon.label>
+  <Make_TY_N_CiHeX_Weapon.description>Изготовить магнитно-зарядную дробовик.</Make_TY_N_CiHeX_Weapon.description>
+  <Make_TY_N_CiHeX_Weapon.jobString>Изготавливает магнитно-зарядную дробовик.</Make_TY_N_CiHeX_Weapon.jobString>
+  <Make_TY_N_FireGun_Weapon.label>изготовить пулемёт «Лава»</Make_TY_N_FireGun_Weapon.label>
+  <Make_TY_N_FireGun_Weapon.description>Изготовить пулемёт «Лава».</Make_TY_N_FireGun_Weapon.description>
+  <Make_TY_N_FireGun_Weapon.jobString>Изготавливает пулемёт «Лава».</Make_TY_N_FireGun_Weapon.jobString>
 </LanguageData>

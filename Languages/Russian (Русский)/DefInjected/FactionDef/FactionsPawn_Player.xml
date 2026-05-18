@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AtPlayer_Factions.label>Пионеры Федерации</AtPlayer_Factions.label>
-  <AtPlayer_Factions.description>Вы — бывшие граждане Федеральных миров Долины Рек. Авария во время перелёта к новому колониальному миру или разведывательной экспедиции обернулась крушением на Окраине. Здесь вас ждут и дружелюбные поселенцы с племенами, и беспощадные пираты. Что бы ни случилось — держитесь вместе, выживайте и строите своё новое будущее.</AtPlayer_Factions.description>
-  <AtPlayer_Factions.pawnsPlural>пионеры</AtPlayer_Factions.pawnsPlural>
+  <!-- Chinese: label=新公社, desc=构造体开拓者. English template had "联邦拓荒者" as the proper name -->
+  <AtPlayer_Factions.label>Новая коммуна</AtPlayer_Factions.label>
+  <AtPlayer_Factions.description>Вы — конструкты-первопроходцы Федерации Долины. Из-за различных обстоятельств — будь то экспедиция к новому члену Федерации или разведка новых звёздных систем — ваш корабль потерпел крушение на окраинном мире. Здесь есть и дружелюбные пришельцы с племенами, и беспощадные пираты. Но что бы ни случилось — выживайте любой ценой!</AtPlayer_Factions.description>
+  <AtPlayer_Factions.pawnsPlural>первопроходцы</AtPlayer_Factions.pawnsPlural>
 
 
   <!-- EN: 联邦拓荒者 -->

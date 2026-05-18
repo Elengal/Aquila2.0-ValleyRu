@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TY_A_Mech_A_Nurse_DropPodIncoming.label>Тактический щит высокого угла Речной Долины</TY_A_Mech_A_Nurse_DropPodIncoming.label>
+  <TY_A_Mech_A_Nurse_DropPodIncoming.label>Тактический щит высокого угла Долины</TY_A_Mech_A_Nurse_DropPodIncoming.label>
   <TY_A_Mech_A_Nurse_DropPodIncoming.description>Обычно способен перехватывать снаряды высокого угла, но не низкоугловые летящие.</TY_A_Mech_A_Nurse_DropPodIncoming.description>
 
-  <TY_A_DropPodIncoming_A_A.label>Крупный щит высокого угла Речной Долины (защита от EMP)</TY_A_DropPodIncoming_A_A.label>
+  <TY_A_DropPodIncoming_A_A.label>Крупный щит высокого угла Долины (защита от EMP)</TY_A_DropPodIncoming_A_A.label>
   <TY_A_DropPodIncoming_A_A.description>Щит, специально предназначенный для перехвата высокоугловых траекторий, не может перехватывать близкие снаряды. Военная версия щита иммунна к EMP.</TY_A_DropPodIncoming_A_A.description>
 
 </LanguageData>

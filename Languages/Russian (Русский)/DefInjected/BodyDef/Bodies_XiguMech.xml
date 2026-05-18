@@ -3,7 +3,7 @@
 
   <!-- 坦克，机甲，直升机↓ -->
 
-  <XiGuMechBodyPart.label>Модуль механоида Речной Долины</XiGuMechBodyPart.label>
+  <XiGuMechBodyPart.label>Модуль механоида Долины</XiGuMechBodyPart.label>
   <XiGuMechBodyPart.corePart.parts.0.customLabel>Броня</XiGuMechBodyPart.corePart.parts.0.customLabel>
   <XiGuMechBodyPart.corePart.parts.1.customLabel>Главная внешняя структура</XiGuMechBodyPart.corePart.parts.1.customLabel>
   <XiGuMechBodyPart.corePart.parts.1.parts.0.customLabel>Реактор</XiGuMechBodyPart.corePart.parts.1.parts.0.customLabel>
@@ -16,7 +16,7 @@
 
   <!-- 工程机甲↓ -->
 
-  <XG_GongCheng.label>Инженерный модуль Речной Долины</XG_GongCheng.label>
+  <XG_GongCheng.label>Инженерный модуль Долины</XG_GongCheng.label>
   <XG_GongCheng.corePart.parts.0.customLabel>Броня</XG_GongCheng.corePart.parts.0.customLabel>
   <XG_GongCheng.corePart.parts.1.customLabel>Главная внешняя структура</XG_GongCheng.corePart.parts.1.customLabel>
   <XG_GongCheng.corePart.parts.1.parts.0.customLabel>Реактор</XG_GongCheng.corePart.parts.1.parts.0.customLabel>
@@ -29,7 +29,7 @@
 
   <!-- 护盾机甲↓ -->
 
-  <XiGuMechShieldBP.label>Модуль механоида Речной Долины</XiGuMechShieldBP.label>
+  <XiGuMechShieldBP.label>Модуль механоида Долины</XiGuMechShieldBP.label>
   <XiGuMechShieldBP.corePart.parts.0.customLabel>Броня</XiGuMechShieldBP.corePart.parts.0.customLabel>
   <XiGuMechShieldBP.corePart.parts.1.customLabel>Главная внешняя структура</XiGuMechShieldBP.corePart.parts.1.customLabel>
   <XiGuMechShieldBP.corePart.parts.1.parts.0.customLabel>Реактор</XiGuMechShieldBP.corePart.parts.1.parts.0.customLabel>
@@ -39,7 +39,7 @@
   <XiGuMechShieldBP.corePart.parts.1.parts.4.customLabel>Левый манёвренный модуль</XiGuMechShieldBP.corePart.parts.1.parts.4.customLabel>
   <XiGuMechShieldBP.corePart.parts.1.parts.5.customLabel>Правый манёвренный модуль</XiGuMechShieldBP.corePart.parts.1.parts.5.customLabel>
 
-  <TY_A_XiGuMechShieldBP.label>Модуль механоида Речной Долины</TY_A_XiGuMechShieldBP.label>
+  <TY_A_XiGuMechShieldBP.label>Модуль механоида Долины</TY_A_XiGuMechShieldBP.label>
   <TY_A_XiGuMechShieldBP.corePart.parts.0.customLabel>Броня</TY_A_XiGuMechShieldBP.corePart.parts.0.customLabel>
   <TY_A_XiGuMechShieldBP.corePart.parts.1.customLabel>Главная внешняя структура</TY_A_XiGuMechShieldBP.corePart.parts.1.customLabel>
   <TY_A_XiGuMechShieldBP.corePart.parts.1.parts.0.customLabel>Реактор</TY_A_XiGuMechShieldBP.corePart.parts.1.parts.0.customLabel>
@@ -53,7 +53,7 @@
 
   <!-- 人形机械↓ -->
 
-  <XiGuRobotBP.label>Модуль механоида Речной Долины</XiGuRobotBP.label>
+  <XiGuRobotBP.label>Модуль механоида Долины</XiGuRobotBP.label>
   <XiGuRobotBP.corePart.parts.0.customLabel>Броня</XiGuRobotBP.corePart.parts.0.customLabel>
   <XiGuRobotBP.corePart.parts.1.customLabel>Туловище</XiGuRobotBP.corePart.parts.1.customLabel>
   <XiGuRobotBP.corePart.parts.1.parts.0.customLabel>Реактор</XiGuRobotBP.corePart.parts.1.parts.0.customLabel>
@@ -67,7 +67,7 @@
 
   <!-- 定义一个机械体（Q）的身体结构 -->
 
-  <TY_A_Mech_Centurion.label>Беспилотный модуль механоида Речной Долины</TY_A_Mech_Centurion.label>
+  <TY_A_Mech_Centurion.label>Беспилотный модуль механоида Долины</TY_A_Mech_Centurion.label>
   <TY_A_Mech_Centurion.corePart.parts.0.parts.0.customLabel>Броня</TY_A_Mech_Centurion.corePart.parts.0.parts.0.customLabel>
   <TY_A_Mech_Centurion.corePart.parts.0.parts.1.parts.1.customLabel>AN/AAS-114 Многоспектральный прицел</TY_A_Mech_Centurion.corePart.parts.0.parts.1.parts.1.customLabel>
   <TY_A_Mech_Centurion.corePart.parts.0.parts.1.parts.2.customLabel>Инфракрасная система третьего поколения переднего обзора</TY_A_Mech_Centurion.corePart.parts.0.parts.1.parts.2.customLabel>
@@ -83,7 +83,7 @@
   <TY_A_Mech_Centurion.corePart.parts.4.parts.0.customLabel>Стопа механоида Федерации (Задняя правая)</TY_A_Mech_Centurion.corePart.parts.4.parts.0.customLabel>
   <TY_A_Mech_Centurion.corePart.parts.8.customLabel>Башня</TY_A_Mech_Centurion.corePart.parts.8.customLabel>
 
-  <TY_A_Mech_Centurion_Q.label>Беспилотный модуль механоида Речной Долины (Версия с двойной гусеницей)</TY_A_Mech_Centurion_Q.label>
+  <TY_A_Mech_Centurion_Q.label>Беспилотный модуль механоида Долины (Версия с двойной гусеницей)</TY_A_Mech_Centurion_Q.label>
   <TY_A_Mech_Centurion_Q.corePart.parts.0.parts.0.customLabel>Броня</TY_A_Mech_Centurion_Q.corePart.parts.0.parts.0.customLabel>
   <TY_A_Mech_Centurion_Q.corePart.parts.0.parts.1.parts.1.customLabel>AN/AAS-114 Многоспектральный прицел</TY_A_Mech_Centurion_Q.corePart.parts.0.parts.1.parts.1.customLabel>
   <TY_A_Mech_Centurion_Q.corePart.parts.0.parts.1.parts.2.customLabel>Инфракрасная система третьего поколения переднего обзора</TY_A_Mech_Centurion_Q.corePart.parts.0.parts.1.parts.2.customLabel>
@@ -98,7 +98,7 @@
 
   <!-- 定义一个机械体的身体结构 -->
 
-  <TY_A_Mech_Centurion_W.label>Беспилотный модуль механоида Речной Долины</TY_A_Mech_Centurion_W.label>
+  <TY_A_Mech_Centurion_W.label>Беспилотный модуль механоида Долины</TY_A_Mech_Centurion_W.label>
   <TY_A_Mech_Centurion_W.corePart.parts.0.parts.0.customLabel>Броня</TY_A_Mech_Centurion_W.corePart.parts.0.parts.0.customLabel>
   <TY_A_Mech_Centurion_W.corePart.parts.0.parts.1.parts.1.customLabel>AN/AAS-114 Многоспектральный прицел</TY_A_Mech_Centurion_W.corePart.parts.0.parts.1.parts.1.customLabel>
   <TY_A_Mech_Centurion_W.corePart.parts.0.parts.1.parts.2.customLabel>Инфракрасная система третьего поколения переднего обзора</TY_A_Mech_Centurion_W.corePart.parts.0.parts.1.parts.2.customLabel>
@@ -117,7 +117,7 @@
 
   <!-- 联邦通用机器人形结构 -->
 
-  <TY_A_Mech_Centurion_E.label>Беспилотный модуль механоида Речной Долины</TY_A_Mech_Centurion_E.label>
+  <TY_A_Mech_Centurion_E.label>Беспилотный модуль механоида Долины</TY_A_Mech_Centurion_E.label>
   <TY_A_Mech_Centurion_E.corePart.parts.0.parts.0.customLabel>Броня</TY_A_Mech_Centurion_E.corePart.parts.0.parts.0.customLabel>
   <TY_A_Mech_Centurion_E.corePart.parts.0.parts.1.parts.1.customLabel>AN/AAS-114 Многоспектральный прицел</TY_A_Mech_Centurion_E.corePart.parts.0.parts.1.parts.1.customLabel>
   <TY_A_Mech_Centurion_E.corePart.parts.0.parts.1.parts.2.customLabel>Инфракрасная система третьего поколения переднего обзора</TY_A_Mech_Centurion_E.corePart.parts.0.parts.1.parts.2.customLabel>

@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Lldqdz_AtTJ.label>Крушение: Синтетиков</Lldqdz_AtTJ.label>
+  <Lldqdz_AtTJ.label>Крушение: конструктов Люсии</Lldqdz_AtTJ.label>
   <Lldqdz_AtTJ.description>Армия ревизионистских предателей в ходе гражданской войны устроила резню и чистку в вашем поселении. Офицер, который руководил расправой, получил мягкий приговор, потому что «он просто выполнял приказ», а, выходя из зала суда, ещё и насмехался над вами — двумя выжившими.\n\nНа следующий день полиция ворвалась к вам. Вы подробно рассказали о мотивах и показали труп офицера, которого успели линчевать. Узнав о случившемся, местные жители умоляли суд о снисхождении. Поэтому вас всего лишь сослали на Окраинный Мир.</Lldqdz_AtTJ.description>
-  <Lldqdz_AtTJ.scenario.name>Крушение: Синтетиков</Lldqdz_AtTJ.scenario.name>
-  <Lldqdz_AtTJ.scenario.summary>Осваивайте край мира с двумя Синтетиками Розарии.</Lldqdz_AtTJ.scenario.summary>
+  <Lldqdz_AtTJ.scenario.name>Крушение: конструктов Люсии</Lldqdz_AtTJ.scenario.name>
+  <Lldqdz_AtTJ.scenario.summary>Осваивайте край мира с двумя конструкта Люсиими Розарии.</Lldqdz_AtTJ.scenario.summary>
   <Lldqdz_AtTJ.scenario.description>Армия ревизионистских предателей в ходе гражданской войны устроила резню и чистку в вашем поселении. Офицер, который руководил расправой, получил мягкий приговор, потому что «он просто выполнял приказ», а, выходя из зала суда, ещё и насмехался над вами — двумя выжившими.\n\nНа следующий день полиция ворвалась к вам. Вы подробно рассказали о мотивах и показали труп офицера, которого успели линчевать. Узнав о случившемся, местные жители умоляли суд о снисхождении. Поэтому вас всего лишь сослали на Окраинный Мир.</Lldqdz_AtTJ.scenario.description>
-  <Lldqdz_AtTJ.scenario.parts.1.xenotypeCounts.0.description>Взрослая Розария Синтетик</Lldqdz_AtTJ.scenario.parts.1.xenotypeCounts.0.description>
-  <Cldbx_AtTJ.label>Прикрытая жестокость: Синтетик</Cldbx_AtTJ.label>
+  <Lldqdz_AtTJ.scenario.parts.1.xenotypeCounts.0.description>Взрослая Розария конструкт Люсии</Lldqdz_AtTJ.scenario.parts.1.xenotypeCounts.0.description>
+  <Cldbx_AtTJ.label>Прикрытая жестокость: конструкт Люсии</Cldbx_AtTJ.label>
   <Cldbx_AtTJ.description>Последнее воспоминание — как вы сдираете кожу с врага. Внезапно всё темнеет, и вы приходите в себя уже в спасательной капсуле. Теперь вы на неизвестной планете, и у вас нет ничего, кроме одежды на теле.</Cldbx_AtTJ.description>
-  <Cldbx_AtTJ.scenario.name>Прикрытая жестокость: Синтетик</Cldbx_AtTJ.scenario.name>
+  <Cldbx_AtTJ.scenario.name>Прикрытая жестокость: конструкт Люсии</Cldbx_AtTJ.scenario.name>
   <Cldbx_AtTJ.scenario.summary>Один, с минимальным снаряжением и совершенно не готов. Сможете ли вы выжить? Это крайне сложно и несправедливо.</Cldbx_AtTJ.scenario.summary>
   <Cldbx_AtTJ.scenario.description>Последнее воспоминание — как вы сдираете кожу с врага. Внезапно всё темнеет, и вы приходите в себя уже в спасательной капсуле. Теперь вы на неизвестной планете, и у вас нет ничего, кроме одежды на теле.</Cldbx_AtTJ.scenario.description>
-  <Cldbx_AtTJ.scenario.parts.1.xenotypeCounts.0.description>Взрослый Розарий Синтетик</Cldbx_AtTJ.scenario.parts.1.xenotypeCounts.0.description>
+  <Cldbx_AtTJ.scenario.parts.1.xenotypeCounts.0.description>Взрослый Розарий конструкт Люсии</Cldbx_AtTJ.scenario.parts.1.xenotypeCounts.0.description>
   <TKMXD_AtJ.label>Космические авантюристы</TKMXD_AtJ.label>
-  <TKMXD_AtJ.description>Conventional alien star exploration has grown weary for your crew. After deliberation, you resolved to embark on a true adventure! Having taken every precaution, you set forth on your journey. The vessel's destination: a rim world impossibly distant from the Glitter World.\nUnaware of how long you slept in cryptosleep sarcophagi, you awoke to find that the spaceship could not take off permanently. What awaits you now?</TKMXD_AtJ.description>
+  <TKMXD_AtJ.description>Обычные исследования чужих звёзд надоели вашей команде. После обсуждения вы решили отправиться в настоящее приключение! Приняв все меры предосторожности, вы выступили в путь. Пункт назначения корабля — Окраинный мир, невообразимо далёкий от Сверкающего мира.
+Не зная, как долго вы спали в саркофагах криптосна, вы пробудились и обнаружили, что космический корабль больше не может взлететь. Что ждёт вас теперь?</TKMXD_AtJ.description>
   <TKMXD_AtJ.scenario.name>Космические авантюристы</TKMXD_AtJ.scenario.name>
   <TKMXD_AtJ.scenario.summary>Основной сценарий мода «Аквила» для небольшой команды из 4 пешек. Основан на «Крушении», даёт несколько начальных технологий и оружия. Рекомендуемый сценарий.</TKMXD_AtJ.scenario.summary>
-  <TKMXD_AtJ.scenario.description>Conventional alien star exploration has grown weary for your crew. After deliberation, you resolved to embark on a true adventure! Having taken every precaution, you set forth on your journey. The vessel's destination: a rim world impossibly distant from the Glitter World.\nUnaware of how long you slept in cryptosleep sarcophagi, you awoke to find that the spaceship could not take off permanently. What awaits you now?</TKMXD_AtJ.scenario.description>
+  <TKMXD_AtJ.scenario.description>Обычные исследования чужих звёзд надоели вашей команде. После обсуждения вы решили отправиться в настоящее приключение! Приняв все меры предосторожности, вы выступили в путь. Пункт назначения корабля — Окраинный мир, невообразимо далёкий от Сверкающего мира.\nНе зная, как долго вы спали в саркофагах криптосна, вы пробудились и обнаружили, что космический корабль больше не может взлететь. Что ждёт вас теперь?</TKMXD_AtJ.scenario.description>
 </LanguageData>

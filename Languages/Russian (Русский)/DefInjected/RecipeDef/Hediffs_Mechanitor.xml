@@ -3,13 +3,13 @@
 
   <!-- 损坏机械残骸 -->
 
-  <RemoveYYS_YTCDMechlinkImplantSH.label>Ремонт повреждённого мехлинка Синтетиков</RemoveYYS_YTCDMechlinkImplantSH.label>
-  <RemoveYYS_YTCDMechlinkImplantSH.description>Ремонтирует повреждённый мехлинк Синтетиков в мозге.</RemoveYYS_YTCDMechlinkImplantSH.description>
-  <RemoveYYS_YTCDMechlinkImplantSH.jobString>ремонтирует повреждённый мехлинк Синтетиков в мозге.</RemoveYYS_YTCDMechlinkImplantSH.jobString>
+  <RemoveYYS_YTCDMechlinkImplantSH.label>Ремонт повреждённого мехлинка конструктов Люсии</RemoveYYS_YTCDMechlinkImplantSH.label>
+  <RemoveYYS_YTCDMechlinkImplantSH.description>Ремонтирует повреждённый мехлинк конструктов Люсии в мозге.</RemoveYYS_YTCDMechlinkImplantSH.description>
+  <RemoveYYS_YTCDMechlinkImplantSH.jobString>ремонтирует повреждённый мехлинк конструктов Люсии в мозге.</RemoveYYS_YTCDMechlinkImplantSH.jobString>
 
-  <AddYYS_YTCDMechlinkImplantSH.label>Ремонт повреждённого мехлинка Синтетиков</AddYYS_YTCDMechlinkImplantSH.label>
-  <AddYYS_YTCDMechlinkImplantSH.description>Ремонтирует повреждённый мехлинк Синтетиков в мозге.</AddYYS_YTCDMechlinkImplantSH.description>
-  <AddYYS_YTCDMechlinkImplantSH.jobString>ремонтирует повреждённый мехлинк Синтетиков в мозге.</AddYYS_YTCDMechlinkImplantSH.jobString>
+  <AddYYS_YTCDMechlinkImplantSH.label>Ремонт повреждённого мехлинка конструктов Люсии</AddYYS_YTCDMechlinkImplantSH.label>
+  <AddYYS_YTCDMechlinkImplantSH.description>Ремонтирует повреждённый мехлинк конструктов Люсии в мозге.</AddYYS_YTCDMechlinkImplantSH.description>
+  <AddYYS_YTCDMechlinkImplantSH.jobString>ремонтирует повреждённый мехлинк конструктов Люсии в мозге.</AddYYS_YTCDMechlinkImplantSH.jobString>
 
 
 </LanguageData>

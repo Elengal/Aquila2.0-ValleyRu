@@ -1,103 +1,116 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AtPawn_A_Guard.label>Механитор Красной Гвардии Новой Речной Долины</AtPawn_A_Guard.label>
-  <AtPawn_A_Guard.labelPlural>Механиторы Красной Гвардии Новой Речной Долины</AtPawn_A_Guard.labelPlural>
-  <AtPawn_A_Guard.labelMale>Мужчина-механитор Красной Гвардии Новой Речной Долины</AtPawn_A_Guard.labelMale>
-  <AtPawn_A_Guard.labelMalePlural>Мужчины-механиторы Красной Гвардии Новой Речной Долины</AtPawn_A_Guard.labelMalePlural>
-  <AtPawn_A_Guard.labelFemale>Женщина-механитор Красной Гвардии Новой Речной Долины</AtPawn_A_Guard.labelFemale>
-  <AtPawn_A_Guard.labelFemalePlural>Женщины-механиторы Красной Гвардии Новой Речной Долины</AtPawn_A_Guard.labelFemalePlural>
+  <!-- Chinese: 溪谷赤卫队机械师 -->
+  <AtPawn_A_Guard.label>Механитор Красной Гвардии Долины</AtPawn_A_Guard.label>
+  <AtPawn_A_Guard.labelPlural>Механиторы Красной Гвардии Долины</AtPawn_A_Guard.labelPlural>
+  <AtPawn_A_Guard.labelMale>Механитор Красной Гвардии Долины</AtPawn_A_Guard.labelMale>
+  <AtPawn_A_Guard.labelMalePlural>Механиторы Красной Гвардии Долины</AtPawn_A_Guard.labelMalePlural>
+  <AtPawn_A_Guard.labelFemale>Механитор Красной Гвардии Долины</AtPawn_A_Guard.labelFemale>
+  <AtPawn_A_Guard.labelFemalePlural>Механиторы Красной Гвардии Долины</AtPawn_A_Guard.labelFemalePlural>
 
-  <AtPawn_A_Commander.label>Член Коммунистического Союза Молодёжи Новой Речной Долины</AtPawn_A_Commander.label>
-  <AtPawn_A_Commander.labelPlural>Члены Коммунистического Союза Молодёжи Новой Речной Долины</AtPawn_A_Commander.labelPlural>
-  <AtPawn_A_Commander.labelMale>Мужчина-член Коммунистического Союза Молодёжи Новой Речной Долины</AtPawn_A_Commander.labelMale>
-  <AtPawn_A_Commander.labelMalePlural>Мужчины-члены Коммунистического Союза Молодёжи Новой Речной Долины</AtPawn_A_Commander.labelMalePlural>
-  <AtPawn_A_Commander.labelFemale>Женщина-член Коммунистического Союза Молодёжи Новой Речной Долины</AtPawn_A_Commander.labelFemale>
-  <AtPawn_A_Commander.labelFemalePlural>Женщины-члены Коммунистического Союза Молодёжи Новой Речной Долины</AtPawn_A_Commander.labelFemalePlural>
+  <!-- Chinese: 新溪谷共青团员 -->
+  <AtPawn_A_Commander.label>Комсомолец Новой Долины</AtPawn_A_Commander.label>
+  <AtPawn_A_Commander.labelPlural>Комсомольцы Новой Долины</AtPawn_A_Commander.labelPlural>
+  <AtPawn_A_Commander.labelMale>Комсомолец Новой Долины</AtPawn_A_Commander.labelMale>
+  <AtPawn_A_Commander.labelMalePlural>Комсомольцы Новой Долины</AtPawn_A_Commander.labelMalePlural>
+  <AtPawn_A_Commander.labelFemale>Комсомолка Новой Долины</AtPawn_A_Commander.labelFemale>
+  <AtPawn_A_Commander.labelFemalePlural>Комсомолки Новой Долины</AtPawn_A_Commander.labelFemalePlural>
 
-  <AtPawn_A_mess_officer.label>Претендент на членство в партии Новой Речной Долины</AtPawn_A_mess_officer.label>
-  <AtPawn_A_mess_officer.labelPlural>Претенденты на членство в партии Новой Речной Долины</AtPawn_A_mess_officer.labelPlural>
-  <AtPawn_A_mess_officer.labelMale>Мужчина-претендент на членство в партии Новой Речной Долины</AtPawn_A_mess_officer.labelMale>
-  <AtPawn_A_mess_officer.labelMalePlural>Мужчины-претенденты на членство в партии Новой Речной Долины</AtPawn_A_mess_officer.labelMalePlural>
-  <AtPawn_A_mess_officer.labelFemale>Женщина-претендент на членство в партии Новой Речной Долины</AtPawn_A_mess_officer.labelFemale>
-  <AtPawn_A_mess_officer.labelFemalePlural>Женщины-претенденты на членство в партии Новой Речной Долины</AtPawn_A_mess_officer.labelFemalePlural>
+  <!-- Chinese: 新溪谷入党积极成员 -->
+  <AtPawn_A_mess_officer.label>Кандидат в члены партии Новой Долины</AtPawn_A_mess_officer.label>
+  <AtPawn_A_mess_officer.labelPlural>Кандидаты в члены партии Новой Долины</AtPawn_A_mess_officer.labelPlural>
+  <AtPawn_A_mess_officer.labelMale>Кандидат в члены партии Новой Долины</AtPawn_A_mess_officer.labelMale>
+  <AtPawn_A_mess_officer.labelMalePlural>Кандидаты в члены партии Новой Долины</AtPawn_A_mess_officer.labelMalePlural>
+  <AtPawn_A_mess_officer.labelFemale>Кандидат в члены партии Новой Долины</AtPawn_A_mess_officer.labelFemale>
+  <AtPawn_A_mess_officer.labelFemalePlural>Кандидаты в члены партии Новой Долины</AtPawn_A_mess_officer.labelFemalePlural>
 
-  <AtPawn_A_platoon_leader.label>Член Коммунистической Партии Федерации Новой Речной Долины</AtPawn_A_platoon_leader.label>
-  <AtPawn_A_platoon_leader.labelPlural>Члены Коммунистической Партии Федерации Новой Речной Долины</AtPawn_A_platoon_leader.labelPlural>
-  <AtPawn_A_platoon_leader.labelMale>Мужчина-член Коммунистической Партии Федерации Новой Речной Долины</AtPawn_A_platoon_leader.labelMale>
-  <AtPawn_A_platoon_leader.labelMalePlural>Мужчины-члены Коммунистической Партии Федерации Новой Речной Долины</AtPawn_A_platoon_leader.labelMalePlural>
-  <AtPawn_A_platoon_leader.labelFemale>Женщина-член Коммунистической Партии Федерации Новой Речной Долины</AtPawn_A_platoon_leader.labelFemale>
-  <AtPawn_A_platoon_leader.labelFemalePlural>Женщины-члены Коммунистической Партии Федерации Новой Речной Долины</AtPawn_A_platoon_leader.labelFemalePlural>
+  <!-- Chinese: 新溪谷新联共党员 -->
+  <AtPawn_A_platoon_leader.label>Член Компартии Новой Долины</AtPawn_A_platoon_leader.label>
+  <AtPawn_A_platoon_leader.labelPlural>Члены Компартии Новой Долины</AtPawn_A_platoon_leader.labelPlural>
+  <AtPawn_A_platoon_leader.labelMale>Член Компартии Новой Долины</AtPawn_A_platoon_leader.labelMale>
+  <AtPawn_A_platoon_leader.labelMalePlural>Члены Компартии Новой Долины</AtPawn_A_platoon_leader.labelMalePlural>
+  <AtPawn_A_platoon_leader.labelFemale>Член Компартии Новой Долины</AtPawn_A_platoon_leader.labelFemale>
+  <AtPawn_A_platoon_leader.labelFemalePlural>Члены Компартии Новой Долины</AtPawn_A_platoon_leader.labelFemalePlural>
 
-  <AtPawn_A_company_commander.label>Командир эскадрильи Независимой Красной Гвардии Новой Речной Долины</AtPawn_A_company_commander.label>
-  <AtPawn_A_company_commander.labelPlural>Командиры эскадрилий Независимой Красной Гвардии Новой Речной Долины</AtPawn_A_company_commander.labelPlural>
-  <AtPawn_A_company_commander.labelMale>Мужчина-командир эскадрильи Независимой Красной Гвардии Новой Речной Долины</AtPawn_A_company_commander.labelMale>
-  <AtPawn_A_company_commander.labelMalePlural>Мужчины-командиры эскадрилий Независимой Красной Гвардии Новой Речной Долины</AtPawn_A_company_commander.labelMalePlural>
-  <AtPawn_A_company_commander.labelFemale>Женщина-командир эскадрильи Независимой Красной Гвардии Новой Речной Долины</AtPawn_A_company_commander.labelFemale>
-  <AtPawn_A_company_commander.labelFemalePlural>Женщины-командиры эскадрилий Независимой Красной Гвардии Новой Речной Долины</AtPawn_A_company_commander.labelFemalePlural>
+  <!-- Chinese: 新溪谷独立赤卫队队长 -->
+  <AtPawn_A_company_commander.label>Командир эскадрильи Независимой Красной Гвардии Долины</AtPawn_A_company_commander.label>
+  <AtPawn_A_company_commander.labelPlural>Командиры эскадрилий Независимой Красной Гвардии Долины</AtPawn_A_company_commander.labelPlural>
+  <AtPawn_A_company_commander.labelMale>Командир эскадрильи Независимой Красной Гвардии Долины</AtPawn_A_company_commander.labelMale>
+  <AtPawn_A_company_commander.labelMalePlural>Командиры эскадрилий Независимой Красной Гвардии Долины</AtPawn_A_company_commander.labelMalePlural>
+  <AtPawn_A_company_commander.labelFemale>Командир эскадрильи Независимой Красной Гвардии Долины</AtPawn_A_company_commander.labelFemale>
+  <AtPawn_A_company_commander.labelFemalePlural>Командиры эскадрилий Независимой Красной Гвардии Долины</AtPawn_A_company_commander.labelFemalePlural>
 
-  <AtPawn_A_battalion_commander.label>Командир колонны Независимой Новой Речной Долины</AtPawn_A_battalion_commander.label>
-  <AtPawn_A_battalion_commander.labelPlural>Командиры колонн Независимой Новой Речной Долины</AtPawn_A_battalion_commander.labelPlural>
-  <AtPawn_A_battalion_commander.labelMale>Мужчина-командир колонны Независимой Новой Речной Долины</AtPawn_A_battalion_commander.labelMale>
-  <AtPawn_A_battalion_commander.labelMalePlural>Мужчины-командиры колонн Независимой Новой Речной Долины</AtPawn_A_battalion_commander.labelMalePlural>
-  <AtPawn_A_battalion_commander.labelFemale>Женщина-командир колонны Независимой Новой Речной Долины</AtPawn_A_battalion_commander.labelFemale>
-  <AtPawn_A_battalion_commander.labelFemalePlural>Женщины-командиры колонн Независимой Новой Речной Долины</AtPawn_A_battalion_commander.labelFemalePlural>
+  <!-- Chinese: 新溪谷独立大队队长 -->
+  <AtPawn_A_battalion_commander.label>Командир отдельного батальона Долины</AtPawn_A_battalion_commander.label>
+  <AtPawn_A_battalion_commander.labelPlural>Командиры отдельных батальонов Долины</AtPawn_A_battalion_commander.labelPlural>
+  <AtPawn_A_battalion_commander.labelMale>Командир отдельного батальона Долины</AtPawn_A_battalion_commander.labelMale>
+  <AtPawn_A_battalion_commander.labelMalePlural>Командиры отдельных батальонов Долины</AtPawn_A_battalion_commander.labelMalePlural>
+  <AtPawn_A_battalion_commander.labelFemale>Командир отдельного батальона Долины</AtPawn_A_battalion_commander.labelFemale>
+  <AtPawn_A_battalion_commander.labelFemalePlural>Командиры отдельных батальонов Долины</AtPawn_A_battalion_commander.labelFemalePlural>
 
-  <AtPawn_A_regimental_commander.label>Командир полка Независимой Новой Речной Долины</AtPawn_A_regimental_commander.label>
-  <AtPawn_A_regimental_commander.labelPlural>Командиры полков Независимой Новой Речной Долины</AtPawn_A_regimental_commander.labelPlural>
-  <AtPawn_A_regimental_commander.labelMale>Мужчина-командир полка Независимой Новой Речной Долины</AtPawn_A_regimental_commander.labelMale>
-  <AtPawn_A_regimental_commander.labelMalePlural>Мужчины-командиры полков Независимой Новой Речной Долины</AtPawn_A_regimental_commander.labelMalePlural>
-  <AtPawn_A_regimental_commander.labelFemale>Женщина-командир полка Независимой Новой Речной Долины</AtPawn_A_regimental_commander.labelFemale>
-  <AtPawn_A_regimental_commander.labelFemalePlural>Женщины-командиры полков Независимой Новой Речной Долины</AtPawn_A_regimental_commander.labelFemalePlural>
+  <!-- Chinese: 新溪谷独立团团长 -->
+  <AtPawn_A_regimental_commander.label>Командир отдельного полка Долины</AtPawn_A_regimental_commander.label>
+  <AtPawn_A_regimental_commander.labelPlural>Командиры отдельных полков Долины</AtPawn_A_regimental_commander.labelPlural>
+  <AtPawn_A_regimental_commander.labelMale>Командир отдельного полка Долины</AtPawn_A_regimental_commander.labelMale>
+  <AtPawn_A_regimental_commander.labelMalePlural>Командиры отдельных полков Долины</AtPawn_A_regimental_commander.labelMalePlural>
+  <AtPawn_A_regimental_commander.labelFemale>Командир отдельного полка Долины</AtPawn_A_regimental_commander.labelFemale>
+  <AtPawn_A_regimental_commander.labelFemalePlural>Командиры отдельных полков Долины</AtPawn_A_regimental_commander.labelFemalePlural>
 
-  <AtPawn_A_Guard_A_Trader.label>Капитан Красной Гвардии Речной Долины</AtPawn_A_Guard_A_Trader.label>
-  <AtPawn_A_Guard_A_Trader.labelPlural>Капитаны Красной Гвардии Речной Долины</AtPawn_A_Guard_A_Trader.labelPlural>
+  <!-- Chinese: 溪谷赤卫队队长 -->
+  <AtPawn_A_Guard_A_Trader.label>Капитан Красной Гвардии Долины</AtPawn_A_Guard_A_Trader.label>
+  <AtPawn_A_Guard_A_Trader.labelPlural>Капитаны Красной Гвардии Долины</AtPawn_A_Guard_A_Trader.labelPlural>
 
-  <AtPawn_A_Guard_A_Trader_A.label>Красная Гвардия Новой Речной Долины</AtPawn_A_Guard_A_Trader_A.label>
-  <AtPawn_A_Guard_A_Trader_A.labelPlural>Красные Гвардейцы Новой Речной Долины</AtPawn_A_Guard_A_Trader_A.labelPlural>
+  <!-- Chinese: 新溪谷赤卫队 -->
+  <AtPawn_A_Guard_A_Trader_A.label>Красногвардеец Новой Долины</AtPawn_A_Guard_A_Trader_A.label>
+  <AtPawn_A_Guard_A_Trader_A.labelPlural>Красногвардейцы Новой Долины</AtPawn_A_Guard_A_Trader_A.labelPlural>
 
-  <AtPawn_A_Guard_A_Trader_S.label>Красная Гвардия химической обороны Новой Речной Долины</AtPawn_A_Guard_A_Trader_S.label>
-  <AtPawn_A_Guard_A_Trader_S.labelPlural>Красные Гвардейцы химической обороны Новой Речной Долины</AtPawn_A_Guard_A_Trader_S.labelPlural>
+  <!-- Chinese: 新溪谷防化赤卫队 -->
+  <AtPawn_A_Guard_A_Trader_S.label>Красногвардеец химзащиты Новой Долины</AtPawn_A_Guard_A_Trader_S.label>
+  <AtPawn_A_Guard_A_Trader_S.labelPlural>Красногвардейцы химзащиты Новой Долины</AtPawn_A_Guard_A_Trader_S.labelPlural>
 
-  <AtPawn_A_Light.label>Оператор лазерной призмы Новой Речной Долины</AtPawn_A_Light.label>
-  <AtPawn_A_Light.labelPlural>Операторы лазерной призмы Новой Речной Долины</AtPawn_A_Light.labelPlural>
-  <AtPawn_A_Light.labelMale>Мужчина-оператор лазерной призмы Новой Речной Долины</AtPawn_A_Light.labelMale>
-  <AtPawn_A_Light.labelMalePlural>Мужчины-операторы лазерной призмы Новой Речной Долины</AtPawn_A_Light.labelMalePlural>
-  <AtPawn_A_Light.labelFemale>Женщина-оператор лазерной призмы Новой Речной Долины</AtPawn_A_Light.labelFemale>
-  <AtPawn_A_Light.labelFemalePlural>Женщины-операторы лазерной призмы Новой Речной Долины</AtPawn_A_Light.labelFemalePlural>
+  <!-- Chinese: 新溪谷光棱射手 -->
+  <AtPawn_A_Light.label>Оператор лазерной призмы Долины</AtPawn_A_Light.label>
+  <AtPawn_A_Light.labelPlural>Операторы лазерной призмы Долины</AtPawn_A_Light.labelPlural>
+  <AtPawn_A_Light.labelMale>Оператор лазерной призмы Долины</AtPawn_A_Light.labelMale>
+  <AtPawn_A_Light.labelMalePlural>Операторы лазерной призмы Долины</AtPawn_A_Light.labelMalePlural>
+  <AtPawn_A_Light.labelFemale>Оператор лазерной призмы Долины</AtPawn_A_Light.labelFemale>
+  <AtPawn_A_Light.labelFemalePlural>Операторы лазерной призмы Долины</AtPawn_A_Light.labelFemalePlural>
 
-  <AtPawn_A_LiuDan.label>Оператор гранатомёта Новой Речной Долины</AtPawn_A_LiuDan.label>
-  <AtPawn_A_LiuDan.labelPlural>Операторы гранатомёта Речной Долины</AtPawn_A_LiuDan.labelPlural>
-  <AtPawn_A_LiuDan.labelMale>Мужчина-оператор гранатомёта Новой Речной Долины</AtPawn_A_LiuDan.labelMale>
-  <AtPawn_A_LiuDan.labelMalePlural>Мужчины-операторы гранатомёта Новой Речной Долины</AtPawn_A_LiuDan.labelMalePlural>
-  <AtPawn_A_LiuDan.labelFemale>Женщина-оператор гранатомёта Новой Речной Долины</AtPawn_A_LiuDan.labelFemale>
-  <AtPawn_A_LiuDan.labelFemalePlural>Женщины-операторы гранатомёта Новой Речной Долины</AtPawn_A_LiuDan.labelFemalePlural>
+  <!-- Chinese: 新溪谷榴弹射手 -->
+  <AtPawn_A_LiuDan.label>Гранатомётчик Долины</AtPawn_A_LiuDan.label>
+  <AtPawn_A_LiuDan.labelPlural>Гранатомётчики Долины</AtPawn_A_LiuDan.labelPlural>
+  <AtPawn_A_LiuDan.labelMale>Гранатомётчик Долины</AtPawn_A_LiuDan.labelMale>
+  <AtPawn_A_LiuDan.labelMalePlural>Гранатомётчики Долины</AtPawn_A_LiuDan.labelMalePlural>
+  <AtPawn_A_LiuDan.labelFemale>Гранатомётчица Долины</AtPawn_A_LiuDan.labelFemale>
+  <AtPawn_A_LiuDan.labelFemalePlural>Гранатомётчицы Долины</AtPawn_A_LiuDan.labelFemalePlural>
 
-  <AtPawn_A_GongBing.label>Боевой инженер Новой Речной Долины</AtPawn_A_GongBing.label>
-  <AtPawn_A_GongBing.labelPlural>Боевые инженеры Новой Речной Долины</AtPawn_A_GongBing.labelPlural>
-  <AtPawn_A_GongBing.labelMale>Мужчина-боевой инженер Новой Речной Долины</AtPawn_A_GongBing.labelMale>
-  <AtPawn_A_GongBing.labelMalePlural>Мужчины-боевые инженеры Новой Речной Долины</AtPawn_A_GongBing.labelMalePlural>
-  <AtPawn_A_GongBing.labelFemale>Женщина-боевой инженер Новой Речной Долины</AtPawn_A_GongBing.labelFemale>
-  <AtPawn_A_GongBing.labelFemalePlural>Женщины-боевые инженеры Новой Речной Долины</AtPawn_A_GongBing.labelFemalePlural>
+  <!-- Chinese: 新溪谷工程兵 -->
+  <AtPawn_A_GongBing.label>Боевой инженер Долины</AtPawn_A_GongBing.label>
+  <AtPawn_A_GongBing.labelPlural>Боевые инженеры Долины</AtPawn_A_GongBing.labelPlural>
+  <AtPawn_A_GongBing.labelMale>Боевой инженер Долины</AtPawn_A_GongBing.labelMale>
+  <AtPawn_A_GongBing.labelMalePlural>Боевые инженеры Долины</AtPawn_A_GongBing.labelMalePlural>
+  <AtPawn_A_GongBing.labelFemale>Боевой инженер Долины</AtPawn_A_GongBing.labelFemale>
+  <AtPawn_A_GongBing.labelFemalePlural>Боевые инженеры Долины</AtPawn_A_GongBing.labelFemalePlural>
 
 
   <!-- <PawnKindDef ParentName="AtlasBase">
-		<defName>AtPawn_A_JueDou</defName>
-		<label>溪谷突击战士</label>
-		<combatPower>90</combatPower>
-		<apparelRequired>
-			<li>Apparel_ShieldBelt</li>
-		</apparelRequired>
-		<minTitleRequired>Freeholder</minTitleRequired>
-			<biocodeWeaponChance>1</biocodeWeaponChance>
-		<weaponMoney>
-			<min>2500</min>
-			<max>3000</max>
-		</weaponMoney>
-		<weaponTags>
-			<li>PLZ_A_AtWT</li>
-			<li>GMC_A_AtWT</li>
-		</weaponTags>
+                <defName>AtPawn_A_JueDou</defName>
+                <label>溪谷突击战士</label>
+                <combatPower>90</combatPower>
+                <apparelRequired>
+                        <li>Apparel_ShieldBelt</li>
+                </apparelRequired>
+                <minTitleRequired>Freeholder</minTitleRequired>
+                        <biocodeWeaponChance>1</biocodeWeaponChance>
+                <weaponMoney>
+                        <min>2500</min>
+                        <max>3000</max>
+                </weaponMoney>
+                <weaponTags>
+                        <li>PLZ_A_AtWT</li>
+                        <li>GMC_A_AtWT</li>
+                </weaponTags>
                      <skills Inherit="False">
                         <li>
                            <skill>Shooting</skill>
@@ -108,32 +121,35 @@
                            <range>12~16</range>
                         </li>
                      </skills>
-		<backstoryFiltersOverride>
-			<li>
-				<categories>
-					<li>溪谷近战</li>
-					<li>溪谷童年</li>
-				</categories>
-			</li>
-		</backstoryFiltersOverride>
-	</PawnKindDef> -->
+                <backstoryFiltersOverride>
+                        <li>
+                                <categories>
+                                        <li>溪谷近战</li>
+                                        <li>溪谷童年</li>
+                                </categories>
+                        </li>
+                </backstoryFiltersOverride>
+        </PawnKindDef> -->
 
-  <AtPawn_A_FanZJ.label>Группа противотанковой обороны Новой Речной Долины</AtPawn_A_FanZJ.label>
-  <AtPawn_A_FanZJ.labelPlural>Группы противотанковой обороны Новой Речной Долины</AtPawn_A_FanZJ.labelPlural>
+  <!-- Chinese: 新溪谷反装甲组 -->
+  <AtPawn_A_FanZJ.label>Противотанковая группа Долины</AtPawn_A_FanZJ.label>
+  <AtPawn_A_FanZJ.labelPlural>Противотанковые группы Долины</AtPawn_A_FanZJ.labelPlural>
 
-  <AtPawn_A_HPSS.label>Оператор артиллерии Новой Речной Долины</AtPawn_A_HPSS.label>
-  <AtPawn_A_HPSS.labelPlural>Операторы артиллерии Новой Речной Долины</AtPawn_A_HPSS.labelPlural>
-  <AtPawn_A_HPSS.labelMale>Мужчина-оператор артиллерии Новой Речной Долины</AtPawn_A_HPSS.labelMale>
-  <AtPawn_A_HPSS.labelMalePlural>Мужчины-операторы артиллерии Новой Речной Долины</AtPawn_A_HPSS.labelMalePlural>
-  <AtPawn_A_HPSS.labelFemale>Женщина-оператор артиллерии Новой Речной Долины</AtPawn_A_HPSS.labelFemale>
-  <AtPawn_A_HPSS.labelFemalePlural>Женщины-операторы артиллерии Новой Речной Долины</AtPawn_A_HPSS.labelFemalePlural>
+  <!-- Chinese: 新溪谷火炮射手 -->
+  <AtPawn_A_HPSS.label>Артиллерист Долины</AtPawn_A_HPSS.label>
+  <AtPawn_A_HPSS.labelPlural>Артиллеристы Долины</AtPawn_A_HPSS.labelPlural>
+  <AtPawn_A_HPSS.labelMale>Артиллерист Долины</AtPawn_A_HPSS.labelMale>
+  <AtPawn_A_HPSS.labelMalePlural>Артиллеристы Долины</AtPawn_A_HPSS.labelMalePlural>
+  <AtPawn_A_HPSS.labelFemale>Артиллерист Долины</AtPawn_A_HPSS.labelFemale>
+  <AtPawn_A_HPSS.labelFemalePlural>Артиллеристы Долины</AtPawn_A_HPSS.labelFemalePlural>
 
-  <AtPawn_A_Leader.label>Боевой офицер Новой Речной Долины</AtPawn_A_Leader.label>
-  <AtPawn_A_Leader.labelPlural>Боевые офицеры Новой Речной Долины</AtPawn_A_Leader.labelPlural>
-  <AtPawn_A_Leader.labelMale>Мужчина-боевой офицер Новой Речной Долины</AtPawn_A_Leader.labelMale>
-  <AtPawn_A_Leader.labelMalePlural>Мужчины-боевые офицеры Новой Речной Долины</AtPawn_A_Leader.labelMalePlural>
-  <AtPawn_A_Leader.labelFemale>Женщина-боевой офицер Новой Речной Долины</AtPawn_A_Leader.labelFemale>
-  <AtPawn_A_Leader.labelFemalePlural>Женщины-боевые офицеры Новой Речной Долины</AtPawn_A_Leader.labelFemalePlural>
+  <!-- Chinese: 新溪谷指战员 -->
+  <AtPawn_A_Leader.label>Командир Долины</AtPawn_A_Leader.label>
+  <AtPawn_A_Leader.labelPlural>Командиры Долины</AtPawn_A_Leader.labelPlural>
+  <AtPawn_A_Leader.labelMale>Командир Долины</AtPawn_A_Leader.labelMale>
+  <AtPawn_A_Leader.labelMalePlural>Командиры Долины</AtPawn_A_Leader.labelMalePlural>
+  <AtPawn_A_Leader.labelFemale>Командир Долины</AtPawn_A_Leader.labelFemale>
+  <AtPawn_A_Leader.labelFemalePlural>Командиры Долины</AtPawn_A_Leader.labelFemalePlural>
 
 
   <!-- EN: 溪谷反装甲组 -->

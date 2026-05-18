@@ -11,7 +11,7 @@
   <Mech_A_BRM3A_Corpse.label>Труп самоходной колёсной гаубицы «Охотничий тигр»-3</Mech_A_BRM3A_Corpse.label>
   <Mech_A_BRM3A_Corpse.description>Труп самоходной колёсной гаубицы «Охотничий тигр»-3</Mech_A_BRM3A_Corpse.description>
   <Mech_A_MiniUMV.label>Самоходное колёсное миномётное транспортное средство "Праща"-7</Mech_A_MiniUMV.label>
-  <Mech_A_MiniUMV.description>Самоходное колёсное миномётное транспортное средство "Праща"-7 — это небольшой механоид поддержки огня, разработанный Федерацией Речной Долины. В наши дни оно чаще назначается для использования Красной Гвардией.\n*Примечание: может запускать только стандартные миномётные боеприпасы.</Mech_A_MiniUMV.description>
+  <Mech_A_MiniUMV.description>Самоходное колёсное миномётное транспортное средство "Праща"-7 — это небольшой механоид поддержки огня, разработанный Федерацией Долины. В наши дни оно чаще назначается для использования Красной Гвардией.\n*Примечание: может запускать только стандартные миномётные боеприпасы.</Mech_A_MiniUMV.description>
   <Mech_A_MiniUMV.tools.0.label>Таран</Mech_A_MiniUMV.tools.0.label>
   <Mech_A_MiniUMV_Corpse.label>Труп самоходного колёсного миномёта «Праща»-7</Mech_A_MiniUMV_Corpse.label>
   <Mech_A_MiniUMV_Corpse.description>Труп самоходного колёсного миномёта «Праща»-7</Mech_A_MiniUMV_Corpse.description>
@@ -21,7 +21,7 @@
   <Mech_A_JiXieTi_Corpse.label>Труп огнемётной машины</Mech_A_JiXieTi_Corpse.label>
   <Mech_A_JiXieTi_Corpse.description>Труп огнемётной машины</Mech_A_JiXieTi_Corpse.description>
   <Mech_A_XGJQG.label>Мехпёс "Доберман"-4</Mech_A_XGJQG.label>
-  <Mech_A_XGJQG.description>Серия мехпсов "Доберман"-4 — это общий термин для серии лёгких роботов в форме собак, разработанных Федерацией Речной Долины в 5460-х и 5470-х годах. В прошлом они обычно служили для привлечения огня для солдат в городских боях. В наши дни они чаще используются Красной Гвардией пионерских правительств Красного Сектора.</Mech_A_XGJQG.description>
+  <Mech_A_XGJQG.description>Серия мехпсов "Доберман"-4 — это общий термин для серии лёгких роботов в форме собак, разработанных Федерацией Долины в 5460-х и 5470-х годах. В прошлом они обычно служили для привлечения огня для солдат в городских боях. В наши дни они чаще используются Красной Гвардией пионерских правительств Красного Сектора.</Mech_A_XGJQG.description>
   <Mech_A_XGJQG.tools.0.label>Удар</Mech_A_XGJQG.tools.0.label>
   <Mech_A_XGJQG_Corpse.label>Труп мехапса «Доберман»-4</Mech_A_XGJQG_Corpse.label>
   <Mech_A_XGJQG_Corpse.description>Труп мехапса «Доберман»-4</Mech_A_XGJQG_Corpse.description>

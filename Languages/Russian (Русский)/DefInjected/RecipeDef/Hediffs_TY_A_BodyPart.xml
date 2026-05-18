@@ -11,11 +11,11 @@
   <TY_A_Fighter_chip_AA.description>Изготовить ОГАС: Базовый чип стрельбы.</TY_A_Fighter_chip_AA.description>
   <TY_A_Fighter_chip_AA.jobString>изготавливает</TY_A_Fighter_chip_AA.jobString>
 
-  <TY_A_ShingLanArm_AA.label>Изготовить сельскохозяйственную руку Речной Долины</TY_A_ShingLanArm_AA.label>
-  <TY_A_ShingLanArm_AA.description>Изготовить сельскохозяйственную руку Речной Долины.</TY_A_ShingLanArm_AA.description>
+  <TY_A_ShingLanArm_AA.label>Изготовить сельскохозяйственную руку Долины</TY_A_ShingLanArm_AA.label>
+  <TY_A_ShingLanArm_AA.description>Изготовить сельскохозяйственную руку Долины.</TY_A_ShingLanArm_AA.description>
   <TY_A_ShingLanArm_AA.jobString>изготавливает</TY_A_ShingLanArm_AA.jobString>
 
-  <TY_A_ShingLanArm_AAA.label>Установить сельскохозяйственную руку Речной Долины</TY_A_ShingLanArm_AAA.label>
+  <TY_A_ShingLanArm_AAA.label>Установить сельскохозяйственную руку Долины</TY_A_ShingLanArm_AAA.label>
   <TY_A_ShingLanArm_AAA.description>Проводит операцию по установке.</TY_A_ShingLanArm_AAA.description>
 
 

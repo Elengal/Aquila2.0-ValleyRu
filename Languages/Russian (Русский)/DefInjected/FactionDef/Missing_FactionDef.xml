@@ -3,7 +3,7 @@
 
   <!-- Фракции -->
   <AtPlayer_Factions.leaderTitle>лидер</AtPlayer_Factions.leaderTitle>
-  <AtPlayer_Factions.pawnSingular>Синтетик</AtPlayer_Factions.pawnSingular>
+  <AtPlayer_Factions.pawnSingular>конструкт Люсии</AtPlayer_Factions.pawnSingular>
 
   <RebelliousSlaves.leaderTitle>лидер</RebelliousSlaves.leaderTitle>
   <RebelliousSlaves.messageDefendersAttacking>{0} из {1} атакует ваш {2}.</RebelliousSlaves.messageDefendersAttacking>

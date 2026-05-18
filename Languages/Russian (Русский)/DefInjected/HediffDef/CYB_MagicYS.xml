@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Magic_AtCYAddiction.description>Жадность разрушает чистоту души человека, ибо, к несчастью, чем больше приобретаешь, тем жаднее становишься, и действительно никогда не можешь удовлетворить себя. — Ангел</Magic_AtCYAddiction.description>
-  <Magic_AtCYAddiction.label><![CDATA[<color=#E93EFF><b>Pervian Addiction</b></color>]]></Magic_AtCYAddiction.label>
+  <Magic_AtCYAddiction.label><![CDATA[<color=#E93EFF><b>Зависимость от Первияна</b></color>]]></Magic_AtCYAddiction.label>
   <Magic_AtCYAddiction.stages.1.label>ломка</Magic_AtCYAddiction.stages.1.label>
   <Magic_AtCYHigh.description>Первиян применяется солдатами в Сумеречных войнах между звёздными империями. Относительно дешёв в производстве и значительно усиливает боеспособность. Сейчас активно используется Церковью Славы в новой Сумеречной войне для тактики быстрого прорыва.</Magic_AtCYHigh.description>
-  <Magic_AtCYHigh.label><![CDATA[<color=#E93EFF><b>Pervian Cracking Stimulation Effect</b></color>]]></Magic_AtCYHigh.label>
+  <Magic_AtCYHigh.label><![CDATA[<color=#E93EFF><b>Эффект боевой стимуляции Первияна</b></color>]]></Magic_AtCYHigh.label>
   <Magic_AtCYHigh.labelNoun>Эффект стимуляции Первияна</Magic_AtCYHigh.labelNoun>
 </LanguageData>

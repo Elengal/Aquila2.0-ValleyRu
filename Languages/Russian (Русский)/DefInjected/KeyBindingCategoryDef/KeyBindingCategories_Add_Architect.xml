@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Architect_XGBuildingTab.label>Вкладка мебели Речной Долины</Architect_XGBuildingTab.label>
-  <Architect_XGBuildingTab.description>Вкладка мебели Речной Долины в меню Архитектора.</Architect_XGBuildingTab.description>
+  <Architect_XGBuildingTab.label>Вкладка мебели Долины</Architect_XGBuildingTab.label>
+  <Architect_XGBuildingTab.description>Вкладка мебели Долины в меню Архитектора.</Architect_XGBuildingTab.description>
   <Architect_AtlasTab.label>Вкладка сооружений Аквилы</Architect_AtlasTab.label>
   <Architect_AtlasTab.description>Вкладка «Сооружения Аквилы» в меню архитектора.</Architect_AtlasTab.description>
 </LanguageData>

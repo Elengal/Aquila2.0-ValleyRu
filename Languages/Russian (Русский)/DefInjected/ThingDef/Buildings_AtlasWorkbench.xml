@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <TY_A_Workbench_Building.label>Производственное предприятие сырья Речной Долины</TY_A_Workbench_Building.label>
+  <TY_A_Workbench_Building.label>Производственное предприятие сырья Долины</TY_A_Workbench_Building.label>
   <TY_A_Workbench_Building.description>Камера высокоскоростного штамповочного давления создаёт огромное давление, которое позволяет сырью плавиться более эффективно и быстро. Своё название получило благодаря принципу работы и исключительно мощной производственной способности.</TY_A_Workbench_Building.description>
-  <TY_A_Workbench_Building_Blueprint.label>Производство сырья Речной Долины (чертёж)</TY_A_Workbench_Building_Blueprint.label>
-  <TY_A_Workbench_Building_Blueprint_Install.label>Производство сырья Речной Долины (чертёж)</TY_A_Workbench_Building_Blueprint_Install.label>
-  <TY_A_Workbench_Building_Frame.label>Производство сырья Речной Долины (строительство)</TY_A_Workbench_Building_Frame.label>
+  <TY_A_Workbench_Building_Blueprint.label>Производство сырья Долины (чертёж)</TY_A_Workbench_Building_Blueprint.label>
+  <TY_A_Workbench_Building_Blueprint_Install.label>Производство сырья Долины (чертёж)</TY_A_Workbench_Building_Blueprint_Install.label>
+  <TY_A_Workbench_Building_Frame.label>Производство сырья Долины (строительство)</TY_A_Workbench_Building_Frame.label>
   <TY_A_Workbench_Building_Frame.description>Высокоскоростная камера штамповочного давления создаёт огромное давление, позволяющее сырью плавиться более эффективно и быстро. Название происходит от принципа работы и исключительно мощной производительности.</TY_A_Workbench_Building_Frame.description>
   <TY_Scientific_research.label>Модуль хранения знаний и вычислений</TY_Scientific_research.label>
   <TY_Scientific_research.description>Подключаясь к сети ОГАС, он автоматически загружает научные достижения Федерации и сохраняет их на жёстких дисках. Эта специальная технология используется Федерацией для помощи в технологическом развитии дружественных народов окраинных миров.\n\nОдновременно ускоряет скорость обработки компьютера для улучшения научных исследований.</TY_Scientific_research.description>
@@ -18,14 +18,14 @@
   <TY_A_Corpse_Oil_Smelter_Blueprint_Install.label>Установка переработки трупного масла (чертёж)</TY_A_Corpse_Oil_Smelter_Blueprint_Install.label>
   <TY_A_Corpse_Oil_Smelter_Frame.label>Установка переработки трупного масла (строительство)</TY_A_Corpse_Oil_Smelter_Frame.label>
   <TY_A_Corpse_Oil_Smelter_Frame.description>Высокоскоростная камера штамповочного давления создаёт огромное давление, позволяющее сырью плавиться более эффективно и быстро. Название происходит от принципа работы и исключительно мощной производительности.</TY_A_Corpse_Oil_Smelter_Frame.description>
-  <TY_A_XG_PengRenTai.label>Кухонная станция Речной Долины</TY_A_XG_PengRenTai.label>
+  <TY_A_XG_PengRenTai.label>Кухонная станция Долины</TY_A_XG_PengRenTai.label>
   <TY_A_XG_PengRenTai.description>Различные приправы, кухонная утварь, кастрюли, выдвижная разделочная доска слева и место для хранения под плитой для различных зерновых, со встроенной микроволновкой для разогрева. Однако раковина для овощей относительно мала.</TY_A_XG_PengRenTai.description>
-  <TY_A_XG_PengRenTai_Blueprint.label>Кухонная станция Речной Долины (чертёж)</TY_A_XG_PengRenTai_Blueprint.label>
-  <TY_A_XG_PengRenTai_Blueprint_Install.label>Кухонная станция Речной Долины (чертёж)</TY_A_XG_PengRenTai_Blueprint_Install.label>
-  <TY_A_XG_PengRenTai_Frame.label>Кухонная станция Речной Долины (строительство)</TY_A_XG_PengRenTai_Frame.label>
+  <TY_A_XG_PengRenTai_Blueprint.label>Кухонная станция Долины (чертёж)</TY_A_XG_PengRenTai_Blueprint.label>
+  <TY_A_XG_PengRenTai_Blueprint_Install.label>Кухонная станция Долины (чертёж)</TY_A_XG_PengRenTai_Blueprint_Install.label>
+  <TY_A_XG_PengRenTai_Frame.label>Кухонная станция Долины (строительство)</TY_A_XG_PengRenTai_Frame.label>
   <TY_A_XG_PengRenTai_Frame.description>Различные приправы, кухонная утварь, кастрюли, выдвижная разделочная доска слева и место для хранения круп под плитой, со встроенной микроволновкой для разогрева. Однако раковина для овощей довольно маленькая.</TY_A_XG_PengRenTai_Frame.description>
   <RV_Disappearer_JailTransporter.label>Транспортёр заключённых</RV_Disappearer_JailTransporter.label>
-  <RV_Disappearer_JailTransporter.description>Перевозя заключённых, которых вы держите (обычно принадлежащих враждебным Федерации Речной Долины фракциям), в трудовые лагеря перевоспитания Федерации, вы обычно можете получить архивы, документирующие ваши военные заслуги. Затем, найдя караван заслуг, вы можете получить соответствующие записи достижений заслуг (титулы).\nВысокозначимые цели, такие как имперские дворяне и лидеры пиратов, могут быть обменены на большое количество очков заслуг.\nЭтот метод постепенно устаревает; рекомендуется использовать консоль связи, которая предлагает лучшие награды.</RV_Disappearer_JailTransporter.description>
+  <RV_Disappearer_JailTransporter.description>Перевозя заключённых, которых вы держите (обычно принадлежащих враждебным Федерации Долины фракциям), в трудовые лагеря перевоспитания Федерации, вы обычно можете получить архивы, документирующие ваши военные заслуги. Затем, найдя караван заслуг, вы можете получить соответствующие записи достижений заслуг (титулы).\nВысокозначимые цели, такие как имперские дворяне и лидеры пиратов, могут быть обменены на большое количество очков заслуг.\nЭтот метод постепенно устаревает; рекомендуется использовать консоль связи, которая предлагает лучшие награды.</RV_Disappearer_JailTransporter.description>
   <RV_Disappearer_JailTransporter.comps.2.wantedList.0.label>Архив высокого титула</RV_Disappearer_JailTransporter.comps.2.wantedList.0.label>
   <RV_Disappearer_JailTransporter.comps.2.wantedList.1.label>Архив среднего титула</RV_Disappearer_JailTransporter.comps.2.wantedList.1.label>
   <RV_Disappearer_JailTransporter.comps.2.wantedList.2.label>Имперцы</RV_Disappearer_JailTransporter.comps.2.wantedList.2.label>
@@ -39,7 +39,7 @@
   <RV_Disappearer_JailTransporter.comps.2.wantedList.10.label>Пираты</RV_Disappearer_JailTransporter.comps.2.wantedList.10.label>
   <RV_Disappearer_JailTransporter_Blueprint.label>Транспортировщик пленников (чертёж)</RV_Disappearer_JailTransporter_Blueprint.label>
   <RV_Disappearer_JailTransporter_Frame.label>Транспортировщик пленников (строительство)</RV_Disappearer_JailTransporter_Frame.label>
-  <RV_Disappearer_JailTransporter_Frame.description>Перевозя удерживаемых вами пленников (обычно принадлежащих к враждебным Федерации Речной Долины фракциям) в Трудовые лагеря перевоспитания Федерации, вы обычно можете получить архивы с документацией ваших военных заслуг. Затем, найдя Караван заслуг, вы можете получить соответствующие Записи о заслугах (Титулы).\nЦенные цели, такие как имперские дворяне и лидеры пиратов, могут быть обменяны на большое количество очков заслуг.\nЭтот метод постепенно устаревает; рекомендуется использовать консоль связи, предлагающую лучшие награды.</RV_Disappearer_JailTransporter_Frame.description>
+  <RV_Disappearer_JailTransporter_Frame.description>Перевозя удерживаемых вами пленников (обычно принадлежащих к враждебным Федерации Долины фракциям) в Трудовые лагеря перевоспитания Федерации, вы обычно можете получить архивы с документацией ваших военных заслуг. Затем, найдя Караван заслуг, вы можете получить соответствующие Записи о заслугах (Титулы).\nЦенные цели, такие как имперские дворяне и лидеры пиратов, могут быть обменяны на большое количество очков заслуг.\nЭтот метод постепенно устаревает; рекомендуется использовать консоль связи, предлагающую лучшие награды.</RV_Disappearer_JailTransporter_Frame.description>
   <TY_B_RV_Disappearer_JailTransporter.label>Транспортёр заключённых для обмена на выкуп</TY_B_RV_Disappearer_JailTransporter.label>
   <TY_B_RV_Disappearer_JailTransporter.description>Можно использовать это для передачи другим фракциям в обмен на выкуп, однако следует отметить, что только крупные фракции могут обмениваться.</TY_B_RV_Disappearer_JailTransporter.description>
   <TY_B_RV_Disappearer_JailTransporter.comps.2.wantedList.0.label>Пришельцы</TY_B_RV_Disappearer_JailTransporter.comps.2.wantedList.0.label>
@@ -55,9 +55,9 @@
   <TY_A_Nano_industrial_manufacturing_station.label>Нано-промышленная производственная станция</TY_A_Nano_industrial_manufacturing_station.label>
   <TY_A_Nano_industrial_manufacturing_station.description>Временная мера, позже будет исправлено. Ну, проще говоря, не было времени писать C#. Придётся подождать отпуска, чтобы найти время для его доработки, так что пока это просто обычная машина.</TY_A_Nano_industrial_manufacturing_station.description>
   <TY_A_Nano_industrial_manufacturing_station_Blueprint_Install.label>纳米工业制造站 (чертёж)</TY_A_Nano_industrial_manufacturing_station_Blueprint_Install.label>
-  <Blueprint_TY_A_Workbench_Building.label>Производственное предприятие сырья Речной Долины (чертёж)</Blueprint_TY_A_Workbench_Building.label>
-  <Blueprint_Install_TY_A_Workbench_Building.label>Производственное предприятие сырья Речной Долины (чертёж)</Blueprint_Install_TY_A_Workbench_Building.label>
-  <Frame_TY_A_Workbench_Building.label>Производственное предприятие сырья Речной Долины (строительство)</Frame_TY_A_Workbench_Building.label>
+  <Blueprint_TY_A_Workbench_Building.label>Производственное предприятие сырья Долины (чертёж)</Blueprint_TY_A_Workbench_Building.label>
+  <Blueprint_Install_TY_A_Workbench_Building.label>Производственное предприятие сырья Долины (чертёж)</Blueprint_Install_TY_A_Workbench_Building.label>
+  <Frame_TY_A_Workbench_Building.label>Производственное предприятие сырья Долины (строительство)</Frame_TY_A_Workbench_Building.label>
   <Frame_TY_A_Workbench_Building.description>Камера высокоскоростного штамповочного давления создаёт огромное давление, которое позволяет сырью плавиться более эффективно и быстро. Своё название получило благодаря принципу работы и исключительно мощной производственной способности.</Frame_TY_A_Workbench_Building.description>
   <Blueprint_TY_Scientific_research.label>Модуль хранения знаний и вычислений (чертёж)</Blueprint_TY_Scientific_research.label>
   <Blueprint_Install_TY_Scientific_research.label>Модуль хранения знаний и вычислений (чертёж)</Blueprint_Install_TY_Scientific_research.label>
@@ -67,13 +67,13 @@
   <Blueprint_Install_TY_A_Corpse_Oil_Smelter.label>Перерабатывающее предприятие трупного масла (чертёж)</Blueprint_Install_TY_A_Corpse_Oil_Smelter.label>
   <Frame_TY_A_Corpse_Oil_Smelter.label>Перерабатывающее предприятие трупного масла (строительство)</Frame_TY_A_Corpse_Oil_Smelter.label>
   <Frame_TY_A_Corpse_Oil_Smelter.description>Камера высокоскоростного штамповочного давления создаёт огромное давление, которое позволяет сырью плавиться более эффективно и быстро. Своё название получило благодаря принципу работы и исключительно мощной производственной способности.</Frame_TY_A_Corpse_Oil_Smelter.description>
-  <Blueprint_TY_A_XG_PengRenTai.label>Кухонная станция Речной Долины (чертёж)</Blueprint_TY_A_XG_PengRenTai.label>
-  <Blueprint_Install_TY_A_XG_PengRenTai.label>Кухонная станция Речной Долины (чертёж)</Blueprint_Install_TY_A_XG_PengRenTai.label>
-  <Frame_TY_A_XG_PengRenTai.label>Кухонная станция Речной Долины (строительство)</Frame_TY_A_XG_PengRenTai.label>
+  <Blueprint_TY_A_XG_PengRenTai.label>Кухонная станция Долины (чертёж)</Blueprint_TY_A_XG_PengRenTai.label>
+  <Blueprint_Install_TY_A_XG_PengRenTai.label>Кухонная станция Долины (чертёж)</Blueprint_Install_TY_A_XG_PengRenTai.label>
+  <Frame_TY_A_XG_PengRenTai.label>Кухонная станция Долины (строительство)</Frame_TY_A_XG_PengRenTai.label>
   <Frame_TY_A_XG_PengRenTai.description>Различные приправы, кухонная утварь, кастрюли, выдвижная разделочная доска слева и место для хранения под плитой для различных зерновых, со встроенной микроволновкой для разогрева. Однако раковина для овощей относительно мала.</Frame_TY_A_XG_PengRenTai.description>
   <Blueprint_RV_Disappearer_JailTransporter.label>Транспортёр заключённых (чертёж)</Blueprint_RV_Disappearer_JailTransporter.label>
   <Frame_RV_Disappearer_JailTransporter.label>Транспортёр заключённых (строительство)</Frame_RV_Disappearer_JailTransporter.label>
-  <Frame_RV_Disappearer_JailTransporter.description>Перевозя заключённых, которых вы держите (обычно принадлежащих враждебным Федерации Речной Долины фракциям), в трудовые лагеря перевоспитания Федерации, вы обычно можете получить архивы, документирующие ваши военные заслуги. Затем, найдя караван заслуг, вы можете получить соответствующие записи достижений заслуг (титулы).\nВысокозначимые цели, такие как имперские дворяне и лидеры пиратов, могут быть обменены на большое количество очков заслуг.\nЭтот метод постепенно устаревает; рекомендуется использовать консоль связи, которая предлагает лучшие награды.</Frame_RV_Disappearer_JailTransporter.description>
+  <Frame_RV_Disappearer_JailTransporter.description>Перевозя заключённых, которых вы держите (обычно принадлежащих враждебным Федерации Долины фракциям), в трудовые лагеря перевоспитания Федерации, вы обычно можете получить архивы, документирующие ваши военные заслуги. Затем, найдя караван заслуг, вы можете получить соответствующие записи достижений заслуг (титулы).\nВысокозначимые цели, такие как имперские дворяне и лидеры пиратов, могут быть обменены на большое количество очков заслуг.\nЭтот метод постепенно устаревает; рекомендуется использовать консоль связи, которая предлагает лучшие награды.</Frame_RV_Disappearer_JailTransporter.description>
   <Blueprint_TY_B_RV_Disappearer_JailTransporter.label>Транспортёр заключённых для обмена на выкуп (чертёж)</Blueprint_TY_B_RV_Disappearer_JailTransporter.label>
   <Frame_TY_B_RV_Disappearer_JailTransporter.label>Транспортёр заключённых для обмена на выкуп (строительство)</Frame_TY_B_RV_Disappearer_JailTransporter.label>
   <Frame_TY_B_RV_Disappearer_JailTransporter.description>Можно использовать это для передачи другим фракциям в обмен на выкуп, однако следует отметить, что только крупные фракции могут обмениваться.</Frame_TY_B_RV_Disappearer_JailTransporter.description>

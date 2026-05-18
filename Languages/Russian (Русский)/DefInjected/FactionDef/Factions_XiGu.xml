@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Atlas_Faction.label>Федерация Долины Рек</Atlas_Faction.label>
-  <Atlas_Faction.description>Союз колонистов, когда‑то бежавших с Земли через червоточину в созвездие Орла. Столкнувшись с враждебной «эфирной» средой, они выжили ценой генетических и кибернетических изменений и со временем оформились в новый народ — Драйверов. Пережив эпоху войн, диктатур и революций, они объединились в Федерацию и стремятся навести порядок на окраинных мирах — вопреки сопротивлению пиратов и военачальников.</Atlas_Faction.description>
-  <Atlas_Faction.fixedName>Федерация Долины Рек</Atlas_Faction.fixedName>
-  <Atlas_Faction.pawnsPlural>граждане Федерации</Atlas_Faction.pawnsPlural>
-  <Atlas_Faction.leaderTitle>Генеральный секретарь</Atlas_Faction.leaderTitle>
+  <Atlas_Faction.label>&lt;color=#A02A22&gt;&lt;b&gt;Революционная власть Красного Сектора&lt;/b&gt;&lt;/color&gt;</Atlas_Faction.label>
+  <Atlas_Faction.description>Провал &lt;color=#A02A22&gt;&lt;b&gt;бюрократических избирательных реформ&lt;/b&gt;&lt;/color&gt; привёл к тому, что прежняя Федерация Долины была реорганизована в суверенную конфедерацию, служащую прикрытием для &lt;color=#A02A22&gt;&lt;b&gt;краснокожих военачальников&lt;/b&gt;&lt;/color&gt;.\n\n&lt;color=#A02A22&gt;&lt;b&gt;Революционеры&lt;/b&gt;&lt;/color&gt;, бежавшие от окружения военачальников на окраинные миры, вновь установили связь с &lt;color=#A02A22&gt;&lt;b&gt;товарищами&lt;/b&gt;&lt;/color&gt; среди звёзд.\n\nТеперь Красные Сектора, хранящие &lt;color=#A02A22&gt;&lt;b&gt;наследие реформ&lt;/b&gt;&lt;/color&gt;, воссоздали Новую Республику, Новую Красную Армию и готовятся вновь &lt;color=#A02A22&gt;&lt;b&gt;поднять красное знамя и положить конец гражданской войне&lt;/b&gt;&lt;/color&gt;</Atlas_Faction.description>
+  <Atlas_Faction.fixedName>&lt;color=#A02A22&gt;&lt;b&gt;Новая Федерация Долины&lt;/b&gt;&lt;/color&gt;</Atlas_Faction.fixedName>
+  <Atlas_Faction.pawnsPlural>Новая Красная Армия</Atlas_Faction.pawnsPlural>
+  <Atlas_Faction.leaderTitle>Старший командир Красной Армии</Atlas_Faction.leaderTitle>
 
 
   <!-- EN: <color=#00FFFF><b>溪谷联邦</b></color> -->

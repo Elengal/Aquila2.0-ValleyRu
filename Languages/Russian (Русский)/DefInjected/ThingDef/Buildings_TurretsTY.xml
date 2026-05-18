@@ -20,19 +20,19 @@
   <TY_N_BSlf_Bulding_Frame.description>Автоматическая пушечная крепость отличается скорострельностью и мощным огнём, особенно эффективна против скоплений врагов. Тактическое сочетание с точными турелями максимизирует боеспособность.</TY_N_BSlf_Bulding_Frame.description>
   <TY_BSlf_TurretWeapon.label>Автоматическая пушка</TY_BSlf_TurretWeapon.label>
   <TY_N_Bslf_Bullet.label>Снаряд автоматической пушки</TY_N_Bslf_Bullet.label>
-  <TY_A_DropPodIncoming.label>Высокоугловой щит Речной Долины</TY_A_DropPodIncoming.label>
+  <TY_A_DropPodIncoming.label>Высокоугловой щит Долины</TY_A_DropPodIncoming.label>
   <TY_A_DropPodIncoming.description>Щит, специально предназначенный для перехвата высокоугловых снарядов, не способен остановить ближние снаряды. Питается от внутреннего источника, не требует внешнего питания и не подвержен влиянию солнечных вспышек.</TY_A_DropPodIncoming.description>
-  <TY_A_DropPodIncoming_Blueprint.label>Высокоугловой щит Речной Долины (чертёж)</TY_A_DropPodIncoming_Blueprint.label>
-  <TY_A_DropPodIncoming_Frame.label>Высокоугловой щит Речной Долины (строительство)</TY_A_DropPodIncoming_Frame.label>
+  <TY_A_DropPodIncoming_Blueprint.label>Высокоугловой щит Долины (чертёж)</TY_A_DropPodIncoming_Blueprint.label>
+  <TY_A_DropPodIncoming_Frame.label>Высокоугловой щит Долины (строительство)</TY_A_DropPodIncoming_Frame.label>
   <TY_A_DropPodIncoming_Frame.description>Щит, специально предназначенный для перехвата высокоугловых снарядов, не способен остановить ближние снаряды. Питается от внутреннего источника, не требует внешнего питания и не подвержен влиянию солнечных вспышек.</TY_A_DropPodIncoming_Frame.description>
-  <TY_A_DropPodIncoming_D.label>Низкоугловой щит Речной Долины</TY_A_DropPodIncoming_D.label>
+  <TY_A_DropPodIncoming_D.label>Низкоугловой щит Долины</TY_A_DropPodIncoming_D.label>
   <TY_A_DropPodIncoming_D.description>Щит, специально предназначенный для перехвата ближних снарядов, не способен остановить высокоугловые снаряды, такие как миномётные. Питается от внутреннего источника, не требует внешнего питания и не подвержен влиянию солнечных вспышек.</TY_A_DropPodIncoming_D.description>
-  <TY_A_DropPodIncoming_D_Blueprint.label>Низкоугловой щит Речной Долины (чертёж)</TY_A_DropPodIncoming_D_Blueprint.label>
-  <TY_A_DropPodIncoming_D_Frame.label>Низкоугловой щит Речной Долины (строительство)</TY_A_DropPodIncoming_D_Frame.label>
+  <TY_A_DropPodIncoming_D_Blueprint.label>Низкоугловой щит Долины (чертёж)</TY_A_DropPodIncoming_D_Blueprint.label>
+  <TY_A_DropPodIncoming_D_Frame.label>Низкоугловой щит Долины (строительство)</TY_A_DropPodIncoming_D_Frame.label>
   <TY_A_DropPodIncoming_D_Frame.description>Щит, специально предназначенный для перехвата ближних снарядов, не способен остановить высокоугловые снаряды, такие как миномётные. Питается от внутреннего источника, не требует внешнего питания и не подвержен влиянию солнечных вспышек.</TY_A_DropPodIncoming_D_Frame.description>
-  <TY_A_DropPodIncoming_D_A.label>Большой низкоугловой щит Речной Долины</TY_A_DropPodIncoming_D_A.label>
+  <TY_A_DropPodIncoming_D_A.label>Большой низкоугловой щит Долины</TY_A_DropPodIncoming_D_A.label>
   <TY_A_DropPodIncoming_D_A.description>Щит, специально предназначенный для перехвата ближних снарядов, не способен остановить высокоугловые снаряды, такие как миномётные. Питается от внутреннего источника, не требует внешнего питания и не подвержен влиянию солнечных вспышек.</TY_A_DropPodIncoming_D_A.description>
-  <TY_A_DropPodIncoming_D_A_Blueprint.label>Большой низкоугловой щит Речной Долины (чертёж)</TY_A_DropPodIncoming_D_A_Blueprint.label>
-  <TY_A_DropPodIncoming_D_A_Frame.label>Большой низкоугловой щит Речной Долины (строительство)</TY_A_DropPodIncoming_D_A_Frame.label>
+  <TY_A_DropPodIncoming_D_A_Blueprint.label>Большой низкоугловой щит Долины (чертёж)</TY_A_DropPodIncoming_D_A_Blueprint.label>
+  <TY_A_DropPodIncoming_D_A_Frame.label>Большой низкоугловой щит Долины (строительство)</TY_A_DropPodIncoming_D_A_Frame.label>
   <TY_A_DropPodIncoming_D_A_Frame.description>Щит, специально предназначенный для перехвата ближних снарядов, не способен остановить высокоугловые снаряды, такие как миномётные. Питается от внутреннего источника, не требует внешнего питания и не подвержен влиянию солнечных вспышек.</TY_A_DropPodIncoming_D_A_Frame.description>
 </LanguageData>

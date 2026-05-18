@@ -1,88 +1,97 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DriveSjumpG.label>Способность к дальним прыжкам</DriveSjumpG.label>
-  <DriveSjumpG.description>Водители могут концентрировать эфирную энергию в ногах, затем приводить в действие эфирное ядро для дальних прыжков.</DriveSjumpG.description>
+  <!-- DriveSjumpG: Chinese label=大众级改造, desc=最开始，露西亚型号对比其他型号改造价格更低、改造程度最浅、普及度最广。因为生产露西亚型号的警戒星红区认为，为了使用欧伽思网络来让人民真正当家做主的目标，必须得让构造体改造广泛普及在大众当中 -->
+  <DriveSjumpG.label>Массовая модификация</DriveSjumpG.label>
+  <DriveSjumpG.description>Изначально модель Люсия среди прочих моделей имела наименьшую стоимость модификации, наименьшую степень переделки и наибольшее распространение.\nВедь в Красном Секторе Звезды Тревоги, где производятся конструкты Люсии, считали, что для реализации цели — позволить народу через сеть ОГАС стать подлинным хозяином страны — модификация конструктов должна быть максимально широко распространена среди масс</DriveSjumpG.description>
 
-  <DriveSMoodG.label>Наивность и беззаботность</DriveSMoodG.label>
-  <DriveSMoodG.description>Водители более склонны к мирному сосуществованию с другими, потому что они несут в себе прекрасные идеалы и цели, но это не означает, что они легко будут зависеть от других.</DriveSMoodG.description>
+  <!-- DriveSMoodG: Chinese label=友好待人, labelShortAdj=友好待人, desc=为了更好地服务群众，露西亚型会更愿意与其他人和睦相处。不过，这并不代表着他们是能被轻易威胁的懦弱之人 -->
+  <DriveSMoodG.label>Дружелюбное отношение</DriveSMoodG.label>
+  <DriveSMoodG.labelShortAdj>Дружелюбный</DriveSMoodG.labelShortAdj>
+  <DriveSMoodG.description>Чтобы лучше служить массам, модель Люсия более склонна к мирному сосуществованию с другими. Однако это не означает, что они — слабые люди, которых можно легко запугать</DriveSMoodG.description>
 
 
   <!-- <GeneDef Name="TY_LifeForceBase" Abstract="True">
-		<displayCategory>Archite</displayCategory>
-	</GeneDef>
+                <displayCategory>Archite</displayCategory>
+        </GeneDef>
 
   <GeneDef ParentName="TY_LifeForceBase">
-		<defName>TY_Gene_Lifeforce</defName>
-		<label>Lifeforce</label>
-		<description>Text.</description>
-		<geneClass>TY_Mora_Gene.Gene_LifeForce</geneClass>
-		<resourceGizmoType>TY_Mora_Gene.GeneGizmo_ResourceLifeForce</resourceGizmoType>
-		<resourceLabel>lifeforce</resourceLabel>
-		<resourceGizmoThresholds>
-		  <li>0.25</li>
-		  <li>0.5</li>
-		  <li>0.75</li>
-		</resourceGizmoThresholds>
-		<showGizmoOnWorldView>true</showGizmoOnWorldView>
-		<showGizmoWhenDrafted>true</showGizmoWhenDrafted>
-		<resourceDescription>Text.</resourceDescription>
-		<iconPath>UI/Genes/LifeForce</iconPath>
-		<selectionWeight>0</selectionWeight>
-		<displayOrderInCategory>-2</displayOrderInCategory>
-    	<minAgeActive>18</minAgeActive>
-		<customEffectDescriptions>
-		  <li>Text.</li>
-		</customEffectDescriptions>
-		<symbolPack>
-		  <prefixSymbols>
-			<li><symbol>fert</symbol></li>
-		  </prefixSymbols>
-		</symbolPack>
-		<resourceLossPerDay>0.025</resourceLossPerDay>
-		<biostatCpx>1</biostatCpx>
-		<biostatMet>1</biostatMet>
-	</GeneDef>
+                <defName>TY_Gene_Lifeforce</defName>
+                <label>Lifeforce</label>
+                <description>Text.</description>
+                <geneClass>TY_Mora_Gene.Gene_LifeForce</geneClass>
+                <resourceGizmoType>TY_Mora_Gene.GeneGizmo_ResourceLifeForce</resourceGizmoType>
+                <resourceLabel>lifeforce</resourceLabel>
+                <resourceGizmoThresholds>
+                  <li>0.25</li>
+                  <li>0.5</li>
+                  <li>0.75</li>
+                </resourceGizmoThresholds>
+                <showGizmoOnWorldView>true</showGizmoOnWorldView>
+                <showGizmoWhenDrafted>true</showGizmoWhenDrafted>
+                <resourceDescription>Text.</resourceDescription>
+                <iconPath>UI/Genes/LifeForce</iconPath>
+                <selectionWeight>0</selectionWeight>
+                <displayOrderInCategory>-2</displayOrderInCategory>
+        <minAgeActive>18</minAgeActive>
+                <customEffectDescriptions>
+                  <li>Text.</li>
+                </customEffectDescriptions>
+                <symbolPack>
+                  <prefixSymbols>
+                        <li><symbol>fert</symbol></li>
+                  </prefixSymbols>
+                </symbolPack>
+                <resourceLossPerDay>0.025</resourceLossPerDay>
+                <biostatCpx>1</biostatCpx>
+                <biostatMet>1</biostatMet>
+        </GeneDef>
 
   <GeneDef ParentName="TY_LifeForceBase">
-		<defName>TY_Gene_Drain</defName>
-		<label>TY Mora Drain</label>
-		<labelShortAdj>Text</labelShortAdj>
-		<description>Text.</description>
-		<resourceLabel>Text</resourceLabel>
-		<geneClass>TY_Mora_Gene.Gene_LifeForceDrain</geneClass>
-		<iconPath>UI/Genes/Cumflation</iconPath>
-		<prerequisite>TY_Gene_Lifeforce</prerequisite>
-		<resourceLossPerDay>0.075</resourceLossPerDay>
-    	<minAgeActive>18</minAgeActive>
-		<displayOrderInCategory>-1</displayOrderInCategory>
-		<biostatCpx>1</biostatCpx>
-		<biostatMet>6</biostatMet>
-	</GeneDef> -->
+                <defName>TY_Gene_Drain</defName>
+                <label>TY Mora Drain</label>
+                <labelShortAdj>Text</labelShortAdj>
+                <description>Text.</description>
+                <resourceLabel>Text</resourceLabel>
+                <geneClass>TY_Mora_Gene.Gene_LifeForceDrain</geneClass>
+                <iconPath>UI/Genes/Cumflation</iconPath>
+                <prerequisite>TY_Gene_Lifeforce</prerequisite>
+                <resourceLossPerDay>0.075</resourceLossPerDay>
+        <minAgeActive>18</minAgeActive>
+                <displayOrderInCategory>-1</displayOrderInCategory>
+                <biostatCpx>1</biostatCpx>
+                <biostatMet>6</biostatMet>
+        </GeneDef> -->
 
-  <DriveSMechG.label>Расширение нанороботов</DriveSMechG.label>
-  <DriveSMechG.labelShortAdj>Нанороботы</DriveSMechG.labelShortAdj>
-  <DriveSMechG.description>Изначально нанороботы использовались как "механические тромбоциты" для стабилизации отторжения имплантатов у конструктов типа Люсия и поддержания лёгкой перегрузки имплантатов.\nОднако красная зона планеты警戒星 расширила функциональность нанороботов в конструктах типа Люсия.\nТеперь, после установки наночипа, конструкты Люсия могут точно управлять нанороботами, достигая эффектов, близких к псионической магии.</DriveSMechG.description>
-  <DriveSMechG.resourceLabel>Нанороботы</DriveSMechG.resourceLabel>
-  <DriveSMechG.resourceDescription>Микророботы</DriveSMechG.resourceDescription>
+  <!-- DriveSMechG: Chinese label=纳米机械拓展, labelShortAdj=纳米机械, desc=纳米机械原先是作为"机械血小板"，给露西亚型稳定义体排异反应、维护轻微超载义体。不过，警戒星红区进一步拓展的露西亚型身上纳米机械的功能。如今露西亚装载纳米芯片后，可以精确的操控纳米机械，来达到近乎灵能魔法的效果。 -->
+  <DriveSMechG.label>Расширение наномашин</DriveSMechG.label>
+  <DriveSMechG.labelShortAdj>Наномашины</DriveSMechG.labelShortAdj>
+  <DriveSMechG.description>Изначально наномашины использовались как «механические тромбоциты» — для стабилизации отторжения имплантатов у модели Люсия и обслуживания лёгких перегрузок протезов.\nОднако Красный Сектор Звезды Тревоги расширил функциональность наномашин в модели Люсия.\nТеперь, после установки наночипа, конструкты Люсия могут точно управлять наномашинами, достигая эффектов, близких к псионической магии.</DriveSMechG.description>
+  <DriveSMechG.resourceLabel>Наномашины</DriveSMechG.resourceLabel>
+  <DriveSMechG.resourceDescription>Микромашины</DriveSMechG.resourceDescription>
 
-  <DriveSMeroryG.label>Суперпамять</DriveSMeroryG.label>
-  <DriveSMeroryG.description>Пионеры, чтобы сохранить знания, каждый день повторяли старое и узнавали новое. С годами эволюции удивительная память была встроена в гены водителей.</DriveSMeroryG.description>
+  <!-- DriveSMeroryG: Chinese label=知识储存, labelShortAdj=过目不忘, desc=构造体最初设计需要连接欧伽斯网络，于是改造过程当中加入了储存芯片来储存知识和记忆 -->
+  <DriveSMeroryG.label>Накопление знаний</DriveSMeroryG.label>
+  <DriveSMeroryG.labelShortAdj>Фотографическая память</DriveSMeroryG.labelShortAdj>
+  <DriveSMeroryG.description>Конструкты изначально проектировались для подключения к сети ОГАС, поэтому в процессе модификации были добавлены чипы памяти для хранения знаний и воспоминаний</DriveSMeroryG.description>
 
-  <DriveSEMPG.label>Слабая устойчивость к EMP</DriveSEMPG.label>
-  <DriveSEMPG.description>35% тела водителя состоит из особой эфирной биомеханической структуры, при воздействии EMP будут некоторые лёгкие эффекты, такие как головокружение и рвота.</DriveSEMPG.description>
+  <!-- DriveSEMPG: Chinese label=毒蜂死亡脉冲, labelShortAdj=毒蜂脉冲, desc=警戒星为了让构造体改造全面普及在人民当中，简化了一些机械结构。这导致露西亚构造体在脑死亡的时候会发射高频脉冲来瘫痪周围的机械体 -->
+  <DriveSEMPG.label>Смертоносный импульс шершня</DriveSEMPG.label>
+  <DriveSEMPG.labelShortAdj>Импульс шершня</DriveSEMPG.labelShortAdj>
+  <DriveSEMPG.description>Чтобы сделать модификацию конструктов максимально доступной для населения, Звезда Тревоги упростила ряд механических конструкций. Это привело к тому, что при мозговой смерти конструкт Люсии испускает высокочастотный импульс, парализующий окружающие механоиды</DriveSEMPG.description>
 
-  <XG_Skin_WeiHuang.label>Слегка жёлтый тон кожи</XG_Skin_WeiHuang.label>
-  <XG_Skin_WeiHuang.description>Слегка жёлтый тон кожи, нормальный тон кожи людей.</XG_Skin_WeiHuang.description>
+  <!-- Skin tone genes - these are cosmetic -->
+  <XG_Skin_WeiHuang.label>Желтоватый тон кожи</XG_Skin_WeiHuang.label>
+  <XG_Skin_WeiHuang.description>Слегка желтоватый тон кожи, обычный тон кожи людей.</XG_Skin_WeiHuang.description>
 
-  <XG_Skin_WeiHong.label>Слегка красный тон кожи</XG_Skin_WeiHong.label>
-  <XG_Skin_WeiHong.description>Слегка красный тон кожи, нормальный тон кожи людей.</XG_Skin_WeiHong.description>
+  <XG_Skin_WeiHong.label>Красноватый тон кожи</XG_Skin_WeiHong.label>
+  <XG_Skin_WeiHong.description>Слегка красноватый тон кожи, обычный тон кожи людей.</XG_Skin_WeiHong.description>
 
   <XG_Skin_XiaoMai.label>Пшеничный тон кожи</XG_Skin_XiaoMai.label>
-  <XG_Skin_XiaoMai.description>Пшеничный тон кожи, нормальный тон кожи людей.</XG_Skin_XiaoMai.description>
+  <XG_Skin_XiaoMai.description>Пшеничный тон кожи, обычный тон кожи людей.</XG_Skin_XiaoMai.description>
 
   <XG_Skin_ZhongHei.label>Коричнево-чёрный тон кожи</XG_Skin_ZhongHei.label>
-  <XG_Skin_ZhongHei.description>Коричнево-чёрный тон кожи, нормальный тон кожи людей.</XG_Skin_ZhongHei.description>
+  <XG_Skin_ZhongHei.description>Коричнево-чёрный тон кожи, обычный тон кожи людей.</XG_Skin_ZhongHei.description>
 
 
   <!-- EN: EMP弱受 -->

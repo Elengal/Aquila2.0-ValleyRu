@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DriveS.label>водители</DriveS.label>
+  <DriveS.label>драйверы</DriveS.label>
   <DriveS.corePart.parts.6.customLabel>левое лёгкое</DriveS.corePart.parts.6.customLabel>
   <DriveS.corePart.parts.7.customLabel>правое лёгкое</DriveS.corePart.parts.7.customLabel>
   <DriveS.corePart.parts.8.customLabel>левая почка</DriveS.corePart.parts.8.customLabel>
@@ -50,12 +50,12 @@
   <DriveS.corePart.parts.16.parts.2.parts.2.customLabel>правый средний палец ноги</DriveS.corePart.parts.16.parts.2.parts.2.customLabel>
   <DriveS.corePart.parts.16.parts.2.parts.3.customLabel>правый второй палец ноги</DriveS.corePart.parts.16.parts.2.parts.3.customLabel>
   <DriveS.corePart.parts.16.parts.2.parts.4.customLabel>правый большой палец ноги</DriveS.corePart.parts.16.parts.2.parts.4.customLabel>
-  <DriveS.corePart.parts.17.customLabel>Слот модуля</DriveS.corePart.parts.17.customLabel>
-  <DriveS.corePart.parts.18.customLabel>Слот модуля A - Манёвренный модуль</DriveS.corePart.parts.18.customLabel>
-  <DriveS.corePart.parts.19.customLabel>Слот модуля B - Боевой модуль</DriveS.corePart.parts.19.customLabel>
-  <DriveS.corePart.parts.20.customLabel>Слот модуля C - Модуль боевых навыков</DriveS.corePart.parts.20.customLabel>
-  <DriveS.corePart.parts.21.customLabel>Слот модуля D - Модуль навыков управления</DriveS.corePart.parts.21.customLabel>
-  <DriveS.corePart.parts.22.customLabel>Слот модуля E - Модуль навыков</DriveS.corePart.parts.22.customLabel>
+  <DriveS.corePart.parts.17.customLabel>Слот вставного модуля</DriveS.corePart.parts.17.customLabel>
+  <DriveS.corePart.parts.18.customLabel>Слот вставного модуля A — Манёвренный модуль</DriveS.corePart.parts.18.customLabel>
+  <DriveS.corePart.parts.19.customLabel>Слот вставного модуля B — Боевой модуль</DriveS.corePart.parts.19.customLabel>
+  <DriveS.corePart.parts.20.customLabel>Слот вставного модуля C — Модуль боевых навыков</DriveS.corePart.parts.20.customLabel>
+  <DriveS.corePart.parts.21.customLabel>Слот вставного модуля D — Модуль навыков управления</DriveS.corePart.parts.21.customLabel>
+  <DriveS.corePart.parts.22.customLabel>Слот вставного модуля E — Модуль навыков</DriveS.corePart.parts.22.customLabel>
 
 
 </LanguageData>

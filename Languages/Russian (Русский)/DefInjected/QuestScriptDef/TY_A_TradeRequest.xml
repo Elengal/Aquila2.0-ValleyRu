@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <TY_A_TradeRequest.root.nodes.3.label>Quest failed: [resolvedQuestName]</TY_A_TradeRequest.root.nodes.3.label>
+  <TY_A_TradeRequest.root.nodes.3.label>Задание провалено: [resolvedQuestName]</TY_A_TradeRequest.root.nodes.3.label>
   <TY_A_TradeRequest.root.nodes.3.text>[faction_name] стал враждебен к вам.</TY_A_TradeRequest.root.nodes.3.text>
   <TY_A_TradeRequest.root.nodes.10.name>ценностьНаграды</TY_A_TradeRequest.root.nodes.10.name>
   <TY_A_TradeRequest.root.nodes.11.nodeIfChosenPawnSignalUsed.label>[asker_faction_royalFavorLabel]</TY_A_TradeRequest.root.nodes.11.nodeIfChosenPawnSignalUsed.label>

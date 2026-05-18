@@ -6,10 +6,10 @@
 
   <!-- 护盾物品 -->
 
-  <TY_A_A_RV_Skyfaller_DropPodIncoming.label>Тактический щит Речной Долины для низкоугловых снарядов</TY_A_A_RV_Skyfaller_DropPodIncoming.label>
+  <TY_A_A_RV_Skyfaller_DropPodIncoming.label>Тактический щит Долины для низкоугловых снарядов</TY_A_A_RV_Skyfaller_DropPodIncoming.label>
   <TY_A_A_RV_Skyfaller_DropPodIncoming.description>Обычно этот щит может блокировать низкоугловые снаряды, но не может блокировать высокоугловые снаряды.</TY_A_A_RV_Skyfaller_DropPodIncoming.description>
 
-  <TY_A_RV_Skyfaller_DropPodIncoming.label>Тактический щит Речной Долины для высокоугловых снарядов</TY_A_RV_Skyfaller_DropPodIncoming.label>
+  <TY_A_RV_Skyfaller_DropPodIncoming.label>Тактический щит Долины для высокоугловых снарядов</TY_A_RV_Skyfaller_DropPodIncoming.label>
   <TY_A_RV_Skyfaller_DropPodIncoming.description>Обеспечивает защиту от высокоугловых снарядов.</TY_A_RV_Skyfaller_DropPodIncoming.description>
 
 

@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- Странная кукла -->
-  <TY_A_strange_and_peculiar_doll.label>кукла Синтетика</TY_A_strange_and_peculiar_doll.label>
+  <TY_A_strange_and_peculiar_doll.label>кукла конструкта Люсии</TY_A_strange_and_peculiar_doll.label>
   <TY_A_strange_and_peculiar_doll.description>Талисман-игрушка, но почему она в этой категории? Конечно, она не имеет никакой развлекательной функции, это просто украшение.</TY_A_strange_and_peculiar_doll.description>
 
   <!-- Метки уничтожения -->
@@ -119,7 +119,7 @@
   <TY_A_PassengerShuttle.comps.CompRefuelable.fuelLabel>химтопливо</TY_A_PassengerShuttle.comps.CompRefuelable.fuelLabel>
 
   <!-- Импланты - метки использования -->
-  <YYS_YTCDMechlink.comps.CompUsableImplant.useLabel>использовать (должен быть Синтетиком)</YYS_YTCDMechlink.comps.CompUsableImplant.useLabel>
+  <YYS_YTCDMechlink.comps.CompUsableImplant.useLabel>использовать (должен быть конструкт Люсииом)</YYS_YTCDMechlink.comps.CompUsableImplant.useLabel>
   <TY_A_Fighter_chip_A.comps.CompUsableImplant.useLabel>вставить чип</TY_A_Fighter_chip_A.comps.CompUsableImplant.useLabel>
   <Test_ControlSublink.comps.CompUsableImplant.useLabel>вставить чип</Test_ControlSublink.comps.CompUsableImplant.useLabel>
   <Test_A_ControlSublink.comps.CompUsableImplant.useLabel>вставить чип</Test_A_ControlSublink.comps.CompUsableImplant.useLabel>

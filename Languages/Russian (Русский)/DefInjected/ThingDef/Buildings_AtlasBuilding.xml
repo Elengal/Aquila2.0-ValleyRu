@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <TY_A_Bed_Building.label>Закрытая кровать</TY_A_Bed_Building.label>
-  <TY_A_Bed_Building.description>Физиологическая структура Синтетиков приводит к значительным ежедневным умственным и физическим затратам, поэтому требуется увеличенное время сна. Специальная герметичная среда закрытой кровати в сочетании с очищенным воздухом и специальными газами обеспечивает ускоренные функции сна.</TY_A_Bed_Building.description>
+  <TY_A_Bed_Building.description>Физиологическая структура конструктов Люсии приводит к значительным ежедневным умственным и физическим затратам, поэтому требуется увеличенное время сна. Специальная герметичная среда закрытой кровати в сочетании с очищенным воздухом и специальными газами обеспечивает ускоренные функции сна.</TY_A_Bed_Building.description>
   <TY_A_Bed_Building_Blueprint.label>Капсульная кровать (чертёж)</TY_A_Bed_Building_Blueprint.label>
   <TY_A_Bed_Building_Blueprint_Install.label>Капсульная кровать (чертёж)</TY_A_Bed_Building_Blueprint_Install.label>
   <TY_A_Bed_Building_Frame.label>Капсульная кровать (строительство)</TY_A_Bed_Building_Frame.label>
   <TY_A_Bed_Building_Frame.description>Физиологическая структура Конструкторов приводит к значительным ежедневным психическим и физическим затратам, поэтому требуется увеличенное время сна. Специальная герметичная среда капсульной кровати в сочетании с очищенным воздухом и особыми газами обеспечивает ускоренные функции сна.</TY_A_Bed_Building_Frame.description>
   <TY_RoyalBed.label>Закрытая двуспальная кровать</TY_RoyalBed.label>
-  <TY_RoyalBed.description>Физиологическая структура Синтетиков приводит к значительным ежедневным умственным и физическим затратам, поэтому требуется увеличенное время сна. Специальная герметичная среда закрытой двуспальной кровати в сочетании с очищенным воздухом и специальными газами обеспечивает ускоренные функции сна.</TY_RoyalBed.description>
+  <TY_RoyalBed.description>Физиологическая структура конструктов Люсии приводит к значительным ежедневным умственным и физическим затратам, поэтому требуется увеличенное время сна. Специальная герметичная среда закрытой двуспальной кровати в сочетании с очищенным воздухом и специальными газами обеспечивает ускоренные функции сна.</TY_RoyalBed.description>
   <TY_RoyalBed_Blueprint.label>Капсульная двуспальная кровать (чертёж)</TY_RoyalBed_Blueprint.label>
   <TY_RoyalBed_Blueprint_Install.label>Капсульная двуспальная кровать (чертёж)</TY_RoyalBed_Blueprint_Install.label>
   <TY_RoyalBed_Frame.label>Капсульная двуспальная кровать (строительство)</TY_RoyalBed_Frame.label>
   <TY_RoyalBed_Frame.description>Физиологическая структура Конструкторов приводит к значительным ежедневным психическим и физическим затратам, поэтому требуется увеличенное время сна. Специальная герметичная среда капсульной двуспальной кровати в сочетании с очищенным воздухом и особыми газами обеспечивает ускоренные функции сна.</TY_RoyalBed_Frame.description>
-  <TY_A_Sculpture_Building.label>Скульптура "Серп и Молот" Речной Долины</TY_A_Sculpture_Building.label>
+  <TY_A_Sculpture_Building.label>Скульптура "Серп и Молот" Долины</TY_A_Sculpture_Building.label>
   <TY_A_Sculpture_Building.description>Скульптурная структура, встречающаяся в различных культурных заведениях и конференц-залах, часто также используется как фоновое украшение за кафедрой.</TY_A_Sculpture_Building.description>
-  <TY_A_Sculpture_Building_Blueprint.label>Скульптура «Серп и Молот» Речной Долины (чертёж)</TY_A_Sculpture_Building_Blueprint.label>
-  <TY_A_Sculpture_Building_Blueprint_Install.label>Скульптура «Серп и Молот» Речной Долины (чертёж)</TY_A_Sculpture_Building_Blueprint_Install.label>
-  <TY_A_Sculpture_Building_Frame.label>Скульптура «Серп и Молот» Речной Долины (строительство)</TY_A_Sculpture_Building_Frame.label>
+  <TY_A_Sculpture_Building_Blueprint.label>Скульптура «Серп и Молот» Долины (чертёж)</TY_A_Sculpture_Building_Blueprint.label>
+  <TY_A_Sculpture_Building_Blueprint_Install.label>Скульптура «Серп и Молот» Долины (чертёж)</TY_A_Sculpture_Building_Blueprint_Install.label>
+  <TY_A_Sculpture_Building_Frame.label>Скульптура «Серп и Молот» Долины (строительство)</TY_A_Sculpture_Building_Frame.label>
   <TY_A_Sculpture_Building_Frame.description>Скульптурная конструкция, встречающаяся в различных культурных учреждениях и залах заседаний, часто используемая как фоновое украшение за трибуной.</TY_A_Sculpture_Building_Frame.description>
   <TY_A_Wall_Building_B.label>Окрашиваемая жилая стена</TY_A_Wall_Building_B.label>
   <TY_A_Wall_Building_B.description>Стена, используемая в большинстве небольших гражданских зданий.</TY_A_Wall_Building_B.description>
@@ -29,16 +29,16 @@
   <TY_A_Wall_Building_A_B.label>Стена правительственного департамента "Классицизм"</TY_A_Wall_Building_A_B.label>
   <TY_A_Wall_Building_A_B.description>Стена, используемая в некоторых зданиях правительственных департаментов.</TY_A_Wall_Building_A_B.description>
   <TY_A_Wall_Building_A_B_P.label>Нано-пенная стена</TY_A_Wall_Building_A_B_P.label>
-  <TY_A_Wall_Building_A_B_P.description>Временное покрытие, построенное Синтетиком, выпускающим наномашины.</TY_A_Wall_Building_A_B_P.description>
+  <TY_A_Wall_Building_A_B_P.description>Временное покрытие, построенное конструкт Люсииом, выпускающим наномашины.</TY_A_Wall_Building_A_B_P.description>
   <TY_A_XG_LBQ1_CH_A_Building.label>Окно оранжевой жилой стены</TY_A_XG_LBQ1_CH_A_Building.label>
   <TY_A_XG_LBQ1_CH_A_Building.description>Окно оранжевой жилой стены</TY_A_XG_LBQ1_CH_A_Building.description>
   <TY_A_XG_LBQ1_CH_B_Building.label>Окно бледно-оранжевой жилой стены с горизонтальными насечками</TY_A_XG_LBQ1_CH_B_Building.label>
   <TY_A_XG_LBQ1_CH_B_Building.description>Окно бледно-оранжевой жилой стены с горизонтальными насечками</TY_A_XG_LBQ1_CH_B_Building.description>
   <TY_A_Autodoor.label>Автоматическая дверь</TY_A_Autodoor.label>
-  <TY_A_Autodoor.description>Электрические автоматические двери — это двери, используемые в большинстве зданий Федерации Речной Долины.</TY_A_Autodoor.description>
+  <TY_A_Autodoor.description>Электрические автоматические двери — это двери, используемые в большинстве зданий Федерации Долины.</TY_A_Autodoor.description>
   <TY_A_Autodoor_Blueprint.label>Автодверь (чертёж)</TY_A_Autodoor_Blueprint.label>
   <TY_A_Autodoor_Frame.label>Автодверь (строительство)</TY_A_Autodoor_Frame.label>
-  <TY_A_Autodoor_Frame.description>Электрические автодвери — двери, используемые в большинстве зданий Федерации Речной Долины.</TY_A_Autodoor_Frame.description>
+  <TY_A_Autodoor_Frame.description>Электрические автодвери — двери, используемые в большинстве зданий Федерации Долины.</TY_A_Autodoor_Frame.description>
   <TY_Door.label>Простая дверь</TY_Door.label>
   <TY_Door.description>Двери, которые обычно используют дерево в качестве материала.</TY_Door.description>
   <TY_Door_Blueprint.label>Простая дверь (чертёж)</TY_Door_Blueprint.label>
@@ -123,18 +123,18 @@
   <Blueprint_TY_A_Bed_Building.label>Закрытая кровать (чертёж)</Blueprint_TY_A_Bed_Building.label>
   <Blueprint_Install_TY_A_Bed_Building.label>Закрытая кровать (чертёж)</Blueprint_Install_TY_A_Bed_Building.label>
   <Frame_TY_A_Bed_Building.label>Закрытая кровать (строительство)</Frame_TY_A_Bed_Building.label>
-  <Frame_TY_A_Bed_Building.description>Физиологическая структура Синтетиков приводит к значительным ежедневным умственным и физическим затратам, поэтому требуется увеличенное время сна. Специальная герметичная среда закрытой кровати в сочетании с очищенным воздухом и специальными газами обеспечивает ускоренные функции сна.</Frame_TY_A_Bed_Building.description>
+  <Frame_TY_A_Bed_Building.description>Физиологическая структура конструктов Люсии приводит к значительным ежедневным умственным и физическим затратам, поэтому требуется увеличенное время сна. Специальная герметичная среда закрытой кровати в сочетании с очищенным воздухом и специальными газами обеспечивает ускоренные функции сна.</Frame_TY_A_Bed_Building.description>
   <Blueprint_TY_RoyalBed.label>Закрытая двуспальная кровать (чертёж)</Blueprint_TY_RoyalBed.label>
   <Blueprint_Install_TY_RoyalBed.label>Закрытая двуспальная кровать (чертёж)</Blueprint_Install_TY_RoyalBed.label>
   <Frame_TY_RoyalBed.label>Закрытая двуспальная кровать (строительство)</Frame_TY_RoyalBed.label>
-  <Frame_TY_RoyalBed.description>Физиологическая структура Синтетиков приводит к значительным ежедневным умственным и физическим затратам, поэтому требуется увеличенное время сна. Специальная герметичная среда закрытой двуспальной кровати в сочетании с очищенным воздухом и специальными газами обеспечивает ускоренные функции сна.</Frame_TY_RoyalBed.description>
-  <Blueprint_TY_A_Sculpture_Building.label>Скульптура "Серп и Молот" Речной Долины (чертёж)</Blueprint_TY_A_Sculpture_Building.label>
-  <Blueprint_Install_TY_A_Sculpture_Building.label>Скульптура "Серп и Молот" Речной Долины (чертёж)</Blueprint_Install_TY_A_Sculpture_Building.label>
-  <Frame_TY_A_Sculpture_Building.label>Скульптура "Серп и Молот" Речной Долины (строительство)</Frame_TY_A_Sculpture_Building.label>
+  <Frame_TY_RoyalBed.description>Физиологическая структура конструктов Люсии приводит к значительным ежедневным умственным и физическим затратам, поэтому требуется увеличенное время сна. Специальная герметичная среда закрытой двуспальной кровати в сочетании с очищенным воздухом и специальными газами обеспечивает ускоренные функции сна.</Frame_TY_RoyalBed.description>
+  <Blueprint_TY_A_Sculpture_Building.label>Скульптура "Серп и Молот" Долины (чертёж)</Blueprint_TY_A_Sculpture_Building.label>
+  <Blueprint_Install_TY_A_Sculpture_Building.label>Скульптура "Серп и Молот" Долины (чертёж)</Blueprint_Install_TY_A_Sculpture_Building.label>
+  <Frame_TY_A_Sculpture_Building.label>Скульптура "Серп и Молот" Долины (строительство)</Frame_TY_A_Sculpture_Building.label>
   <Frame_TY_A_Sculpture_Building.description>Скульптурная структура, встречающаяся в различных культурных заведениях и конференц-залах, часто также используется как фоновое украшение за кафедрой.</Frame_TY_A_Sculpture_Building.description>
   <Blueprint_TY_A_Autodoor.label>Автоматическая дверь (чертёж)</Blueprint_TY_A_Autodoor.label>
   <Frame_TY_A_Autodoor.label>Автоматическая дверь (строительство)</Frame_TY_A_Autodoor.label>
-  <Frame_TY_A_Autodoor.description>Электрические автоматические двери — это двери, используемые в большинстве зданий Федерации Речной Долины.</Frame_TY_A_Autodoor.description>
+  <Frame_TY_A_Autodoor.description>Электрические автоматические двери — это двери, используемые в большинстве зданий Федерации Долины.</Frame_TY_A_Autodoor.description>
   <Blueprint_TY_Door.label>Простая дверь (чертёж)</Blueprint_TY_Door.label>
   <Frame_TY_Door.label>Простая дверь (строительство)</Frame_TY_Door.label>
   <Frame_TY_Door.description>Двери, которые обычно используют дерево в качестве материала.</Frame_TY_Door.description>

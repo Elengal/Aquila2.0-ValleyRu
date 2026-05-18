@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <TY_A_Induced_signal_transmitter.label>Передатчик наводящего сигнала Надзорного эмиссара</TY_A_Induced_signal_transmitter.label>
-  <TY_A_Induced_signal_transmitter.description>A special mechanoid born from the Glory Church's ideal engineering project. It was formerly deployed to oversee indigenous peoples in the rim world learning Aquila technology. Defeating it yields a High-performance Bandwidth Core. The signal pulses will burn out the antenna, so this device is for one-time use only.</TY_A_Induced_signal_transmitter.description>
+  <TY_A_Induced_signal_transmitter.description>Особый механоид, рождённый идеальным инженерным проектом Церкви Славы. Ранее развёртывался для надзора за коренными народами окраинных миров, изучающими технологию Аквилы. При победе над ним даёт высокопроизводительный широкополосный чип. Импульсы сигнала сжигают антенну, поэтому это устройство одноразовое.</TY_A_Induced_signal_transmitter.description>
   <TY_A_Induced_signal_transmitter.comps.0.useLabel>Вызвать налёт механоидов: Надзорный эмиссар</TY_A_Induced_signal_transmitter.comps.0.useLabel>
   <TY_A_Induced_signal_transmitter_Blueprint.label>Передатчик наводящего сигнала Надзорного эмиссара (чертёж)</TY_A_Induced_signal_transmitter_Blueprint.label>
   <TY_A_Induced_signal_transmitter_Frame.label>Передатчик наводящего сигнала Надзорного эмиссара (строительство)</TY_A_Induced_signal_transmitter_Frame.label>
-  <TY_A_Induced_signal_transmitter_Frame.description>A special mechanoid born from the Glory Church's ideal engineering project. It was formerly deployed to oversee indigenous peoples in the rim world learning Aquila technology. Defeating it yields a High-performance Bandwidth Core. The signal pulses will burn out the antenna, so this device is for one-time use only.</TY_A_Induced_signal_transmitter_Frame.description>
+  <TY_A_Induced_signal_transmitter_Frame.description>Особый механоид, рождённый идеальным инженерным проектом Церкви Славы. Ранее развёртывался для надзора за коренными народами окраинных миров, изучающими технологию Аквилы. При победе над ним даёт высокопроизводительный широкополосный чип. Импульсы сигнала сжигают антенну, поэтому это устройство одноразовое.</TY_A_Induced_signal_transmitter_Frame.description>
   <TY_BandNode.label>Широкополосная частотная модуляция</TY_BandNode.label>
   <TY_BandNode.description>Один или несколько высокопроизводительных широкополосных узлов подключаются к этому механитору.</TY_BandNode.description>
   <TY_BandNode_Blueprint.label>Высокопроизводительный широкополосный узел (чертёж)</TY_BandNode_Blueprint.label>
