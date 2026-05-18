@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_Overloaded_exercise_of_the_heart.label>сердечная перегрузка</TY_A_Overloaded_exercise_of_the_heart.label>
+  <TY_A_Overloaded_exercise_of_the_heart.description>Во время активации скорость кровотока увеличивается на 200% в обмен на повышение сознания, скорости и манипулятивных способностей.</TY_A_Overloaded_exercise_of_the_heart.description>
+
+  <DriveSjump.label>длинный прыжок</DriveSjump.label>
+  <DriveSjump.description>С помощью наномеханизмов усиливаются мышцы ног для совершения прыжка на большое расстояние.</DriveSjump.description>
+
+  <TY_A_IncineratorBurner.label>выброс пламени</TY_A_IncineratorBurner.label>
+  <TY_A_IncineratorBurner.description>Выплёскивает топливную смесь.</TY_A_IncineratorBurner.description>
+
+  <TY_Treatment_of_foam.label>лечебная пена</TY_Treatment_of_foam.label>
+  <TY_Treatment_of_foam.description>Управляя наномеханизмами, закупорить рану и высвободить лечебные химические вещества для быстрой перевязки и лечения.</TY_Treatment_of_foam.description>
+
+  <TY_B_hemostasis_A_A.label>остановка кровотечения</TY_B_hemostasis_A_A.label>
+  <TY_B_hemostasis_A_A.description>С помощью наномеханизмов быстро закупорить рану для остановки кровотечения, однако сохраняется риск инфекции.</TY_B_hemostasis_A_A.description>
+
+  <TY_B_relievepain_A_A.label>обезболивание</TY_B_relievepain_A_A.label>
+  <TY_B_relievepain_A_A.description>С помощью наномеханизмов высвобождаются особые химические сигналы, блокирующие болевые ощущения, но имейте в виду: это не лечит рану.</TY_B_relievepain_A_A.description>
+
+  <TY_BerserkPulse.label>импульс ярости</TY_BerserkPulse.label>
+  <TY_BerserkPulse.description>С помощью наномеханизмов высвобождается особый сигнал, нарушающий нервную систему врага, вызывая кратковременную ярость.</TY_BerserkPulse.description>
+
+  <TY_C_Stun_A.label>оглушение</TY_C_Stun_A.label>
+  <TY_C_Stun_A.description>С помощью наномеханизмов высвобождается особый сигнал, нарушающий нервную систему врага, вызывая оглушение и остановку.</TY_C_Stun_A.description>
+
+  <TY_Invisibility.label>невидимость</TY_Invisibility.label>
+  <TY_Invisibility.description>Высвобождая наномеханизмы, которые прикрепляются к поверхности тела и изменяют свои свойства, достигается эффект оптического камуфляжа.</TY_Invisibility.description>
+
+  <TY_A_C_Sian_Weinstein_A.label>Санвайстайн</TY_A_C_Sian_Weinstein_A.label>
+  <TY_A_C_Sian_Weinstein_A.description>С помощью наномеханизмов в нервную систему передаются сигналы ускорения, переводя тело конструкта в состояние полной перегрузки. Скорость настолько высока, что в глазах обычных людей остаётся лишь размытый силуэт.</TY_A_C_Sian_Weinstein_A.description>
+
+  <TY_A_C_Bully_chip_A.label>режим неуязвимости!!</TY_A_C_Bully_chip_A.label>
+  <TY_A_C_Bully_chip_A.description>Активируются все наноструктуры внутри конструкта, они непрерывно защищают хозяина от урона, восстанавливают тело и ускоряют работу систем, достигая кратковременного обретения сверхчеловеческого тела и бессмертия — режим неуязвимости!!</TY_A_C_Bully_chip_A.description>
+
+  <TY_Wallraise.label>возведение стены</TY_Wallraise.label>
+  <TY_Wallraise.description>Наномеханизмы быстро расширяются, превращаясь в затвердевающую пену, служащую укрытием.</TY_Wallraise.description>
+
+  <TY_BulletShield.label>большой щит</TY_BulletShield.label>
+  <TY_BulletShield.description>Высвобождение нанопыли в воздух для создания большого щита, блокирующего дальние атаки.\nОднако в качестве платы нанопыль также блокирует исходящие дальние атаки.\nВысвобождение большого количества наномеханизмов для щита вызывает перегрузку и перегрев чипа, поэтому требуется 14 часов на перезарядку.</TY_BulletShield.description>
+
+  <TY_D_moderate_A_A.label>замедление</TY_D_moderate_A_A.label>
+  <TY_D_moderate_A_A.description>С помощью наномеханизмов излучается особый сигнал, замедляющий скорость проведения нервных импульсов, что приводит к снижению скорости передвижения.</TY_D_moderate_A_A.description>
+
+  <TY_Resurrected_Nanomechanical_Devices.label>наноэрозионные устройства воскрешения</TY_Resurrected_Nanomechanical_Devices.label>
+  <TY_Resurrected_Nanomechanical_Devices.description>Наноэрозионные устройства воскрешения</TY_Resurrected_Nanomechanical_Devices.description>
+
+  <TY_A_Launch_nano_erosion_bullets.label>выстрел наноэрозионной пулей</TY_A_Launch_nano_erosion_bullets.label>
+  <TY_A_Launch_nano_erosion_bullets.description>Выстрел наноэрозионной пулей.</TY_A_Launch_nano_erosion_bullets.description>
+
+  <TY_Test.label>тест Test</TY_Test.label>
+  <TY_Test.description>Test.</TY_Test.description>
+
+</LanguageData>

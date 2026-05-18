@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_Onfided.stages.0.label>выслушал чужие горести</TY_Onfided.stages.0.label>
+  <TY_Onfided.stages.0.description>Вся боль, которую излили на меня... Нет, я должен быть сильнее...</TY_Onfided.stages.0.description>
+
+  <TY_ForcedDown.stages.0.label>принудительно повален</TY_ForcedDown.stages.0.label>
+  <TY_ForcedDown.stages.0.labelSocial>поведение заградотряда</TY_ForcedDown.stages.0.labelSocial>
+  <TY_ForcedDown.stages.0.description>Проклятый заградотряд... И неужели нужно было так...</TY_ForcedDown.stages.0.description>
+
+  <TY_ForcedDown_Revolution.stages.0.label>принудительно повален (понимание)</TY_ForcedDown_Revolution.stages.0.label>
+  <TY_ForcedDown_Revolution.stages.0.description>Хотя тогда я действительно немного перегнул...</TY_ForcedDown_Revolution.stages.0.description>
+
+</LanguageData>

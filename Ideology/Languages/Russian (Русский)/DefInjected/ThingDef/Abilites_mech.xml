@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_Mech_A_Nurse_DropPodIncoming.label>долинный тактический высокоугловой щит</TY_A_Mech_A_Nurse_DropPodIncoming.label>
+  <TY_A_Mech_A_Nurse_DropPodIncoming.description>Как правило, может перехватывать высокодуговые снаряды, но не способен перехватывать низкоугловые снаряды.</TY_A_Mech_A_Nurse_DropPodIncoming.description>
+
+  <TY_A_DropPodIncoming_A_A.label>долинный крупный высокоугловой щит с защитой от ЭМИ</TY_A_DropPodIncoming_A_A.label>
+  <TY_A_DropPodIncoming_A_A.description>Щит, специально предназначенный для перехвата высокодуговых снарядов. Не может перехватывать близкие снаряды. Военная версия щита невосприимчива к ЭМИ.</TY_A_DropPodIncoming_A_A.description>
+
+  <TY_A_DropPodIncoming_D_C.label>долинный полноугловой щит с защитой от ЭМИ</TY_A_DropPodIncoming_D_C.label>
+  <TY_A_DropPodIncoming_D_C.description>Способен одновременно перехватывать близкие пули и дальние высокодуговые боеприпасы, при этом невосприимчив к ЭМИ — военная версия щита. Однако плата за это — отсутствие какого-либо увеличения ёмкости щита при значительном росте стоимости.</TY_A_DropPodIncoming_D_C.description>
+
+  <TY_A_DropPodIncoming_D_A_A.label>долинный крупный полноугловой щит с защитой от ЭМИ</TY_A_DropPodIncoming_D_A_A.label>
+  <TY_A_DropPodIncoming_D_A_A.description>Способен одновременно перехватывать близкие пули и дальние высокодуговые боеприпасы, при этом невосприимчив к ЭМИ — военная версия щита. Однако плата за это — отсутствие какого-либо увеличения ёмкости щита при значительном росте стоимости.</TY_A_DropPodIncoming_D_A_A.description>
+
+</LanguageData>

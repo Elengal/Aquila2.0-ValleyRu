@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Наномеханизмы - чип замедления -->
+  <TY_D_moderate_A.label>наномеханизмы — чип замедления</TY_D_moderate_A.label>
+  <TY_D_moderate_A.description>С помощью наномеханизмов излучается особый сигнал, замедляющий скорость проведения нервных импульсов, что приводит к снижению скорости передвижения.</TY_D_moderate_A.description>
+
+  <!-- Наномеханизмы - лечебный чип B -->
+  <TY_Treatment_of_foam_A.label>наномеханизмы — лечебный чип B</TY_Treatment_of_foam_A.label>
+  <TY_Treatment_of_foam_A.description>Управляя наномеханизмами, закупорить рану и высвободить лечебные химические вещества для быстрой перевязки и лечения.</TY_Treatment_of_foam_A.description>
+
+  <!-- Наномеханизмы - начальный стрелковый чип B -->
+  <TY_A_Fighter_chip.label>наномеханизмы — начальный стрелковый чип B</TY_A_Fighter_chip.label>
+  <TY_A_Fighter_chip.description>Широко используемый в армии начальный стрелковый чип на основе технологий Огаса — с помощью наномеханизмов усиливает сетчатку и систему восприятия, повышая стрелковые способности.</TY_A_Fighter_chip.description>
+
+  <!-- Наномеханизмы - начальный боевой чип B -->
+  <TY_combat_A.label>наномеханизмы — начальный боевой чип B</TY_combat_A.label>
+  <TY_combat_A.description>С помощью наномеханизмов усиливаются мышцы и кости для повышения ближнебойных способностей.</TY_combat_A.description>
+
+  <!-- Остановка кровотечения (эффект) -->
+  <TY_B_hemostasis_AA.label>остановка кровотечения</TY_B_hemostasis_AA.label>
+  <TY_B_hemostasis_AA.labelNoun>остановка кровотечения</TY_B_hemostasis_AA.labelNoun>
+  <TY_B_hemostasis_AA.description>С помощью наномеханизмов быстро закупорить рану для остановки кровотечения, однако сохраняется риск инфекции.</TY_B_hemostasis_AA.description>
+
+  <!-- Наномеханизмы - чип остановки кровотечения -->
+  <TY_B_hemostasis_A.label>наномеханизмы — чип остановки кровотечения</TY_B_hemostasis_A.label>
+  <TY_B_hemostasis_A.description>С помощью наномеханизмов быстро закупорить рану для остановки кровотечения, однако сохраняется риск инфекции.</TY_B_hemostasis_A.description>
+
+  <!-- Обезболивание (эффект) -->
+  <TY_B_relievepain_AA.label>обезболивание</TY_B_relievepain_AA.label>
+  <TY_B_relievepain_AA.labelNoun>обезболивание</TY_B_relievepain_AA.labelNoun>
+  <TY_B_relievepain_AA.description>С помощью наномеханизмов высвобождаются особые химические сигналы, блокирующие болевые ощущения, но имейте в виду: это не лечит рану.</TY_B_relievepain_AA.description>
+
+  <!-- Наномеханизмы - чип обезболивания -->
+  <TY_B_relievepain_A.label>наномеханизмы — чип обезболивания</TY_B_relievepain_A.label>
+  <TY_B_relievepain_A.description>С помощью наномеханизмов высвобождаются особые химические сигналы, блокирующие болевые ощущения, но имейте в виду: это не лечит рану.</TY_B_relievepain_A.description>
+
+  <!-- Наномеханизмы - чип индивидуального импульса ярости -->
+  <TY_BerserkPulse_A.label>наномеханизмы — чип импульса ярости</TY_BerserkPulse_A.label>
+  <TY_BerserkPulse_A.description>С помощью наномеханизмов высвобождается особый сигнал, нарушающий нервную систему врага, вызывая кратковременную ярость.</TY_BerserkPulse_A.description>
+
+  <!-- Наномеханизмы - чип оглушения -->
+  <TY_C_Stun_A_A.label>наномеханизмы — чип оглушения</TY_C_Stun_A_A.label>
+  <TY_C_Stun_A_A.description>С помощью наномеханизмов высвобождается особый сигнал, нарушающий нервную систему врага, вызывая оглушение и остановку.</TY_C_Stun_A_A.description>
+
+  <!-- Наномеханизмы - чип невидимости -->
+  <TY_Invisibility_A.label>наномеханизмы — чип невидимости</TY_Invisibility_A.label>
+  <TY_Invisibility_A.description>Высвобождая наномеханизмы, которые прикрепляются к поверхности тела и изменяют свои свойства, достигается эффект оптического камуфляжа.</TY_Invisibility_A.description>
+
+  <!-- Наномеханизмы - чип Санвайстайн -->
+  <TY_A_C_Sian_Weinstein.label>наномеханизмы — чип Санвайстайн</TY_A_C_Sian_Weinstein.label>
+  <TY_A_C_Sian_Weinstein.description>С помощью наномеханизмов в нервную систему передаются сигналы ускорения, переводя тело конструкта в состояние полной перегрузки. Скорость настолько высока, что в глазах обычных людей остаётся лишь размытый силуэт.</TY_A_C_Sian_Weinstein.description>
+
+  <!-- Санвайстайн активирован (эффект) -->
+  <TY_A_C_Sian_Weinstein_AA.label>Санвайстайн активирован</TY_A_C_Sian_Weinstein_AA.label>
+  <TY_A_C_Sian_Weinstein_AA.labelNoun>Санвайстайн активирован</TY_A_C_Sian_Weinstein_AA.labelNoun>
+  <TY_A_C_Sian_Weinstein_AA.description>С помощью наномеханизмов в нервную систему передаются сигналы ускорения, переводя тело конструкта в состояние полной перегрузки. Скорость настолько высока, что в глазах обычных людей остаётся лишь размытый силуэт.</TY_A_C_Sian_Weinstein_AA.description>
+
+  <!-- Наномеханизмы - чип режима неуязвимости -->
+  <TY_A_C_Bully_chip.label>наномеханизмы — чип режима неуязвимости</TY_A_C_Bully_chip.label>
+  <TY_A_C_Bully_chip.description>Активируются все наноструктуры внутри конструкта — они непрерывно защищают хозяина от урона, восстанавливают тело и ускоряют работу систем, достигая кратковременного обретения сверхчеловеческого тела и бессмертия — режим неуязвимости!!</TY_A_C_Bully_chip.description>
+
+  <!-- Режим неуязвимости!! (эффект) -->
+  <TY_A_C_Bully_chip_AA.label>режим неуязвимости!!</TY_A_C_Bully_chip_AA.label>
+  <TY_A_C_Bully_chip_AA.labelNoun>Путём быстрого расхода наномеханизмов, активации и быстрого обёртывания с восстановлением тела по всему организму, достигается режим сверхнеуязвимости с многократным увеличением боевой эффективности.</TY_A_C_Bully_chip_AA.labelNoun>
+  <TY_A_C_Bully_chip_AA.description>Гиперматеринская стальная курица!!</TY_A_C_Bully_chip_AA.description>
+
+  <!-- Наномеханизмы - чип большого щита -->
+  <TY_BulletShield_A.label>наномеханизмы — чип большого щита</TY_BulletShield_A.label>
+  <TY_BulletShield_A.description>Высвобождение нанопыли в воздух для создания большого щита, блокирующего дальние атаки.\nОднако в качестве платы нанопыль также блокирует исходящие дальние атаки.\nВысвобождение большого количества наномеханизмов для щита вызывает перегрузку и перегрев чипа, поэтому требуется 14 часов на перезарядку.</TY_BulletShield_A.description>
+
+  <!-- Чип воскрешения D -->
+  <TY_Resurrected_Nanomechanical_Devices_A.label>чип воскрешения D</TY_Resurrected_Nanomechanical_Devices_A.label>
+  <TY_Resurrected_Nanomechanical_Devices_A.description>После установки постоянно наделяет конструкт способностью «Воскрешение». При применении расходует энергию, сам чип не исчезает от использования.</TY_Resurrected_Nanomechanical_Devices_A.description>
+
+  <!-- Наномеханизмы - чип возведения стены -->
+  <TY_Wallraise_A.label>наномеханизмы — чип возведения стены</TY_Wallraise_A.label>
+  <TY_Wallraise_A.description>Наномеханизмы быстро расширяются, превращаясь в затвердевающую пену, служащую укрытием.</TY_Wallraise_A.description>
+
+  <!-- Замедление (эффект) -->
+  <TY_D_moderate_AA.label>замедление</TY_D_moderate_AA.label>
+  <TY_D_moderate_AA.labelNoun>замедление</TY_D_moderate_AA.labelNoun>
+  <TY_D_moderate_AA.description>С помощью наномеханизмов излучается особый сигнал, замедляющий скорость проведения нервных импульсов, что приводит к снижению скорости передвижения.</TY_D_moderate_AA.description>
+
+  <!-- Наномеханизмы - чип замедления (вариант AAA) -->
+  <TY_D_moderate_AAA.label>наномеханизмы — чип замедления</TY_D_moderate_AAA.label>
+  <TY_D_moderate_AAA.description>С помощью наномеханизмов излучается особый сигнал, замедляющий скорость проведения нервных импульсов, что приводит к снижению скорости передвижения.</TY_D_moderate_AAA.description>
+
+  <!-- Наномеханизмы - чип длинного прыжка -->
+  <TY_DriveSjump_A.label>наномеханизмы — чип длинного прыжка</TY_DriveSjump_A.label>
+  <TY_DriveSjump_A.description>С помощью наномеханизмов усиливаются мышцы ног для совершения прыжка на большое расстояние.</TY_DriveSjump_A.description>
+
+  <!-- Прорывная перегрузка (эффект) -->
+  <TY_A_Overclocking_armor_A.label>прорывная перегрузка</TY_A_Overclocking_armor_A.label>
+  <TY_A_Overclocking_armor_A.labelNoun>прорывная перегрузка</TY_A_Overclocking_armor_A.labelNoun>
+  <TY_A_Overclocking_armor_A.description>При перегрузке подсистем на короткое время значительно повышаются все характеристики, включая броню, а также восстанавливается часть здоровья.</TY_A_Overclocking_armor_A.description>
+
+  <!-- Тестовое состояние -->
+  <TestState.label>тестовое состояние 1</TestState.label>
+  <TestState.description>Осталось от тестирования наноэнергии — пока не хочется трогать, потом разберусь.</TestState.description>
+
+</LanguageData>

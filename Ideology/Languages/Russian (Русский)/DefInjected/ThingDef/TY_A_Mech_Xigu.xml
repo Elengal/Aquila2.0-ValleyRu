@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LBD_AtTB_B.label>плазменный импульсный реактивный снаряд</LBD_AtTB_B.label>
+
+  <TY_A_Launch_Nano_erosion_jet_bullets.label>наноэрозионная струя</TY_A_Launch_Nano_erosion_jet_bullets.label>
+
+  <TY_A_Launch_nano_flying_knives_bullets.label>наноэрозионный нож</TY_A_Launch_nano_flying_knives_bullets.label>
+
+  <TY_A_erosion_bullets.label>наноэрозионная пуля</TY_A_erosion_bullets.label>
+
+  <TY_FastPawnFlyer.label>быстрый прыжковый полёт</TY_FastPawnFlyer.label>
+  <TY_FastPawnFlyer.description>Состояние быстрого полёта для выполнения длинного прыжка.</TY_FastPawnFlyer.description>
+
+</LanguageData>
