@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="About/Preview.png" alt="Aquila 2.0 Valley — Превью" width="640">
+
 # 🦅 Aquila 2.0 Valley — Русификатор
 
-**Полный русский перевод мода [Aquila 2.0 Valley](https://steamcommunity.com/sharedfiles/filedetails/?id=3280990469) для RimWorld**
+**Полный русский перевод мода [Aquila 2.0 Valley](https://steamcommunity.com/sharedfiles/filedetails/?id=3280990469) / [GitHub](https://github.com/Elengal/Aquila2.0-ValleyRu) для RimWorld**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/Elengal/Aquila2.0-ValleyRu)
+[![Steam Workshop](https://img.shields.io/badge/Steam-Workshop-blue?style=flat-square&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3607398404) [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/Elengal/Aquila2.0-ValleyRu)
 
 [![RimWorld](https://img.shields.io/badge/RimWorld-1.6-blueviolet?style=flat-square)](https://rimworldgame.com/)
 [![Язык](https://img.shields.io/badge/Перевод-Русский-red?style=flat-square)]()
