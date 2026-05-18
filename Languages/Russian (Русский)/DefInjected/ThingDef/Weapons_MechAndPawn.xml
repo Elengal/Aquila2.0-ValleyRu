@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_Gun_Incinerator_A.label>Тракторный огнемёт</TY_A_Gun_Incinerator_A.label>
+  <TY_A_Gun_Incinerator_A.description>Установлен на тракторе для очистки сорняков.</TY_A_Gun_Incinerator_A.description>
+
+  <MjiQ_AtB.label>Патрон 7.62x40мм</MjiQ_AtB.label>
+
+  <MJQiang_A_Weapon.label>Оружейная система: Пулемёт 0-173</MJQiang_A_Weapon.label>
+  <MJQiang_A_Weapon.description>Пулемёт 0-173</MJQiang_A_Weapon.description>
+
+  <MLmQ_AtB.label>Лазер</MLmQ_AtB.label>
+
+  <MLmQ_A_Weapon.label>Оружейная система: Пушка деления "Сжигатель"</MLmQ_A_Weapon.label>
+  <MLmQ_A_Weapon.description>Пушка деления "Сжигатель"</MLmQ_A_Weapon.description>
+
+  <MXw_A_Weapon_AA.label>Оружейная система: Система огневой мощи "Кроталь" -Режим автоматической гаубицы</MXw_A_Weapon_AA.label>
+  <MXw_A_Weapon_AA.description>Система огневой мощи "Кроталь"</MXw_A_Weapon_AA.description>
+
+  <MXw_AtB.label>Гаубичный снаряд</MXw_AtB.label>
+
+  <MXw_A_Weapon.label>Оружейная система: Система огневой мощи "Кроталь" -Смешанное использование автоматической гаубицы и тяжёлого пулемёта</MXw_A_Weapon.label>
+  <MXw_A_Weapon.description>Система огневой мощи "Кроталь"</MXw_A_Weapon.description>
+
+  <MBaoLei_A_BullQW.label>Патрон 14.5мм пулемёта</MBaoLei_A_BullQW.label>
+
+  <MXw_A_Weapon_AB.label>Оружейная система: Система огневой мощи "Кроталь" -Режим тяжёлого пулемёта</MXw_A_Weapon_AB.label>
+  <MXw_A_Weapon_AB.description>Система огневой мощи "Кроталь"</MXw_A_Weapon_AB.description>
+
+  <MBaoLei_A_Bullet.label>Патрон 19.5мм тяжёлого пулемёта</MBaoLei_A_Bullet.label>
+
+  <MBaoLei_A_Weapon.label>Оружейная система: Система огневой мощи крепости</MBaoLei_A_Weapon.label>
+  <MBaoLei_A_Weapon.description>Оружие</MBaoLei_A_Weapon.description>
+
+  <MJiZQ_A_WeaponTurret.label>Оружейная система: 19.5мм тяжёлый пулемёт</MJiZQ_A_WeaponTurret.label>
+  <MJiZQ_A_WeaponTurret.description>19.5мм тяжёлый пулемёт</MJiZQ_A_WeaponTurret.description>
+
+  <MJiZQ_A_Weapon.label>Оружейная система: 19.5мм тяжёлый пулемёт</MJiZQ_A_Weapon.label>
+  <MJiZQ_A_Weapon.description>19.5мм тяжёлый пулемёт</MJiZQ_A_Weapon.description>
+
+  <MEtK_AtB.label>Лазер мешающего проводника</MEtK_AtB.label>
+
+  <MEtK_A_Weapon.label>Оружейная система: Мешающий проводник</MEtK_A_Weapon.label>
+  <MEtK_A_Weapon.description>Хотя это выглядит как магический посох, на самом деле это мешающий проводник с эффектом мешающей батареи.</MEtK_A_Weapon.description>
+
+  <TY_A_Gaussian.label>Гаусс</TY_A_Gaussian.label>
+
+  <TY_A_Gauss_rifle.label>Винтовка Гаусса</TY_A_Gauss_rifle.label>
+  <TY_A_Gauss_rifle.description>Винтовка Гаусса</TY_A_Gauss_rifle.description>
+
+  <TY_A_Hammer_WeaponM_MechAndPawn.label>Магнитное сопротивление "Прорыв"</TY_A_Hammer_WeaponM_MechAndPawn.label>
+  <TY_A_Hammer_WeaponM_MechAndPawn.description>Магнитное сопротивление похоже на молот, но его наконечник излучает ЭМИ-излучение. Его прототип — взрывное копьё, разработанное для солдат в старом обществе Звезды Речной Долины. В период планетарного объединения это взрывное копьё было улучшено, чтобы оно больше не случайно ранило пользователя.</TY_A_Hammer_WeaponM_MechAndPawn.description>
+  <TY_A_Hammer_WeaponM_MechAndPawn.tools.0.label>Боёк (Удар)</TY_A_Hammer_WeaponM_MechAndPawn.tools.0.label>
+
+
+  <!-- 焚禁裂变炮 -->
+
+  <HellsphereCannon_A_Weapon.label>Пушка деления "Сжигатель"</HellsphereCannon_A_Weapon.label>
+  <HellsphereCannon_A_Weapon.description>Пушки деления "Сжигатель" основаны на принципе запуска тяжёлой ракеты и после попадания в цель высвобождения сложной плазмы внутри для нанесения массивного урона.</HellsphereCannon_A_Weapon.description>
+  <HellsphereCannon_A_Weapon.tools.0.label>ствол</HellsphereCannon_A_Weapon.tools.0.label>
+
+  <YYS_Bullet_HellsphereCannonGun.label>Ракета деления "Сжигатель"</YYS_Bullet_HellsphereCannonGun.label>
+  <Mech_A_battle_fortress_B.label>Плазменные миномётные снаряды</Mech_A_battle_fortress_B.label>
+
+  <TY_N_CiHeZ_Weapon_check.label>Оружейная система: Винтовка транспортного робота</TY_N_CiHeZ_Weapon_check.label>
+  <TY_N_CiHeZ_Weapon_check.description>Винтовка</TY_N_CiHeZ_Weapon_check.description>
+
+
+  <!-- EN: 集装破甲弹 -->
+  <!-- EN: 武器系统-白熊机枪台 -->
+  <!-- EN: 白熊武装直升机所装配的武器,特别针对重甲敌人. -->
+  <!--<Jzpjd_A_Weapon.verbs.Verb_Shoot.label>TODO</Jzpjd_A_Weapon.verbs.Verb_Shoot.label>-->
+  <!-- EN: 武器系统-以太能量杖 -->
+  <!-- EN: 以太能量杖 -->
+  <!--<MEtK_A_Weapon.verbs.Verb_Shoot.label>TODO</MEtK_A_Weapon.verbs.Verb_Shoot.label>-->
+  <!-- EN: 气爆球 -->
+  <!-- EN: 子弹 -->
+  <!-- EN: 武器系统-19.5重机枪 -->
+  <!-- EN: 19.5重机枪 -->
+  <!--<MJiZQ_A_Weapon.verbs.Verb_Shoot.label>TODO</MJiZQ_A_Weapon.verbs.Verb_Shoot.label>-->
+  <!-- EN: 武器系统-0-173机枪 -->
+  <!-- EN: 0-173机枪 -->
+  <!--<MJQiang_A_Weapon.verbs.Verb_Shoot.label>TODO</MJQiang_A_Weapon.verbs.Verb_Shoot.label>-->
+  <!-- EN: 武器系统-黎明联盟热熔炮 -->
+  <!-- EN: 黎明联盟热熔炮 -->
+  <!--<MLmQ_A_Weapon.verbs.Verb_Shoot.label>TODO</MLmQ_A_Weapon.verbs.Verb_Shoot.label>-->
+  <!-- EN: 激光 -->
+  <!-- EN: 武器系统-"Crotale" Firepower System -->
+  <!-- EN: "Crotale" Firepower System -->
+  <!--<MXw_A_Weapon.verbs.Verb_Shoot.label>TODO</MXw_A_Weapon.verbs.Verb_Shoot.label>-->
+  <!-- EN: 导弹 -->
+  <!-- EN: 武器系统-坦克炮管 -->
+  <!--<ZCLFP_A_Weapon.label>TODO</ZCLFP_A_Weapon.label>-->
+  <!-- EN: 溪谷战车连发炮,同时兼具强大的杀伤力和穿透力,但有效射程不是很远. -->
+  <!--<ZCLFP_A_Weapon.description>TODO</ZCLFP_A_Weapon.description>-->
+  <!--<ZCLFP_A_Weapon.verbs.Verb_Shoot.label>TODO</ZCLFP_A_Weapon.verbs.Verb_Shoot.label>-->
+  <!--<ZCZD_AtB.label>TODO</ZCZD_AtB.label>-->
+  <!-- EN: 武器系统-坦克低炮管 -->
+  <!--<Zczxhp_A_Weapon.label>TODO</Zczxhp_A_Weapon.label>-->
+  <!-- EN: 特别针对建筑而研发的火炮,请小心! -->
+  <!--<Zczxhp_A_Weapon.description>TODO</Zczxhp_A_Weapon.description>-->
+  <!--<Zczxhp_A_Weapon.verbs.Verb_Shoot.label>TODO</Zczxhp_A_Weapon.verbs.Verb_Shoot.label>-->
+  <!-- EN: 炮弹 -->
+  <!--<Zzhp_AtB.label>TODO</Zzhp_AtB.label>-->
+
+</LanguageData>
+

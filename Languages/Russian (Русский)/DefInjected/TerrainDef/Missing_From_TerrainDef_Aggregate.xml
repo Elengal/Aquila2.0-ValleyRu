@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Floors from Buildings_AtlasBuilding.xml -->
+  <TY_A_FloorXW_A_B_Building.label>Деревянный пол «Долины»</TY_A_FloorXW_A_B_Building.label>
+  <TY_A_FloorXW_A_B_Building.description>Красивое напольное покрытие; легко убирать.</TY_A_FloorXW_A_B_Building.description>
+
+  <TY_A_FloorXW_A_C_Building.label>Псевдодеревянный пол</TY_A_FloorXW_A_C_Building.label>
+  <TY_A_FloorXW_A_C_Building.description>Красивое напольное покрытие; легко убирать.</TY_A_FloorXW_A_C_Building.description>
+
+  <TY_A_FloorXW_A_D_Building.label>Чёрный пол</TY_A_FloorXW_A_D_Building.label>
+  <TY_A_FloorXW_A_D_Building.description>Красивое напольное покрытие; легко убирать.</TY_A_FloorXW_A_D_Building.description>
+
+  <TY_A_Floor_JCP.label>Искусственный газон «Долины»</TY_A_Floor_JCP.label>
+  <TY_A_Floor_JCP.description>Газон из волокон — искусственная травяная поверхность.</TY_A_Floor_JCP.description>
+
+  <TY_A_FloorXW_Building.label>Волоконный пол</TY_A_FloorXW_Building.label>
+  <TY_A_FloorXW_Building.description>Красивый волоконный пол; легко убирать.</TY_A_FloorXW_Building.description>
+
+  <TY_A_FloorXWZ_Building.label>Сетчатый пол</TY_A_FloorXWZ_Building.label>
+  <TY_A_FloorXWZ_Building.description>Красивый сетчатый пол; легко убирать.</TY_A_FloorXWZ_Building.description>
+
+  <TY_A_FloorXWZ_ZS_Building.label>Сетчатый пол (коричневый)</TY_A_FloorXWZ_ZS_Building.label>
+  <TY_A_FloorXWZ_ZS_Building.description>Красивый сетчатый пол.</TY_A_FloorXWZ_ZS_Building.description>
+
+  <TY_A_FloorXWZ_HS_Building.label>Сетчатый пол (красный)</TY_A_FloorXWZ_HS_Building.label>
+  <TY_A_FloorXWZ_HS_Building.description>Красивый сетчатый пол.</TY_A_FloorXWZ_HS_Building.description>
+
+  <TY_A_FloorZK_Building.label>Кирпичный пол (коричневый)</TY_A_FloorZK_Building.label>
+  <TY_A_FloorZK_Building.description>Красивый кирпичный пол.</TY_A_FloorZK_Building.description>
+
+  <TY_A_Floor_Building.label>Плиточный пол</TY_A_Floor_Building.label>
+  <TY_A_Floor_Building.description>Красивый плиточный пол; легко убирать.</TY_A_Floor_Building.description>
+
+  <TY_A_FloorHS_Building.label>Плиточный пол (красный)</TY_A_FloorHS_Building.label>
+  <TY_A_FloorHS_Building.description>Красивый плиточный пол; легко убирать.</TY_A_FloorHS_Building.description>
+
+</LanguageData>
+
+

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_titanium_alloy.label>Гражданский нанококтейль</TY_A_titanium_alloy.label>
+  <TY_A_titanium_alloy.description>Синтетики Розарии использует множество чипов и бионики как в военных, так и в гражданских приложениях, которые постоянно потребляют наномашины, что привело к созданию этого нанококтейля в качестве добавки. В Федерации Речной Долины нанококтейль обычно не имеет единого бренда. Или, скорее, большинство потребительских товаров в Федерации производится на местах государственными кооперативами, и, следовательно, вкус нановина варьируется в зависимости от региона: в тропических дождевых лесах и пустынях он напоминает освежающую мятную воду; в полярных условиях он больше похож на крепкое пиво или ликёр; а в мире окраины это обычно смесь колы и пива.</TY_A_titanium_alloy.description>
+  <TY_A_titanium_alloy.ingestible.ingestCommandString>Выпить {0}</TY_A_titanium_alloy.ingestible.ingestCommandString>
+  <TY_A_titanium_alloy.ingestible.ingestReportString>Пьёт {0}.</TY_A_titanium_alloy.ingestible.ingestReportString>
+
+  <TY_A_titanium_alloy_A.label>Военная наносыворотка</TY_A_titanium_alloy_A.label>
+  <TY_A_titanium_alloy_A.description>Военная наносыворотка обычно используется для быстрого восстановления наномашин в теле солдат, чтобы они могли выполнять различные боевые техники.</TY_A_titanium_alloy_A.description>
+  <TY_A_titanium_alloy_A.ingestible.ingestCommandString>Выпить {0}</TY_A_titanium_alloy_A.ingestible.ingestCommandString>
+  <TY_A_titanium_alloy_A.ingestible.ingestReportString>Пьёт {0}.</TY_A_titanium_alloy_A.ingestible.ingestReportString>
+
+  <TestBioc.label>Тест</TestBioc.label>
+  <TestBioc.description>Тест.</TestBioc.description>
+
+  <TY_A_Nano_solvent.label>Нанороботы</TY_A_Nano_solvent.label>
+  <TY_A_Nano_solvent.description>Одна из ключевых технологических систем звёздной системы Аквила, нанороботы используются в военном оружии, гражданском строительстве, высоких технологиях, медицине, развитии псионики, строительных работах и механизмах.</TY_A_Nano_solvent.description>
+
+</LanguageData>
+

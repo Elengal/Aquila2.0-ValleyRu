@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Lldqdz_AtTJ.label>Крушение: Синтетиков</Lldqdz_AtTJ.label>
+  <Lldqdz_AtTJ.description>Армия ревизионистских предателей в ходе гражданской войны устроила резню и чистку в вашем поселении. Офицер, который руководил расправой, получил мягкий приговор, потому что «он просто выполнял приказ», а, выходя из зала суда, ещё и насмехался над вами — двумя выжившими.\n\nНа следующий день полиция ворвалась к вам. Вы подробно рассказали о мотивах и показали труп офицера, которого успели линчевать. Узнав о случившемся, местные жители умоляли суд о снисхождении. Поэтому вас всего лишь сослали на Окраинный Мир.</Lldqdz_AtTJ.description>
+  <Lldqdz_AtTJ.scenario.name>Крушение: Синтетиков</Lldqdz_AtTJ.scenario.name>
+  <Lldqdz_AtTJ.scenario.summary>Осваивайте край мира с двумя Синтетиками Розарии.</Lldqdz_AtTJ.scenario.summary>
+  <Lldqdz_AtTJ.scenario.description>Армия ревизионистских предателей в ходе гражданской войны устроила резню и чистку в вашем поселении. Офицер, который руководил расправой, получил мягкий приговор, потому что «он просто выполнял приказ», а, выходя из зала суда, ещё и насмехался над вами — двумя выжившими.\n\nНа следующий день полиция ворвалась к вам. Вы подробно рассказали о мотивах и показали труп офицера, которого успели линчевать. Узнав о случившемся, местные жители умоляли суд о снисхождении. Поэтому вас всего лишь сослали на Окраинный Мир.</Lldqdz_AtTJ.scenario.description>
+  <Lldqdz_AtTJ.scenario.parts.1.xenotypeCounts.0.description>Взрослая Розария Синтетик</Lldqdz_AtTJ.scenario.parts.1.xenotypeCounts.0.description>
+
+  <Cldbx_AtTJ.label>Прикрытая жестокость: Синтетик</Cldbx_AtTJ.label>
+  <Cldbx_AtTJ.description>Последнее воспоминание — как вы сдираете кожу с врага. Внезапно всё темнеет, и вы приходите в себя уже в спасательной капсуле. Теперь вы на неизвестной планете, и у вас нет ничего, кроме одежды на теле.</Cldbx_AtTJ.description>
+  <Cldbx_AtTJ.scenario.name>Прикрытая жестокость: Синтетик</Cldbx_AtTJ.scenario.name>
+  <Cldbx_AtTJ.scenario.summary>Один, с минимальным снаряжением и совершенно не готов. Сможете ли вы выжить? Это крайне сложно и несправедливо.</Cldbx_AtTJ.scenario.summary>
+  <Cldbx_AtTJ.scenario.description>Последнее воспоминание — как вы сдираете кожу с врага. Внезапно всё темнеет, и вы приходите в себя уже в спасательной капсуле. Теперь вы на неизвестной планете, и у вас нет ничего, кроме одежды на теле.</Cldbx_AtTJ.scenario.description>
+  <Cldbx_AtTJ.scenario.parts.1.xenotypeCounts.0.description>Взрослый Розарий Синтетик</Cldbx_AtTJ.scenario.parts.1.xenotypeCounts.0.description>
+
+
+  <!-- EN: 赤裸的暴行·驱动者 -->
+  <!-- EN: 上一秒你还在餐厅中吃着晚饭,下一秒就发现自己躺在迫降舱之中.现在你身处于一颗未知的星球,除了身上的衣服之外,你一无所有. -->
+  <!-- EN: 成年驱动者 -->
+  <!--<Cldbx_AtTJ.scenario.parts.ConfigurePawnsXenotypes.xenotypeCounts.0.description>TODO</Cldbx_AtTJ.scenario.parts.ConfigurePawnsXenotypes.xenotypeCounts.0.description>-->
+  <!-- EN: 孤身一人,毫无准备的你能生存下去吗?这是极其困难而且不公平的难度. -->
+  <!-- EN: 迫降·驱动者 -->
+  <!-- EN: 在溪谷联邦的边陲地带，一片未被充分开发的土地正等待着先进的技术与经验丰富的专家。四位技艺高超的驱动者作为技术指导，被选派前往该地区协助当地人民发展工业。你正是其中之一，现正搭乘宇宙飞船前往这片待开垦之地。\n\n突然，一声震耳欲聋的巨响打破了宁静的太空旅行。飞船的引擎发生了爆炸，瞬间，熊熊大火吞没了整艘航船，显然这起事件并非偶然的简单事故。无奈之下，你们迅速转移到了逃生舱，紧急降落在了一个“边缘世界”星球，这里距离预定目的地并不遥远，但生存环境及未知因素都将成为你们面临的全新挑战。 -->
+  <!--<Lldqdz_AtTJ.scenario.parts.ConfigurePawnsXenotypes.xenotypeCounts.0.description>TODO</Lldqdz_AtTJ.scenario.parts.ConfigurePawnsXenotypes.xenotypeCounts.0.description>-->
+  <!-- EN: 四名驱动者迫降生还者 -->
+
+</LanguageData>

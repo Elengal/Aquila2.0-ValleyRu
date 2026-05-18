@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_Extracting_steel_from_mixed_materials.label>Извлечь сталь *850</TY_Extracting_steel_from_mixed_materials.label>
+  <TY_Extracting_steel_from_mixed_materials.description>Потребляет наноматериалы, гибридные материалы и химтопливо для извлечения стали из земли.</TY_Extracting_steel_from_mixed_materials.description>
+  <TY_Extracting_steel_from_mixed_materials.jobString>Работает на предприятии обогащения наноминералов</TY_Extracting_steel_from_mixed_materials.jobString>
+
+  <TY_Extracting_Gold_from_mixed_materials.label>Извлечь золото *350</TY_Extracting_Gold_from_mixed_materials.label>
+  <TY_Extracting_Gold_from_mixed_materials.description>Потребляет наноматериалы, гибридные материалы и химтопливо для извлечения золота из земли. (Обратите внимание, что это не предназначено для регулярной добычи ресурсов, поэтому его эффективность во много раз медленнее, чем извлечение таких материалов, как сталь. Это может служить только в качестве экстренной меры.)</TY_Extracting_Gold_from_mixed_materials.description>
+  <TY_Extracting_Gold_from_mixed_materials.jobString>Работает на предприятии обогащения наноминералов</TY_Extracting_Gold_from_mixed_materials.jobString>
+
+  <TY_Extracting_Silver_from_mixed_materials.label>Извлечь серебро *1000</TY_Extracting_Silver_from_mixed_materials.label>
+  <TY_Extracting_Silver_from_mixed_materials.description>Потребляет наноматериалы, гибридные материалы и химтопливо для извлечения серебра из земли. (Обратите внимание, что это не предназначено для регулярной добычи ресурсов, поэтому его эффективность во много раз медленнее, чем извлечение таких материалов, как сталь. Это может служить только в качестве экстренной меры.)</TY_Extracting_Silver_from_mixed_materials.description>
+  <TY_Extracting_Silver_from_mixed_materials.jobString>Работает на предприятии обогащения наноминералов</TY_Extracting_Silver_from_mixed_materials.jobString>
+
+  <TY_Extracting_Uranium_from_mixed_materials.label>Извлечь уран *135</TY_Extracting_Uranium_from_mixed_materials.label>
+  <TY_Extracting_Uranium_from_mixed_materials.description>Потребляет наноматериалы, гибридные материалы и химтопливо для извлечения урана из земли. (Обратите внимание, что это не предназначено для регулярной добычи ресурсов, поэтому его эффективность во много раз медленнее, чем извлечение таких материалов, как сталь. Это может служить только в качестве экстренной меры.)</TY_Extracting_Uranium_from_mixed_materials.description>
+  <TY_Extracting_Uranium_from_mixed_materials.jobString>Работает на предприятии обогащения наноминералов</TY_Extracting_Uranium_from_mixed_materials.jobString>
+
+  <TY_Using_wood_to_make_synthetic_fuels.label>Переработать химтопливо 450* из дерева</TY_Using_wood_to_make_synthetic_fuels.label>
+  <TY_Using_wood_to_make_synthetic_fuels.description>Переработать химтопливо из дерева, используя нанорастворители.</TY_Using_wood_to_make_synthetic_fuels.description>
+  <TY_Using_wood_to_make_synthetic_fuels.jobString>Работает на автоматизированном предприятии переработки химтоплива</TY_Using_wood_to_make_synthetic_fuels.jobString>
+
+  <TY_Using_Federal_Organic_Corn_to_Produce_Compound_Fuel.label>Переработать химтопливо 650* из промышленной кукурузы Федерации</TY_Using_Federal_Organic_Corn_to_Produce_Compound_Fuel.label>
+  <TY_Using_Federal_Organic_Corn_to_Produce_Compound_Fuel.description>Переработать химтопливо из промышленной кукурузы, используя нанорастворители.</TY_Using_Federal_Organic_Corn_to_Produce_Compound_Fuel.description>
+  <TY_Using_Federal_Organic_Corn_to_Produce_Compound_Fuel.jobString>Работает на автоматизированном предприятии переработки химтоплива</TY_Using_Federal_Organic_Corn_to_Produce_Compound_Fuel.jobString>
+
+  <TY_Using_Federal_Organic_Corn_to_Produce_Compound_Fuel_A.label>Переработать химтопливо 2400* из промышленной кукурузы Федерации</TY_Using_Federal_Organic_Corn_to_Produce_Compound_Fuel_A.label>
+  <TY_Using_Federal_Organic_Corn_to_Produce_Compound_Fuel_A.description>Переработать химтопливо из промышленной кукурузы, используя нанорастворители.</TY_Using_Federal_Organic_Corn_to_Produce_Compound_Fuel_A.description>
+  <TY_Using_Federal_Organic_Corn_to_Produce_Compound_Fuel_A.jobString>Работает на автоматизированном предприятии переработки химтоплива</TY_Using_Federal_Organic_Corn_to_Produce_Compound_Fuel_A.jobString>
+
+  <TY_Make_ChemfuelFromOrganics.label>Переработать химтопливо 350* из органики</TY_Make_ChemfuelFromOrganics.label>
+  <TY_Make_ChemfuelFromOrganics.description>Переработать химтопливо из органики, используя нанорастворители.</TY_Make_ChemfuelFromOrganics.description>
+  <TY_Make_ChemfuelFromOrganics.jobString>Работает на автоматизированном предприятии переработки химтоплива</TY_Make_ChemfuelFromOrganics.jobString>
+
+  <TY_Make_ChemfuelFromOrganics_A.label>Переработать химтопливо 2200* из органики</TY_Make_ChemfuelFromOrganics_A.label>
+  <TY_Make_ChemfuelFromOrganics_A.description>Переработать химтопливо из органики, используя нанорастворители.</TY_Make_ChemfuelFromOrganics_A.description>
+  <TY_Make_ChemfuelFromOrganics_A.jobString>Работает на автоматизированном предприятии переработки химтоплива</TY_Make_ChemfuelFromOrganics_A.jobString>
+
+  <TY_ExtractMetalFromSlag.label>Переплавить куски стального шлака и куски шлака механоидов</TY_ExtractMetalFromSlag.label>
+  <TY_ExtractMetalFromSlag.description>Полезные металлы выплавляются из кусков стального шлака и кусков шлака механоидов с использованием нанотехнологий и химического катализа.</TY_ExtractMetalFromSlag.description>
+  <TY_ExtractMetalFromSlag.jobString>Работает на автоматизированном предприятии металлического катализа</TY_ExtractMetalFromSlag.jobString>
+
+  <TY_Make_titanium_alloy.label>Изготовить титановый сплав *500</TY_Make_titanium_alloy.label>
+  <TY_Make_titanium_alloy.description>Использование химтоплива и нанорастворителей в качестве катализаторов позволяет более эффективно производить различные сплавы. Однако для изготовления титанового сплава требуются некоторые гибридные материалы.</TY_Make_titanium_alloy.description>
+  <TY_Make_titanium_alloy.jobString>Работает на автоматизированном предприятии плавки сплавов</TY_Make_titanium_alloy.jobString>
+
+  <TY_Make_titanium_alloy_B.label>Изготовить титановый сплав *1000</TY_Make_titanium_alloy_B.label>
+  <TY_Make_titanium_alloy_B.description>Использование химтоплива и нанорастворителей в качестве катализаторов позволяет более эффективно производить различные сплавы. Однако для изготовления титанового сплава требуются некоторые гибридные материалы.</TY_Make_titanium_alloy_B.description>
+  <TY_Make_titanium_alloy_B.jobString>Работает на автоматизированном предприятии плавки сплавов</TY_Make_titanium_alloy_B.jobString>
+
+  <TY_Make_titanium_alloy_A.label>Изготовить сплав TI2 *70</TY_Make_titanium_alloy_A.label>
+  <TY_Make_titanium_alloy_A.description>Использование химтоплива и нанорастворителей в качестве катализаторов позволяет более эффективно производить сплав TI2.</TY_Make_titanium_alloy_A.description>
+  <TY_Make_titanium_alloy_A.jobString>Работает на автоматизированном предприятии плавки сплавов</TY_Make_titanium_alloy_A.jobString>
+
+  <TY_Make_titanium_alloy_A_A.label>Изготовить сплав TI2 *240</TY_Make_titanium_alloy_A_A.label>
+  <TY_Make_titanium_alloy_A_A.description>Использование химтоплива и нанорастворителей в качестве катализаторов позволяет более эффективно производить сплав TI2.</TY_Make_titanium_alloy_A_A.description>
+  <TY_Make_titanium_alloy_A_A.jobString>Работает на автоматизированном предприятии плавки сплавов</TY_Make_titanium_alloy_A_A.jobString>
+
+  <TY_Make_Plasteel_alloy.label>Изготовить пласталь *600</TY_Make_Plasteel_alloy.label>
+  <TY_Make_Plasteel_alloy.description>Использование химтоплива и нанорастворителей в качестве катализаторов позволяет производить пласталь, которую ранее было невозможно изготовить ручными методами. (Однако это может служить только в качестве экстренной меры, поскольку выход действительно непропорционален требуемым материалам.)</TY_Make_Plasteel_alloy.description>
+  <TY_Make_Plasteel_alloy.jobString>Работает на автоматизированном предприятии плавки сплавов</TY_Make_Plasteel_alloy.jobString>
+
+  <TY_Synthetic_thunderstorm_rocket.label>Изготовить ракету "Гроза" *12</TY_Synthetic_thunderstorm_rocket.label>
+  <TY_Synthetic_thunderstorm_rocket.description>Изготовить ракету "Гроза" *12.</TY_Synthetic_thunderstorm_rocket.description>
+  <TY_Synthetic_thunderstorm_rocket.jobString>Работает на автоматизированном предприятии производства боеприпасов</TY_Synthetic_thunderstorm_rocket.jobString>
+
+  <TY_Synthetic_Thunderstorm_EMP_Rocket.label>Изготовить ракету "Гроза" с ЭМИ *12</TY_Synthetic_Thunderstorm_EMP_Rocket.label>
+  <TY_Synthetic_Thunderstorm_EMP_Rocket.description>Изготовить ракету "Гроза" с ЭМИ *12.</TY_Synthetic_Thunderstorm_EMP_Rocket.description>
+  <TY_Synthetic_Thunderstorm_EMP_Rocket.jobString>Работает на автоматизированном предприятии производства боеприпасов</TY_Synthetic_Thunderstorm_EMP_Rocket.jobString>
+
+  <TY_A_Heavy_high_explosive_mortar_shells_R.label>Изготовить фугасный миномётный снаряд Федерации *8</TY_A_Heavy_high_explosive_mortar_shells_R.label>
+  <TY_A_Heavy_high_explosive_mortar_shells_R.description>Использование предприятий производства боеприпасов превосходит ручное производство с точки зрения контроля затрат.</TY_A_Heavy_high_explosive_mortar_shells_R.description>
+  <TY_A_Heavy_high_explosive_mortar_shells_R.jobString>Работает на автоматизированном предприятии производства боеприпасов</TY_A_Heavy_high_explosive_mortar_shells_R.jobString>
+
+  <TY_A_Heavy_incendiary_mortar_shells_R.label>Изготовить зажигательный миномётный снаряд Федерации *8</TY_A_Heavy_incendiary_mortar_shells_R.label>
+  <TY_A_Heavy_incendiary_mortar_shells_R.description>Использование предприятий производства боеприпасов превосходит ручное производство с точки зрения контроля затрат.</TY_A_Heavy_incendiary_mortar_shells_R.description>
+  <TY_A_Heavy_incendiary_mortar_shells_R.jobString>Работает на автоматизированном предприятии производства боеприпасов</TY_A_Heavy_incendiary_mortar_shells_R.jobString>
+
+  <TY_A_Heavy_EMP_mortar_shell_warhead_R.label>Изготовить миномётный снаряд Федерации с ЭМИ *8</TY_A_Heavy_EMP_mortar_shell_warhead_R.label>
+  <TY_A_Heavy_EMP_mortar_shell_warhead_R.description>Использование предприятий производства боеприпасов превосходит ручное производство с точки зрения контроля затрат.</TY_A_Heavy_EMP_mortar_shell_warhead_R.description>
+  <TY_A_Heavy_EMP_mortar_shell_warhead_R.jobString>Работает на автоматизированном предприятии производства боеприпасов</TY_A_Heavy_EMP_mortar_shell_warhead_R.jobString>
+
+  <TY_A_Heavy_thunderstorm_mortar_shells_R.label>Изготовить миномётный снаряд Федерации "Гроза" *8</TY_A_Heavy_thunderstorm_mortar_shells_R.label>
+  <TY_A_Heavy_thunderstorm_mortar_shells_R.description>Использование предприятий производства боеприпасов превосходит ручное производство с точки зрения контроля затрат.</TY_A_Heavy_thunderstorm_mortar_shells_R.description>
+  <TY_A_Heavy_thunderstorm_mortar_shells_R.jobString>Работает на автоматизированном предприятии производства боеприпасов</TY_A_Heavy_thunderstorm_mortar_shells_R.jobString>
+
+  <TY_Synthesis_of_nano_solvents.label>Изготовить нанорастворители 150*</TY_Synthesis_of_nano_solvents.label>
+  <TY_Synthesis_of_nano_solvents.description>Более эффективный способ производства.</TY_Synthesis_of_nano_solvents.description>
+  <TY_Synthesis_of_nano_solvents.jobString>Работает на автоматизированном предприятии производства боеприпасов</TY_Synthesis_of_nano_solvents.jobString>
+
+  <TY_Produce_organic_compounds_that_meet_federal_standards.label>Произвести органику стандарта Федерации</TY_Produce_organic_compounds_that_meet_federal_standards.label>
+  <TY_Produce_organic_compounds_that_meet_federal_standards.description>Произвести органику стандарта Федерации из различных растений.</TY_Produce_organic_compounds_that_meet_federal_standards.description>
+  <TY_Produce_organic_compounds_that_meet_federal_standards.jobString>Работает на предприятии производства органики</TY_Produce_organic_compounds_that_meet_federal_standards.jobString>
+
+  <TY_Using_Federal_Organic_Matter_Corn_to_Produce_Federal_Standard_Organic_Matter.label>Произвести органику стандарта Федерации из промышленной кукурузы Федерации</TY_Using_Federal_Organic_Matter_Corn_to_Produce_Federal_Standard_Organic_Matter.label>
+  <TY_Using_Federal_Organic_Matter_Corn_to_Produce_Federal_Standard_Organic_Matter.description>Произвести органику стандарта Федерации из промышленной кукурузы Федерации.</TY_Using_Federal_Organic_Matter_Corn_to_Produce_Federal_Standard_Organic_Matter.description>
+  <TY_Using_Federal_Organic_Matter_Corn_to_Produce_Federal_Standard_Organic_Matter.jobString>Работает на предприятии производства органики</TY_Using_Federal_Organic_Matter_Corn_to_Produce_Federal_Standard_Organic_Matter.jobString>
+
+
+</LanguageData>

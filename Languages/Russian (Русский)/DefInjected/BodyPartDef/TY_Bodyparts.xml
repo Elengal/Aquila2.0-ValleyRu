@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Plug_in_unit.label>Слот модуля</Plug_in_unit.label>
+  <Plug_in_unit_A.label>Слот модуля A - Манёвренный модуль</Plug_in_unit_A.label>
+  <Plug_in_unit_B.label>Слот модуля B - Боевой модуль</Plug_in_unit_B.label>
+  <Plug_in_unit_C.label>Слот модуля C - Модуль боевых навыков</Plug_in_unit_C.label>
+  <Plug_in_unit_D.label>Слот модуля D - Модуль навыков управления</Plug_in_unit_D.label>
+  <Plug_in_unit_E.label>Слот модуля E - Модуль навыков</Plug_in_unit_E.label>
+
+
+</LanguageData>

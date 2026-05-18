@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 护盾许可 -->
+
+  <TY_A_A_RV_Permit_Apply_for_Shield_Generator.label>Призвать щит низкого угла</TY_A_A_RV_Permit_Apply_for_Shield_Generator.label>
+  <TY_A_A_RV_Permit_Apply_for_Shield_Generator.description>Призвать одноразовый щит низкого угла.</TY_A_A_RV_Permit_Apply_for_Shield_Generator.description>
+
+  <TY_A_RV_Permit_Apply_for_Shield_Generator.label>Призвать щит высокого угла</TY_A_RV_Permit_Apply_for_Shield_Generator.label>
+  <TY_A_RV_Permit_Apply_for_Shield_Generator.description>Призвать одноразовый щит высокого угла.</TY_A_RV_Permit_Apply_for_Shield_Generator.description>
+
+  <TY_A_Summon_a_light_defense_turret.label>Призвать лёгкую оборонительную турель</TY_A_Summon_a_light_defense_turret.label>
+  <TY_A_Summon_a_light_defense_turret.description>Призвать одноразовую лёгкую оборонительную турель.</TY_A_Summon_a_light_defense_turret.description>
+
+  <TY_A_Disposable_laser_turret.label>Призвать одноразовую лазерную турель Ланьян</TY_A_Disposable_laser_turret.label>
+  <TY_A_Disposable_laser_turret.description>Призвать одноразовую лазерную турель Ланьян.</TY_A_Disposable_laser_turret.description>
+
+
+</LanguageData>

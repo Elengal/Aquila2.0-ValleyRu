@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 定义了一个运输船（在这里特指穿梭机）的配置 -->
+
+  <TY_A_Ship_ShuttleCrashing.label>Разбившийся шаттл</TY_A_Ship_ShuttleCrashing.label>
+
+
+  <!-- 定义运输飞船的配置 -->
+
+  <TY_A_Ship_ShuttlePrisonVan.label>Тюремный шаттл</TY_A_Ship_ShuttlePrisonVan.label>
+
+
+</LanguageData>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <AbilityDef ParentName="RoleAuraBuffBase">
+        <defName>TY_D_moderate_A_A</defName>
+        <label>减速</label>
+        <description>通过纳米机械发射特殊的信号，让人的神经中枢传导速度减缓，致使移动速度的减慢。</description>
+        <iconPath>UI/TY_no/DriveSEMP</iconPath>
+        <cooldownTicksRange>24000</cooldownTicksRange> 
+        <groupDef></groupDef>
+        <warmupMoteSocialSymbol>UI/TY_no/DriveSEMP</warmupMoteSocialSymbol>
+        <statBases>
+          <Ability_Duration>210</Ability_Duration>
+          <Ability_EffectRadius>0</Ability_EffectRadius>
+        </statBases>
+        <verbProperties>
+		<verbClass>Verb_CastAbility</verbClass> 施法类动作
+         <range>0</range>
+        </verbProperties>
+        <comps>
+		 <li Class="TY_Mora_Gene.CompProperties_AbilityLifeForceCost">
+           <fuelCost>0.30</fuelCost>
+         </li>
+          <li Class="CompProperties_AbilityGiveHediff">
+            <compClass>CompAbilityEffect_GiveHediff</compClass>
+            <hediffDef>TY_D_moderate_AA</hediffDef>
+            <onlyApplyToSelf>True</onlyApplyToSelf>
+            <replaceExisting>true</replaceExisting>
+          </li>
+        </comps>
+      </AbilityDef> -->
+
+  <TY_A_erosion_bullets.label>Нанокоррозионная пуля</TY_A_erosion_bullets.label>
+
+
+</LanguageData>
+

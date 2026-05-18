@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Рецепты -->
+  <TY_ResurrectUltraheavyMech.jobString>воскрешение меха.</TY_ResurrectUltraheavyMech.jobString>
+  <TY_ResurrectUltraheavyMech_Q.jobString>воскрешение меха.</TY_ResurrectUltraheavyMech_Q.jobString>
+  <TY_A_ShingLanArm_AAA.jobString>операция.</TY_A_ShingLanArm_AAA.jobString>
+  <AtlasCore_zz.jobString>изготовление</AtlasCore_zz.jobString>
+  <Make_Hexin.jobString>неизвестный рецепт.</Make_Hexin.jobString>
+
+  <!-- Ингредиенты -->
+  <TY_Produce_canned_federal_meat.ingredients.0.filter.customSummary>сырьё</TY_Produce_canned_federal_meat.ingredients.0.filter.customSummary>
+  <TY_Produce_canned_federal_meat_A.ingredients.0.filter.customSummary>сырьё</TY_Produce_canned_federal_meat_A.ingredients.0.filter.customSummary>
+  <TY_Federal_standard_organic_production_of_federal_synthetic_pre_made_vegetables_B.ingredients.0.filter.customSummary>вегетарианские ингредиенты</TY_Federal_standard_organic_production_of_federal_synthetic_pre_made_vegetables_B.ingredients.0.filter.customSummary>
+  <TY_Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>сырьё</TY_Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>
+  <TY_Make_ChemfuelFromOrganics_A.ingredients.0.filter.customSummary>сырьё</TY_Make_ChemfuelFromOrganics_A.ingredients.0.filter.customSummary>
+  <TY_Produce_organic_compounds_that_meet_federal_standards.ingredients.0.filter.customSummary>сырьё</TY_Produce_organic_compounds_that_meet_federal_standards.ingredients.0.filter.customSummary>
+
+</LanguageData>
+

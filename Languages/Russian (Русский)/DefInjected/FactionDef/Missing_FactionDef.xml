@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Фракции -->
+  <AtPlayer_Factions.leaderTitle>лидер</AtPlayer_Factions.leaderTitle>
+  <AtPlayer_Factions.pawnSingular>Синтетик</AtPlayer_Factions.pawnSingular>
+
+  <RebelliousSlaves.leaderTitle>лидер</RebelliousSlaves.leaderTitle>
+  <RebelliousSlaves.messageDefendersAttacking>{0} из {1} атакует ваш {2}.</RebelliousSlaves.messageDefendersAttacking>
+  <RebelliousSlaves.pawnSingular>раб</RebelliousSlaves.pawnSingular>
+
+  <TY_A_Foreigner_hostility.leaderTitle>лидер</TY_A_Foreigner_hostility.leaderTitle>
+  <TY_A_Foreigner_hostility.messageDefendersAttacking>{0} из {1} атакует ваш {2}.</TY_A_Foreigner_hostility.messageDefendersAttacking>
+  <TY_A_Foreigner_hostility.pawnSingular>беженец от военачальников</TY_A_Foreigner_hostility.pawnSingular>
+
+  <Atlas_Faction.pawnSingular>член</Atlas_Faction.pawnSingular>
+  <Atlas_Faction.royalFavorLabel>вклад в сотрудничество</Atlas_Faction.royalFavorLabel>
+
+</LanguageData>
+

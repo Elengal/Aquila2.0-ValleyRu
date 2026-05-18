@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- bodyPart木本 -->
+
+  <BpX_Armor.label>Броня</BpX_Armor.label>
+  <BpX_Armor.labelShort>Броня</BpX_Armor.labelShort>
+
+  <BpX_ArmorC.label>Инженерная броня Федерации</BpX_ArmorC.label>
+  <BpX_ArmorC.labelShort>Инженерная броня Федерации</BpX_ArmorC.labelShort>
+
+  <BpX_ArmorX.label>Лёгкая броня</BpX_ArmorX.label>
+  <BpX_ArmorX.labelShort>Лёгкая броня</BpX_ArmorX.labelShort>
+
+  <BpX_Prime.label>Главная внешняя структура</BpX_Prime.label>
+  <BpX_Prime.labelShort>Главная внешняя структура</BpX_Prime.labelShort>
+
+  <BpX_Weapon.label>Оружейная система</BpX_Weapon.label>
+  <BpX_Weapon.labelShort>Оружейная система</BpX_Weapon.labelShort>
+
+  <BpX_Move.label>Манёвренная система</BpX_Move.label>
+  <BpX_Move.labelShort>Манёвренная система</BpX_Move.labelShort>
+
+  <BpX_Sensor.label>Датчик</BpX_Sensor.label>
+  <BpX_Sensor.labelShort>Датчик</BpX_Sensor.labelShort>
+
+  <BpX_Core.label>Реактор</BpX_Core.label>
+
+  <BpX_Torso.label>Туловище механоида</BpX_Torso.label>
+  <BpX_Torso.labelShort>Туловище механоида</BpX_Torso.labelShort>
+
+  <BpX_Arm.label>Рука механоида</BpX_Arm.label>
+  <BpX_Arm.labelShort>Рука механоида</BpX_Arm.labelShort>
+
+  <BpX_Leg.label>Нога механоида</BpX_Leg.label>
+  <BpX_Leg.labelShort>Нога механоида</BpX_Leg.labelShort>
+
+  <BpX_Head.label>Голова механоида</BpX_Head.label>
+  <BpX_Head.labelShort>Голова механоида</BpX_Head.labelShort>
+
+  <TY_A_BulbTurret.label>Башня</TY_A_BulbTurret.label>
+  <TY_A_Q_MechanicalLeg_W.label>Нога механоида Федерации</TY_A_Q_MechanicalLeg_W.label>
+  <TY_A_R_MechanicalFoot_W.label>Стопа механоида Федерации</TY_A_R_MechanicalFoot_W.label>
+  <TY_A_Q_MechanicalThoraxCanManipulate.label>Грудь</TY_A_Q_MechanicalThoraxCanManipulate.label>
+  <TY_A_Q_MechanicalNeck.label>Шасси</TY_A_Q_MechanicalNeck.label>
+  <TY_A_Q_MechanicalHead.label>Туловище</TY_A_Q_MechanicalHead.label>
+  <TY_A_Q_MechanicalHead_QW.label>Броневая плита</TY_A_Q_MechanicalHead_QW.label>
+  <TY_A_Q_ArtificialBrain.label>Компьютер управления механоидом</TY_A_Q_ArtificialBrain.label>
+  <TY_A_SightSensor.label>Оптические системы Федерации</TY_A_SightSensor.label>
+  <TY_A_HearingSensor.label>Акустическая система обнаружения Федерации</TY_A_HearingSensor.label>
+  <TY_A_SmellSensor.label>Химическая система обнаружения Федерации</TY_A_SmellSensor.label>
+  <TY_A_Q_MechanicalFoot.label>Модульная гусеничная плита</TY_A_Q_MechanicalFoot.label>
+  <TY_A_Q_MechanicalLeg.label>Сборка резиновой гусеницы с двойным штифтом</TY_A_Q_MechanicalLeg.label>
+  <TY_A_Q_MechanicalLeg_E.label>Двигатель</TY_A_Q_MechanicalLeg_E.label>
+  <TY_A_Q_MechanicalFoot_E.label>Лопасти двигателя</TY_A_Q_MechanicalFoot_E.label>
+  <TY_A_Q_Reactor.label>Энергетическая система механоида</TY_A_Q_Reactor.label>
+  <TY_A_Q_FluidReprocessor.label>Внутренняя циркуляционная система механоида</TY_A_Q_FluidReprocessor.label>
+  <TY_A_R_MechanicalThorax.label>Модуль брони груди</TY_A_R_MechanicalThorax.label>
+  <TY_A_R_MechanicalNeck.label>Шея механоида</TY_A_R_MechanicalNeck.label>
+  <TY_A_R_MechanicalHead.label>Голова робота Федерации</TY_A_R_MechanicalHead.label>
+  <TY_A_R_ArtificialBrain.label>Главный компьютер робота Федерации</TY_A_R_ArtificialBrain.label>
+  <TY_A_R_MechanicalShoulder.label>Плечо робота Федерации</TY_A_R_MechanicalShoulder.label>
+  <TY_A_R_MechanicalArm.label>Рука робота Федерации</TY_A_R_MechanicalArm.label>
+  <TY_A_R_MechanicalHand.label>Кисть робота Федерации</TY_A_R_MechanicalHand.label>
+  <TY_A_R_MechanicalFinger.label>Палец робота Федерации</TY_A_R_MechanicalFinger.label>
+  <TY_A_R_Reactor.label>Энергетическая система робота Федерации</TY_A_R_Reactor.label>
+  <TY_A_R_MechanicalLeg.label>Нога робота Федерации</TY_A_R_MechanicalLeg.label>
+  <TY_A_R_MechanicalFoot.label>Стопа робота Федерации</TY_A_R_MechanicalFoot.label>
+  <TY_A_R_FluidReprocessor.label>Внутренняя циркуляционная система робота</TY_A_R_FluidReprocessor.label>
+
+
+  <!-- EN: 机械臂 -->
+  <!-- EN: 机械模块 -->
+  <!-- EN: 装甲 -->
+  <!-- EN: 轻装甲 -->
+  <!-- EN: 反应堆 -->
+  <!-- EN: 机械头 -->
+  <!-- EN: 机械腿 -->
+  <!-- EN: 机动系统 -->
+  <!-- EN: 主外结构 -->
+  <!-- EN: 传感器 -->
+  <!-- EN: 机械躯体 -->
+  <!-- EN: 武器系统 -->
+
+</LanguageData>

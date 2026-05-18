@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_TradeAngel.label>Речная Долина</TY_TradeAngel.label>
+
+  <TY_GlitterMedDrop1TY.label>Экстренная медицинская помощь Уровень-1</TY_GlitterMedDrop1TY.label>
+  <TY_GlitterMedDrop1TY.description>Получить лекарство Сверкающего Мира *3. Использует 1 очко разрешения.</TY_GlitterMedDrop1TY.description>
+
+  <TY_GlitterMedDrop2TY.label>Экстренная медицинская помощь Уровень-2</TY_GlitterMedDrop2TY.label>
+  <TY_GlitterMedDrop2TY.description>Получить лекарство Сверкающего Мира *10. Использует 1 очко разрешения.</TY_GlitterMedDrop2TY.description>
+
+  <TY_CallOrbitalStrike1TY.label>Орбитальный удар Уровень-1</TY_CallOrbitalStrike1TY.label>
+  <TY_CallOrbitalStrike1TY.description>После одного корректирующего удара второй удар будет точным по цели. Использует 1 очко разрешения.</TY_CallOrbitalStrike1TY.description>
+
+  <TY_CallOrbitalStrike2TY.label>Орбитальный удар Уровень-2</TY_CallOrbitalStrike2TY.label>
+  <TY_CallOrbitalStrike2TY.description>После одного корректирующего удара второй удар будет точным по цели. Использует 1 очко разрешения.</TY_CallOrbitalStrike2TY.description>
+
+  <TY_CallOrbital1TY.label>Оборонительный артиллерийский удар</TY_CallOrbital1TY.label>
+  <TY_CallOrbital1TY.description>Вызвать продолжительные артиллерийские удары по указанным целям. Использует 2 очка разрешения.</TY_CallOrbital1TY.description>
+
+  <TY_CallOrbital2TY.label>Экстренный орбитальный удар</TY_CallOrbital2TY.label>
+  <TY_CallOrbital2TY.description>Вызвать орбитальный флот для обстрела 24 снарядами в радиусе 10. Из-за поспешности, с которой они были выпущены, первый залп будет немного неточным. Использует 6 очков разрешения.</TY_CallOrbital2TY.description>
+
+  <TY_CallOrbital3TY.label>Разблокировать Ультимативные навыки</TY_CallOrbital3TY.label>
+  <TY_CallOrbital3TY.description>Разблокировать Ультимативные навыки. Использует 4 очка разрешения. Примечание: Этот навык не имеет эффекта, кроме разблокировки Ультимативных навыков.</TY_CallOrbital3TY.description>
+
+  <TY_CallOrbitalStrikeTY.label>Огневая поддержка Уровень-1</TY_CallOrbitalStrikeTY.label>
+  <TY_CallOrbitalStrikeTY.description>Вызвать огневую поддержку Уровень-1. Использует 1 очко разрешения.</TY_CallOrbitalStrikeTY.description>
+
+  <TY_CallOrbitalSalvo1TY.label>Огневая поддержка Уровень-2</TY_CallOrbitalSalvo1TY.label>
+  <TY_CallOrbitalSalvo1TY.description>Вызвать огневую поддержку Уровень-2. Использует 1 очко разрешения.</TY_CallOrbitalSalvo1TY.description>
+
+  <TY_CallOrbitalSalvo2TY.label>Огневая поддержка насыщения Уровень-1</TY_CallOrbitalSalvo2TY.label>
+  <TY_CallOrbitalSalvo2TY.description>Вызвать огневую поддержку насыщения Уровень-1. Использует 1 очко разрешения.</TY_CallOrbitalSalvo2TY.description>
+
+  <TY_CallOrbitalSalvo3TY.label>Огневая поддержка насыщения Уровень-2</TY_CallOrbitalSalvo3TY.label>
+  <TY_CallOrbitalSalvo3TY.description>Вызвать огневую поддержку насыщения Уровень-2. Использует 1 очко разрешения.</TY_CallOrbitalSalvo3TY.description>
+
+  <TY_CallOrbitalSalvo4TY.label>Супер насыщающий орбитальный удар</TY_CallOrbitalSalvo4TY.label>
+  <TY_CallOrbitalSalvo4TY.description>Вызвать орбитальный удар с радиусом взрыва, превышающим 60 клеток. Остерегайтесь дружественного огня. Использует 5 очков разрешения.</TY_CallOrbitalSalvo4TY.description>
+
+
+  <!-- <RoyalTitlePermitDef>
+	<defName>TY_Konghtouimod1TY</defName>
+	<label>摇机器人</label>
+	<description>摇机器人</description>
+	<workerClass>RV_Assemblie.Permit_RV_CallExtraAid</workerClass>
+	<minTitle>TY_Battalion</minTitle> 
+	<faction>Atlas_Faction</faction> 
+	<permitPointCost>1</permitPointCost>
+	<uiPosition>(1,1)</uiPosition>
+	 <royalAid>
+      <favorCost>8</favorCost>
+	  <pawnKindDef>Mech_A_LiMing</pawnKindDef>
+	  <pawnCount>6</pawnCount>
+	  <targetingRange>50</targetingRange>
+    </royalAid>
+	<modExtensions>
+		<li Class="RV_Assemblie.RV_ModExtension_ExtraAidGroupExtension">
+		 <extraGroups>
+			<li>
+				<pawnKindDef>Mech_A_XwSnake</pawnKindDef>
+				<pawnCount>1</pawnCount> 
+			</li>
+		</extraGroups>
+	 </li>
+	</modExtensions>
+	<cooldownDays>30</cooldownDays> 
+  </RoyalTitlePermitDef> -->
+
+  <TY_Konghtouimod1TY.label>Вызвать несколько роботов ополчения</TY_Konghtouimod1TY.label>
+  <TY_Konghtouimod1TY.description>Вызвать несколько роботов ополчения. Использует 1 очко разрешения.</TY_Konghtouimod1TY.description>
+
+  <TY_Konghtouimod2TY.label>Вызвать больше роботов ополчения</TY_Konghtouimod2TY.label>
+  <TY_Konghtouimod2TY.description>Вызвать больше роботов ополчения. Использует 1 очко разрешения.</TY_Konghtouimod2TY.description>
+
+  <TY_Konghtouimod2TTY.label>Вызвать ещё больше роботов ополчения</TY_Konghtouimod2TTY.label>
+  <TY_Konghtouimod2TTY.description>Вызвать больше роботов ополчения. Использует 2 очка разрешения.</TY_Konghtouimod2TTY.description>
+
+  <TY_Konghtouimod3TY.label>Вызвать отряд боевых роботов "Аврора"-9</TY_Konghtouimod3TY.label>
+  <TY_Konghtouimod3TY.description>Вызвать отряд боевых роботов "Аврора"-9. Использует 3 очка разрешения.</TY_Konghtouimod3TY.description>
+
+  <TY_Konghtouimod4TY.label>Вызвать стандартную боевую команду машин</TY_Konghtouimod4TY.label>
+  <TY_Konghtouimod4TY.description>Вызвать стандартную боевую команду машин. Использует 2 очка разрешения.</TY_Konghtouimod4TY.description>
+
+  <TY_Konghtouimod5TY.label>Вызвать боевого робота для штурма укреплений</TY_Konghtouimod5TY.label>
+  <TY_Konghtouimod5TY.description>Вызвать боевого робота для штурма укреплений. Использует 3 очка разрешения.</TY_Konghtouimod5TY.description>
+
+  <TY_Konghtouimod6TY.label>Вызвать тяжёлого механоидного пехотного робота</TY_Konghtouimod6TY.label>
+  <TY_Konghtouimod6TY.description>Вызвать тяжёлого механоидного пехотного робота. Использует 4 очка разрешения.</TY_Konghtouimod6TY.description>
+
+  <TY_Konghtouimod7TY.label>Вызвать тяжёлое бронетанковое подразделение</TY_Konghtouimod7TY.label>
+  <TY_Konghtouimod7TY.description>Вызвать тяжёлое бронетанковое подразделение. Использует 5 очков разрешения.</TY_Konghtouimod7TY.description>
+
+  <TY_CallTransportShuttle.label>Вызвать шаттл</TY_CallTransportShuttle.label>
+  <TY_CallTransportShuttle.description>Вызвать шаттл. Использует 1 очко разрешения.</TY_CallTransportShuttle.description>
+
+  <TY_CallTransportShuttleTY.label>Вызвать дополнительные шаттлы</TY_CallTransportShuttleTY.label>
+  <TY_CallTransportShuttleTY.description>Получить дополнительное разрешение на шаттл. Использует 3 очка разрешения.</TY_CallTransportShuttleTY.description>
+
+
+</LanguageData>

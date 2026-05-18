@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_wallpaper_C_Building.label>Окрашиваемые обои Речной Долины (Сильное покрытие)</TY_A_wallpaper_C_Building.label>
+  <TY_A_wallpaper_C_Building.description>Может покрывать растения, деревья, стены и здания.</TY_A_wallpaper_C_Building.description>
+  <Blueprint_TY_A_wallpaper_C_Building.label>Окрашиваемые обои Речной Долины (Сильное покрытие) (чертёж)</Blueprint_TY_A_wallpaper_C_Building.label>
+  <Frame_TY_A_wallpaper_C_Building.label>Окрашиваемые обои Речной Долины (Сильное покрытие) (строительство)</Frame_TY_A_wallpaper_C_Building.label>
+  <Frame_TY_A_wallpaper_C_Building.description>Может покрывать растения, деревья, стены и здания.</Frame_TY_A_wallpaper_C_Building.description>
+
+  <TY_A_wallpaper_B_Building.label>Окрашиваемые обои Речной Долины (Слабое покрытие)</TY_A_wallpaper_B_Building.label>
+  <TY_A_wallpaper_B_Building.description>Не может покрывать растения, деревья, стены и здания.</TY_A_wallpaper_B_Building.description>
+  <Blueprint_TY_A_wallpaper_B_Building.label>Окрашиваемые обои Речной Долины (Слабое покрытие) (чертёж)</Blueprint_TY_A_wallpaper_B_Building.label>
+  <Frame_TY_A_wallpaper_B_Building.label>Окрашиваемые обои Речной Долины (Слабое покрытие) (строительство)</Frame_TY_A_wallpaper_B_Building.label>
+  <Frame_TY_A_wallpaper_B_Building.description>Не может покрывать растения, деревья, стены и здания.</Frame_TY_A_wallpaper_B_Building.description>
+
+  <TY_A_window_Building.label>Окно Речной Долины</TY_A_window_Building.label>
+  <TY_A_window_Building.description>Жилые окна, обычно используемые в зданиях Федерации Речной Долины (и не имеют возможности стрелять пулями наружу).</TY_A_window_Building.description>
+  <Blueprint_TY_A_window_Building.label>Окно Речной Долины (чертёж)</Blueprint_TY_A_window_Building.label>
+  <Frame_TY_A_window_Building.label>Окно Речной Долины (строительство)</Frame_TY_A_window_Building.label>
+  <Frame_TY_A_window_Building.description>Жилые окна, обычно используемые в зданиях Федерации Речной Долины (и не имеют возможности стрелять пулями наружу).</Frame_TY_A_window_Building.description>
+
+  <TY_A_XG_CuangLian.label>Штора Речной Долины</TY_A_XG_CuangLian.label>
+  <TY_A_XG_CuangLian.description>Жилые шторы, обычно используемые в зданиях Федерации Речной Долины (и не имеют возможности стрелять пулями наружу).</TY_A_XG_CuangLian.description>
+  <Blueprint_TY_A_XG_CuangLian.label>Штора Речной Долины (чертёж)</Blueprint_TY_A_XG_CuangLian.label>
+  <Frame_TY_A_XG_CuangLian.label>Штора Речной Долины (строительство)</Frame_TY_A_XG_CuangLian.label>
+  <Frame_TY_A_XG_CuangLian.description>Жилые шторы, обычно используемые в зданиях Федерации Речной Долины (и не имеют возможности стрелять пулями наружу).</Frame_TY_A_XG_CuangLian.description>
+
+
+  <!-- 小桌子 -->
+
+  <TY_A_XGSmall_table_A_Building.label>Маленький стол</TY_A_XGSmall_table_A_Building.label>
+  <TY_A_XGSmall_table_A_Building.description>Маленькие столы, обычно встречающиеся в уличных зонах отдыха.</TY_A_XGSmall_table_A_Building.description>
+  <Blueprint_TY_A_XGSmall_table_A_Building.label>Маленький стол (чертёж)</Blueprint_TY_A_XGSmall_table_A_Building.label>
+  <Blueprint_Install_TY_A_XGSmall_table_A_Building.label>Маленький стол (чертёж)</Blueprint_Install_TY_A_XGSmall_table_A_Building.label>
+  <Frame_TY_A_XGSmall_table_A_Building.label>Маленький стол (строительство)</Frame_TY_A_XGSmall_table_A_Building.label>
+  <Frame_TY_A_XGSmall_table_A_Building.description>Маленькие столы, обычно встречающиеся в уличных зонах отдыха.</Frame_TY_A_XGSmall_table_A_Building.description>
+
+
+  <!-- 2x1桌子 -->
+
+  <TY_A_XGLB_table_Ax_Building.label>Стол (2x1)</TY_A_XGLB_table_Ax_Building.label>
+  <TY_A_XGLB_table_Ax_Building.description>Небольшой стол, обычно используемый в таких местах, как рестораны. Когда Федерация Речной Долины впервые создала различные государственные уличные закусочные, были доступны только такие маленькие столы, и большинство из них были сделаны из титанового сплава.</TY_A_XGLB_table_Ax_Building.description>
+  <Blueprint_TY_A_XGLB_table_Ax_Building.label>Стол (2x1) (чертёж)</Blueprint_TY_A_XGLB_table_Ax_Building.label>
+  <Blueprint_Install_TY_A_XGLB_table_Ax_Building.label>Стол (2x1) (чертёж)</Blueprint_Install_TY_A_XGLB_table_Ax_Building.label>
+  <Frame_TY_A_XGLB_table_Ax_Building.label>Стол (2x1) (строительство)</Frame_TY_A_XGLB_table_Ax_Building.label>
+  <Frame_TY_A_XGLB_table_Ax_Building.description>Небольшой стол, обычно используемый в таких местах, как рестораны. Когда Федерация Речной Долины впервые создала различные государственные уличные закусочные, были доступны только такие маленькие столы, и большинство из них были сделаны из титанового сплава.</Frame_TY_A_XGLB_table_Ax_Building.description>
+
+
+  <!-- 红酒桌子(2x1) -->
+
+  <TY_A_XGLB_table_B1_Building.label>Стол "Красное вино" (2x1)</TY_A_XGLB_table_B1_Building.label>
+  <TY_A_XGLB_table_B1_Building.description>Небольшой стол "Красное вино", обычно используемый в таких местах, как рестораны. Когда Федерация Речной Долины впервые создала различные государственные уличные закусочные, были доступны только такие маленькие столы, и большинство из них были сделаны из титанового сплава.</TY_A_XGLB_table_B1_Building.description>
+  <Blueprint_TY_A_XGLB_table_B1_Building.label>Стол "Красное вино" (2x1) (чертёж)</Blueprint_TY_A_XGLB_table_B1_Building.label>
+  <Blueprint_Install_TY_A_XGLB_table_B1_Building.label>Стол "Красное вино" (2x1) (чертёж)</Blueprint_Install_TY_A_XGLB_table_B1_Building.label>
+  <Frame_TY_A_XGLB_table_B1_Building.label>Стол "Красное вино" (2x1) (строительство)</Frame_TY_A_XGLB_table_B1_Building.label>
+  <Frame_TY_A_XGLB_table_B1_Building.description>Небольшой стол "Красное вино", обычно используемый в таких местах, как рестораны. Когда Федерация Речной Долины впервые создала различные государственные уличные закусочные, были доступны только такие маленькие столы, и большинство из них были сделаны из титанового сплава.</Frame_TY_A_XGLB_table_B1_Building.description>
+
+
+  <!-- 4x4桌子 -->
+
+  <TY_A_XGLB_table_A_Building.label>Стол (4x4)</TY_A_XGLB_table_A_Building.label>
+  <TY_A_XGLB_table_A_Building.description>Обеденный стол, обычно используемый в столовых жилых помещений.</TY_A_XGLB_table_A_Building.description>
+  <Blueprint_TY_A_XGLB_table_A_Building.label>Стол (4x4) (чертёж)</Blueprint_TY_A_XGLB_table_A_Building.label>
+  <Blueprint_Install_TY_A_XGLB_table_A_Building.label>Стол (4x4) (чертёж)</Blueprint_Install_TY_A_XGLB_table_A_Building.label>
+  <Frame_TY_A_XGLB_table_A_Building.label>Стол (4x4) (строительство)</Frame_TY_A_XGLB_table_A_Building.label>
+  <Frame_TY_A_XGLB_table_A_Building.description>Обеденный стол, обычно используемый в столовых жилых помещений.</Frame_TY_A_XGLB_table_A_Building.description>
+
+
+  <!-- 溪谷高脚凳 -->
+
+  <TY_A_XGLB_bench_A1x_Building.label>Высокий табурет Речной Долины</TY_A_XGLB_bench_A1x_Building.label>
+  <TY_A_XGLB_bench_A1x_Building.description>Высокий табурет Речной Долины</TY_A_XGLB_bench_A1x_Building.description>
+  <Blueprint_TY_A_XGLB_bench_A1x_Building.label>Высокий табурет Речной Долины (чертёж)</Blueprint_TY_A_XGLB_bench_A1x_Building.label>
+  <Blueprint_Install_TY_A_XGLB_bench_A1x_Building.label>Высокий табурет Речной Долины (чертёж)</Blueprint_Install_TY_A_XGLB_bench_A1x_Building.label>
+  <Frame_TY_A_XGLB_bench_A1x_Building.label>Высокий табурет Речной Долины (строительство)</Frame_TY_A_XGLB_bench_A1x_Building.label>
+  <Frame_TY_A_XGLB_bench_A1x_Building.description>Высокий табурет Речной Долины</Frame_TY_A_XGLB_bench_A1x_Building.description>
+
+
+  <!-- 溪谷椅子 -->
+
+  <TY_A_XGLB_chair_A1xA_Building.label>Стул Речной Долины</TY_A_XGLB_chair_A1xA_Building.label>
+  <TY_A_XGLB_chair_A1xA_Building.description>Стул Речной Долины</TY_A_XGLB_chair_A1xA_Building.description>
+  <Blueprint_TY_A_XGLB_chair_A1xA_Building.label>Стул Речной Долины (чертёж)</Blueprint_TY_A_XGLB_chair_A1xA_Building.label>
+  <Blueprint_Install_TY_A_XGLB_chair_A1xA_Building.label>Стул Речной Долины (чертёж)</Blueprint_Install_TY_A_XGLB_chair_A1xA_Building.label>
+  <Frame_TY_A_XGLB_chair_A1xA_Building.label>Стул Речной Долины (строительство)</Frame_TY_A_XGLB_chair_A1xA_Building.label>
+  <Frame_TY_A_XGLB_chair_A1xA_Building.description>Стул Речной Долины</Frame_TY_A_XGLB_chair_A1xA_Building.description>
+
+
+  <!-- 溪谷松软沙发 -->
+
+  <TY_A_XGLB_sofa_A_Building.label>Мягкий диван Речной Долины</TY_A_XGLB_sofa_A_Building.label>
+  <TY_A_XGLB_sofa_A_Building.description>Космический диван, произведённый и разработанный домашним отделом Дома Моды Федерации, выполнен в стиле ретро-футуризма, специально создан для повседневной домашней жизни.</TY_A_XGLB_sofa_A_Building.description>
+  <Blueprint_TY_A_XGLB_sofa_A_Building.label>Мягкий диван Речной Долины (чертёж)</Blueprint_TY_A_XGLB_sofa_A_Building.label>
+  <Blueprint_Install_TY_A_XGLB_sofa_A_Building.label>Мягкий диван Речной Долины (чертёж)</Blueprint_Install_TY_A_XGLB_sofa_A_Building.label>
+  <Frame_TY_A_XGLB_sofa_A_Building.label>Мягкий диван Речной Долины (строительство)</Frame_TY_A_XGLB_sofa_A_Building.label>
+  <Frame_TY_A_XGLB_sofa_A_Building.description>Космический диван, произведённый и разработанный домашним отделом Дома Моды Федерации, выполнен в стиле ретро-футуризма, специально создан для повседневной домашней жизни.</Frame_TY_A_XGLB_sofa_A_Building.description>
+
+
+  <!-- 溪谷松软大沙发 -->
+
+  <TY_A_XGLB_sofa_B_Building.label>Большой мягкий диван Речной Долины</TY_A_XGLB_sofa_B_Building.label>
+  <TY_A_XGLB_sofa_B_Building.description>Космический диван, произведённый и разработанный домашним отделом Дома Моды Федерации, выполнен в стиле ретро-футуризма, специально создан для повседневной домашней жизни.</TY_A_XGLB_sofa_B_Building.description>
+  <Blueprint_TY_A_XGLB_sofa_B_Building.label>Большой мягкий диван Речной Долины (чертёж)</Blueprint_TY_A_XGLB_sofa_B_Building.label>
+  <Blueprint_Install_TY_A_XGLB_sofa_B_Building.label>Большой мягкий диван Речной Долины (чертёж)</Blueprint_Install_TY_A_XGLB_sofa_B_Building.label>
+  <Frame_TY_A_XGLB_sofa_B_Building.label>Большой мягкий диван Речной Долины (строительство)</Frame_TY_A_XGLB_sofa_B_Building.label>
+  <Frame_TY_A_XGLB_sofa_B_Building.description>Космический диван, произведённый и разработанный домашним отделом Дома Моды Федерации, выполнен в стиле ретро-футуризма, специально создан для повседневной домашней жизни.</Frame_TY_A_XGLB_sofa_B_Building.description>
+
+
+  <!-- 溪谷棱角大沙发 -->
+
+  <TY_A_XGLB_sofa_B_Building_A.label>Большой угловатый диван Речной Долины</TY_A_XGLB_sofa_B_Building_A.label>
+  <TY_A_XGLB_sofa_B_Building_A.description>Космический диван, произведённый и разработанный домашним отделом Дома Моды Федерации, выполнен в стиле ретро-футуризма, специально создан для повседневной домашней жизни.</TY_A_XGLB_sofa_B_Building_A.description>
+  <Blueprint_TY_A_XGLB_sofa_B_Building_A.label>Большой угловатый диван Речной Долины (чертёж)</Blueprint_TY_A_XGLB_sofa_B_Building_A.label>
+  <Blueprint_Install_TY_A_XGLB_sofa_B_Building_A.label>Большой угловатый диван Речной Долины (чертёж)</Blueprint_Install_TY_A_XGLB_sofa_B_Building_A.label>
+  <Frame_TY_A_XGLB_sofa_B_Building_A.label>Большой угловатый диван Речной Долины (строительство)</Frame_TY_A_XGLB_sofa_B_Building_A.label>
+  <Frame_TY_A_XGLB_sofa_B_Building_A.description>Космический диван, произведённый и разработанный домашним отделом Дома Моды Федерации, выполнен в стиле ретро-футуризма, специально создан для повседневной домашней жизни.</Frame_TY_A_XGLB_sofa_B_Building_A.description>
+
+
+  <!-- 红酒沙发 -->
+
+  <TY_A_XGLB_SF_B1x2_Building.label>Диван "Красное вино"</TY_A_XGLB_SF_B1x2_Building.label>
+  <TY_A_XGLB_SF_B1x2_Building.description>Космический диван, произведённый и разработанный домашним отделом Дома Моды Федерации, выполнен в стиле ретро-футуризма, специально создан для повседневной домашней жизни.</TY_A_XGLB_SF_B1x2_Building.description>
+  <Blueprint_TY_A_XGLB_SF_B1x2_Building.label>Диван "Красное вино" (чертёж)</Blueprint_TY_A_XGLB_SF_B1x2_Building.label>
+  <Blueprint_Install_TY_A_XGLB_SF_B1x2_Building.label>Диван "Красное вино" (чертёж)</Blueprint_Install_TY_A_XGLB_SF_B1x2_Building.label>
+  <Frame_TY_A_XGLB_SF_B1x2_Building.label>Диван "Красное вино" (строительство)</Frame_TY_A_XGLB_SF_B1x2_Building.label>
+  <Frame_TY_A_XGLB_SF_B1x2_Building.description>Космический диван, произведённый и разработанный домашним отделом Дома Моды Федерации, выполнен в стиле ретро-футуризма, специально создан для повседневной домашней жизни.</Frame_TY_A_XGLB_SF_B1x2_Building.description>
+
+  <TY_A_XG_1_MK_Building.label>Дверная рама</TY_A_XG_1_MK_Building.label>
+  <TY_A_XG_1_MK_Building.description>Дверная рама</TY_A_XG_1_MK_Building.description>
+  <Blueprint_TY_A_XG_1_MK_Building.label>Дверная рама (чертёж)</Blueprint_TY_A_XG_1_MK_Building.label>
+  <Frame_TY_A_XG_1_MK_Building.label>Дверная рама (строительство)</Frame_TY_A_XG_1_MK_Building.label>
+  <Frame_TY_A_XG_1_MK_Building.description>Дверная рама</Frame_TY_A_XG_1_MK_Building.description>
+
+  <TY_FloodLight.label>Уличный фонарь</TY_FloodLight.label>
+  <TY_FloodLight.description>Может быть использован для повешения капиталистов и буржуазии.</TY_FloodLight.description>
+  <Blueprint_TY_FloodLight.label>Уличный фонарь (чертёж)</Blueprint_TY_FloodLight.label>
+  <Blueprint_Install_TY_FloodLight.label>Уличный фонарь (чертёж)</Blueprint_Install_TY_FloodLight.label>
+  <Frame_TY_FloodLight.label>Уличный фонарь (строительство)</Frame_TY_FloodLight.label>
+  <Frame_TY_FloodLight.description>Может быть использован для повешения капиталистов и буржуазии.</Frame_TY_FloodLight.description>
+
+  <TY_A_XGFANyijia_Building.label>Вешалка для шляп (Освещающая)</TY_A_XGFANyijia_Building.label>
+  <TY_A_XGFANyijia_Building.description>Это для развешивания одежды и шляп у двери, а также это светильник.</TY_A_XGFANyijia_Building.description>
+  <Blueprint_TY_A_XGFANyijia_Building.label>Вешалка для шляп (Освещающая) (чертёж)</Blueprint_TY_A_XGFANyijia_Building.label>
+  <Frame_TY_A_XGFANyijia_Building.label>Вешалка для шляп (Освещающая) (строительство)</Frame_TY_A_XGFANyijia_Building.label>
+  <Frame_TY_A_XGFANyijia_Building.description>Это для развешивания одежды и шляп у двери, а также это светильник.</Frame_TY_A_XGFANyijia_Building.description>
+
+  <TY_A_XGHUAtai_Building_B.label>Металлическое жизненное растение B</TY_A_XGHUAtai_Building_B.label>
+  <TY_A_XGHUAtai_Building_B.description>Создано Федерацией, также гомологично некоторым физическим конструкциям Синтетиков.</TY_A_XGHUAtai_Building_B.description>
+  <Blueprint_TY_A_XGHUAtai_Building_B.label>Металлическое жизненное растение B (чертёж)</Blueprint_TY_A_XGHUAtai_Building_B.label>
+  <Frame_TY_A_XGHUAtai_Building_B.label>Металлическое жизненное растение B (строительство)</Frame_TY_A_XGHUAtai_Building_B.label>
+  <Frame_TY_A_XGHUAtai_Building_B.description>Создано Федерацией, также гомологично некоторым физическим конструкциям Синтетиков.</Frame_TY_A_XGHUAtai_Building_B.description>
+
+  <TY_A_XGHUAtai_Building.label>Металлическое жизненное растение</TY_A_XGHUAtai_Building.label>
+  <TY_A_XGHUAtai_Building.description>Создано Федерацией, также гомологично некоторым физическим конструкциям Синтетиков.</TY_A_XGHUAtai_Building.description>
+  <Blueprint_TY_A_XGHUAtai_Building.label>Металлическое жизненное растение (чертёж)</Blueprint_TY_A_XGHUAtai_Building.label>
+  <Frame_TY_A_XGHUAtai_Building.label>Металлическое жизненное растение (строительство)</Frame_TY_A_XGHUAtai_Building.label>
+  <Frame_TY_A_XGHUAtai_Building.description>Создано Федерацией, также гомологично некоторым физическим конструкциям Синтетиков.</Frame_TY_A_XGHUAtai_Building.description>
+
+  <TY_XGyg.label>Шкаф</TY_XGyg.label>
+  <TY_XGyg.description>Шкаф</TY_XGyg.description>
+  <Blueprint_TY_XGyg.label>Шкаф (чертёж)</Blueprint_TY_XGyg.label>
+  <Blueprint_Install_TY_XGyg.label>Шкаф (чертёж)</Blueprint_Install_TY_XGyg.label>
+  <Frame_TY_XGyg.label>Шкаф (строительство)</Frame_TY_XGyg.label>
+  <Frame_TY_XGyg.description>Шкаф</Frame_TY_XGyg.description>
+
+  <TY_bedside_table.label>Прикроватная тумбочка</TY_bedside_table.label>
+  <TY_bedside_table.description>Прикроватная тумбочка</TY_bedside_table.description>
+  <Blueprint_TY_bedside_table.label>Прикроватная тумбочка (чертёж)</Blueprint_TY_bedside_table.label>
+  <Blueprint_Install_TY_bedside_table.label>Прикроватная тумбочка (чертёж)</Blueprint_Install_TY_bedside_table.label>
+  <Frame_TY_bedside_table.label>Прикроватная тумбочка (строительство)</Frame_TY_bedside_table.label>
+  <Frame_TY_bedside_table.description>Прикроватная тумбочка</Frame_TY_bedside_table.description>
+
+  <TY_TubeTelevision.label>Игровая консоль</TY_TubeTelevision.label>
+  <TY_TubeTelevision.description>Сектор "Тревога" когда-то производил серию персональных игровых консолей.\nВ них можно найти серию игр, рассказывающих об инопланетном боге, манипулирующем человеческой цивилизацией, хотя они были запрещены на некоторое время из-за устранения Архитекторного Интеллекта.</TY_TubeTelevision.description>
+  <Blueprint_TY_TubeTelevision.label>Игровая консоль (чертёж)</Blueprint_TY_TubeTelevision.label>
+  <Blueprint_Install_TY_TubeTelevision.label>Игровая консоль (чертёж)</Blueprint_Install_TY_TubeTelevision.label>
+  <Frame_TY_TubeTelevision.label>Игровая консоль (строительство)</Frame_TY_TubeTelevision.label>
+  <Frame_TY_TubeTelevision.description>Сектор "Тревога" когда-то производил серию персональных игровых консолей.\nВ них можно найти серию игр, рассказывающих об инопланетном боге, манипулирующем человеческой цивилизацией, хотя они были запрещены на некоторое время из-за устранения Архитекторного Интеллекта.</Frame_TY_TubeTelevision.description>
+
+  <TY_A_XG_LBTreatmentStation_Building.label>Вспомогательное медицинское учреждение</TY_A_XG_LBTreatmentStation_Building.label>
+  <TY_A_XG_LBTreatmentStation_Building.description>Изначально использовалось на поле боя как медицинский пункт для экстренного лечения раненых, вспомогательное медицинское учреждение теперь используется в различных больничных учреждениях.</TY_A_XG_LBTreatmentStation_Building.description>
+  <Blueprint_TY_A_XG_LBTreatmentStation_Building.label>Вспомогательное медицинское учреждение (чертёж)</Blueprint_TY_A_XG_LBTreatmentStation_Building.label>
+  <Blueprint_Install_TY_A_XG_LBTreatmentStation_Building.label>Вспомогательное медицинское учреждение (чертёж)</Blueprint_Install_TY_A_XG_LBTreatmentStation_Building.label>
+  <Frame_TY_A_XG_LBTreatmentStation_Building.label>Вспомогательное медицинское учреждение (строительство)</Frame_TY_A_XG_LBTreatmentStation_Building.label>
+  <Frame_TY_A_XG_LBTreatmentStation_Building.description>Изначально использовалось на поле боя как медицинский пункт для экстренного лечения раненых, вспомогательное медицинское учреждение теперь используется в различных больничных учреждениях.</Frame_TY_A_XG_LBTreatmentStation_Building.description>
+
+  <TY_A_BAOsqr_B.label>Колонна охлаждения</TY_A_BAOsqr_B.label>
+  <TY_A_BAOsqr_B.description>Напольный охладитель, который может использоваться как колонна, не только относительно недорог, но и более эффективен, чем обычные кондиционеры.</TY_A_BAOsqr_B.description>
+  <Blueprint_TY_A_BAOsqr_B.label>Колонна охлаждения (чертёж)</Blueprint_TY_A_BAOsqr_B.label>
+  <Blueprint_Install_TY_A_BAOsqr_B.label>Колонна охлаждения (чертёж)</Blueprint_Install_TY_A_BAOsqr_B.label>
+  <Frame_TY_A_BAOsqr_B.label>Колонна охлаждения (строительство)</Frame_TY_A_BAOsqr_B.label>
+  <Frame_TY_A_BAOsqr_B.description>Напольный охладитель, который может использоваться как колонна, не только относительно недорог, но и более эффективен, чем обычные кондиционеры.</Frame_TY_A_BAOsqr_B.description>
+
+  <TY_A_BAOsqr_A.label>Колонна обогрева</TY_A_BAOsqr_A.label>
+  <TY_A_BAOsqr_A.description>Напольный обогреватель, который может использоваться как колонна, более мощный, чем обычные кондиционеры.</TY_A_BAOsqr_A.description>
+  <Blueprint_TY_A_BAOsqr_A.label>Колонна обогрева (чертёж)</Blueprint_TY_A_BAOsqr_A.label>
+  <Blueprint_Install_TY_A_BAOsqr_A.label>Колонна обогрева (чертёж)</Blueprint_Install_TY_A_BAOsqr_A.label>
+  <Frame_TY_A_BAOsqr_A.label>Колонна обогрева (строительство)</Frame_TY_A_BAOsqr_A.label>
+  <Frame_TY_A_BAOsqr_A.description>Напольный обогреватель, который может использоваться как колонна, более мощный, чем обычные кондиционеры.</Frame_TY_A_BAOsqr_A.description>
+
+  <TY_A_BiosculpterPod.label>Капсула биоскульптера Федерации</TY_A_BiosculpterPod.label>
+  <TY_A_BiosculpterPod.description>Новая капсула биоскульптера от Федерации Речной Долины значительно сокращает необходимое время и улучшает способность лечить болезни и заживлять повреждённые конечности. Она также может удалять зависимости от различных распространённых наркотических веществ, включая печально известный Люциферий. Однако этот эффект нестабилен, так как может случайным образом удалить либо зависимость, либо эффект. Если вам повезёт, вы можете даже напрямую удалить эффект зависимости, сохранив только положительные эффекты.\n\nКапсула биоскульптера настроится на пользователя. В течение этого периода, когда любой цикл скульптурирования завершён, другие не могут использовать эту капсулу, и она может ускорить цикл скульптурирования на 50%. Настройка сбросится, если капсула не используется в течение 80 дней.\nЛечение внутренних болезней: Малярия, Сонная болезнь, Грипп, Чума, Кишечные черви, Гниение лёгких, Мышечные паразиты, Инфекция, Пищевое отравление, Кататонический срыв.\nЛечение необратимых злокачественных болезней: Сенсорные механиты, Волокнистые механиты, Закупорка сердечной артерии, Хрупкость, Потеря слуха, Травматический савант, Цирроз, Плохая спина, Астма, Карцинома, Катаракта, Деменция.\nЛечение аномальных злокачественных болезней: Отмена Куба, Инфекция Металлоужаса, Лоботомия Блаженства, Разложение органов, Распадающийся разум Недиагностированное дублирование, Распадающийся разум, Болезнь Альцгеймера, Слепота, Зависимость от Люциферия. Кайф Люциферия, Психоз воскрешения, Кайф Флейка, Кайф Яйо.\nЗависимость от Психита, Кайф Пробуждения, Зависимость от Пробуждения, Кайф Амброзии, Зависимость от Амброзии\nБудет случайным образом выбран метод лечения из этих. Некоторые не написаны.\n(Это может вызвать небольшую задержку при загрузке слишком большого количества модулей, это будет исправлено позже.)</TY_A_BiosculpterPod.description>
+  <TY_A_BiosculpterPod.comps.3.label>Лечение внутренних болезней</TY_A_BiosculpterPod.comps.3.label>
+  <TY_A_BiosculpterPod.comps.3.description>Лечит все новые раны, потерю крови и случайную инфекционную болезнь.</TY_A_BiosculpterPod.comps.3.description>
+  <TY_A_BiosculpterPod.comps.4.label>Лечение необратимых злокачественных болезней (Пока не исправлено)</TY_A_BiosculpterPod.comps.4.label>
+  <TY_A_BiosculpterPod.comps.4.description>Включая лечение новых ран, лечение случайного постоянного увечья и восстановление мелких ран частей тела. (Пока не исправлено)</TY_A_BiosculpterPod.comps.4.description>
+  <TY_A_BiosculpterPod.comps.5.label>Лечение аномальных злокачественных болезней</TY_A_BiosculpterPod.comps.5.label>
+  <TY_A_BiosculpterPod.comps.5.description>Включая лечение новых ран, лечение случайного постоянного увечья и восстановление мелких ран частей тела. Она также может удалять зависимости от различных распространённых наркотических веществ, включая печально известный Люциферий. Однако этот эффект нестабилен, так как может случайным образом удалить либо зависимость, либо эффект. Если вам повезёт, вы можете даже напрямую удалить эффект зависимости, сохранив только положительные эффекты.</TY_A_BiosculpterPod.comps.5.description>
+  <TY_A_BiosculpterPod.comps.6.label>Омоложение</TY_A_BiosculpterPod.comps.6.label>
+  <TY_A_BiosculpterPod.comps.6.description>Обращает возраст пользователя на {DURATION} лет.</TY_A_BiosculpterPod.comps.6.description>
+  <Blueprint_TY_A_BiosculpterPod.label>Капсула биоскульптера Федерации (чертёж)</Blueprint_TY_A_BiosculpterPod.label>
+  <Blueprint_Install_TY_A_BiosculpterPod.label>Капсула биоскульптера Федерации (чертёж)</Blueprint_Install_TY_A_BiosculpterPod.label>
+  <Frame_TY_A_BiosculpterPod.label>Капсула биоскульптера Федерации (строительство)</Frame_TY_A_BiosculpterPod.label>
+  <Frame_TY_A_BiosculpterPod.description>Новая капсула биоскульптера от Федерации Речной Долины значительно сокращает необходимое время и улучшает способность лечить болезни и заживлять повреждённые конечности. Она также может удалять зависимости от различных распространённых наркотических веществ, включая печально известный Люциферий. Однако этот эффект нестабилен, так как может случайным образом удалить либо зависимость, либо эффект. Если вам повезёт, вы можете даже напрямую удалить эффект зависимости, сохранив только положительные эффекты.\n\nКапсула биоскульптера настроится на пользователя. В течение этого периода, когда любой цикл скульптурирования завершён, другие не могут использовать эту капсулу, и она может ускорить цикл скульптурирования на 50%. Настройка сбросится, если капсула не используется в течение 80 дней.\nЛечение внутренних болезней: Малярия, Сонная болезнь, Грипп, Чума, Кишечные черви, Гниение лёгких, Мышечные паразиты, Инфекция, Пищевое отравление, Кататонический срыв.\nЛечение необратимых злокачественных болезней: Сенсорные механиты, Волокнистые механиты, Закупорка сердечной артерии, Хрупкость, Потеря слуха, Травматический савант, Цирроз, Плохая спина, Астма, Карцинома, Катаракта, Деменция.\nЛечение аномальных злокачественных болезней: Отмена Куба, Инфекция Металлоужаса, Лоботомия Блаженства, Разложение органов, Распадающийся разум Недиагностированное дублирование, Распадающийся разум, Болезнь Альцгеймера, Слепота, Зависимость от Люциферия. Кайф Люциферия, Психоз воскрешения, Кайф Флейка, Кайф Яйо.\nЗависимость от Психита, Кайф Пробуждения, Зависимость от Пробуждения, Кайф Амброзии, Зависимость от Амброзии\nБудет случайным образом выбран метод лечения из этих. Некоторые не написаны.\n(Это может вызвать небольшую задержку при загрузке слишком большого количества модулей, это будет исправлено позже.)</Frame_TY_A_BiosculpterPod.description>
+
+  <!-- ДОПОЛНЕНИЯ: отсутствовавшие в локализации строительные объекты -->
+  <TY_A_XGLB_sofa_DK.label>Диван Речной Долины</TY_A_XGLB_sofa_DK.label>
+  <TY_A_XGLB_sofa_DK.description>Удобный диван в стиле ретро‑футуризма, разработанный для повседневной домашней обстановки.</TY_A_XGLB_sofa_DK.description>
+  <Blueprint_TY_A_XGLB_sofa_DK.label>Диван Речной Долины (чертёж)</Blueprint_TY_A_XGLB_sofa_DK.label>
+  <Blueprint_Install_TY_A_XGLB_sofa_DK.label>Диван Речной Долины (чертёж)</Blueprint_Install_TY_A_XGLB_sofa_DK.label>
+  <Frame_TY_A_XGLB_sofa_DK.label>Диван Речной Долины (строительство)</Frame_TY_A_XGLB_sofa_DK.label>
+  <Frame_TY_A_XGLB_sofa_DK.description>Удобный диван в стиле ретро‑футуризма, разработанный для повседневной домашней обстановки.</Frame_TY_A_XGLB_sofa_DK.description>
+
+  <TY_A_XGLBXGLB_sofa3_A1x2A.label>Трёхместный диван Речной Долины</TY_A_XGLBXGLB_sofa3_A1x2A.label>
+  <TY_A_XGLBXGLB_sofa3_A1x2A.description>Большой трёхместный диван в стиле ретро‑футуризма — для гостиной или холла.</TY_A_XGLBXGLB_sofa3_A1x2A.description>
+  <Blueprint_TY_A_XGLBXGLB_sofa3_A1x2A.label>Трёхместный диван Речной Долины (чертёж)</Blueprint_TY_A_XGLBXGLB_sofa3_A1x2A.label>
+  <Blueprint_Install_TY_A_XGLBXGLB_sofa3_A1x2A.label>Трёхместный диван Речной Долины (чертёж)</Blueprint_Install_TY_A_XGLBXGLB_sofa3_A1x2A.label>
+  <Frame_TY_A_XGLBXGLB_sofa3_A1x2A.label>Трёхместный диван Речной Долины (строительство)</Frame_TY_A_XGLBXGLB_sofa3_A1x2A.label>
+  <Frame_TY_A_XGLBXGLB_sofa3_A1x2A.description>Большой трёхместный диван в стиле ретро‑футуризма — для гостиной или холла.</Frame_TY_A_XGLBXGLB_sofa3_A1x2A.description>
+
+  <TY_A_XGHUAtai_Building_C.label>Металлическое жизненное растение C</TY_A_XGHUAtai_Building_C.label>
+  <TY_A_XGHUAtai_Building_C.description>Создано Федерацией, также гомологично некоторым физическим конструкциям Синтетиков.</TY_A_XGHUAtai_Building_C.description>
+  <Blueprint_TY_A_XGHUAtai_Building_C.label>Металлическое жизненное растение C (чертёж)</Blueprint_TY_A_XGHUAtai_Building_C.label>
+  <Frame_TY_A_XGHUAtai_Building_C.label>Металлическое жизненное растение C (строительство)</Frame_TY_A_XGHUAtai_Building_C.label>
+  <Frame_TY_A_XGHUAtai_Building_C.description>Создано Федерацией, также гомологично некоторым физическим конструкциям Синтетиков.</Frame_TY_A_XGHUAtai_Building_C.description>
+
+  <TY_A_XG_LuoMaZhu.label>Римская колонна</TY_A_XG_LuoMaZhu.label>
+  <TY_A_XG_LuoMaZhu.description>Римская колонна — декоративный элемент архитектуры.</TY_A_XG_LuoMaZhu.description>
+  <Blueprint_TY_A_XG_LuoMaZhu.label>Римская колонна (чертёж)</Blueprint_TY_A_XG_LuoMaZhu.label>
+  <Frame_TY_A_XG_LuoMaZhu.label>Римская колонна (строительство)</Frame_TY_A_XG_LuoMaZhu.label>
+  <Frame_TY_A_XG_LuoMaZhu.description>Римская колонна — декоративный элемент архитектуры.</Frame_TY_A_XG_LuoMaZhu.description>
+
+  <TY_A_XG_MedicalStation.label>Медицинская станция</TY_A_XG_MedicalStation.label>
+  <TY_A_XG_MedicalStation.description>Станция для базовых медицинских процедур и хранения медицинских принадлежностей.</TY_A_XG_MedicalStation.description>
+  <Blueprint_TY_A_XG_MedicalStation.label>Медицинская станция (чертёж)</Blueprint_TY_A_XG_MedicalStation.label>
+  <Frame_TY_A_XG_MedicalStation.label>Медицинская станция (строительство)</Frame_TY_A_XG_MedicalStation.label>
+  <Frame_TY_A_XG_MedicalStation.description>Станция для базовых медицинских процедур и хранения медицинских принадлежностей.</Frame_TY_A_XG_MedicalStation.description>
+
+  <TY_bedside_ShuZhuangTai.label>Туалетный столик</TY_bedside_ShuZhuangTai.label>
+  <TY_bedside_ShuZhuangTai.description>Небольшой столик с зеркалом для ухода и косметики.</TY_bedside_ShuZhuangTai.description>
+  <Blueprint_TY_bedside_ShuZhuangTai.label>Туалетный столик (чертёж)</Blueprint_TY_bedside_ShuZhuangTai.label>
+  <Blueprint_Install_TY_bedside_ShuZhuangTai.label>Туалетный столик (чертёж)</Blueprint_Install_TY_bedside_ShuZhuangTai.label>
+  <Frame_TY_bedside_ShuZhuangTai.label>Туалетный столик (строительство)</Frame_TY_bedside_ShuZhuangTai.label>
+  <Frame_TY_bedside_ShuZhuangTai.description>Небольшой столик с зеркалом для ухода и косметики.</Frame_TY_bedside_ShuZhuangTai.description>
+
+
+</LanguageData>
+

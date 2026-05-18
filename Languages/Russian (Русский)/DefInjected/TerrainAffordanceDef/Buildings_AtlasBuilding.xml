@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bridge can be built here  地形承受能力 -->
+
+  <TYBridgeable.label>Доступно для строительства современного моста</TYBridgeable.label>
+
+
+</LanguageData>

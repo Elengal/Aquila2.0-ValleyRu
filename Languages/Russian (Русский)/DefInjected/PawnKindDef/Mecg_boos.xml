@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 定义一个名为TY_BaseMechanoidWalker的机械族基础单位，该定义是抽象的，不会直接生成实体 -->
+
+  <TY_A_Mech_Apocriton.label>"Червь"</TY_A_Mech_Apocriton.label>
+  <TY_A_Mech_Apocriton.labelPlural>"Черви"</TY_A_Mech_Apocriton.labelPlural>
+  <TY_A_Mech_Apocriton.lifeStages.0.label>"Червь"</TY_A_Mech_Apocriton.lifeStages.0.label>
+  <TY_A_Mech_Apocriton.lifeStages.0.labelPlural>"Черви"</TY_A_Mech_Apocriton.lifeStages.0.labelPlural>
+  <TY_A_Mech_Apocriton.lifeStages.1.label>"Червь"</TY_A_Mech_Apocriton.lifeStages.1.label>
+  <TY_A_Mech_Apocriton.lifeStages.1.labelPlural>"Черви"</TY_A_Mech_Apocriton.lifeStages.1.labelPlural>
+
+
+</LanguageData>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 科技植入体 -->
+
+  <TY_A_Subcutaneous_armor_A.label>Установить подкожную броню</TY_A_Subcutaneous_armor_A.label>
+  <TY_A_Subcutaneous_armor_A.description>Установить подкожную броню.</TY_A_Subcutaneous_armor_A.description>
+  <TY_A_Subcutaneous_armor_A.jobString>проводит операцию</TY_A_Subcutaneous_armor_A.jobString>
+
+  <TY_A_Strengthen_bones_A.label>Установить усиление скелета</TY_A_Strengthen_bones_A.label>
+  <TY_A_Strengthen_bones_A.description>Установить усиление скелета.</TY_A_Strengthen_bones_A.description>
+  <TY_A_Strengthen_bones_A.jobString>проводит операцию</TY_A_Strengthen_bones_A.jobString>
+
+  <TY_A_Metal_steel_blood_A.label>Установить металлическую стальную кровь</TY_A_Metal_steel_blood_A.label>
+  <TY_A_Metal_steel_blood_A.description>Установить металлическую стальную кровь.</TY_A_Metal_steel_blood_A.description>
+  <TY_A_Metal_steel_blood_A.jobString>проводит операцию</TY_A_Metal_steel_blood_A.jobString>
+
+  <TY_A_Metal_neural_coil_A.label>Установить металлическую нейронную катушку</TY_A_Metal_neural_coil_A.label>
+  <TY_A_Metal_neural_coil_A.description>Установить металлическую нейронную катушку.</TY_A_Metal_neural_coil_A.description>
+  <TY_A_Metal_neural_coil_A.jobString>проводит операцию</TY_A_Metal_neural_coil_A.jobString>
+
+  <AtlasCore_zz.label>Изготовить интерфейс сети ОГАС</AtlasCore_zz.label>
+  <AtlasCore_zz.description>Изготовить интерфейс сети ОГАС.</AtlasCore_zz.description>
+
+  <TY_A_Excellent_metal_muscle_coil_A.label>Установить отличную металлическую мышечную катушку</TY_A_Excellent_metal_muscle_coil_A.label>
+  <TY_A_Excellent_metal_muscle_coil_A.description>Установить отличную металлическую мышечную катушку.</TY_A_Excellent_metal_muscle_coil_A.description>
+  <TY_A_Excellent_metal_muscle_coil_A.jobString>проводит операцию</TY_A_Excellent_metal_muscle_coil_A.jobString>
+
+  <TY_A_Disease_repair_nano_implants_A.label>Наномодифицирующий имплантат для ремонта болезней</TY_A_Disease_repair_nano_implants_A.label>
+  <TY_A_Disease_repair_nano_implants_A.description>Установить наномодифицирующий имплантат для ремонта болезней.</TY_A_Disease_repair_nano_implants_A.description>
+  <TY_A_Disease_repair_nano_implants_A.jobString>проводит операцию</TY_A_Disease_repair_nano_implants_A.jobString>
+
+  <TY_A_Nano_blood_cells_A.label>Установить кровяную клетку наномашин</TY_A_Nano_blood_cells_A.label>
+  <TY_A_Nano_blood_cells_A.description>Установить кровяную клетку наномашин.</TY_A_Nano_blood_cells_A.description>
+  <TY_A_Nano_blood_cells_A.jobString>проводит операцию</TY_A_Nano_blood_cells_A.jobString>
+
+  <TY_A_Healing_hormone_gland_A.label>Установить железу лечебных гормонов</TY_A_Healing_hormone_gland_A.label>
+  <TY_A_Healing_hormone_gland_A.description>Установить железу лечебных гормонов.</TY_A_Healing_hormone_gland_A.description>
+  <TY_A_Healing_hormone_gland_A.jobString>проводит операцию</TY_A_Healing_hormone_gland_A.jobString>
+
+  <TY_A_Brain_stimulation_module_A.label>Модуль стимуляции мозга</TY_A_Brain_stimulation_module_A.label>
+  <TY_A_Brain_stimulation_module_A.description>Установить модуль стимуляции мозга.</TY_A_Brain_stimulation_module_A.description>
+  <TY_A_Brain_stimulation_module_A.jobString>проводит операцию</TY_A_Brain_stimulation_module_A.jobString>
+
+  <TY_A_Neuroenhanced_eyeball_A.label>Установить нейроулучшенный глаз</TY_A_Neuroenhanced_eyeball_A.label>
+  <TY_A_Neuroenhanced_eyeball_A.description>Установить нейроулучшенный глаз.</TY_A_Neuroenhanced_eyeball_A.description>
+  <TY_A_Neuroenhanced_eyeball_A.jobString>проводит операцию</TY_A_Neuroenhanced_eyeball_A.jobString>
+
+  <TY_A_Atomic_Energy_Heart_A.label>Установить атомное сердце</TY_A_Atomic_Energy_Heart_A.label>
+  <TY_A_Atomic_Energy_Heart_A.description>Установить атомное сердце.</TY_A_Atomic_Energy_Heart_A.description>
+  <TY_A_Atomic_Energy_Heart_A.jobString>проводит операцию</TY_A_Atomic_Energy_Heart_A.jobString>
+
+
+  <!-- EN: 安装纳米机器改造装置 -->
+  <!--<AddNmjxgz.label>TODO</AddNmjxgz.label>-->
+  <!-- EN: Install a NMZLZ_AtH. -->
+  <!--<AddNmjxgz.description>TODO</AddNmjxgz.description>-->
+  <!-- EN: 手术 -->
+  <!--<AddNmjxgz.jobString>TODO</AddNmjxgz.jobString>-->
+
+</LanguageData>

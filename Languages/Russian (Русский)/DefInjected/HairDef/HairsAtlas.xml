@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AthairA_A.label>Причёска A</AthairA_A.label>
+  <AthairA_B.label>Причёска B</AthairA_B.label>
+  <AthairA_C.label>Причёска C</AthairA_C.label>
+  <AthairA_D.label>Причёска D</AthairA_D.label>
+  <AthairA_E.label>Причёска E</AthairA_E.label>
+  <AthairA_F.label>Причёска F</AthairA_F.label>
+  <AthairA_G.label>Причёска G</AthairA_G.label>
+  <AthairA_H.label>Причёска H</AthairA_H.label>
+  <AthairM_A.label>Причёска A</AthairM_A.label>
+  <AthairM_B.label>Причёска Лелуш</AthairM_B.label>
+  <AthairM_C.label>Причёска Гокудера</AthairM_C.label>
+  <AthairM_D.label>Причёска Гатс</AthairM_D.label>
+  <AthairM_E.label>Причёска Рюгин Сейя</AthairM_E.label>
+  <AthairM_F.label>Причёска Ланьмэнгоулюй</AthairM_F.label>
+  <AthairM_G.label>Причёска Савада</AthairM_G.label>
+  <AthairM_H.label>Причёска Тацуми</AthairM_H.label>
+  <AthairM_I.label>Причёска Ииси</AthairM_I.label>
+
+
+  <!-- EN: AtHairA_1 -->
+  <!-- EN: AtHairA_2 -->
+  <!-- EN: AtHairA_3_RyuguinSeiya -->
+  <!-- EN: AtHairA_4_Esdeath -->
+  <!-- EN: AtHairA_5 -->
+  <!-- EN: AtHairA_6_FMiku -->
+  <!-- EN: AtHairA_7_Kotachi -->
+  <!-- EN: AtHairA_8 -->
+  <!-- EN: AtHairA_Aizen -->
+
+</LanguageData>

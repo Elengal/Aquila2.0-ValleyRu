@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<TY_Keyed_DisappearerNotInit>Машина не инициализирована.</TY_Keyed_DisappearerNotInit>
+    <TY_Keyed_DisappearerOccupied>Машина занята.</TY_Keyed_DisappearerOccupied>
+    <TY_Keyed_DisappearerTransportingCompleted>{PAWN_nameDef} был переправлен.</TY_Keyed_DisappearerTransportingCompleted>
+    <TY_Keyed_DisappearerTransportingStart>Начать транспортировку.</TY_Keyed_DisappearerTransportingStart>
+    <TY_Keyed_DisappearerTransportingStartDesc>Как только человек для транспортировки будет на месте, транспортировка начнётся немедленно.</TY_Keyed_DisappearerTransportingStartDesc>
+    <TY_Keyed_DisappearerNoTransportablePawns>Нет персонала, доступного для транспортировки.</TY_Keyed_DisappearerNoTransportablePawns>
+    <TY_Keyed_Disappearer_CommandCancelTransporting>Отменить транспортировку.</TY_Keyed_Disappearer_CommandCancelTransporting>
+    <TY_Keyed_Disappearer_CommandCancelTransportingDesc>Процесс транспортировки отменён, и загруженный человек будет извлечён.</TY_Keyed_Disappearer_CommandCancelTransportingDesc>
+
+</LanguageData>

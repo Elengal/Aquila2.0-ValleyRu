@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_Workbench_Building.label>Производственное предприятие сырья Речной Долины</TY_A_Workbench_Building.label>
+  <TY_A_Workbench_Building.description>Камера высокоскоростного штамповочного давления создаёт огромное давление, которое позволяет сырью плавиться более эффективно и быстро. Своё название получило благодаря принципу работы и исключительно мощной производственной способности.</TY_A_Workbench_Building.description>
+  <Blueprint_TY_A_Workbench_Building.label>Производственное предприятие сырья Речной Долины (чертёж)</Blueprint_TY_A_Workbench_Building.label>
+  <Blueprint_Install_TY_A_Workbench_Building.label>Производственное предприятие сырья Речной Долины (чертёж)</Blueprint_Install_TY_A_Workbench_Building.label>
+  <Frame_TY_A_Workbench_Building.label>Производственное предприятие сырья Речной Долины (строительство)</Frame_TY_A_Workbench_Building.label>
+  <Frame_TY_A_Workbench_Building.description>Камера высокоскоростного штамповочного давления создаёт огромное давление, которое позволяет сырью плавиться более эффективно и быстро. Своё название получило благодаря принципу работы и исключительно мощной производственной способности.</Frame_TY_A_Workbench_Building.description>
+
+  <TY_Scientific_research.label>Модуль хранения знаний и вычислений</TY_Scientific_research.label>
+  <TY_Scientific_research.description>Подключаясь к сети ОГАС, он автоматически загружает научные достижения Федерации и сохраняет их на жёстких дисках. Эта специальная технология используется Федерацией для помощи в технологическом развитии дружественных народов окраинных миров.\n\nОдновременно ускоряет скорость обработки компьютера для улучшения научных исследований.</TY_Scientific_research.description>
+  <Blueprint_TY_Scientific_research.label>Модуль хранения знаний и вычислений (чертёж)</Blueprint_TY_Scientific_research.label>
+  <Blueprint_Install_TY_Scientific_research.label>Модуль хранения знаний и вычислений (чертёж)</Blueprint_Install_TY_Scientific_research.label>
+  <Frame_TY_Scientific_research.label>Модуль хранения знаний и вычислений (строительство)</Frame_TY_Scientific_research.label>
+  <Frame_TY_Scientific_research.description>Подключаясь к сети ОГАС, он автоматически загружает научные достижения Федерации и сохраняет их на жёстких дисках. Эта специальная технология используется Федерацией для помощи в технологическом развитии дружественных народов окраинных миров.\n\nОдновременно ускоряет скорость обработки компьютера для улучшения научных исследований.</Frame_TY_Scientific_research.description>
+
+  <TY_A_Corpse_Oil_Smelter.label>Перерабатывающее предприятие трупного масла</TY_A_Corpse_Oil_Smelter.label>
+  <TY_A_Corpse_Oil_Smelter.description>Камера высокоскоростного штамповочного давления создаёт огромное давление, которое позволяет сырью плавиться более эффективно и быстро. Своё название получило благодаря принципу работы и исключительно мощной производственной способности.</TY_A_Corpse_Oil_Smelter.description>
+  <Blueprint_TY_A_Corpse_Oil_Smelter.label>Перерабатывающее предприятие трупного масла (чертёж)</Blueprint_TY_A_Corpse_Oil_Smelter.label>
+  <Blueprint_Install_TY_A_Corpse_Oil_Smelter.label>Перерабатывающее предприятие трупного масла (чертёж)</Blueprint_Install_TY_A_Corpse_Oil_Smelter.label>
+  <Frame_TY_A_Corpse_Oil_Smelter.label>Перерабатывающее предприятие трупного масла (строительство)</Frame_TY_A_Corpse_Oil_Smelter.label>
+  <Frame_TY_A_Corpse_Oil_Smelter.description>Камера высокоскоростного штамповочного давления создаёт огромное давление, которое позволяет сырью плавиться более эффективно и быстро. Своё название получило благодаря принципу работы и исключительно мощной производственной способности.</Frame_TY_A_Corpse_Oil_Smelter.description>
+
+  <TY_A_XG_PengRenTai.label>Кухонная станция Речной Долины</TY_A_XG_PengRenTai.label>
+  <TY_A_XG_PengRenTai.description>Различные приправы, кухонная утварь, кастрюли, выдвижная разделочная доска слева и место для хранения под плитой для различных зерновых, со встроенной микроволновкой для разогрева. Однако раковина для овощей относительно мала.</TY_A_XG_PengRenTai.description>
+  <Blueprint_TY_A_XG_PengRenTai.label>Кухонная станция Речной Долины (чертёж)</Blueprint_TY_A_XG_PengRenTai.label>
+  <Blueprint_Install_TY_A_XG_PengRenTai.label>Кухонная станция Речной Долины (чертёж)</Blueprint_Install_TY_A_XG_PengRenTai.label>
+  <Frame_TY_A_XG_PengRenTai.label>Кухонная станция Речной Долины (строительство)</Frame_TY_A_XG_PengRenTai.label>
+  <Frame_TY_A_XG_PengRenTai.description>Различные приправы, кухонная утварь, кастрюли, выдвижная разделочная доска слева и место для хранения под плитой для различных зерновых, со встроенной микроволновкой для разогрева. Однако раковина для овощей относительно мала.</Frame_TY_A_XG_PengRenTai.description>
+
+  <RV_Disappearer_JailTransporter.label>Транспортёр заключённых</RV_Disappearer_JailTransporter.label>
+  <RV_Disappearer_JailTransporter.description>Перевозя заключённых, которых вы держите (обычно принадлежащих враждебным Федерации Речной Долины фракциям), в трудовые лагеря перевоспитания Федерации, вы обычно можете получить архивы, документирующие ваши военные заслуги. Затем, найдя караван заслуг, вы можете получить соответствующие записи достижений заслуг (титулы).\nВысокозначимые цели, такие как имперские дворяне и лидеры пиратов, могут быть обменены на большое количество очков заслуг.\nЭтот метод постепенно устаревает; рекомендуется использовать консоль связи, которая предлагает лучшие награды.</RV_Disappearer_JailTransporter.description>
+  <RV_Disappearer_JailTransporter.comps.2.wantedList.0.label>Архив высокого титула</RV_Disappearer_JailTransporter.comps.2.wantedList.0.label>
+  <RV_Disappearer_JailTransporter.comps.2.wantedList.1.label>Архив среднего титула</RV_Disappearer_JailTransporter.comps.2.wantedList.1.label>
+  <RV_Disappearer_JailTransporter.comps.2.wantedList.2.label>Имперцы</RV_Disappearer_JailTransporter.comps.2.wantedList.2.label>
+  <RV_Disappearer_JailTransporter.comps.2.wantedList.3.label>Церковь Славы</RV_Disappearer_JailTransporter.comps.2.wantedList.3.label>
+  <RV_Disappearer_JailTransporter.comps.2.wantedList.4.label>Ядовитые пираты</RV_Disappearer_JailTransporter.comps.2.wantedList.4.label>
+  <RV_Disappearer_JailTransporter.comps.2.wantedList.5.label>Враждебные импиды</RV_Disappearer_JailTransporter.comps.2.wantedList.5.label>
+  <RV_Disappearer_JailTransporter.comps.2.wantedList.6.label>Ксено-яттакинские пираты</RV_Disappearer_JailTransporter.comps.2.wantedList.6.label>
+  <RV_Disappearer_JailTransporter.comps.2.wantedList.7.label>Каннибалы</RV_Disappearer_JailTransporter.comps.2.wantedList.7.label>
+  <RV_Disappearer_JailTransporter.comps.2.wantedList.8.label>Пираты-каннибалы</RV_Disappearer_JailTransporter.comps.2.wantedList.8.label>
+  <RV_Disappearer_JailTransporter.comps.2.wantedList.9.label>Враждебные племена</RV_Disappearer_JailTransporter.comps.2.wantedList.9.label>
+  <RV_Disappearer_JailTransporter.comps.2.wantedList.10.label>Пираты</RV_Disappearer_JailTransporter.comps.2.wantedList.10.label>
+  <Blueprint_RV_Disappearer_JailTransporter.label>Транспортёр заключённых (чертёж)</Blueprint_RV_Disappearer_JailTransporter.label>
+  <Frame_RV_Disappearer_JailTransporter.label>Транспортёр заключённых (строительство)</Frame_RV_Disappearer_JailTransporter.label>
+  <Frame_RV_Disappearer_JailTransporter.description>Перевозя заключённых, которых вы держите (обычно принадлежащих враждебным Федерации Речной Долины фракциям), в трудовые лагеря перевоспитания Федерации, вы обычно можете получить архивы, документирующие ваши военные заслуги. Затем, найдя караван заслуг, вы можете получить соответствующие записи достижений заслуг (титулы).\nВысокозначимые цели, такие как имперские дворяне и лидеры пиратов, могут быть обменены на большое количество очков заслуг.\nЭтот метод постепенно устаревает; рекомендуется использовать консоль связи, которая предлагает лучшие награды.</Frame_RV_Disappearer_JailTransporter.description>
+
+
+  <!-- <ThingDef ParentName="BuildingBase">
+    <defName>TY_A_RV_Disappearer_JailTransporter</defName>
+    <label>审判传送器</label>
+    <description>那些对人民实施了极其残忍的统治的派系领袖及他们的同伙将遭到正义的审判(也就是部分高价值目标以及海盗帝国还有光辉领袖)</description>
+    <thingClass>RV_Assemblie.Building_RV_Disappearer</thingClass>
+    <containedPawnsSelectable>true</containedPawnsSelectable>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.3</fillPercent>
+    <graphicData>
+      <texPath>Things/Buildings/XG_3_CuanSong</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(4.00,4.00)</drawSize>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+    <building>
+      <buildingTags>
+      </buildingTags>
+      <subcoreScannerOutputDef>SubcoreRegular</subcoreScannerOutputDef>
+      <subcoreScannerStartEffect>SubcoreSoftscanner_Start</subcoreScannerStartEffect>
+      <subcoreScannerWorking>SubcoreSoftscanner_Working</subcoreScannerWorking>
+      <subcoreScannerComplete>SubcoreSoftscanner_Complete</subcoreScannerComplete>
+      <subcoreScannerHediff>ScanningSickness</subcoreScannerHediff>
+    </building>
+    <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+    <designationCategory>AtlasTab</designationCategory>
+    <uiOrder>2430</uiOrder>
+    <canOverlapZones>false</canOverlapZones>
+    <size>(2,2)</size>
+    <rotatable>false</rotatable>
+    <hasInteractionCell>true</hasInteractionCell>
+    <interactionCellOffset>(0,0,-1)</interactionCellOffset>
+    <statBases>
+      <Mass>25</Mass>
+      <Flammability>0.5</Flammability>
+      <WorkToBuild>8000</WorkToBuild>
+      <MaxHitPoints>250</MaxHitPoints>
+    </statBases>
+    <costList>
+      <Steel>200</Steel>
+      <Plasteel>50</Plasteel>
+      <ComponentIndustrial>4</ComponentIndustrial>
+    </costList>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>150</basePowerConsumption>
+      </li>
+      <li Class="CompProperties_Flickable"/>
+      <li Class="RV_Assemblie.CompProperties_RV_Disappearer">
+        <faction>Atlas_Faction</faction>
+        <initIcon>Things/UI/XG_3_LaoGai</initIcon>
+		<insertPersonIcon>Things/UI/XG_3_LaoGai</insertPersonIcon>
+        <transportingTicks>240</transportingTicks>
+        <wantedList>
+          <li>
+            <label>帝国皇帝</label>
+            <pawnKindDefs>
+              <li>Empire_Royal_Stellarch</li>
+            </pawnKindDefs>
+            <thingRewards>
+              <TY_A_senior_exploit>1</TY_A_senior_exploit>
+            </thingRewards>
+          </li>
+          <li>
+            <label>帝国贵族</label>
+            <pawnKindDefs>
+              <li>Empire_Royal_NobleWimp</li>
+			   <li>Empire_Royal_Praetor</li>
+            </pawnKindDefs>
+            <thingRewards>
+              <TY_A_intermediate_exploit>1</TY_A_intermediate_exploit>
+            </thingRewards>
+          </li>
+		   <li>
+            <label>毒性海盗头目</label>
+            <pawnKindDefs>
+              <li>PirateBossTox</li>
+            </pawnKindDefs>
+            <thingRewards>
+              <TY_A_intermediate_exploit>1</TY_A_intermediate_exploit>
+            </thingRewards>
+          </li>
+        </wantedList>
+      </li>
+    </comps>
+    <tickerType>Normal</tickerType>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <researchPrerequisites>
+      <li>TY_A_RV_Disappearer_JailTransporter</li>
+    </researchPrerequisites>
+  </ThingDef> -->
+
+  <TY_B_RV_Disappearer_JailTransporter.label>Транспортёр заключённых для обмена на выкуп</TY_B_RV_Disappearer_JailTransporter.label>
+  <TY_B_RV_Disappearer_JailTransporter.description>Можно использовать это для передачи другим фракциям в обмен на выкуп, однако следует отметить, что только крупные фракции могут обмениваться.</TY_B_RV_Disappearer_JailTransporter.description>
+  <TY_B_RV_Disappearer_JailTransporter.comps.2.wantedList.0.label>Пришельцы</TY_B_RV_Disappearer_JailTransporter.comps.2.wantedList.0.label>
+  <TY_B_RV_Disappearer_JailTransporter.comps.2.wantedList.1.label>Дикие пришельцы</TY_B_RV_Disappearer_JailTransporter.comps.2.wantedList.1.label>
+  <TY_B_RV_Disappearer_JailTransporter.comps.2.wantedList.2.label>Голые племена</TY_B_RV_Disappearer_JailTransporter.comps.2.wantedList.2.label>
+  <TY_B_RV_Disappearer_JailTransporter.comps.2.wantedList.3.label>Неприветливые территориальные племена</TY_B_RV_Disappearer_JailTransporter.comps.2.wantedList.3.label>
+  <TY_B_RV_Disappearer_JailTransporter.comps.2.wantedList.4.label>Свинокожие</TY_B_RV_Disappearer_JailTransporter.comps.2.wantedList.4.label>
+  <TY_B_RV_Disappearer_JailTransporter.comps.2.wantedList.5.label>Мирные племена</TY_B_RV_Disappearer_JailTransporter.comps.2.wantedList.5.label>
+  <TY_B_RV_Disappearer_JailTransporter.comps.2.wantedList.6.label>Воинственные племена</TY_B_RV_Disappearer_JailTransporter.comps.2.wantedList.6.label>
+  <Blueprint_TY_B_RV_Disappearer_JailTransporter.label>Транспортёр заключённых для обмена на выкуп (чертёж)</Blueprint_TY_B_RV_Disappearer_JailTransporter.label>
+  <Frame_TY_B_RV_Disappearer_JailTransporter.label>Транспортёр заключённых для обмена на выкуп (строительство)</Frame_TY_B_RV_Disappearer_JailTransporter.label>
+  <Frame_TY_B_RV_Disappearer_JailTransporter.description>Можно использовать это для передачи другим фракциям в обмен на выкуп, однако следует отметить, что только крупные фракции могут обмениваться.</Frame_TY_B_RV_Disappearer_JailTransporter.description>
+
+  <TY_A_Nano_industrial_manufacturing_station.label>Нано-промышленная производственная станция</TY_A_Nano_industrial_manufacturing_station.label>
+  <TY_A_Nano_industrial_manufacturing_station.description>Временная мера, позже будет исправлено. Ну, проще говоря, не было времени писать C#. Придётся подождать отпуска, чтобы найти время для его доработки, так что пока это просто обычная машина.</TY_A_Nano_industrial_manufacturing_station.description>
+  <Blueprint_Install_TY_A_Nano_industrial_manufacturing_station.label>Нано-промышленная производственная станция (чертёж)</Blueprint_Install_TY_A_Nano_industrial_manufacturing_station.label>
+
+
+</LanguageData>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 目标价格模板 -->
+
+  <TY_A_HighValueTargets.label>Цель</TY_A_HighValueTargets.label>
+  <TY_A_HighValueTargets.description>Настройка награды за заключённого</TY_A_HighValueTargets.description>
+
+
+</LanguageData>

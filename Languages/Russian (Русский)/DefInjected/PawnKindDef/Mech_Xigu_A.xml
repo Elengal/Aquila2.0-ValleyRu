@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Mech_A_BRM2A.label>"Легион"-1 Робот ополчения</Mech_A_BRM2A.label>
+  <Mech_A_BRM2A.labelPlural>"Легион"-1 Роботы ополчения</Mech_A_BRM2A.labelPlural>
+
+  <Mech_A_BRM3A.label>"Охотничий Тигр"-3 Самоходная колёсная гаубица-мехпёс</Mech_A_BRM3A.label>
+  <Mech_A_BRM3A.labelPlural>"Охотничий Тигр"-3 Самоходные колёсные гаубицы-мехпсы</Mech_A_BRM3A.labelPlural>
+
+  <Mech_A_MiniUMV.label>"Праща"-7 Самоходное колёсное миномётное транспортное средство</Mech_A_MiniUMV.label>
+  <Mech_A_MiniUMV.labelPlural>"Праща"-7 Самоходные колёсные миномётные транспортные средства</Mech_A_MiniUMV.labelPlural>
+
+  <Mech_A_JiXieTi.label>Огнемётное транспортное средство</Mech_A_JiXieTi.label>
+  <Mech_A_JiXieTi.labelPlural>Огнемётные транспортные средства</Mech_A_JiXieTi.labelPlural>
+
+  <Mech_A_XGJQG.label>"Доберман"-4 Мехпёс</Mech_A_XGJQG.label>
+  <Mech_A_XGJQG.labelPlural>"Доберман"-4</Mech_A_XGJQG.labelPlural>
+
+  <Mech_A_WRJ.label>Гроза-TK19 "Гром" Беспилотный летательный аппарат</Mech_A_WRJ.label>
+  <Mech_A_WRJ.labelPlural>Гроза-TK19 "Гром" Беспилотные летательные аппараты</Mech_A_WRJ.labelPlural>
+
+  <TY_A_Mech_GongBingJQR.label>"Гигантская Обезьяна"-7 Строительный робот</TY_A_Mech_GongBingJQR.label>
+  <TY_A_Mech_GongBingJQR.labelPlural>"Гигантская Обезьяна"-7 Строительные роботы</TY_A_Mech_GongBingJQR.labelPlural>
+
+
+</LanguageData>

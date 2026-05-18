@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LBHW_AtBT.label>Ракетная установка "Гроза"</LBHW_AtBT.label>
+  <LBHW_AtBT.description>Новое, относительно недорогое решение для противодействия крупномасштабным рейдам. Запускаемые плазменные импульсные ракеты наносят урон, одновременно создавая разрушительные помехи.</LBHW_AtBT.description>
+  <Blueprint_LBHW_AtBT.label>Ракетная установка "Гроза" (чертёж)</Blueprint_LBHW_AtBT.label>
+  <Blueprint_Install_LBHW_AtBT.label>Ракетная установка "Гроза" (чертёж)</Blueprint_Install_LBHW_AtBT.label>
+  <Frame_LBHW_AtBT.label>Ракетная установка "Гроза" (строительство)</Frame_LBHW_AtBT.label>
+  <Frame_LBHW_AtBT.description>Новое, относительно недорогое решение для противодействия крупномасштабным рейдам. Запускаемые плазменные импульсные ракеты наносят урон, одновременно создавая разрушительные помехи.</Frame_LBHW_AtBT.description>
+
+  <LBD_AtTB.label>Плазменная импульсная ракета</LBD_AtTB.label>
+
+  <LBFSQ_AtTW.label>Плазменная импульсная ракетная установка</LBFSQ_AtTW.label>
+  <LBFSQ_AtTW.description>Новое, относительно недорогое решение для противодействия крупномасштабным рейдам. Запускаемые плазменные импульсные ракеты наносят урон, одновременно создавая разрушительные помехи.</LBFSQ_AtTW.description>
+
+  <LBHW_AtBT_EMP_B.label>Ракетная установка "Гроза" ЭМИ</LBHW_AtBT_EMP_B.label>
+  <LBHW_AtBT_EMP_B.description>Новое, относительно недорогое решение для противодействия крупномасштабным рейдам механоидов. Запускаемые плазменные импульсные ЭМИ-ракеты могут пробивать различные высокоугловые щиты с большого расстояния.</LBHW_AtBT_EMP_B.description>
+  <Blueprint_LBHW_AtBT_EMP_B.label>Ракетная установка "Гроза" ЭМИ (чертёж)</Blueprint_LBHW_AtBT_EMP_B.label>
+  <Blueprint_Install_LBHW_AtBT_EMP_B.label>Ракетная установка "Гроза" ЭМИ (чертёж)</Blueprint_Install_LBHW_AtBT_EMP_B.label>
+  <Frame_LBHW_AtBT_EMP_B.label>Ракетная установка "Гроза" ЭМИ (строительство)</Frame_LBHW_AtBT_EMP_B.label>
+  <Frame_LBHW_AtBT_EMP_B.description>Новое, относительно недорогое решение для противодействия крупномасштабным рейдам механоидов. Запускаемые плазменные импульсные ЭМИ-ракеты могут пробивать различные высокоугловые щиты с большого расстояния.</Frame_LBHW_AtBT_EMP_B.description>
+
+  <LBFSQ_AtTW_EMP.label>Плазменная импульсная ЭМИ-ракетная установка</LBFSQ_AtTW_EMP.label>
+  <LBFSQ_AtTW_EMP.description>Новое, относительно недорогое решение для противодействия крупномасштабным рейдам механоидов. Запускаемые плазменные импульсные ЭМИ-ракеты могут пробивать различные высокоугловые щиты с большого расстояния.</LBFSQ_AtTW_EMP.description>
+
+  <LBFSQ_AtTW_EMP_A.label>Плазменная импульсная ЭМИ-ракета</LBFSQ_AtTW_EMP_A.label>
+
+  <TY_A_Heavy_double_fired_mortar.label>Обычная артиллерия Федерации</TY_A_Heavy_double_fired_mortar.label>
+  <TY_A_Heavy_double_fired_mortar.description>Универсальное артиллерийское орудие. Хотя, по сообщениям, это устаревшая конструкция столетней давности, его низкая стоимость и высокая надёжность сохраняют его активным на полях сражений низкой интенсивности. Из-за ограничений материалов требуется 10-секундная перезарядка после выстрела двумя снарядами. ПРИМЕЧАНИЕ: Механизм поворота не выдерживает силу перенаведения между выстрелами, поэтому артиллерия не может быть перенаведена до тех пор, пока не будет произведён залп из двух снарядов.</TY_A_Heavy_double_fired_mortar.description>
+  <Blueprint_TY_A_Heavy_double_fired_mortar.label>Обычная артиллерия Федерации (чертёж)</Blueprint_TY_A_Heavy_double_fired_mortar.label>
+  <Blueprint_Install_TY_A_Heavy_double_fired_mortar.label>Обычная артиллерия Федерации (чертёж)</Blueprint_Install_TY_A_Heavy_double_fired_mortar.label>
+  <Frame_TY_A_Heavy_double_fired_mortar.label>Обычная артиллерия Федерации (строительство)</Frame_TY_A_Heavy_double_fired_mortar.label>
+  <Frame_TY_A_Heavy_double_fired_mortar.description>Универсальное артиллерийское орудие. Хотя, по сообщениям, это устаревшая конструкция столетней давности, его низкая стоимость и высокая надёжность сохраняют его активным на полях сражений низкой интенсивности. Из-за ограничений материалов требуется 10-секундная перезарядка после выстрела двумя снарядами. Примечание: Механизм поворота не выдерживает силу перенаведения между выстрелами, поэтому артиллерия не может быть перенаведена до тех пор, пока не будет произведён залп из двух снарядов.</Frame_TY_A_Heavy_double_fired_mortar.description>
+
+  <TY_A_Heavy_double_fired_mortar_turret.label>Башня обычной артиллерии Федерации</TY_A_Heavy_double_fired_mortar_turret.label>
+  <TY_A_Heavy_double_fired_mortar_turret.description>Башня обычной артиллерии Федерации.</TY_A_Heavy_double_fired_mortar_turret.description>
+
+
+  <!-- Uranium slug turret -->
+
+  <LYPT_AtBT.label>Лазерная башня "Ланьянь"</LYPT_AtBT.label>
+  <LYPT_AtBT.description>Лазерная пушка с отличными бронебойными способностями и высокой летальностью, но за счёт очень сильного снижения дальности.</LYPT_AtBT.description>
+  <Blueprint_LYPT_AtBT.label>Лазерная башня "Ланьянь" (чертёж)</Blueprint_LYPT_AtBT.label>
+  <Frame_LYPT_AtBT.label>Лазерная башня "Ланьянь" (строительство)</Frame_LYPT_AtBT.label>
+  <Frame_LYPT_AtBT.description>Лазерная пушка с отличными бронебойными способностями и высокой летальностью, но за счёт очень сильного снижения дальности.</Frame_LYPT_AtBT.description>
+
+  <LY_AtTB.label>Красный лазер</LY_AtTB.label>
+
+  <LYFSQ_AtTW.label>Лазерная установка "Ланьянь"</LYFSQ_AtTW.label>
+  <LYFSQ_AtTW.description>Пушка "Аврора", которая была модифицирована для большей мощности.</LYFSQ_AtTW.description>
+
+  <TY_A_Wall_Building_defence.label>Фортификационная стена</TY_A_Wall_Building_defence.label>
+  <TY_A_Wall_Building_defence.description>Фортификационная стена передовой линии. Её высокая прочность может эффективно использоваться для различных оборонительных целей.</TY_A_Wall_Building_defence.description>
+  <Blueprint_TY_A_Wall_Building_defence.label>Фортификационная стена (чертёж)</Blueprint_TY_A_Wall_Building_defence.label>
+  <Frame_TY_A_Wall_Building_defence.label>Фортификационная стена (строительство)</Frame_TY_A_Wall_Building_defence.label>
+  <Frame_TY_A_Wall_Building_defence.description>Фортификационная стена передовой линии. Её высокая прочность может эффективно использоваться для различных оборонительных целей.</Frame_TY_A_Wall_Building_defence.description>
+
+
+  <!-- EN: 雷暴弹 -->
+  <!-- EN: 雷暴发射器 -->
+  <!-- EN: 经过改良的破晓炮,威力变得更强了. -->
+  <!--<LBFSQ_AtTW.verbs.Verb_Shoot.label>TODO</LBFSQ_AtTW.verbs.Verb_Shoot.label>-->
+  <!-- EN: 雷暴护卫 -->
+  <!-- EN: 擎天堡垒AI防御塔,虽然充能时间要比鹰眼步枪更久,但射程超越了鹰眼步枪.说来也搞笑,科技如此发达的擎天联邦居然写不好AI瞄准算法.于是为了安全起见削弱了爆能弹的伤害. -->
+  <!-- EN: 蓝光 -->
+  <!-- EN: 岚阎发射器 -->
+  <!--<LYFSQ_AtTW.verbs.Verb_Shoot.label>TODO</LYFSQ_AtTW.verbs.Verb_Shoot.label>-->
+  <!-- EN: 岚阎炮塔 -->
+
+</LanguageData>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 工业生产 -->
+
+  <TY_WorkGiver_DoAutomaticBill.label>Управлять</TY_WorkGiver_DoAutomaticBill.label>
+  <TY_WorkGiver_DoAutomaticBill.verb>Управлять</TY_WorkGiver_DoAutomaticBill.verb>
+  <TY_WorkGiver_DoAutomaticBill.gerund>Управляет</TY_WorkGiver_DoAutomaticBill.gerund>
+
+
+</LanguageData>

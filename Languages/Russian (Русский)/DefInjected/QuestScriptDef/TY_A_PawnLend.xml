@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_APawnLend.questDescriptionRules.rulesStrings.0>questDescription(asker_factionLeader==True)-&gt;[asker_faction_leaderTitle] [asker_nameFull] из [asker_faction_name] нужны дополнительные руки, чтобы помочь [dutyDescription].\n\n[asker_pronoun] просит вас одолжить [asker_objective] [colonistCountToLend] на [lendForDays] дней.\n\n[willSendShuttle]</TY_A_APawnLend.questDescriptionRules.rulesStrings.0>
+  <TY_A_APawnLend.questDescriptionRules.rulesStrings.1>disease-&gt;грипп</TY_A_APawnLend.questDescriptionRules.rulesStrings.1>
+  <TY_A_APawnLend.questDescriptionRules.rulesStrings.2>disease-&gt;чума</TY_A_APawnLend.questDescriptionRules.rulesStrings.2>
+  <TY_A_APawnLend.questDescriptionRules.rulesStrings.3>disease-&gt;малярия</TY_A_APawnLend.questDescriptionRules.rulesStrings.3>
+  <TY_A_APawnLend.questDescriptionRules.rulesStrings.4>disease-&gt;инфекция</TY_A_APawnLend.questDescriptionRules.rulesStrings.4>
+  <TY_A_APawnLend.questDescriptionRules.rulesStrings.5>questDescription(asker_royalInCurrentFaction==True)-&gt;[asker_royalTitleInCurrentFaction] [asker_nameFull] из [asker_faction_name] нужны люди, чтобы помочь [dutyRoyalDescription].\n\n[asker_pronoun] просит вас одолжить [colonistCountToLend] для службы [asker_objective] на [lendForDays] дней.\n\n[willSendShuttle]</TY_A_APawnLend.questDescriptionRules.rulesStrings.5>
+  <TY_A_APawnLend.questDescriptionRules.rulesStrings.6>colonistCountToLend(colonistsToLendCount==1)-&gt;1 колонист[minAgeOrOlder]</TY_A_APawnLend.questDescriptionRules.rulesStrings.6>
+  <TY_A_APawnLend.questDescriptionRules.rulesStrings.7>colonistCountToLend(colonistsToLendCount&gt;1)-&gt;[colonistsToLendCount] колонистов[minAgeOrOlder]</TY_A_APawnLend.questDescriptionRules.rulesStrings.7>
+  <TY_A_APawnLend.questDescriptionRules.rulesStrings.8>willSendShuttle-&gt;[asker_pronoun] отправит шаттл, чтобы забрать [colonists].</TY_A_APawnLend.questDescriptionRules.rulesStrings.8>
+  <TY_A_APawnLend.questDescriptionRules.rulesStrings.9>colonists(colonistsToLendCount==1)-&gt;колониста</TY_A_APawnLend.questDescriptionRules.rulesStrings.9>
+  <TY_A_APawnLend.questDescriptionRules.rulesStrings.10>colonists(colonistsToLendCount&gt;1)-&gt;колонистов</TY_A_APawnLend.questDescriptionRules.rulesStrings.10>
+  <TY_A_APawnLend.questDescriptionRules.rulesStrings.11>minAgeOrOlder(minAge==0)-&gt;</TY_A_APawnLend.questDescriptionRules.rulesStrings.11>
+  <TY_A_APawnLend.questDescriptionRules.rulesStrings.12>minAgeOrOlder(minAge&gt;0)-&gt; [minAge] лет или старше</TY_A_APawnLend.questDescriptionRules.rulesStrings.12>
+  <TY_A_APawnLend.questDescriptionRules.rulesStrings.13>pawnListHaveConjugation(colonistsToLendCount==1)-&gt;имеет</TY_A_APawnLend.questDescriptionRules.rulesStrings.13>
+  <TY_A_APawnLend.questDescriptionRules.rulesStrings.14>pawnListHaveConjugation(colonistsToLendCount&gt;1)-&gt;имеют</TY_A_APawnLend.questDescriptionRules.rulesStrings.14>
+  <TY_A_APawnLend.questNameRules.rulesStrings.0>questName-&gt;Аутсорсинг [worker]</TY_A_APawnLend.questNameRules.rulesStrings.0>
+  <TY_A_APawnLend.questNameRules.rulesStrings.1>questName-&gt;Контракт [worker]</TY_A_APawnLend.questNameRules.rulesStrings.1>
+  <TY_A_APawnLend.questNameRules.rulesStrings.2>questName-&gt;Временные рабочие</TY_A_APawnLend.questNameRules.rulesStrings.2>
+  <TY_A_APawnLend.questNameRules.rulesStrings.3>questName-&gt;Одолжение [worker]</TY_A_APawnLend.questNameRules.rulesStrings.3>
+  <TY_A_APawnLend.questNameRules.rulesStrings.4>questName-&gt;[worker] для [asker_faction_name]</TY_A_APawnLend.questNameRules.rulesStrings.4>
+  <TY_A_APawnLend.questNameRules.rulesStrings.5>questName-&gt;Временные [worker]</TY_A_APawnLend.questNameRules.rulesStrings.5>
+  <TY_A_APawnLend.questNameRules.rulesStrings.6>questName-&gt;Запрос [worker]</TY_A_APawnLend.questNameRules.rulesStrings.6>
+  <TY_A_APawnLend.questNameRules.rulesStrings.7>worker-&gt;Колонист</TY_A_APawnLend.questNameRules.rulesStrings.7>
+  <TY_A_APawnLend.questNameRules.rulesStrings.8>worker-&gt;Рабочий</TY_A_APawnLend.questNameRules.rulesStrings.8>
+  <TY_A_APawnLend.questNameRules.rulesStrings.9>worker-&gt;Труженик</TY_A_APawnLend.questNameRules.rulesStrings.9>
+  <TY_A_APawnLend.questNameRules.rulesStrings.10>worker-&gt;Помощник</TY_A_APawnLend.questNameRules.rulesStrings.10>
+
+
+</LanguageData>

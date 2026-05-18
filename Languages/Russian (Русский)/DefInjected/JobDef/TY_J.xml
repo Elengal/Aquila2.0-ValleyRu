@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CastExplosiveDash.reportString>Активирует взрывной рывок к целевой позиции</CastExplosiveDash.reportString>
+
+
+  <!-- JobDef定义 -->
+
+  <CastSemicircleSlash.reportString>Активирует полукруговой удар</CastSemicircleSlash.reportString>
+
+
+  <!-- AbilityDef定义 -->
+
+  <CastDash.reportString>Рывок к целевой позиции</CastDash.reportString>
+
+
+  <!-- 钻地技能JobDef定义 -->
+
+  <CastWormBurrow.reportString>Активирует манёвр зарывания к целевой позиции</CastWormBurrow.reportString>
+
+
+</LanguageData>

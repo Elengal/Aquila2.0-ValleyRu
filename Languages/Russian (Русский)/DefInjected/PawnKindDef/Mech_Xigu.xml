@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 0-173机器人 -->
+
+  <Mech_A_JiPu.label>0-173 Робот</Mech_A_JiPu.label>
+  <Mech_A_JiPu.labelPlural>0-173 Роботы</Mech_A_JiPu.labelPlural>
+
+
+  <!-- 拖拉机机器人 -->
+
+  <TY_Mech_Agrihand.label>"Фермер"-9 Трактор</TY_Mech_Agrihand.label>
+  <TY_Mech_Agrihand.labelPlural>"Фермер"-9 Тракторы</TY_Mech_Agrihand.labelPlural>
+
+
+  <!-- 黎明作战机器人 -->
+
+  <Mech_A_LiMing.label>«Рассвет»-9 — боевой робот</Mech_A_LiMing.label>
+  <Mech_A_LiMing.labelPlural>«Рассвет»-9 — боевые роботы</Mech_A_LiMing.labelPlural>
+
+
+  <!-- 响尾蛇机甲 -->
+
+  <Mech_A_XwSnake.label>"Кроталь"-94 Механизированная броня</Mech_A_XwSnake.label>
+  <Mech_A_XwSnake.labelPlural>"Кроталь"-94 Механизированные брони</Mech_A_XwSnake.labelPlural>
+
+
+  <!-- 破阵近战大型无人机 -->
+
+  <Mech_A_ChengBao_C.label>"Прорыв"-1 Большой беспилотный летательный аппарат ближнего боя</Mech_A_ChengBao_C.label>
+  <Mech_A_ChengBao_C.labelPlural>"Прорыв"-1 Большие беспилотные летательные аппараты ближнего боя</Mech_A_ChengBao_C.labelPlural>
+
+
+  <!-- 堡垒护盾机 -->
+
+  <Mech_A_ChengBao.label>"Движущаяся Крепость"-96 Щитовой робот</Mech_A_ChengBao.label>
+  <Mech_A_ChengBao.labelPlural>"Движущаяся Крепость"-96 Щитовые роботы</Mech_A_ChengBao.labelPlural>
+
+
+  <!-- 医疗护士机 -->
+
+  <Mech_A_Nurse.label>"Маленькая Медсестра" Медицинский робот</Mech_A_Nurse.label>
+  <Mech_A_Nurse.labelPlural>"Маленькая Медсестра" Медицинские роботы</Mech_A_Nurse.labelPlural>
+
+
+  <!-- 狙击阿辽沙 -->
+
+  <TY_A_Mech_Nurse_QET.label>"Алёша" Снайперский робот</TY_A_Mech_Nurse_QET.label>
+  <TY_A_Mech_Nurse_QET.labelPlural>"Алёша" Снайперские роботы</TY_A_Mech_Nurse_QET.labelPlural>
+
+
+  <!-- 焚尽型重炮机 -->
+
+  <Mech_A_Diabolus.label>"Сжигатель"-3 Тяжёлая артиллерийская броня</Mech_A_Diabolus.label>
+  <Mech_A_Diabolus.labelPlural>"Сжигатель"-3 Тяжёлые артиллерийские брони</Mech_A_Diabolus.labelPlural>
+
+
+  <!-- 支援型无人战斗要塞 -->
+
+  <Mech_A_battle_fortress.label>"Королева Пчёл"-9 Беспилотная боевая крепость</Mech_A_battle_fortress.label>
+  <Mech_A_battle_fortress.labelPlural>"Королева Пчёл"-9 Беспилотные боевые крепости</Mech_A_battle_fortress.labelPlural>
+
+
+  <!-- 恐怖机器人 -->
+
+  <Mech_Close_combat_unmanned_aerial_vehicle.label>"Террор" Беспилотный летательный аппарат</Mech_Close_combat_unmanned_aerial_vehicle.label>
+  <Mech_Close_combat_unmanned_aerial_vehicle.labelPlural>"Террор" Беспилотные летательные аппараты</Mech_Close_combat_unmanned_aerial_vehicle.labelPlural>
+  <Mech_Close_combat_unmanned_aerial_vehicle.labelMale>"Террор" Беспилотный летательный аппарат</Mech_Close_combat_unmanned_aerial_vehicle.labelMale>
+  <Mech_Close_combat_unmanned_aerial_vehicle.labelMalePlural>"Террор" Беспилотные летательные аппараты</Mech_Close_combat_unmanned_aerial_vehicle.labelMalePlural>
+  <Mech_Close_combat_unmanned_aerial_vehicle.labelFemale>"Террор" Беспилотный летательный аппарат</Mech_Close_combat_unmanned_aerial_vehicle.labelFemale>
+  <Mech_Close_combat_unmanned_aerial_vehicle.labelFemalePlural>"Террор" Беспилотные летательные аппараты</Mech_Close_combat_unmanned_aerial_vehicle.labelFemalePlural>
+
+
+  <!-- 回旋式无人机 -->
+
+  <TY_A_Mech_WarUrchin.label>Спиральный беспилотный летательный аппарат</TY_A_Mech_WarUrchin.label>
+  <TY_A_Mech_WarUrchin.labelPlural>Нестабильный механоид, который быстро объединяется, когда встроенный чип отправляет сигнал наноструктурам, способный запускать нано-эрозионные летающие ножи.</TY_A_Mech_WarUrchin.labelPlural>
+  <TY_A_Mech_WarUrchin.labelMale>Спиральный беспилотный летательный аппарат</TY_A_Mech_WarUrchin.labelMale>
+  <TY_A_Mech_WarUrchin.labelMalePlural>Спиральные беспилотные летательные аппараты</TY_A_Mech_WarUrchin.labelMalePlural>
+  <TY_A_Mech_WarUrchin.labelFemale>Спиральный беспилотный летательный аппарат</TY_A_Mech_WarUrchin.labelFemale>
+  <TY_A_Mech_WarUrchin.labelFemalePlural>Спиральные беспилотные летательные аппараты</TY_A_Mech_WarUrchin.labelFemalePlural>
+
+
+  <!-- 运输机器人 -->
+
+  <TY_A_check.label>"Лось"-1 Транспортный робот</TY_A_check.label>
+  <TY_A_check.labelPlural>"Лось"-1 Транспортные роботы</TY_A_check.labelPlural>
+
+
+  <!-- EN: 堡垒护盾机 -->
+  <!-- EN: 0-173机器人 -->
+  <!-- EN: 黎明作战机器人 -->
+  <!-- EN: 机械护士 -->
+  <!-- EN: 响尾蛇机甲 -->
+
+</LanguageData>

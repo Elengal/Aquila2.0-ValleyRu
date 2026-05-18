@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TY_IdeoRole_BattleCommander.label>Политрук</TY_IdeoRole_BattleCommander.label>
+  <TY_IdeoRole_BattleCommander.description>Боевой комиссар, ведущий командование в бою, поддерживающий веру бойцов и их мораль.\nЧасто идёт впереди, поднимая бойцов в атаку. Недоброжелатели клевещут, что комиссары — «заградотряды», но это ложь трусов и капитулянтов.</TY_IdeoRole_BattleCommander.description>
+
+  <TY_JiShuGuanLiao.label>Технократ</TY_JiShuGuanLiao.label>
+  <TY_JiShuGuanLiao.description>Технократ 55‑го века работает вместе с социологами, администраторами и экономистами над большими планами. Общественные науки и экономика — его второй профиль для лучшего исполнения замыслов.\nНужно уметь и мотивировать труд, и заниматься наукой, и вести политработу.</TY_JiShuGuanLiao.description>
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 基准阵营定义 - 用于检测敌对关系 -->
+
+  <TY_A_DefaultBaseFaction.label>Фракция враждебности по умолчанию</TY_A_DefaultBaseFaction.label>
+  <TY_A_DefaultBaseFaction.description>Эталонная фракция для проверки враждебных отношений.</TY_A_DefaultBaseFaction.description>
+
+
+</LanguageData>

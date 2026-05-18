@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AH_A_Signal_B.description>Сигнальный защитный колпак: прозрачный энергетический купол, защищающий голову. Оснащён усилителем сигнала для лучшего управления дронами/роботами.</AH_A_Signal_B.description>
+  <AH_A_Signal_B.label>Сигнальный колпак Федерации B</AH_A_Signal_B.label>
+  <AH_A_Signal_C.description>Сигнальный защитный колпак: прозрачный энергетический купол, защищающий голову. Оснащён усилителем сигнала для лучшего управления дронами/роботами.</AH_A_Signal_C.description>
+  <AH_A_Signal_C.label>Сигнальный колпак Федерации C</AH_A_Signal_C.label>
+  <AH_A_Signal.description>Сигнальный защитный колпак: прозрачный энергетический купол, защищающий голову. Оснащён усилителем сигнала для лучшего управления дронами/роботами.</AH_A_Signal.description>
+  <AH_A_Signal.label>Сигнальный колпак Федерации</AH_A_Signal.label>
+  <AH_A_Signal_NvMiCai.description>Сигнальный защитный колпак: прозрачный энергетический купол, защищающий голову. Оснащён усилителем сигнала для лучшего управления дронами/роботами.</AH_A_Signal_NvMiCai.description>
+  <AH_A_Signal_NvMiCai.label>Зелёный камуфляж — сигнальный колпак Федерации</AH_A_Signal_NvMiCai.label>
+
+  <AS_A_JumpBag_A.label>Стрелковый энергетический щит Федерации</AS_A_JumpBag_A.label>
+  <AS_A_JumpBag_A.description>Энергетический щит, позволяющий стрелять наружу. При пробитии можно однократно мгновенно восстановить щит (цена — −500 прочности предмета).</AS_A_JumpBag_A.description>
+
+  <Mech_A_ChengBao.label>«Подвижная крепость»-96 — мех‑щит от EMP</Mech_A_ChengBao.label>
+  <Mech_A_ChengBao.description>Тяжёлый штурмовой мех‑щит. Вооружён 19,5‑мм пулемётом и мощным энергетическим щитом. Предназначен для прикрытия механиков и техники от ПТО и БПЛА. Имеет систему поглощения EMP: после разрушения EMP‑взрывом щит почти мгновенно восстанавливается до полного уровня.</Mech_A_ChengBao.description>
+
+  <AH_A_Type72_MingBingGK.label>Шлем образца 72</AH_A_Type72_MingBingGK.label>
+  <AH_A_Type72_MingBingGK.description>Боевой шлем обр. 72 с встроенной связью и подавлением шумов. Период «упрощения»: навесное постепенно переносили в чипы. Серия 72 попала на окраины вместе с беженцами из красных зон.</AH_A_Type72_MingBingGK.description>
+  <AR_A_Type72_MingBingJ.label>Броня образца 72</AR_A_Type72_MingBingJ.label>
+  <AR_A_Type72_MingBingJ.description>Двухслойная конструкция даёт лучшую защиту, но мешает носить верхнюю одежду. Серия 72 почти вытеснена новыми силовыми доспехами.</AR_A_Type72_MingBingJ.description>
+  <AR_A_Type72_MingBingX.label>Подвесная система обр. 72</AR_A_Type72_MingBingX.label>
+  <AR_A_Type72_MingBingX.description>Набор: нагрудник‑56, радиостанция, гранаты, личный подсумок, противогаз, фляга, доп. броня рук и пр. Классический комплект эпохи серии 72.</AR_A_Type72_MingBingX.description>
+
+  <AH_A_TouShi.label>Украшение: рога муфлона</AH_A_TouShi.label>
+  <AH_A_TouShi.description>Украшение для люсианских конструктов.</AH_A_TouShi.description>
+
+  <TY_Proj_GrenadeFrag.label>Осколочная граната</TY_Proj_GrenadeFrag.label>
+  <AS_A_JumpBag.label>Многофункциональный тактический дрон</AS_A_JumpBag.label>
+  <AS_A_JumpBag.description>Позволяет совершать короткие прыжки, стрелять осколочными и зажигательными гранатами, ставить дым и распылять пену‑огнетушитель.</AS_A_JumpBag.description>
+  <AS_A_JumpBag.verbs.0.label>Прыжок</AS_A_JumpBag.verbs.0.label>
+  <AS_A_JumpBag.verbs.1.label>Пуск гранаты</AS_A_JumpBag.verbs.1.label>
+  <AS_A_JumpBag.verbs.2.label>Пуск зажигательной гранаты</AS_A_JumpBag.verbs.2.label>
+  <AS_A_JumpBag.verbs.3.label>Пуск дымовой гранаты</AS_A_JumpBag.verbs.3.label>
+
+  <TY_Bullet_IncendiaryLauncher.label>Зажигательная граната</TY_Bullet_IncendiaryLauncher.label>
+  <TY_Bullet_SmokeLauncher.label>Дымовая граната</TY_Bullet_SmokeLauncher.label>
+  <AP_A_LaoDong2a.description>Рабочая одежда (вариант 2).</AP_A_LaoDong2a.description>
+  <AP_A_LaoDong2a.label>Рабочая одежда Долины Рек 2</AP_A_LaoDong2a.label>
+  <AR_A_Hope_T.description>Манёвренная броня «Летящий ворон».</AR_A_Hope_T.description>
+  <AR_A_Hope_T.label>Манёвренная броня «Летящий ворон»</AR_A_Hope_T.label>
+  <Mech_A_LiMing.label>«Рассвет»-9 — армейский мех</Mech_A_LiMing.label>
+  <Mech_A_Nurse.label>«Медсестричка» — сервисный мех</Mech_A_Nurse.label>
+  <Mech_A_XwSnake.label>«Гремучник»-94 — тяжёлый беспилотный мех</Mech_A_XwSnake.label>
+  <Mech_A_battle_fortress.label>«Матка»-9 — наземный авианосец дронов</Mech_A_battle_fortress.label>
+  <Mech_Close_combat_unmanned_aerial_vehicle.label>Ближний штурмовой мех</Mech_Close_combat_unmanned_aerial_vehicle.label>
+  <Mech_A_ChengBao_C.label>«Прорыв»-1 — тяжёлая штурмовая платформа</Mech_A_ChengBao_C.label>
+  <Mech_A_Diabolus.label>«Выгар»-3 — тяжёлый штурмовой мех</Mech_A_Diabolus.label>
+  <Mech_A_JiPu.label>«Нулевой прототип» — универсальный гуманоид</Mech_A_JiPu.label>
+
+  <!-- Система «Рысь» -->
+  <AR_A_LynxS.label>Система подвески «Рысь»</AR_A_LynxS.label>
+  <AR_A_LynxS.description>Модульная подвесная система «Рысь» — расширение к базовой броне «Рысь», увеличивающее защиту и грузоподъёмность бойца.</AR_A_LynxS.description>
+
+  <AR_A_LynxS_B.label>Система подвески «Рысь» B</AR_A_LynxS_B.label>
+  <AR_A_LynxS_B.description>Вариант B подвесной системы «Рысь» с улучшенными элементами защиты и подвесом для дополнительного снаряжения.</AR_A_LynxS_B.description>
+
+  <AR_A_LynxS_C.label>Система подвески «Рысь» C</AR_A_LynxS_C.label>
+  <AR_A_LynxS_C.description>Вариант C подвесной системы «Рысь», ориентированный на повышенную защиту и удобство ношения.</AR_A_LynxS_C.description>
+
+  <AR_A_LynxS_NvMiCai.label>Система подвески «Рысь» (зелёный камуфляж)</AR_A_LynxS_NvMiCai.label>
+  <AR_A_LynxS_NvMiCai.description>Камуфлированный вариант подвесной системы «Рысь» для лесистой местности.</AR_A_LynxS_NvMiCai.description>
+  <AR_A_LynxS_B.description>Система «Рысь» — разработанный в 5488 г. на звезде «Тревога» индивидуальный боевой комплекс. Этот набор — расширенная защита поверх базовой брони «Рысь»: сниженная масса, эргономичный пассивный экзоскелет, улучшенная защита. Внутренние антипомеховые системы и тактическая подвеска повышают боевую эффективность.</AR_A_LynxS_B.description>
+  <AR_A_LynxS_B.label>Система «Рысь» B</AR_A_LynxS_B.label>
+  <AR_A_LynxS_C.description>Система «Рысь»: расширенная версия с пониженной массой, пассивным экзоскелетом и повышенной защитой. Встроенная антипомеховая электроника и тактическая подвеска обеспечивают высокий боевой комфорт.</AR_A_LynxS_C.description>
+  <AR_A_LynxS_C.label>Система «Рысь» C</AR_A_LynxS_C.label>
+  <AS_A_JumpBag_turret_Laser.description>Лазерная турель вспомогательного дрона.</AS_A_JumpBag_turret_Laser.description>
+  <AS_A_JumpBag_turret_Laser.label>Лазерный дрон‑турель 1</AS_A_JumpBag_turret_Laser.label>
+  <DSanDanS_Atlas_D.label>Крупнокалиберный картечный снаряд</DSanDanS_Atlas_D.label>
+  <HellsphereCannon_A_Weapon_A.description>Режим дальнобойной ракеты: увеличенная дальность и пуск вне прямой видимости. Цена — меньший радиус плазменного облака и сниженный урон; при этом образуется больше осколков.</HellsphereCannon_A_Weapon_A.description>
+  <HellsphereCannon_A_Weapon_A.label>Пушка «Адсфера» (артиллерийский режим)</HellsphereCannon_A_Weapon_A.label>
+  <HellsphereCannon_A_Weapon_A.tools.0.label>ствол</HellsphereCannon_A_Weapon_A.tools.0.label>
+  <MJiZQ_A_WrLuDaiChe_WQ.description>Турель под патрон 12.5×50 мм.</MJiZQ_A_WrLuDaiChe_WQ.description>
+  <MJiZQ_A_WrLuDaiChe_WQ.label>Оружейная станция 12.5×50 мм</MJiZQ_A_WrLuDaiChe_WQ.label>
+  <MXw_A_Weapon_AA_A.description>Огневая система «Гремучник».</MXw_A_Weapon_AA_A.description>
+  <MXw_A_Weapon_AA_A.label>Система «Гремучник» — режим микроркет</MXw_A_Weapon_AA_A.label>
+  <MechSpeedDiabolus.description>Модуль ускорения для тяжёлого арт‑меха «Выгар»-3.</MechSpeedDiabolus.description>
+  <MechSpeedDiabolus.label>Модуль ускорения «Выгар»-3</MechSpeedDiabolus.label>
+  <MechSpeedUpgradeModule_A.description>Базовый универсальный модуль, повышающий боевые характеристики меха.</MechSpeedUpgradeModule_A.description>
+  <MechSpeedUpgradeModule_A.label>Мех‑мод: базовый боевой модуль</MechSpeedUpgradeModule_A.label>
+  <MechXwSnake.description>«Гремучник»: тяжёлая пушка с автогранатами.</MechXwSnake.description>
+  <MechXwSnake.label>«Гремучник» — автогранатная пушка</MechXwSnake.label>
+  <MechXwSnake_A.description>«Гремучник»: ракетное вооружение.</MechXwSnake_A.description>
+  <MechXwSnake_A.label>«Гремучник» — ракетное вооружение</MechXwSnake_A.label>
+  <Mech_A_BRM1A.description>Улучшенная версия прототипа, пригодная для модульной доработки. Используется как робот‑ополченец и рабочий робот. Может оснащаться широким спектром лёгкого и среднего вооружения.</Mech_A_BRM1A.description>
+  <Mech_A_BRM1A.label>Робот‑ополченец</Mech_A_BRM1A.label>
+  <Mech_A_BRM1A.tools.0.label>таран</Mech_A_BRM1A.tools.0.label>
+  <Mech_A_ChengBao.description>«Подвижная крепость»-96 — тяжёлый штурмовой юнит с мощным энергощитом и 19,5‑мм пулемётом. Защищает механику и технику от ПТО и БПЛА. Оснащён системой поглощения EMP: при разрушении щита EMP он быстро восстанавливается до полного уровня.</Mech_A_ChengBao.description>
+  <Mech_A_ChengBao.tools.0.label>таран</Mech_A_ChengBao.tools.0.label>
+  <Mech_A_ChengBao_C.description>В ответ на активное применение противником скрытных диверсантов и массированных штурмов была создана тяжёлая ближнебойная платформа «Прорыв»-1. Огромное шасси и тяжёлый молот обеспечивают безопасность объектов; при необходимости возможен форс‑режим наноструктуры и подключение вспомогательных тактических систем.</Mech_A_ChengBao_C.description>
+  <Mech_A_ChengBao_C.tools.0.label>таран</Mech_A_ChengBao_C.tools.0.label>
+  <Mech_A_Diabolus.description>«Выгар»-3 — тяжёлый штурмовой мех (5492 г.), вооружённый fission‑пушкой и 19,5‑мм пулемётом; эффективен против брони и укреплений, любим боевыми сапёрами.</Mech_A_Diabolus.description>
+  <Mech_A_Diabolus.tools.0.label>таран</Mech_A_Diabolus.tools.0.label>
+  <Mech_A_JiPu.description>&lt;color=#A02A22&gt;&lt;b&gt;Посвящение советскому фильму 1935 г. «Исчезновение чувств»&lt;/b&gt;&lt;/color&gt;\n0‑прототип возник не в &lt;color=#A02A22&gt;&lt;b&gt;социалистическую эпоху&lt;/b&gt;&lt;/color&gt;, а в период объединения планеты Федерацией Долины. Учёный‑инженер Кими‑Пов создал &lt;color=#A02A22&gt;&lt;b&gt;универсальный гуманоид&lt;/b&gt;&lt;/color&gt; для рывка производительности и устранения &lt;color=#A02A22&gt;&lt;b&gt;неравенства&lt;/b&gt;&lt;/color&gt;, но это обернулось &lt;color=#A02A22&gt;&lt;b&gt;резнёй&lt;/b&gt;&lt;/color&gt; против пролетариата. Революция и партизанская борьба свергли буржуазию. Вывод: &lt;color=#A02A22&gt;&lt;b&gt;скачок производительных сил не делает власть милосердной!&lt;/b&gt;&lt;/color&gt;\nСегодня 0‑прототип — робот для спасработ, разведки и охраны колоний. В пограничье часто вооружается крупнокалиберными пулемётами.</Mech_A_JiPu.description>
+  <Mech_A_JiPu.tools.0.label>таран</Mech_A_JiPu.tools.0.label>
+  <Mech_A_LiMing.description>«Рассвет»-9 — базовый боевой робот Новой Федерации. Вооружён термореактивным буром‑штормом для пробития брони и поджога внутренностей цели. Имеет хорошую защиту, умеет тушить пеной, делать реактивный прыжок и ставить дымовую завесу.</Mech_A_LiMing.description>
+  <Mech_A_LiMing.tools.0.label>таран</Mech_A_LiMing.tools.0.label>
+  <Mech_A_Nurse.description>«Медсестричка» — широко используемый в медицине, сервисе и ВПК мех. Очередность работ: лечение → готовка → уборка. В колониях и армии часто комплектуется электропомеховым излучателем и щитом на 200 ед.</Mech_A_Nurse.description>
+  <Mech_A_Nurse.tools.0.label>таран</Mech_A_Nurse.tools.0.label>
+  <Mech_A_WrLuDaiChe.description>«Лиебяо»-4 — снятая с первой линии беспилотная платформа; ныне на вооружении у частей второй линии (Красная гвардия и др.).</Mech_A_WrLuDaiChe.description>
+  <Mech_A_WrLuDaiChe.label>«Лиебяо»-4 — беспилотная платформа</Mech_A_WrLuDaiChe.label>
+  <Mech_A_WrLuDaiChe.tools.0.label>раздавить</Mech_A_WrLuDaiChe.tools.0.label>
+  <Mech_A_XwSnake.description>«Гремучник»-94 — многоцелевой боевой мех Новой Федерации. Оснащён 19,5‑мм пулемётом и 65‑мм гранатомётом; умеет ставить дым, тушить пеной и совершать реактивные прыжки.</Mech_A_XwSnake.description>
+  <Mech_A_XwSnake.tools.0.label>раздавить</Mech_A_XwSnake.tools.0.label>
+  <Mech_A_battle_fortress.description>Наземный «авианосец», непрерывно выпускающий боевых дронов‑приманок. При уничтожении дроны распадаются на два вращающихся микродрона благодаря наноструктурам.</Mech_A_battle_fortress.description>
+  <Mech_A_battle_fortress.tools.0.label>таран</Mech_A_battle_fortress.tools.0.label>
+  <Mech_Close_combat_unmanned_aerial_vehicle.description>Стремительный противотанковый мех, впрыскивающий в цель металлическую струю. После критических повреждений разделяется надвое; при уничтожении формирует два вращающихся микродрона из наноструктуры.</Mech_Close_combat_unmanned_aerial_vehicle.description>
+  <Mech_Close_combat_unmanned_aerial_vehicle.tools.0.label>клинок</Mech_Close_combat_unmanned_aerial_vehicle.tools.0.label>
+  <MySpecialWeaponHediff.description>При наличии основной оружейной опоры открывает два дополнительных слота (можно взять ещё две единицы оружия).</MySpecialWeaponHediff.description>
+  <MySpecialWeaponHediff.label>Скелет‑мех — дополнительная стойка под оружие</MySpecialWeaponHediff.label>
+  <TY_A_Mech_Nurse_QET.description>После сильного наводнения Коммуна Алёша получила помощь от других коммун. В знак благодарности разработали особого гуманоида — «Алёша». Изначально гражданский, но из‑за войны выяснилось, что «Алёша» может эффективно использовать гаусс‑винтовку при низкой стоимости, поэтому модель часто переоборудуют в военную. Для люсианских конструкций механические тела фактически выступают «внешними киберпротезами»; человекоподобные роботы с мимикой напоминают аниме‑маскоты.</TY_A_Mech_Nurse_QET.description>
+  <TY_A_Mech_Nurse_QET.tools.0.label>таран</TY_A_Mech_Nurse_QET.tools.0.label>
+  <TY_A_Mech_WarUrchin.description>Нестабильный мех, быстро формируемый наноструктурой по команде встроенного чипа. Стреляет игольчатыми снарядами.</TY_A_Mech_WarUrchin.description>
+  <TY_A_Mech_WarUrchin.tools.0.label>клинок</TY_A_Mech_WarUrchin.tools.0.label>
+  <TY_A_N_CiHeX_Weapon_Bullet.label>Монолитная пуля</TY_A_N_CiHeX_Weapon_Bullet.label>
+  <TY_A_RPD114_Z.description>Лёгкий пулемёт 60‑х. Хотя снят с вооружения, в Красной зоне на окраинах мира широко используется Красной гвардией.</TY_A_RPD114_Z.description>
+  <TY_A_RPD114_Z.label>RPD-114</TY_A_RPD114_Z.label>
+  <TY_A_check.description>Разработанный в Красной зоне (Новая Долина) мех, широко применяемый для транспортировки грузов в горах и сопровождения дип‑караванов.</TY_A_check.description>
+  <TY_A_check.tools.0.label>таран</TY_A_check.tools.0.label>
+  <TY_A_exploit.description>Здесь увековечена ваша дружба и вклад в дело Красной зоны Новой Долины. На радиостанции можно вызвать группу учёта заслуг (через заявку у караванщика) и обменять очки вклада.\n&lt;color=#A02A22&gt;&lt;b&gt;Ваши имена могут забыть, но ваши деяния будут жить вечно.&lt;/b&gt;&lt;/color&gt;</TY_A_exploit.description>
+  <TY_A_exploit.label>Архив заслуг</TY_A_exploit.label>
+  <TY_A_intermediate_exploit.description>Здесь увековечена ваша дружба и вклад в дело Красной зоны Новой Долины. На радиостанции можно вызвать группу учёта заслуг (через заявку у караванщика) и обменять очки вклада.\n&lt;color=#A02A22&gt;&lt;b&gt;Ваши имена могут забыть, но ваши деяния будут жить вечно.&lt;/b&gt;&lt;/color&gt;</TY_A_intermediate_exploit.description>
+  <TY_A_intermediate_exploit.label>Архив заслуг — средний</TY_A_intermediate_exploit.label>
+  <TY_A_senior_exploit.description>Здесь увековечена ваша дружба и вклад в дело Красной зоны Новой Долины. На радиостанции можно вызвать группу учёта заслуг (через заявку у караванщика) и обменять очки вклада.\n&lt;color=#A02A22&gt;&lt;b&gt;Ваши имена могут забыть, но ваши деяния будут жить вечно.&lt;/b&gt;&lt;/color&gt;</TY_A_senior_exploit.description>
+  <TY_A_senior_exploit.label>Архив заслуг — высший</TY_A_senior_exploit.label>
+  <TY_BezierMissile_AA_AA.description>Самонаводящаяся ракета.</TY_BezierMissile_AA_AA.description>
+  <TY_BezierMissile_AA_AA.label>Микроуправляемая ракета (линейная траектория)</TY_BezierMissile_AA_AA.label>
+  <TY_Bullet_Fragment_Small.label>Осколок</TY_Bullet_Fragment_Small.label>
+  <TY_Bullet_OrbitalStrike_Autocannon_HE.label>Малокалиберный ЗАУ ОФ‑снаряд</TY_Bullet_OrbitalStrike_Autocannon_HE.label>
+  <TY_Mech_Agrihand.description>«Фермер»-9 родом из проекта Евгасской Сети времён пред‑Федерации (реформа выборов). Он освободил труд в отдалённых районах. Благодаря низкой цене и хорошей эффективности улучшенные версии до сих пор широко применяются на малочувствительных к земле участках и в новых колониях/лагерях.</TY_Mech_Agrihand.description>
+  <TY_Mech_Agrihand.tools.0.label>лезвие</TY_Mech_Agrihand.tools.0.label>
+  <TY_Thing_OrbitalStrike.description>Объект орбитального удара.</TY_Thing_OrbitalStrike.description>
+  <TY_Thing_OrbitalStrike.label>Объект орбитального удара</TY_Thing_OrbitalStrike.label>
+  <TY_turret_Laser.description>25‑мм осколочно‑фугасный гранат.</TY_turret_Laser.description>
+  <TY_turret_Laser.label>Лазерная турель ведомого</TY_turret_Laser.label>
+  <TestState_D.description>«Доберман»-4: дополнительная броня.</TestState_D.description>
+  <TestState_D.label>«Доберман»-4: дополнительная броня</TestState_D.label>
+  <TurretImplant_LaserCannon.description>Имплант‑система трёхствольной пушки.</TurretImplant_LaserCannon.description>
+  <TurretImplant_LaserCannon.label>Имплант: трёхствольная пушка</TurretImplant_LaserCannon.label>
+  <CustomRadioStation.label>Радио онлайн‑покупок Красной Зоны</CustomRadioStation.label>
+  <CustomRadioStation.description>Оборудование для связи с центральной радиостанцией снабжения «Красной Зоны». Позволяет массово закупать и продавать продовольствие, промышленные компоненты, сырьё и товары. Запускается кликом ПКМ.\nТовары народных коммун поступают через единую логистику в электронные витрины, госмагазины и торговые корабли пограничного мира.\nПлановая система «Новой Федерации Долины» стремится стать «всемогущей корпорацией», обеспечивающей каждого жителя работой, товарами и соцблагами.\nТем, что не покрывает «всемогущая корпорация», занимаются самоуправляемые коммуны.</CustomRadioStation.description>
+  <TY_A_DropPodIncoming_D_C.label>Всесекторный EMP‑щит «Долины»</TY_A_DropPodIncoming_D_C.label>
+  <TY_A_DropPodIncoming_D_C.description>Перехватывает близкие пули и дальние навесные боеприпасы и невосприимчив к EMP‑вариантам военных щитов. Цена — вместимость щита не увеличивается, а стоимость сильно возрастает.</TY_A_DropPodIncoming_D_C.description>
+  <TY_A_DropPodIncoming_D_A_A.label>Крупный всесекторный EMP‑щит «Долины»</TY_A_DropPodIncoming_D_A_A.label>
+  <TY_A_DropPodIncoming_D_A_A.description>Перехватывает близкие пули и дальние навесные боеприпасы и невосприимчив к EMP‑вариантам военных щитов. Цена — вместимость щита не увеличивается, а стоимость сильно возрастает.</TY_A_DropPodIncoming_D_A_A.description>
+  <TY_A_A_RV_Skyfaller_DropPodIncoming.label>Тактический низкоугловой щит «Долины»</TY_A_A_RV_Skyfaller_DropPodIncoming.label>
+  <TY_A_A_RV_Skyfaller_DropPodIncoming.description>Обычно перехватывает низкоугловые/настильные боеприпасы; навесные не перехватывает.</TY_A_A_RV_Skyfaller_DropPodIncoming.description>
+  <TY_A_RV_Skyfaller_DropPodIncoming.label>Тактический высокоугловой щит «Долины»</TY_A_RV_Skyfaller_DropPodIncoming.label>
+  <TY_A_RV_Skyfaller_DropPodIncoming.description>Перехватывает навесные/высокоугловые боеприпасы.</TY_A_RV_Skyfaller_DropPodIncoming.description>
+  <XG_BingTuanJ1_module.description>Тяжёлая щитовая броня на плечах; повышает защиту, но замедляет перезарядку и ход.\nРез/тупая защита +25%  +3% к времени перезарядки дальн. атак  −10% к общ. скорости работы</XG_BingTuanJ1_module.description>
+  <XG_BingTuanJ1_module.label>Скелет‑мех: тяжёлые круглые наплечники‑щиты</XG_BingTuanJ1_module.label>
+  <XG_BingTuanJ2_module.description>Лёгкие круглые наплечники на плечах.\n+10% к защите</XG_BingTuanJ2_module.description>
+  <XG_BingTuanJ2_module.label>Скелет‑мех: лёгкие круглые наплечники</XG_BingTuanJ2_module.label>
+  <XG_BingTuanTu1_module.description>Тяжёлое высокомощное шасси: повышает скорость и защиту.\n+2,00 к скор. передвижения/с; рез/тупая защита +10%  −10% к общ. скорости работы</XG_BingTuanTu1_module.description>
+  <XG_BingTuanTu1_module.label>Скелет‑мех: тяжёлое модиф. шасси</XG_BingTuanTu1_module.label>
+  <XG_BingTuanX1_module.description>Дополнительная усиленная броня для чистой защиты.\nРез/тупая защита +35%  −12% к общ. скорости работы</XG_BingTuanX1_module.description>
+  <XG_BingTuanX1_module.label>Скелет‑мех: литая броня</XG_BingTuanX1_module.label>
+  <XG_Homework_upgrade_module.description>Широкоугольный прицел меха с быстрой дистанционной калибровкой для скоростной наводки.\nКонфликтует с: снайперский, скорострельный, бронекамера\n+12% к общ. скорости работы  −2 к меткости</XG_Homework_upgrade_module.description>
+  <XG_Homework_upgrade_module.label>Скелет‑мех: рабочий прицел</XG_Homework_upgrade_module.label>
+  <XG_JQG_BeiBao.description>Изначально задуман как внешний рюкзак для увеличения переносимого веса, но в итоге даёт дополнительный объём под электронику, сопоставимый по эффекту с усилителем производительности.</XG_JQG_BeiBao.description>
+  <XG_JQG_BeiBao.label>«Доберман»-4: доп. рюкзак (незавершён)</XG_JQG_BeiBao.label>
+  <XG_JQG_WuRenJin.description>Модуль БПЛА для «Доберман»-4 (дрон ещё не реализован).</XG_JQG_WuRenJin.description>
+  <XG_JQG_WuRenJin.label>«Доберман»-4: модуль БПЛА (незавершён)</XG_JQG_WuRenJin.label>
+  <XG_JianJiaJ_module.description>Гидросистема на плече для повышения эффективности труда.\n+13% к общ. скорости работы  −5% к времени перезарядки дальн. атак</XG_JianJiaJ_module.description>
+  <XG_JianJiaJ_module.label>Скелет‑мех: гидро‑плечо</XG_JianJiaJ_module.label>
+  <XG_JianJiaTu_module.description>Более подвижное, но менее прочное шасси; часто ставится на трудовые модификации.\nРез/тупая защита −10%  +12% к общ. скорости работы</XG_JianJiaTu_module.description>
+  <XG_JianJiaTu_module.label>Скелет‑мех: подвижное шасси</XG_JianJiaTu_module.label>
+  <XG_JianJiaX_module.description>Нагрудный вычислительный модуль; также терминал управления мехом.\n+13% к общ. скорости работы</XG_JianJiaX_module.description>
+  <XG_JianJiaX_module.label>Скелет‑мех: нагрудный терминал</XG_JianJiaX_module.label>
+  <XG_RapidFire_upgrade_module.description>Широкоугольный прицел с быстрой дальномерной калибровкой для ускоренного прицеливания.\nКонфликтует с: снайперский, бронекамера, рабочий прицел\nВремя прицеливания −25%</XG_RapidFire_upgrade_module.description>
+  <XG_RapidFire_upgrade_module.label>Скелет‑мех: скорострельный прицел</XG_RapidFire_upgrade_module.label>
+  <XG_armored_sight_module.description>Прицел меха с предобработкой на вычислителе и усиленной бронекапсулой защиты оптики.\nКонфликтует с: снайперский, скорострельный, рабочий прицел\nМеткость +2  Время прицеливания −15%  Рез/тупая защита +10%</XG_armored_sight_module.description>
+  <XG_armored_sight_module.label>Скелет‑мех: бронированный прицел</XG_armored_sight_module.label>
+  <XG_armored_upgrade_module.description>Высокодетальный прицел меха с НВ/ТПВ для точности и дальнего наблюдения.\nКонфликтует с: бронекамера, скорострельный, рабочий прицел\nМеткость +4  Меткость (в темноте внутри/снаружи) +25%  Время прицеливания 95%</XG_armored_upgrade_module.description>
+  <XG_armored_upgrade_module.label>Скелет‑мех: снайперский прицел</XG_armored_upgrade_module.label>
+  <YYS_Bullet_HellsphereCannonGun_A.label>Ракета «Адсфера» (артиллерийский режим)</YYS_Bullet_HellsphereCannonGun_A.label>
+  <ZCZD_AtB_A.label>12,5×50 мм — патрон с EMP‑зарядом</ZCZD_AtB_A.label>
+  <ZCZD_AtB_B.label>12,5×50 мм — бронебойный патрон</ZCZD_AtB_B.label>
+  <ty_Fence2A.description>Стеклянное балконное ограждение</ty_Fence2A.description>
+  <ty_Fence2A.label>Чёрное стеклянное балконное ограждение</ty_Fence2A.label>
+  <Blueprint_ty_Fence2A.label>Чертёж: стеклянное балконное ограждение</Blueprint_ty_Fence2A.label>
+  <Frame_ty_Fence2A.label>Рама: стеклянное балконное ограждение</Frame_ty_Fence2A.label>
+  <!-- Furniture/buildings from TY_Buildings_AtlasBuilding.xml -->
+  <TY_A_wallpaper_C_Building.label>Обои «Долина» (сильное перекрытие)</TY_A_wallpaper_C_Building.label>
+  <TY_A_wallpaper_C_Building.description>Можно накладывать поверх травы, кустов, деревьев и стен.</TY_A_wallpaper_C_Building.description>
+  <TY_A_wallpaper_B_Building.label>Обои «Долина» (слабое перекрытие)</TY_A_wallpaper_B_Building.label>
+  <TY_A_wallpaper_B_Building.description>Нельзя накладывать поверх травы, кустов, деревьев и стен.</TY_A_wallpaper_B_Building.description>
+  <TY_A_window_Building.label>Окно «Долина»</TY_A_window_Building.label>
+  <TY_A_window_Building.description>Обычное жилищное окно Федерации Долины. Из него нельзя стрелять.</TY_A_window_Building.description>
+  <TY_A_XG_CuangLian.label>Штора «Долина»</TY_A_XG_CuangLian.label>
+  <TY_A_XG_CuangLian.description>Обычные шторы, используемые в зданиях Федерации Долины. Из них нельзя стрелять.</TY_A_XG_CuangLian.description>
+  <TY_A_XGSmall_table_A_Building.label>Столик «Долина» (малый)</TY_A_XGSmall_table_A_Building.label>
+  <TY_A_XGSmall_table_A_Building.description>Небольшой уличный столик для зон отдыха.</TY_A_XGSmall_table_A_Building.description>
+  <TY_A_XGLB_table_Ax_Building.label>Стол «Долина» (2×1)</TY_A_XGLB_table_Ax_Building.label>
+  <TY_A_XGLB_table_Ax_Building.description>Небольшой стол для столовых и кафе. Ранние государственные закусочные часто использовали такие столы из титана.</TY_A_XGLB_table_Ax_Building.description>
+  <TY_A_XGLB_table_B1_Building.label>Винный стол (2×1)</TY_A_XGLB_table_B1_Building.label>
+  <TY_A_XGLB_table_B1_Building.description>Стол для подачи вина в заведениях. Исторически применялись компактные титановые столы.</TY_A_XGLB_table_B1_Building.description>
+  <TY_A_XGLB_table_A_Building.label>Стол «Долина» (большой)</TY_A_XGLB_table_A_Building.label>
+  <TY_A_XGLB_table_A_Building.description>Обычный обеденный стол для гостиных.</TY_A_XGLB_table_A_Building.description>
+  <TY_A_XGLB_bench_A1x_Building.label>Высокий табурет «Долина»</TY_A_XGLB_bench_A1x_Building.label>
+  <TY_A_XGLB_bench_A1x_Building.description>Высокий табурет в стиле «Долины».</TY_A_XGLB_bench_A1x_Building.description>
+  <TY_A_XGLB_chair_A1xA_Building.label>Стул «Долина»</TY_A_XGLB_chair_A1xA_Building.label>
+  <TY_A_XGLB_chair_A1xA_Building.description>Стул в стиле «Долины».</TY_A_XGLB_chair_A1xA_Building.description>
+  <TY_A_XGLB_sofa_A_Building.label>Диван «Долина» (мягкий)</TY_A_XGLB_sofa_A_Building.label>
+  <TY_A_XGLB_sofa_DK.label>Диван «Долина» (яйцевидный)</TY_A_XGLB_sofa_DK.label>
+  <TY_A_XGLBXGLB_sofa3_A1x2A.label>Диван «Долина» (жёлтый, 2×1)</TY_A_XGLBXGLB_sofa3_A1x2A.label>
+  <TY_A_XGLB_sofa_B_Building.label>Диван «Долина» (большой)</TY_A_XGLB_sofa_B_Building.label>
+  <TY_A_XGLB_sofa_B_Building_A.label>Диван «Долина» (угловой)</TY_A_XGLB_sofa_B_Building_A.label>
+  <TY_A_XGLB_SF_B1x2_Building.label>Винный диван</TY_A_XGLB_SF_B1x2_Building.label>
+  <TY_A_XG_1_MK_Building.label>Дверной проём (портал)</TY_A_XG_1_MK_Building.label>
+  <TY_A_XG_1_MK_Building.description>Декоративный дверной проём.</TY_A_XG_1_MK_Building.description>
+  <TY_FloodLight.label>Прожектор‑фонарь</TY_FloodLight.label>
+  <TY_FloodLight.description>Уличный светильник.</TY_FloodLight.description>
+  <TY_A_XGFANyijia_Building.label>Вешалка со светильником</TY_A_XGFANyijia_Building.label>
+  <TY_A_XGFANyijia_Building.description>Напольная вешалка у входа, совмещённая с лампой.</TY_A_XGFANyijia_Building.description>
+  <TY_A_XGHUAtai_Building_B.label>Смотровое дерево</TY_A_XGHUAtai_Building_B.label>
+  <TY_A_XGHUAtai_Building_B.description>Крупное декоративное дерево для первичного озеленения.</TY_A_XGHUAtai_Building_B.description>
+  <TY_A_XGHUAtai_Building.label>Солнечный горшок</TY_A_XGHUAtai_Building.label>
+  <TY_A_XGHUAtai_Building.description>Декоративное растение с планеты Долины; опыление жуками, цветок у корня, стебель в почве, листья основная масса.</TY_A_XGHUAtai_Building.description>
+  <TY_A_XGHUAtai_Building_C.label>Декоративный томат</TY_A_XGHUAtai_Building_C.label>
+  <TY_A_XGHUAtai_Building_C.description>Земное декоративное растение, позднее выведено в пищевую культуру.</TY_A_XGHUAtai_Building_C.description>
+  <TY_XGyg.label>Шкаф «Долина» (универсальный)</TY_XGyg.label>
+  <TY_XGyg.description>Большой шкаф‑кладовая для одежды и разных вещей.</TY_XGyg.description>
+  <TY_bedside_table.label>Тумбочка «Долина»</TY_bedside_table.label>
+  <TY_bedside_table.description>Белая прикроватная тумба с лампой и солнечным горшком.</TY_bedside_table.description>
+  <TY_bedside_ShuZhuangTai.label>Туалетный столик «Долина»</TY_bedside_ShuZhuangTai.label>
+  <TY_bedside_ShuZhuangTai.description>Туалетный столик с косметикой и зеркалом.</TY_bedside_ShuZhuangTai.description>
+  <TY_TubeTelevision.label>Игровая приставка Красной зоны</TY_TubeTelevision.label>
+  <TY_TubeTelevision.description>Бытовая игровая система из Сектора Тревоги. Сюжеты о «инопланетных богах» были временно запрещены Орденом Славы.</TY_TubeTelevision.description>
+  <TY_A_XG_LBTreatmentStation_Building.label>Пункт экстренной помощи</TY_A_XG_LBTreatmentStation_Building.label>
+  <TY_A_XG_LBTreatmentStation_Building.description>Полевой вспомогательный медпункт, адаптированный для больниц. Повышает качество лечения и шанс операций.</TY_A_XG_LBTreatmentStation_Building.description>
+  <TY_A_XG_MedicalStation.label>Медстанция (автоматическая)</TY_A_XG_MedicalStation.label>
+  <TY_A_XG_MedicalStation.description>Автоматизированная станция, лечит колонистов в заданном радиусе. Требует электричество и медпакеты.</TY_A_XG_MedicalStation.description>
+  <TY_A_BAOsqr_B.label>Охладитель‑стойка</TY_A_BAOsqr_B.label>
+  <TY_A_BAOsqr_B.description>Напольный охладитель, может служить опорной стойкой. Дешёвый и эффективный.</TY_A_BAOsqr_B.description>
+  <TY_A_BAOsqr_A.label>Обогреватель‑стойка</TY_A_BAOsqr_A.label>
+  <TY_A_BAOsqr_A.description>Напольный обогреватель, совмещённый с опорой. Мощнее стандартного.</TY_A_BAOsqr_A.description>
+  <TY_A_XG_LuoMaZhu.label>Колонна «римская»</TY_A_XG_LuoMaZhu.label>
+  <TY_A_XG_LuoMaZhu.description>Ретрофутуристическая опора: классика, сочетающаяся с индустриальным каркасом.</TY_A_XG_LuoMaZhu.description>
+  <TY_A_BiosculpterPod.label>Федеральный биоскульптор</TY_A_BiosculpterPod.label>
+  <TY_A_BiosculpterPod.description>Новый биоскульптор Федерации: быстрее циклы, усиленное лечение и коррекция. Может удалять зависимости — с рандомным эффектом.</TY_A_BiosculpterPod.description>
+
+  <!-- Implants (labels with B/C suffix from Hediff/TestDef.xml) -->
+  <TY_Treatment_of_foam_A.label>Наночип лечения B</TY_Treatment_of_foam_A.label>
+  <TY_A_Fighter_chip.label>Наночип стрельбы (базовый) B</TY_A_Fighter_chip.label>
+  <TY_combat_A.label>Наночип ближнего боя (базовый) B</TY_combat_A.label>
+  <TY_B_hemostasis_A.label>Наночип гемостаза B</TY_B_hemostasis_A.label>
+  <TY_B_relievepain_A.label>Наночип обезболивания B</TY_B_relievepain_A.label>
+  <TY_BerserkPulse_A.label>Наночип импульса берсерка C</TY_BerserkPulse_A.label>
+  <TY_C_Stun_A_A.label>Наночип оглушения C</TY_C_Stun_A_A.label>
+  <TY_Invisibility_A.label>Наночип невидимости C</TY_Invisibility_A.label>
+  <TY_A_C_Sian_Weinstein.label>Наночип «Сиан‑Вейнстайн» C</TY_A_C_Sian_Weinstein.label>
+
+  <!-- Ammunition and rockets (TY_Recipes.xml) -->
+  <TY_A_LBHW.label>Ракета «Гроза»</TY_A_LBHW.label>
+  <TY_A_LBHW.description>Плазменная импульсная ракета: наносит урон и создаёт помехи.</TY_A_LBHW.description>
+  <TY_A_LBHW_EMP_C.label>EMP‑ракета «Гроза»</TY_A_LBHW_EMP_C.label>
+  <TY_A_LBHW_EMP_C.description>EMP‑вариант «Грозы» для борьбы с техниками и высокоугловыми щитами.</TY_A_LBHW_EMP_C.description>
+</LanguageData>
+

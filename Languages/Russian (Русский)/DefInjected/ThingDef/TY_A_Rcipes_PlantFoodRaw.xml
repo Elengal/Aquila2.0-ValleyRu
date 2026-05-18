@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_Federal_synthetic_pre_made_dishes.label>Консервированная фасоль Речной Долины</TY_A_Federal_synthetic_pre_made_dishes.label>
+  <TY_A_Federal_synthetic_pre_made_dishes.description>Продвинутый промышленный консервированный продукт с умеренной солёностью и достаточным количеством сока. Различные комбинации гороха, белой фасоли и кукурузы делают этот консервированный продукт богатым по вкусу. Однако, поскольку это чисто растительный продукт, не рекомендуется употреблять его отдельно.</TY_A_Federal_synthetic_pre_made_dishes.description>
+
+  <TY_A_Federal_synthetic_pre_made_dishes_A.label>Сгущённое молоко "Белый кролик" Речной Долины</TY_A_Federal_synthetic_pre_made_dishes_A.label>
+  <TY_A_Federal_synthetic_pre_made_dishes_A.description>Сладкое сгущённое молоко, разработанное пищевым заводом "Белый кролик" Федерации Речной Долины. Вкус такой же, как у обычных конфет "Белый кролик", немного более густое, чем обычное молоко. Отличный выбор для приготовления десертов.</TY_A_Federal_synthetic_pre_made_dishes_A.description>
+
+  <TY_A_Federal_synthetic_corn.label>Синтетическая кукуруза Федерации</TY_A_Federal_synthetic_corn.label>
+  <TY_A_Federal_synthetic_corn.description>Появление синтетической пищи значительно облегчило продовольственный кризис, вызванный демографическим взрывом в межзвёздную эру.</TY_A_Federal_synthetic_corn.description>
+
+  <TY_A_Synthetic_rice.label>Синтетический рис Федерации</TY_A_Synthetic_rice.label>
+  <TY_A_Synthetic_rice.description>"Почему мы должны синтезировать кукурузу в крахмал, а затем специально синтезировать кукурузу?" После технологии синтеза крахмала в пищу, для удобства транспортировки, управления и заморозки, федеральное собрание перерабатывает выращенные продукты питания в съедобную смешанную крахмальную массу. Затем каждая семья сама преобразует её в необходимые ингредиенты. Однако многие всё ещё считают, что такая практика превращения кукурузы в крахмал, а затем обратно в кукурузу, немного излишне сложна.</TY_A_Synthetic_rice.description>
+
+  <TY_A_Federal_synthetic_greens.label>Гибридные овощи Речной Долины</TY_A_Federal_synthetic_greens.label>
+  <TY_A_Federal_synthetic_greens.description>Для удобства транспортировки, управления и заморозки Федерация обычно синтезирует выращенные продукты питания в смешанную крахмальную массу, что позволяет каждой семье и коллективной столовой самостоятельно синтезировать необходимые ингредиенты. Появление синтетической пищи значительно облегчило продовольственный кризис, вызванный демографическим взрывом в межзвёздную эру. Синтетические овощи имеют более низкую питательную ценность, но больший урожай.</TY_A_Federal_synthetic_greens.description>
+
+  <TY_Federal_Synthetic_Carrot_Container.label>Контейнер синтетической моркови Федерации</TY_Federal_Synthetic_Carrot_Container.label>
+  <TY_Federal_Synthetic_Carrot_Container.description>Контейнер синтетической моркови Федерации</TY_Federal_Synthetic_Carrot_Container.description>
+
+  <TY_A_Federal_synthetic_carrot.label>Синтетическая морковь Федерации</TY_A_Federal_synthetic_carrot.label>
+  <TY_A_Federal_synthetic_carrot.description>Изначально планировался как экспортный продукт для Людской Территории Люцерны, но, похоже, только люцерновые кролики из районов улья проявляют к этому интерес. ([SECN] Сеть Секретарей Secretary Nexus — клонированная раса)</TY_A_Federal_synthetic_carrot.description>
+
+  <TY_A_Federal_synthetic_meat.label>Синтетическое мясо Федерации Речной Долины</TY_A_Federal_synthetic_meat.label>
+  <TY_A_Federal_synthetic_meat.description>Такой способ прямого синтеза различных видов мяса может имитировать вкус различных видов мяса. Традиционное животноводство Федерации постепенно заменяется синтетическим мясом. Федерация использует синтетическое мясо не из-за так называемого зоозащитничества, а просто потому, что использование синтетического мяса делает мясо дешевле, при этом не ухудшая вкусовые качества.</TY_A_Federal_synthetic_meat.description>
+
+  <TY_A_Federal_canned_meat.label>Консервированное тушёное мясо Речной Долины</TY_A_Federal_canned_meat.label>
+  <TY_A_Federal_canned_meat.description>Изначально создано во время Сумеречной Войны Федерацией Речной Долины как аварийный паёк при обороне первого важного города. Теперь также используется как обычный паёк из тушёного мяса.</TY_A_Federal_canned_meat.description>
+
+
+</LanguageData>
+

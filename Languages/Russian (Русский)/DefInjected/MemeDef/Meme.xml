@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: 革命理想 -->
+  <!--<TY_RevolutionIdeo.label>Revolutionary Ideal</TY_RevolutionIdeo.label>-->
+  <!-- EN: 共产党人到处都支持一切反对现存的社会制度和政治制度的革命运动。在所有这些运动中，他们都特别强调所有制问题，把它作为运动的基本问题，不管这个问题当时的发展程度怎样。\n最后，共产党人到处都努力争取全世界的民主政党之间的团结和协调。\n共产党人不屑于隐瞒自己的观点和意图。他们公开宣布：他们的目的只有用暴力推翻全部现存的社会制度才能达到。让统治阶级在共产主义革命面前发抖吧。无产者在这个革命中失去的只是锁链。他们获得的将是整个世界。\n全世界无产者，联合起来！ -->
+  <!--<TY_RevolutionIdeo.description>The Communists everywhere support every revolutionary movement against the existing social and political order of things. In all these movements they bring to the front, as the leading question in each, the property question, no matter what its degree of development at the time.\nFinally, they labour everywhere for the union and agreement of the democratic parties of all countries.\nThe Communists disdain to conceal their views and aims. They openly declare that their ends can be attained only by the forcible overthrow of all existing social conditions. Let the ruling classes tremble at a Communistic revolution. The proletarians have nothing to lose but their chains. They have a world to win.\nPROLETARIAT OF ALL GALAXY, UNITE!</TY_RevolutionIdeo.description>-->
+  <!-- EN:
+    <li>creation(tag=meme_TY_RevolutionIdeo) ->[deity0_name] tells us that there are still tens of billions of toiling masses in the galaxy oppressed and enslaved by empires, oligarchic megacorporations, and vile bandits. We should serve as the pathfinders to lead the people of the galaxy in breaking their chains.</li>
+    <li>episode(uses=1，tag=meme_TY_RevolutionIdeo) ->[deity0_name] loudly addressed the [memberNamePlural] at the assembly: "Our cause is just! And history will ultimately prove that everything we have dedicated ourselves to will be worth it!"</li>
+    <li>intro(tag=meme_TY_RevolutionIdeo) ->In [place_summary][place_name], through continuous struggle and movement, and under the persistent exploration and advancement of the pathfinders, the masses ultimately established the need to build and establish a new, free social system. This social system must be one where the masses hold power, not one where dictators and oligarchs oppress the people.</li>
+    <li>conflict(tag=meme_TY_RevolutionIdeo) ->The despicable reactionaries, feeling their interests threatened, have united to launch a "holy" encirclement and suppression against us!</li>
+    <li>founderJoin(tag=meme_TY_RevolutionIdeo) ->[deity0_name] and comrades took up arms, stormed and occupied the orbital warship and the Congress Palace, liberating the entire [place_summary][place_name]!</li>
+    <li>victory(tag=meme_TY_RevolutionIdeo) ->In the new people's state, [founderName] and everyone at the assembly went through a series of debates and discussions. Ultimately, [founderName], as one of the representatives of this new state and the inheritor and developer of [deity0_name]'s ideology, guided the development of this nascent nation together with others present at the assembly.</li>
+    <li>setup(tag=meme_TY_RevolutionIdeo) ->When the economy completely collapsed and social contradictions were fully exposed, [founderName] and [deity0_name] led millions of toiling masses to overthrow the iron-fisted rule of totalitarian oppressors. They established the first society in the planet's history where the people hold power and exercise dictatorship.</li>
+    <li>story(uses=1，tag=meme_TY_RevolutionIdeo) ->[deity0_name] spent an entire lifetime searching for ways to liberate the universe. However, all the theories [deity0_name] found in [deity0_name]'s lifetime were only applicable to the era in which [deity0_name] lived. Therefore, we should adapt to the changes of the times to repair and improve the theories. We must still adhere to some of the most fundamental principles, maintaining that initial naivety and idealism.</li>
+    <li>lessonIntro(tag=meme_TY_RevolutionIdeo) ->All the great achievements created by so-called great men require a material basis, and this material basis is created by millions of the masses. It is the masses who create history and develop history.</li>
+    <li>lesson(tag=meme_TY_RevolutionIdeo) ->Reactionary oppressors and dictators are constantly thinking about how to exploit profits and power from the people, making the masses toil for them and trying to deceive them into believing they are free through various carefully crafted lies! These dictators are parasites of society, hindering its development! But once the people in one region break free from their chains, this torrent of liberation will continue until all parasites are eradicated!</li>
+    <li>lessonReinforcement(tag=meme_TY_RevolutionIdeo) ->The people of the whole galaxy must unite, and they will unite! Because in the heart of every one of us, we reject and despise the old world full of hatred and chaos, and we yearn for that united and beautiful new world! Therefore, each of us will ultimately strive for a brand new world.</li>
+    <li>archistBasis(tag=meme_TY_RevolutionIdeo) ->If one desires progress and transcendence, there is only unity and equality.</li>
+    <li>archistFact(tag=meme_TY_RevolutionIdeo) ->Archotech holds that oppressors and dictators are meaningless and obstructive to the development and progress of human society.</li>
+    <li>archistProphecy(tag=meme_TY_RevolutionIdeo) ->Humanity should continuously progress toward Archointelligence. Any extremist groups that seek to hinder human progress are destined to be abandoned by the times.</li>
+    <li>animistFact(tag=meme_TY_RevolutionIdeo) ->All souls are born equal, and there should never be any notion that "some souls are more equal than others."</li>
+    <li>animistProphecy(tag=meme_TY_RevolutionIdeo) ->Only by creating the most beautiful new world can souls break down barriers and unite together.</li>
+  -->
+  <!--<TY_RevolutionIdeo.descriptionMaker.rules.rulesStrings>Revolution Ideal</TY_RevolutionIdeo.descriptionMaker.rules.rulesStrings>-->
+  <!-- EN:
+    <li>memeLeaderNoun->Chairman</li>
+    <li>memeMoralist->Secretary</li>
+    <li>memeAdjective->Teacher</li>
+    <li>memeAdjective->Mentor</li>
+    <li>memeHyphenPrefix->Comrade/li>
+    <li>memeConcept->Revolution</li>
+    <li>memeConcept->Communism</li>
+  -->
+  <!--<TY_RevolutionIdeo.generalRules.rulesStrings>Revolution Ideal</TY_RevolutionIdeo.generalRules.rulesStrings>-->
+  <!-- EN: 主义 -->
+  <!--<TY_RevolutionIdeo.symbolPacks.0.adjective>ist</TY_RevolutionIdeo.symbolPacks.0.adjective>-->
+  <!-- EN: 社会主义 -->
+  <!--<TY_RevolutionIdeo.symbolPacks.0.ideoName>Socialism</TY_RevolutionIdeo.symbolPacks.0.ideoName>-->
+  <!-- EN: 同志 -->
+  <!--<TY_RevolutionIdeo.symbolPacks.0.member>Comrade</TY_RevolutionIdeo.symbolPacks.0.member>-->
+  <!-- EN: 共产主义 -->
+  <!--<TY_RevolutionIdeo.symbolPacks.0.theme>Communism</TY_RevolutionIdeo.symbolPacks.0.theme>-->
+  <!-- EN: 列宁主义 -->
+  <!--<TY_RevolutionIdeo.symbolPacks.1.adjective>Leninist</TY_RevolutionIdeo.symbolPacks.1.adjective>-->
+  <!-- EN: 社会主义 -->
+  <!--<TY_RevolutionIdeo.symbolPacks.1.ideoName>Socialism</TY_RevolutionIdeo.symbolPacks.1.ideoName>-->
+  <!-- EN: 同志 -->
+  <!--<TY_RevolutionIdeo.symbolPacks.1.member>Comrade</TY_RevolutionIdeo.symbolPacks.1.member>-->
+  <!-- EN: 共产主义 -->
+  <!--<TY_RevolutionIdeo.symbolPacks.1.theme>Communism</TY_RevolutionIdeo.symbolPacks.1.theme>-->
+  <!-- EN: 马列毛主义 -->
+  <!--<TY_RevolutionIdeo.symbolPacks.2.adjective>Marxist-Leninist-Maoist</TY_RevolutionIdeo.symbolPacks.2.adjective>-->
+  <!-- EN: 社会主义 -->
+  <!--<TY_RevolutionIdeo.symbolPacks.2.ideoName>Socialism</TY_RevolutionIdeo.symbolPacks.2.ideoName>-->
+  <!-- EN: 同志 -->
+  <!--<TY_RevolutionIdeo.symbolPacks.2.member>Comrade</TY_RevolutionIdeo.symbolPacks.2.member>-->
+  <!-- EN: 共产主义 -->
+  <!--<TY_RevolutionIdeo.symbolPacks.2.theme>Communism</TY_RevolutionIdeo.symbolPacks.2.theme>-->
+  <!-- EN: 科学 -->
+  <!--<TY_RevolutionIdeo.symbolPacks.3.adjective>Scientific</TY_RevolutionIdeo.symbolPacks.3.adjective>-->
+  <!-- EN: 科学 -->
+  <!--<TY_RevolutionIdeo.symbolPacks.3.ideoName>Science</TY_RevolutionIdeo.symbolPacks.3.ideoName>-->
+  <!-- EN: 同志 -->
+  <!--<TY_RevolutionIdeo.symbolPacks.3.member>Comrade</TY_RevolutionIdeo.symbolPacks.3.member>-->
+  <!-- EN: 科学 -->
+  <!--<TY_RevolutionIdeo.symbolPacks.4.adjective>Scientific</TY_RevolutionIdeo.symbolPacks.4.adjective>-->
+  <!-- EN: 马克思 -->
+  <!--<TY_RevolutionIdeo.symbolPacks.4.ideoName>Marx</TY_RevolutionIdeo.symbolPacks.4.ideoName>-->
+  <!-- EN: 同志 -->
+  <!--<TY_RevolutionIdeo.symbolPacks.4.member>Comrade</TY_RevolutionIdeo.symbolPacks.4.member>-->
+
+</LanguageData>

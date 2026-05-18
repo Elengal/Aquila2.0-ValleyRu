@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bridge can be built here  地形承受能力 -->
+
+  <TY_Bridge.label>Современный мост</TY_Bridge.label>
+  <TY_Bridge.description>Более прочный, чем деревянные мосты поселенцев. Можно строить над глубокой водой, но требует в несколько раз больше работы.</TY_Bridge.description>
+
+
+  <!-- 溪谷木地板 -->
+
+  <TY_A_FloorXW_A_B_Building.label>Деревянный пол Речной Долины</TY_A_FloorXW_A_B_Building.label>
+  <TY_A_FloorXW_A_B_Building.description>Красивые полы, легко чистить.</TY_A_FloorXW_A_B_Building.description>
+
+
+  <!-- 仿木地板 -->
+
+  <TY_A_FloorXW_A_C_Building.label>Пол под дерево</TY_A_FloorXW_A_C_Building.label>
+  <TY_A_FloorXW_A_C_Building.description>Красивые полы, легко чистить.</TY_A_FloorXW_A_C_Building.description>
+
+
+  <!-- 黑色地板 -->
+
+  <TY_A_FloorXW_A_D_Building.label>Черный пол</TY_A_FloorXW_A_D_Building.label>
+  <TY_A_FloorXW_A_D_Building.description>Красивые полы, легко чистить.</TY_A_FloorXW_A_D_Building.description>
+
+
+  <!-- 纤维地板 -->
+
+  <TY_A_FloorXW_Building.label>Волокнистый пол</TY_A_FloorXW_Building.label>
+  <TY_A_FloorXW_Building.description>Красивые волокнистые полы, легко чистить.</TY_A_FloorXW_Building.description>
+
+
+  <!-- 网格地板 -->
+
+  <TY_A_FloorXWZ_Building.label>Сетчатый пол</TY_A_FloorXWZ_Building.label>
+  <TY_A_FloorXWZ_Building.description>Красивые сетчатые полы, легко чистить.</TY_A_FloorXWZ_Building.description>
+
+
+  <!-- 瓷砖地板 -->
+
+  <TY_A_Floor_Building.label>Плиточный пол</TY_A_Floor_Building.label>
+  <TY_A_Floor_Building.description>Красивые плиточные полы, легко чистить.</TY_A_Floor_Building.description>
+
+
+</LanguageData>

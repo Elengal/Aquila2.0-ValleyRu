@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_ProducehighlevelComponentIndustrial.description>Произвести промышленные компоненты ×15 (требуется 1 день). Хотя сырьё заменено со стали на титановые сплавы, при наличии автоматической печи для выплавки сплавов скорость остаётся достойной.</TY_A_ProducehighlevelComponentIndustrial.description>
+  <TY_A_ProducehighlevelComponentIndustrial.label>Изготовить промкомпоненты ×15 (1 день)</TY_A_ProducehighlevelComponentIndustrial.label>
+  <TY_A_Producehighlevelcomponents.description>Произвести продвинутые компоненты ×5 (требуется 2 дня). По сравнению с ручным способом автоматизированное оборудование снижает почти наполовину расход стеклопластика, но требует дополнительного титана.</TY_A_Producehighlevelcomponents.description>
+  <TY_A_Producehighlevelcomponents.label>Изготовить продвинутые компоненты ×5 (2 дня)</TY_A_Producehighlevelcomponents.label>
+  <TY_A_Semi_finished_SignalChip_chips_PowerfocusChip_chips.description>Собрать сигнальные чипы из полуфабрикатов сигнальных чипов.</TY_A_Semi_finished_SignalChip_chips_PowerfocusChip_chips.description>
+  <TY_A_Semi_finished_SignalChip_chips_PowerfocusChip_chips.label>Собрать сигнальные чипы (из полуфабрикатов)</TY_A_Semi_finished_SignalChip_chips_PowerfocusChip_chips.label>
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 分类 -->
+
+  <TY_MortarShells.label>Обычный минометный снаряд Федерации</TY_MortarShells.label>
+
+
+  <!-- BezierCurve,       // 三次贝塞尔曲线
+            Parabolic,         // 抛物线轨迹
+            Sinusoidal,        // 正弦波轨迹
+            Spiral,            // 螺旋轨迹
+            Linear,            // 线性轨迹
+            SmoothStep,        // 平滑步进轨迹
+            Lemniscate,        // 双纽线轨迹
+            Random             // 随机选择一种轨迹 -->
+
+  <TY_A_BezierMissile.label>Самонаводящаяся ракета Федерации</TY_A_BezierMissile.label>
+
+
+</LanguageData>

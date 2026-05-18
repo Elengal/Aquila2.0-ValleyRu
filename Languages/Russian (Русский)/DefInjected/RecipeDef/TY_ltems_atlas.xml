@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallTestBioc.label>Установить ТестБиок</InstallTestBioc.label>
+  <InstallTestBioc.description>Установить ТестБиок.</InstallTestBioc.description>
+  <InstallTestBioc.jobString>устанавливает ТестБиок.</InstallTestBioc.jobString>
+
+
+</LanguageData>

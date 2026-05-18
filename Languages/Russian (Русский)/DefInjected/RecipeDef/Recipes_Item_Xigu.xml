@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_XiGuClothA.label>Изготовить волокнистые пластмассы из дерева</Make_XiGuClothA.label>
+  <Make_XiGuClothA.description>Изготовить</Make_XiGuClothA.description>
+  <Make_XiGuClothA.jobString>изготавливает</Make_XiGuClothA.jobString>
+
+  <Make_XiGuClothB.label>Изготовить волокнистые пластмассы из ткани</Make_XiGuClothB.label>
+  <Make_XiGuClothB.description>Изготовить</Make_XiGuClothB.description>
+  <Make_XiGuClothB.jobString>изготавливает</Make_XiGuClothB.jobString>
+
+  <Make_XiGuClothC.label>Изготовить волокнистые пластмассы из питательных веществ</Make_XiGuClothC.label>
+  <Make_XiGuClothC.description>Изготовить</Make_XiGuClothC.description>
+  <Make_XiGuClothC.jobString>изготавливает</Make_XiGuClothC.jobString>
+
+  <Make_XGConcreteA.label>Изготовить гибридные строительные материалы из кусков</Make_XGConcreteA.label>
+  <Make_XGConcreteA.description>Изготовить</Make_XGConcreteA.description>
+  <Make_XGConcreteA.jobString>изготавливает</Make_XGConcreteA.jobString>
+
+  <Make_XGConcreteB.label>Изготовить гибридные строительные материалы из блоков</Make_XGConcreteB.label>
+  <Make_XGConcreteB.description>Изготовить</Make_XGConcreteB.description>
+  <Make_XGConcreteB.jobString>изготавливает</Make_XGConcreteB.jobString>
+
+  <Make_XGConcrete_BlocksSandstone.label>Изготовить блоки песчаника из гибридных строительных материалов</Make_XGConcrete_BlocksSandstone.label>
+  <Make_XGConcrete_BlocksSandstone.description>Изготовить</Make_XGConcrete_BlocksSandstone.description>
+  <Make_XGConcrete_BlocksSandstone.jobString>изготавливает</Make_XGConcrete_BlocksSandstone.jobString>
+
+  <Make_XGConcrete_BlocksGranite.label>Изготовить гранитные блоки из гибридных строительных материалов</Make_XGConcrete_BlocksGranite.label>
+  <Make_XGConcrete_BlocksGranite.description>Изготовить</Make_XGConcrete_BlocksGranite.description>
+  <Make_XGConcrete_BlocksGranite.jobString>изготавливает</Make_XGConcrete_BlocksGranite.jobString>
+
+  <Make_XGConcrete_BlocksLimestone.label>Изготовить известняковые блоки из гибридных строительных материалов</Make_XGConcrete_BlocksLimestone.label>
+  <Make_XGConcrete_BlocksLimestone.description>Изготовить</Make_XGConcrete_BlocksLimestone.description>
+  <Make_XGConcrete_BlocksLimestone.jobString>изготавливает</Make_XGConcrete_BlocksLimestone.jobString>
+
+  <Make_XGConcrete_BlocksSlate.label>Изготовить сланцевые блоки из гибридных строительных материалов</Make_XGConcrete_BlocksSlate.label>
+  <Make_XGConcrete_BlocksSlate.description>Изготовить</Make_XGConcrete_BlocksSlate.description>
+  <Make_XGConcrete_BlocksSlate.jobString>изготавливает</Make_XGConcrete_BlocksSlate.jobString>
+
+  <Make_XGConcrete_BlocksMarble.label>Изготовить мраморные блоки из гибридных строительных материалов</Make_XGConcrete_BlocksMarble.label>
+  <Make_XGConcrete_BlocksMarble.description>Изготовить</Make_XGConcrete_BlocksMarble.description>
+  <Make_XGConcrete_BlocksMarble.jobString>изготавливает</Make_XGConcrete_BlocksMarble.jobString>
+
+
+</LanguageData>

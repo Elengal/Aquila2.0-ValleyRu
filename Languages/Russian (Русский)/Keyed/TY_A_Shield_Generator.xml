@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!--ThingDef-->
+  <RV_Pod_Disposable_Shield_Generator.label>Одноразовый генератор щита</RV_Pod_Disposable_Shield_Generator.label>
+  <RV_Pod_Disposable_Shield_Generator.description>Одноразовый генератор щита для защиты от атак.</RV_Pod_Disposable_Shield_Generator.description>
+  <RV_Pod_Disposable_Shield_Generator.comps.Comp_RV_DestroyAfterDelay.countdownLabel>Выгорит через</RV_Pod_Disposable_Shield_Generator.comps.Comp_RV_DestroyAfterDelay.countdownLabel>
+  <!--RoyalTitlePermitDef-->
+  <RV_Permit_Apply_for_Shield_Generator.label>Запросить одноразовый щит</RV_Permit_Apply_for_Shield_Generator.label><!--写名字-->
+  <RV_Permit_Apply_for_Shield_Generator.description>Запросить одноразовый щит.</RV_Permit_Apply_for_Shield_Generator.description><!--写简介-->
+  <!--Languages\ChineseSimplified\Keyed-->
+  <RV_Message_Pod_Incoming>Капсула с грузом была развёрнута {0} в указанном вами месте.</RV_Message_Pod_Incoming>
+  <RV_Keyed_CommandCallAidFavorOption>потратит {0}{1}</RV_Keyed_CommandCallAidFavorOption>
+
+</LanguageData>

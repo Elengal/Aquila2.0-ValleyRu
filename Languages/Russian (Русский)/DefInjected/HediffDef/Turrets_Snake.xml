@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- "热熔核弹"25mm机炮 - Термоядерная 25мм автопушка -->
+  <HotMeltNuclear_bomb25mm_machine_gun_A.label>«Термоядерный снаряд» 25мм автопушка (главная турель)</HotMeltNuclear_bomb25mm_machine_gun_A.label>
+  <HotMeltNuclear_bomb25mm_machine_gun_A.description>Слегка модифицированная пехотная автоматическая пушка, установленная на меха «Гремучая змея».</HotMeltNuclear_bomb25mm_machine_gun_A.description>
+  <HotMeltNuclear_bomb25mm_machine_gun_A.stages.0.label>Система сдвоенных турелей</HotMeltNuclear_bomb25mm_machine_gun_A.stages.0.label>
+
+  <HotMeltNuclear_bomb25mm_machine_gun_B.label>«Термоядерный снаряд» 25мм автопушка (вспом. турель)</HotMeltNuclear_bomb25mm_machine_gun_B.label>
+  <HotMeltNuclear_bomb25mm_machine_gun_B.description>Слегка модифицированная пехотная автоматическая пушка, установленная на меха «Гремучая змея».</HotMeltNuclear_bomb25mm_machine_gun_B.description>
+  <HotMeltNuclear_bomb25mm_machine_gun_B.stages.0.label>Система сдвоенных турелей</HotMeltNuclear_bomb25mm_machine_gun_B.stages.0.label>
+
+  <!-- "雷霆怒吼"重型机炮 - Громовой рёв тяжёлая пушка -->
+  <HeavyCannon_System_A.label>«Громовой рёв» тяжёлая автопушка (главная турель)</HeavyCannon_System_A.label>
+  <HeavyCannon_System_A.description>Крупнокалиберная автоматическая пушка, использующая бронебойно-фугасные снаряды для непрерывного ведения мощного огня.</HeavyCannon_System_A.description>
+  <HeavyCannon_System_A.stages.0.label>Система тяжёлой автопушки</HeavyCannon_System_A.stages.0.label>
+
+  <HeavyCannon_System_B.label>«Громовой рёв» тяжёлая автопушка (вспом. турель)</HeavyCannon_System_B.label>
+  <HeavyCannon_System_B.description>Крупнокалиберная автоматическая пушка, использующая бронебойно-фугасные снаряды для непрерывного ведения мощного огня.</HeavyCannon_System_B.description>
+  <HeavyCannon_System_B.stages.0.label>Система тяжёлой автопушки</HeavyCannon_System_B.stages.0.label>
+
+  <!-- "死亡风暴"加特林机枪 - Смертельный шторм Гатлинг -->
+  <Gatling_System_A.label>«Смертельный шторм» пулемёт Гатлинга (главная турель)</Gatling_System_A.label>
+  <Gatling_System_A.description>Многоствольная роторная пулемётная система, способная за короткое время выпустить огромное количество боеприпасов, создавая плотную стену огня.</Gatling_System_A.description>
+  <Gatling_System_A.stages.0.label>Система пулемёта Гатлинга</Gatling_System_A.stages.0.label>
+
+  <Gatling_System_B.label>«Смертельный шторм» пулемёт Гатлинга (вспом. турель)</Gatling_System_B.label>
+  <Gatling_System_B.description>Многоствольная роторная пулемётная система, способная за короткое время выпустить огромное количество боеприпасов, создавая плотную стену огня.</Gatling_System_B.description>
+  <Gatling_System_B.stages.0.label>Система пулемёта Гатлинга</Gatling_System_B.stages.0.label>
+
+  <!-- "地狱火雨"榴弹发射器 - Адский огненный дождь гранатомёт -->
+  <Grenade_Launcher_A.label>«Адский ливень» гранатомёт (главная турель)</Grenade_Launcher_A.label>
+  <Grenade_Launcher_A.description>Автоматическая гранатомётная система, выпускающая осколочно-фугасные гранаты для подавления площадных целей. Гранаты летят по баллистической траектории.</Grenade_Launcher_A.description>
+  <Grenade_Launcher_A.stages.0.label>Гранатомётная система</Grenade_Launcher_A.stages.0.label>
+
+  <Grenade_Launcher_B.label>«Адский ливень» гранатомёт (вспом. турель)</Grenade_Launcher_B.label>
+  <Grenade_Launcher_B.description>Автоматическая гранатомётная система, выпускающая осколочно-фугасные гранаты для подавления площадных целей. Гранаты летят по баллистической траектории.</Grenade_Launcher_B.description>
+  <Grenade_Launcher_B.stages.0.label>Гранатомётная система</Grenade_Launcher_B.stages.0.label>
+
+</LanguageData>
+

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_MaBi_Shang.label>&lt;color=#0000CD&gt;&lt;b&gt;Помехи&lt;/b&gt;&lt;/color&gt;</TY_MaBi_Shang.label>
+  <TY_MaBi_Shang.description>Электромагнитные помехи от ионных импульсов. Эти помехи могут нарушать работу не только механоидов, но и организмов.</TY_MaBi_Shang.description>
+  <TY_MaBi_Shang.injuryProps.destroyedLabel>Проникло</TY_MaBi_Shang.injuryProps.destroyedLabel>
+  <TY_MaBi_Shang.injuryProps.destroyedOutLabel>Проникло</TY_MaBi_Shang.injuryProps.destroyedOutLabel>
+  <TY_MaBi_Shang.labelNoun>Ионный импульс</TY_MaBi_Shang.labelNoun>
+
+  <TY_Armor_melting.label>&lt;color=#c0162a&gt;&lt;b&gt;Плавление брони&lt;/b&gt;&lt;/color&gt;</TY_Armor_melting.label>
+  <TY_Armor_melting.description>Броня временно снижена для оборонительных характеристик.</TY_Armor_melting.description>
+  <TY_Armor_melting.stages.0.label>&lt;color=#c0162a&gt;&lt;b&gt;Временно снижено для обороны&lt;/b&gt;&lt;/color&gt;</TY_Armor_melting.stages.0.label>
+
+  <TY_hesh.label>&lt;color=#0000CD&gt;&lt;b&gt;Нано-эрозия&lt;/b&gt;&lt;/color&gt;</TY_hesh.label>
+  <TY_hesh.description>Нано-эрозионные боеголовки успешно нанесли большое количество урона юниту, предотвращая использование этим юнитом всех своих возможностей в течение короткого периода времени.</TY_hesh.description>
+  <TY_hesh.stages.0.label>&lt;color=#c0162a&gt;&lt;b&gt;Частично разъедено.&lt;/b&gt;&lt;/color&gt;</TY_hesh.stages.0.label>
+  <TY_hesh.stages.1.label>&lt;color=#c0162a&gt;&lt;b&gt;Частично разъедено.&lt;/b&gt;&lt;/color&gt;</TY_hesh.stages.1.label>
+  <TY_hesh.stages.2.label>&lt;color=#c0162a&gt;&lt;b&gt;Разъедено.&lt;/b&gt;&lt;/color&gt;</TY_hesh.stages.2.label>
+  <TY_hesh.injuryProps.destroyedLabel>Проникло и разъедено.</TY_hesh.injuryProps.destroyedLabel>
+  <TY_hesh.injuryProps.destroyedOutLabel>Проникло и разъедено.</TY_hesh.injuryProps.destroyedOutLabel>
+  <TY_hesh.labelNoun>Нано-эрозия</TY_hesh.labelNoun>
+
+  <TY_A_Scratch.label>Нано-эрозионная царапина</TY_A_Scratch.label>
+  <TY_A_Scratch.description>Нано-эрозионная царапина</TY_A_Scratch.description>
+  <TY_A_Scratch.injuryProps.destroyedLabel>Оторвано</TY_A_Scratch.injuryProps.destroyedLabel>
+  <TY_A_Scratch.injuryProps.destroyedOutLabel>Вырвано</TY_A_Scratch.injuryProps.destroyedOutLabel>
+  <TY_A_Scratch.labelNoun>Нано-эрозионная царапина</TY_A_Scratch.labelNoun>
+
+  <TY_A_ToxicBuildup.label>Нано-эрозия</TY_A_ToxicBuildup.label>
+  <TY_A_ToxicBuildup.description>Как только эрозия достигнет 100 процентов, этот юнит немедленно умрёт.</TY_A_ToxicBuildup.description>
+  <TY_A_ToxicBuildup.stages.0.label>Начальная</TY_A_ToxicBuildup.stages.0.label>
+  <TY_A_ToxicBuildup.stages.1.label>Начальная</TY_A_ToxicBuildup.stages.1.label>
+  <TY_A_ToxicBuildup.stages.2.label>Незначительная</TY_A_ToxicBuildup.stages.2.label>
+  <TY_A_ToxicBuildup.stages.3.label>Умеренная</TY_A_ToxicBuildup.stages.3.label>
+  <TY_A_ToxicBuildup.stages.4.label>Серьёзная</TY_A_ToxicBuildup.stages.4.label>
+  <TY_A_ToxicBuildup.stages.5.label>Экстремальная</TY_A_ToxicBuildup.stages.5.label>
+
+  <TY_A_Copper_head_belt_beating.label>Удар кнутом</TY_A_Copper_head_belt_beating.label>
+  <TY_A_Copper_head_belt_beating.description>Удар кнутом</TY_A_Copper_head_belt_beating.description>
+  <TY_A_Copper_head_belt_beating.injuryProps.destroyedLabel>Разрушено</TY_A_Copper_head_belt_beating.injuryProps.destroyedLabel>
+  <TY_A_Copper_head_belt_beating.labelNoun>Удар кнутом</TY_A_Copper_head_belt_beating.labelNoun>
+
+
+</LanguageData>

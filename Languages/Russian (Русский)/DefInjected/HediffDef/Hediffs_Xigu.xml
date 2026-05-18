@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 科技植入体 -->
+
+  <AtlasCore.label>Интерфейс сети ОГАС</AtlasCore.label>
+  <AtlasCore.description>Прототип сети ОГАС был создан как комплексная информационная платформа во время движения Бюрократических Избирательных Реформ. Использование квантовой передачи для передачи информации обеспечило открытость и безопасность. Федерация Речной Долины использовала эту технологию для достижения замечательных результатов, включая &lt;color=#A02A22&gt;&lt;b&gt;Общенациональные демократические процессы для важных резолюций и прозрачный общественный надзор за средствами производства&lt;/b&gt;&lt;/color&gt;. Поселенцы, прибывающие на новые планеты, со временем усилят сигналы местных сетевых базовых станций.\nИнтерфейс в основном содержит механическое устройство, которое автоматически прикрепляется под кожу на затылке, которое является неинвазивным протезом для вставки различных чипов (Правый клик для установки).</AtlasCore.description>
+  <AtlasCore.stages.0.label>Ур. 1</AtlasCore.stages.0.label>
+  <AtlasCore.stages.1.label>Ур. 2</AtlasCore.stages.1.label>
+  <AtlasCore.stages.2.label>Ур. 3</AtlasCore.stages.2.label>
+  <AtlasCore.stages.3.label>Ур. 4</AtlasCore.stages.3.label>
+  <AtlasCore.stages.4.label>Ур. 5</AtlasCore.stages.4.label>
+
+  <Nmjxgz_AtHA.label>Модификация наномашинами (Правый клик для использования)</Nmjxgz_AtHA.label>
+  <Nmjxgz_AtHA.description>Уникальные микро-генетические модификационные роботы Речной Долины. Позволяют иммигрирующим Людям получать те же льготы модификации тела, что и отдельные граждане Федерации.</Nmjxgz_AtHA.description>
+  <Nmjxgz_AtHA.labelNoun>Модификация наномашинами</Nmjxgz_AtHA.labelNoun>
+
+  <TY_A_Subcutaneous_armor.label>Подкожная броня</TY_A_Subcutaneous_armor.label>
+  <TY_A_Subcutaneous_armor.description>Продвинутый боевой имплантат тела, который уменьшает повреждение тканей от осколков и ударных волн.</TY_A_Subcutaneous_armor.description>
+  <TY_A_Subcutaneous_armor.labelNoun>Подкожная броня</TY_A_Subcutaneous_armor.labelNoun>
+
+  <TY_A_Strengthen_bones.label>Усиление скелета</TY_A_Strengthen_bones.label>
+  <TY_A_Strengthen_bones.description>Усиление скелета с использованием передовой нанотехнологии.</TY_A_Strengthen_bones.description>
+  <TY_A_Strengthen_bones.labelNoun>Усиление скелета</TY_A_Strengthen_bones.labelNoun>
+
+  <TY_A_Metal_steel_blood.label>Металлическая стальная кровь</TY_A_Metal_steel_blood.label>
+  <TY_A_Metal_steel_blood.description>Продвинутый имплантат тела, адаптируемый к различным средам, способный смягчать различные опасности для человеческого тела в экстремальных рабочих условиях.</TY_A_Metal_steel_blood.description>
+  <TY_A_Metal_steel_blood.labelNoun>Металлическая стальная кровь</TY_A_Metal_steel_blood.labelNoun>
+
+  <TY_A_Metal_neural_coil.label>Металлическая нейронная катушка</TY_A_Metal_neural_coil.label>
+  <TY_A_Metal_neural_coil.description>Продвинутый имплантат тела, адаптируемый к различным средам, способный смягчать различные опасности для человеческого тела в экстремальных рабочих условиях.</TY_A_Metal_neural_coil.description>
+  <TY_A_Metal_neural_coil.labelNoun>Металлическая нейронная катушка</TY_A_Metal_neural_coil.labelNoun>
+
+  <TY_A_Excellent_metal_muscle_coil.label>Отличная металлическая мышечная катушка</TY_A_Excellent_metal_muscle_coil.label>
+  <TY_A_Excellent_metal_muscle_coil.description>Продвинутый имплантат тела, адаптируемый к различным средам, способный смягчать различные опасности для человеческого тела в экстремальных рабочих условиях.</TY_A_Excellent_metal_muscle_coil.description>
+  <TY_A_Excellent_metal_muscle_coil.labelNoun>Отличная металлическая мышечная катушка</TY_A_Excellent_metal_muscle_coil.labelNoun>
+
+  <TY_A_Disease_repair_nano_implants.label>Наномодифицирующий имплантат для ремонта болезней</TY_A_Disease_repair_nano_implants.label>
+  <TY_A_Disease_repair_nano_implants.description>Продвинутый имплантат тела, адаптируемый к различным средам, способный смягчать различные опасности для человеческого тела в экстремальных рабочих условиях.</TY_A_Disease_repair_nano_implants.description>
+  <TY_A_Disease_repair_nano_implants.labelNoun>Наномодифицирующий имплантат для ремонта болезней</TY_A_Disease_repair_nano_implants.labelNoun>
+
+  <TY_A_Nano_blood_cells.label>Кровяная клетка наномашин</TY_A_Nano_blood_cells.label>
+  <TY_A_Nano_blood_cells.description>Продвинутый имплантат тела, адаптируемый к различным средам, способный смягчать различные опасности для человеческого тела в экстремальных рабочих условиях.</TY_A_Nano_blood_cells.description>
+  <TY_A_Nano_blood_cells.labelNoun>Кровяная клетка наномашин</TY_A_Nano_blood_cells.labelNoun>
+
+  <TY_A_Healing_hormone_gland.label>Железа лечебных гормонов</TY_A_Healing_hormone_gland.label>
+  <TY_A_Healing_hormone_gland.description>Продвинутый имплантат тела, адаптируемый к различным средам, способный смягчать различные опасности для человеческого тела в экстремальных рабочих условиях.</TY_A_Healing_hormone_gland.description>
+  <TY_A_Healing_hormone_gland.labelNoun>Железа лечебных гормонов</TY_A_Healing_hormone_gland.labelNoun>
+
+  <TY_A_Brain_stimulation_module.label>Модуль стимуляции мозга</TY_A_Brain_stimulation_module.label>
+  <TY_A_Brain_stimulation_module.description>Продвинутый имплантат тела, адаптируемый к различным средам, способный смягчать различные опасности для человеческого тела в экстремальных рабочих условиях.</TY_A_Brain_stimulation_module.description>
+  <TY_A_Brain_stimulation_module.labelNoun>Модуль стимуляции мозга</TY_A_Brain_stimulation_module.labelNoun>
+
+  <TY_A_Neuroenhanced_eyeball.label>Нейроулучшенный глаз</TY_A_Neuroenhanced_eyeball.label>
+  <TY_A_Neuroenhanced_eyeball.description>Нейроулучшенные глаза, даже намного более высокие характеристики, чем оригинальные высокопроизводительные глаза</TY_A_Neuroenhanced_eyeball.description>
+
+  <TY_A_Atomic_Energy_Heart.label>Атомное сердце</TY_A_Atomic_Energy_Heart.label>
+  <TY_A_Atomic_Energy_Heart.description>Производительность атомного сердца намного выше, чем у оригинального высокопроизводительного сердца. Позволяя короткие периоды перегрузки, это даёт установленному человеку высокую степень движения и манипуляции на короткий период времени. За цену удвоения скорости кровотечения на время действия.</TY_A_Atomic_Energy_Heart.description>
+
+  <TY_A_Overloaded_exercise_of_the_heart_A.label>Перегрузка сердца</TY_A_Overloaded_exercise_of_the_heart_A.label>
+  <TY_A_Overloaded_exercise_of_the_heart_A.description>Адреналин, вырабатываемый во время перегрузки сердца, значительно облегчает боль.</TY_A_Overloaded_exercise_of_the_heart_A.description>
+  <TY_A_Overloaded_exercise_of_the_heart_A.labelNoun>Перегрузка сердца</TY_A_Overloaded_exercise_of_the_heart_A.labelNoun>
+
+
+  <!-- EN: <color=#00FFFF><b>驱动之魂</b></color> -->
+  <!-- EN: 流淌在以太核心中的种族血脉之力被激活了,需要通过一段时间适应才能完全掌握这股力量. -->
+  <!-- EN: Lv1 -->
+  <!--<AtlasCore.stages.Lv1.label>TODO</AtlasCore.stages.Lv1.label>-->
+  <!-- EN: Lv2 -->
+  <!--<AtlasCore.stages.Lv2.label>TODO</AtlasCore.stages.Lv2.label>-->
+  <!-- EN: Lv3 -->
+  <!--<AtlasCore.stages.Lv3.label>TODO</AtlasCore.stages.Lv3.label>-->
+  <!-- EN: Lv4 -->
+  <!--<AtlasCore.stages.Lv4.label>TODO</AtlasCore.stages.Lv4.label>-->
+  <!-- EN: Lv5 -->
+  <!--<AtlasCore.stages.Lv5.label>TODO</AtlasCore.stages.Lv5.label>-->
+  <!-- EN: 纳米机器改造 -->
+  <!-- EN: 溪谷独特的微型基因改造机器人.为了让旧人类在成年之后,也依旧可以进行改造.来获得更强的反应力与灵巧的双手,于是研发了这项改造手术.不过,这种纳米机器人所带来的副作用让人意想不到:让人类拥有了更加强健的身体. -->
+
+</LanguageData>

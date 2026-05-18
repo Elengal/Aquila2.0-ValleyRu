@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: 白熊直升飞机 -->
+  <!--<XGBxfj_AtlasR.label>TODO</XGBxfj_AtlasR.label>-->
+  <!-- EN: 白熊直升飞机 -->
+  <!--<XGBxfj_AtlasR.description>TODO</XGBxfj_AtlasR.description>-->
+  <!-- EN: 白熊直升飞机 -->
+  <!--<XGBxfj_AtlasR.verbs.Verb_MeleeAttackDamage.label>TODO</XGBxfj_AtlasR.verbs.Verb_MeleeAttackDamage.label>-->
+
+  <!-- EN: 溪谷战车 -->
+  <!--<XGJXT_AtlasR.label>TODO</XGJXT_AtlasR.label>-->
+  <!-- EN: 溪谷老旧的装甲战车,能够抵挡大部分火药武器的攻击,千万别挑战它的履带.面对溪谷战车,不要想着用人海战术战胜它,你应该学会布置陷阱和使用炮塔. -->
+  <!--<XGJXT_AtlasR.description>TODO</XGJXT_AtlasR.description>-->
+  <!-- EN: 溪谷战车 -->
+  <!--<XGJXT_AtlasR.verbs.Verb_MeleeAttackDamage.label>TODO</XGJXT_AtlasR.verbs.Verb_MeleeAttackDamage.label>-->
+
+  <!-- EN: 重锤自行火炮 -->
+  <!--<XGzxhp_AtlasR.label>TODO</XGzxhp_AtlasR.label>-->
+  <!-- EN: 重锤自行火炮的装甲不如溪谷战车,但是机动性比溪谷战车高.重锤自行火炮主要作用是对敌人的建筑物进行远距离打击. -->
+  <!--<XGzxhp_AtlasR.description>TODO</XGzxhp_AtlasR.description>-->
+  <!-- EN: 重锤自行火炮 -->
+  <!--<XGzxhp_AtlasR.verbs.Verb_MeleeAttackDamage.label>TODO</XGzxhp_AtlasR.verbs.Verb_MeleeAttackDamage.label>-->
+
+</LanguageData>
+

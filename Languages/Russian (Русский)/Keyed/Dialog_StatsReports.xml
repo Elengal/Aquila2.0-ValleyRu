@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <StatsReport_MechOffset>Использование пропускной способности ({0})</StatsReport_MechOffset>
+	
+	  <TY_Keyed_ProductionCycle_Timeleft>Оставшееся время производственного цикла</TY_Keyed_ProductionCycle_Timeleft>
+     <TY_Keyed_ProductionCycle_FormerIngredients>Собранное сырьё</TY_Keyed_ProductionCycle_FormerIngredients>
+     <TY_Keyed_ProductionCycle_Producing>{0} производит</TY_Keyed_ProductionCycle_Producing>
+     <TY_Keyed_ProductionCycle_Completed>Производственный цикл завершён</TY_Keyed_ProductionCycle_Completed>
+     <TY_Keyed_ProductionCycle_Manufacturing>Производство</TY_Keyed_ProductionCycle_Manufacturing>
+    <TY_Keyed_CurrentProductionCycle>Текущий производственный цикл</TY_Keyed_CurrentProductionCycle>
+    <TY_Keyed_RemainingProductionCycles>Оставшиеся производственные циклы</TY_Keyed_RemainingProductionCycles>
+</LanguageData>

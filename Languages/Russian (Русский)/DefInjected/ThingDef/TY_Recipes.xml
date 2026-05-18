@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_LBHW.label>Ракета "Гроза"</TY_A_LBHW.label>
+  <TY_A_LBHW.description>Новое, относительно недорогое решение для противодействия крупномасштабным рейдам. Запускаемые плазменные импульсные ракеты наносят урон, одновременно создавая разрушительные помехи.</TY_A_LBHW.description>
+
+  <TY_A_LBHW_EMP_C.label>Ракета "Гроза" ЭМИ</TY_A_LBHW_EMP_C.label>
+  <TY_A_LBHW_EMP_C.description>Новое, относительно недорогое решение для противодействия крупномасштабным рейдам механоидов. Запускаемые плазменные импульсные ЭМИ ракеты могут поражать различные надоедливые высокоугловые щиты.</TY_A_LBHW_EMP_C.description>
+
+
+  <!-- 联邦通用型炮弹 通用模板 -->
+
+  <TY_A_Heavy_high_explosive_mortar_shells.label>Общий фугасный миномётный снаряд Федерации</TY_A_Heavy_high_explosive_mortar_shells.label>
+  <TY_A_Heavy_high_explosive_mortar_shells.description>По сравнению с миномётами "маленькая водопроводная труба", используемыми в более отдалённых районах, это снаряд, который немного ближе к стандартам современной войны.</TY_A_Heavy_high_explosive_mortar_shells.description>
+
+  <TY_A_Heavy_high_explosive_mortar_shells_S.label>Общий фугасный миномётный снаряд Федерации</TY_A_Heavy_high_explosive_mortar_shells_S.label>
+
+  <TY_A_Heavy_incendiary_mortar_shells.label>Общий зажигательный миномётный снаряд Федерации</TY_A_Heavy_incendiary_mortar_shells.label>
+  <TY_A_Heavy_incendiary_mortar_shells.description>Относительно высокопроизводительный зажигательный миномётный снаряд может эффективно блокировать пути продвижения врага.</TY_A_Heavy_incendiary_mortar_shells.description>
+
+  <TY_A_Heavy_incendiary_mortar_shells_S.label>Общий зажигательный миномётный снаряд Федерации</TY_A_Heavy_incendiary_mortar_shells_S.label>
+
+  <TY_A_Heavy_EMP_mortar_shell_warhead.label>Общий ЭМИ миномётный снаряд Федерации</TY_A_Heavy_EMP_mortar_shell_warhead.label>
+  <TY_A_Heavy_EMP_mortar_shell_warhead.description>Он более мощный, чем маленькие ЭМИ снаряды, выпущенные из случайного металлолома, и вызывает более длительные эффекты контроля на механоидах.</TY_A_Heavy_EMP_mortar_shell_warhead.description>
+
+  <TY_A_Heavy_EMP_mortar_shell_warhead_S.label>Общий ЭМИ миномётный снаряд Федерации</TY_A_Heavy_EMP_mortar_shell_warhead_S.label>
+
+  <TY_A_Heavy_thunderstorm_mortar_shells.label>Общий миномётный снаряд "Гроза" Федерации</TY_A_Heavy_thunderstorm_mortar_shells.label>
+  <TY_A_Heavy_thunderstorm_mortar_shells.description>Относительно продвинутый миномётный снаряд, который может эффективно ослаблять вражескую броню и вызывать помехи, значительно ухудшающие сознание, будь то организмов или механоидов, хотя он имеет плохую эффективность убийства.</TY_A_Heavy_thunderstorm_mortar_shells.description>
+
+  <TY_A_Heavy_thunderstorm_mortar_shells_S.label>Общий миномётный снаряд "Гроза" Федерации</TY_A_Heavy_thunderstorm_mortar_shells_S.label>
+
+
+  <!-- BezierCurve,       // 三次贝塞尔曲线
+            Parabolic,         // 抛物线轨迹
+            Sinusoidal,        // 正弦波轨迹
+            Spiral,            // 螺旋轨迹
+            Linear,            // 线性轨迹
+            SmoothStep,        // 平滑步进轨迹
+            Lemniscate,        // 双纽线轨迹
+            Random             // 随机选择一种轨迹 -->
+
+  <TY_BezierMissile.label>Ракета наведения 9K1114 (Линейная траектория)</TY_BezierMissile.label>
+  <TY_BezierMissile.description>Продвинутая ракета наведения, использующая кривые Безье, с плавной траекторией полёта и способностью отслеживания цели.</TY_BezierMissile.description>
+
+  <TY_A_Heavy_thunderstorm_BezierMissile.label>Ракета наведения 9K1114 (Линейная траектория)</TY_A_Heavy_thunderstorm_BezierMissile.label>
+  <TY_A_Heavy_thunderstorm_BezierMissile.description>Продвинутая ракета наведения, использующая кривые Безье, с плавной траекторией полёта и способностью отслеживания цели.</TY_A_Heavy_thunderstorm_BezierMissile.description>
+
+  <TY_BezierMissile_Q.label>Ракета наведения 9K1114 (Параболическая траектория)</TY_BezierMissile_Q.label>
+  <TY_BezierMissile_Q.description>Продвинутая ракета наведения, использующая кривые Безье, с плавной траекторией полёта и способностью отслеживания цели.</TY_BezierMissile_Q.description>
+
+  <TY_A_Heavy_thunderstorm_BezierMissile_Q.label>Ракета наведения 9K1114 (Параболическая траектория)</TY_A_Heavy_thunderstorm_BezierMissile_Q.label>
+  <TY_A_Heavy_thunderstorm_BezierMissile_Q.description>Продвинутая ракета наведения, использующая кривые Безье, с плавной траекторией полёта и способностью отслеживания цели.</TY_A_Heavy_thunderstorm_BezierMissile_Q.description>
+
+  <TY_BezierMissile_W.label>Ракета наведения 9K1114 (Синусоидальная траектория)</TY_BezierMissile_W.label>
+  <TY_BezierMissile_W.description>Продвинутая ракета наведения, использующая кривые Безье, с плавной траекторией полёта и способностью отслеживания цели.</TY_BezierMissile_W.description>
+
+  <TY_A_Heavy_thunderstorm_BezierMissile_W.label>Ракета наведения 9K1114 (Синусоидальная траектория)</TY_A_Heavy_thunderstorm_BezierMissile_W.label>
+  <TY_A_Heavy_thunderstorm_BezierMissile_W.description>Продвинутая ракета наведения, использующая кривые Безье, с плавной траекторией полёта и способностью отслеживания цели.</TY_A_Heavy_thunderstorm_BezierMissile_W.description>
+
+  <TY_BezierMissile_E.label>Ракета наведения 9K1114 (Спиральная траектория)</TY_BezierMissile_E.label>
+  <TY_BezierMissile_E.description>Продвинутая ракета наведения, использующая кривые Безье, с плавной траекторией полёта и способностью отслеживания цели.</TY_BezierMissile_E.description>
+
+  <TY_A_Heavy_thunderstorm_BezierMissile_E.label>Ракета наведения 9K1114 (Спиральная траектория)</TY_A_Heavy_thunderstorm_BezierMissile_E.label>
+  <TY_A_Heavy_thunderstorm_BezierMissile_E.description>Продвинутая ракета наведения, использующая кривые Безье, с плавной траекторией полёта и способностью отслеживания цели.</TY_A_Heavy_thunderstorm_BezierMissile_E.description>
+
+  <TY_BezierMissile_G.label>Ракета наведения 9K1114 (Случайная траектория)</TY_BezierMissile_G.label>
+  <TY_BezierMissile_G.description>Продвинутая ракета наведения, использующая кривые Безье, с плавной траекторией полёта и способностью отслеживания цели.</TY_BezierMissile_G.description>
+
+  <TY_A_Heavy_thunderstorm_BezierMissile_G.label>Ракета наведения 9K1114 (Случайная траектория)</TY_A_Heavy_thunderstorm_BezierMissile_G.label>
+  <TY_A_Heavy_thunderstorm_BezierMissile_G.description>Продвинутая ракета наведения, использующая кривые Безье, с плавной траекторией полёта и способностью отслеживания цели.</TY_A_Heavy_thunderstorm_BezierMissile_G.description>
+
+
+</LanguageData>
+

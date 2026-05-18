@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DriveS_InFlight.description>В полёте.</DriveS_InFlight.description>
+  <DriveS_InFlight.label>В полёте</DriveS_InFlight.label>
+  <DriveS_InFlight.description>В полёте.</DriveS_InFlight.description>
+  <DriveS_InFlight.label>В полёте</DriveS_InFlight.label>
+  <MechSpeedDiabolus.description>Специализированный модуль ускорения для тяжёлого арт‑меха «Выгар»-3.</MechSpeedDiabolus.description>
+  <MechSpeedDiabolus.label>Модуль ускорения «Выгар»-3</MechSpeedDiabolus.label>
+  <MechSpeedUpgradeModule_A.description>Боевые характеристики механического тела повышены.</MechSpeedUpgradeModule_A.description>
+  <MechSpeedUpgradeModule_A.label>Мех‑мод: базовый боевой модуль</MechSpeedUpgradeModule_A.label>
+  <MechXwSnake.description>Скорость меха повышена.</MechXwSnake.description>
+  <MechXwSnake.label>«Гремучник» — автогранатная пушка</MechXwSnake.label>
+  <MechXwSnake_A.description>Скорость меха повышена.</MechXwSnake_A.description>
+  <MechXwSnake_A.label>«Гремучник» — ракетное вооружение</MechXwSnake_A.label>
+  <MySpecialWeaponHediff.description>При наличии основной оружейной опоры открывает два дополнительных слота (можно взять ещё две единицы оружия).</MySpecialWeaponHediff.description>
+  <MySpecialWeaponHediff.label>Скелет‑мех — дополнительная стойка под оружие</MySpecialWeaponHediff.label>
+  <TestState_D.description>«Доберман»-4: дополнительная броня.</TestState_D.description>
+  <TestState_D.label>«Доберман»-4: дополнительная броня</TestState_D.label>
+  <TurretImplant_LaserCannon.description>Продвинутая имплант‑система лазерной пушки для дополнительной огневой поддержки носителя.</TurretImplant_LaserCannon.description>
+  <TurretImplant_LaserCannon.label>Имплант: трёхствольная пушка</TurretImplant_LaserCannon.label>
+  <XG_BingTuanJ1_module.description>Тяжёлая щитовая броня на плечах; повышает защиту, но замедляет перезарядку и ход.\nРез/тупая защита +25%  +3% к времени перезарядки дальн. атак  −10% к общ. скорости работы</XG_BingTuanJ1_module.description>
+  <XG_BingTuanJ1_module.label>Скелет‑мех: тяжёлые круглые наплечники‑щиты</XG_BingTuanJ1_module.label>
+  <XG_BingTuanJ2_module.description>Лёгкие круглые наплечники на плечах.\n+10% к защите</XG_BingTuanJ2_module.description>
+  <XG_BingTuanJ2_module.label>Скелет‑мех: лёгкие круглые наплечники</XG_BingTuanJ2_module.label>
+  <XG_BingTuanTu1_module.description>Тяжёлое высокомощное шасси: повышает скорость и защиту.\n+2,00 к скор. передвижения/с; рез/тупая защита +10%  −10% к общ. скорости работы</XG_BingTuanTu1_module.description>
+  <XG_BingTuanTu1_module.label>Скелет‑мех: тяжёлое модиф. шасси</XG_BingTuanTu1_module.label>
+  <XG_BingTuanX1_module.description>Дополнительная усиленная броня для чистой защиты.\nРез/тупая защита +35%  −12% к общ. скорости работы</XG_BingTuanX1_module.description>
+  <XG_BingTuanX1_module.label>Скелет‑мех: литая броня</XG_BingTuanX1_module.label>
+  <XG_Homework_upgrade_module.description>Широкоугольный прицел меха с быстрой дистанционной калибровкой.\n+12% к общ. скорости работы  −2 к меткости</XG_Homework_upgrade_module.description>
+  <XG_Homework_upgrade_module.label>Скелет‑мех: рабочий прицел</XG_Homework_upgrade_module.label>
+  <XG_JQG_BeiBao.description>«Доберман»-4: дополнительный рюкзак (работа не завершена).</XG_JQG_BeiBao.description>
+  <XG_JQG_BeiBao.label>«Доберман»-4: доп. рюкзак (незавершён)</XG_JQG_BeiBao.label>
+  <XG_JQG_WuRenJin.description>«Доберман»-4: модуль БПЛА (дрон ещё не реализован).</XG_JQG_WuRenJin.description>
+  <XG_JQG_WuRenJin.label>«Доберман»-4: модуль БПЛА</XG_JQG_WuRenJin.label>
+  <XG_JianJiaJ_module.description>Гидросистема на плече для повышения эффективности труда.\n+13% к общ. скорости работы  −5% к времени перезарядки дальн. атак</XG_JianJiaJ_module.description>
+  <XG_JianJiaJ_module.label>Скелет‑мех: гидро‑плечо</XG_JianJiaJ_module.label>
+  <XG_JianJiaTu_module.description>Более подвижное, но менее прочное шасси; часто ставится на трудовые модификации.\nРез/тупая защита −10%  +12% к общ. скорости работы</XG_JianJiaTu_module.description>
+  <XG_JianJiaTu_module.label>Скелет‑мех: подвижное шасси</XG_JianJiaTu_module.label>
+  <XG_JianJiaX_module.description>Нагрудный вычислительный модуль; также терминал управления мехом.\n+13% к общ. скорости работы</XG_JianJiaX_module.description>
+  <XG_JianJiaX_module.label>Скелет‑мех: нагрудный терминал</XG_JianJiaX_module.label>
+  <XG_RapidFire_upgrade_module.description>Широкоугольный прицел с быстрой дальномерной калибровкой для ускоренного прицеливания.\nВремя прицеливания −25%</XG_RapidFire_upgrade_module.description>
+  <XG_RapidFire_upgrade_module.label>Скелет‑мех: скорострельный прицел</XG_RapidFire_upgrade_module.label>
+  <XG_armored_sight_module.description>Прицел меха с предобработкой на вычислителе и усиленной бронекапсулой защиты оптики.\nМеткость +2  Время прицеливания −15%  Рез/тупая защита +10%</XG_armored_sight_module.description>
+  <XG_armored_sight_module.label>Скелет‑мех: бронированный прицел</XG_armored_sight_module.label>
+  <XG_armored_upgrade_module.description>Высокодетальный прицел меха с НВ/ТПВ.\nМеткость +4  Меткость (в темноте) +25%  Время прицеливания 95%</XG_armored_upgrade_module.description>
+  <XG_armored_upgrade_module.label>Скелет‑мех: снайперский прицел</XG_armored_upgrade_module.label>
+  <TestState.label>Тестовое состояние 1</TestState.label>
+  <TY_A_C_Bully_chip.label>Нано‑чип «Время неуязвимости», слот C</TY_A_C_Bully_chip.label>
+  <TY_A_C_Bully_chip.description>Производить нано‑машины «Долины» просто, но управлять ими трудно.\nНано‑чип — это заранее запрограммированные инструкции, позволяющие конструкту управлять нано‑машинами внутри собственного тела и получать разные «суперспособности».\nАктивация всех внутренних нано‑структур заставляет их непрерывно принимать урон вместо хозяина, ремонтировать тело и ускорять его функции, давая на короткое время сверхчеловеческую выносливость и «время неуязвимости».</TY_A_C_Bully_chip.description>
+  <TY_BulletShield_A.label>Нано‑чип «Крупный щит», слот D</TY_BulletShield_A.label>
+  <TY_BulletShield_A.description>Производить нано‑машины «Долины» просто, но управлять ими трудно.\nНано‑чип — это заранее запрограммированные инструкции, позволяющие конструкту управлять нано‑машинами внутри собственного тела и получать разные «суперспособности».\nВыпуск нано‑пыли в воздух формирует крупный щит против дальних атак.\nОднако нано‑пыль также блокирует и исходящие дальние атаки.\nСоздание массивного щита перегревает чип — требуется 14 часов на охлаждение.</TY_BulletShield_A.description>
+
+</LanguageData>

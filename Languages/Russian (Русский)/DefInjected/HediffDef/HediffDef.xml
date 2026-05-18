@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: combat command -->
+  <!--<TY_CombatCommand.label>TODO</TY_CombatCommand.label>-->
+  <!-- EN: By encouraging and commanding nearby allies, this person can enhance their focus in combat and thus their battle performance. -->
+  <!--<TY_CombatCommand.description>TODO</TY_CombatCommand.description>-->
+
+  <!-- EN: combat command -->
+  <!--<TY_CombatCommandBuff.label>TODO</TY_CombatCommandBuff.label>-->
+  <!-- EN: Combat abilities are boosted thanks to being near someone who is using the combat command ability. -->
+  <!--<TY_CombatCommandBuff.description>TODO</TY_CombatCommandBuff.description>-->
+
+</LanguageData>

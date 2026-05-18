@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_Abasia.label>Крайне истощён</TY_A_Abasia.label>
+  <TY_A_Abasia.description>Эта пешка, похоже, пережила серию неудачных событий, в сочетании с невероятной вспышкой силы, что в результате оставило эту пешку физически истощённой и неспособной двигаться в течение следующих нескольких дней.</TY_A_Abasia.description>
+
+  <TY_Old_body_parts.label>Старые компоненты тела</TY_Old_body_parts.label>
+  <TY_Old_body_parts.description>Если старые части тела не обрабатываются хирургией в течение длительного периода, это может привести к неисправностям тела, вызванным старением.</TY_Old_body_parts.description>
+  <TY_Old_body_parts.labelNoun>Старые компоненты тела</TY_Old_body_parts.labelNoun>
+
+  <TY_Allergic_reactions_caused_by_aging.label>Неисправность</TY_Allergic_reactions_caused_by_aging.label>
+  <TY_Allergic_reactions_caused_by_aging.description>Неисправности тела из-за старения</TY_Allergic_reactions_caused_by_aging.description>
+  <TY_Allergic_reactions_caused_by_aging.stages.0.label>Незначительная</TY_Allergic_reactions_caused_by_aging.stages.0.label>
+  <TY_Allergic_reactions_caused_by_aging.stages.1.label>Значительная</TY_Allergic_reactions_caused_by_aging.stages.1.label>
+  <TY_Allergic_reactions_caused_by_aging.stages.2.label>Экстремальная</TY_Allergic_reactions_caused_by_aging.stages.2.label>
+  <TY_Allergic_reactions_caused_by_aging.stages.3.label>Экстремальная</TY_Allergic_reactions_caused_by_aging.stages.3.label>
+  <TY_Allergic_reactions_caused_by_aging.labelNoun>Неисправность</TY_Allergic_reactions_caused_by_aging.labelNoun>
+
+
+</LanguageData>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_brick_brick_A.label>Механический червь для добычи гибридных строительных материалов</TY_brick_brick_A.label>
+  <TY_brick_brick_A.description>Нижняя половина механического червя непрерывно собирает камни под землёй, обрабатывает и переваривает их в гибридные строительные материалы через своё механическое тело, затем выбрасывает материал через выхлопное отверстие в хвосте, который выступает над землёй. Может производить 550 единиц гибридных строительных материалов в день.</TY_brick_brick_A.description>
+  <Blueprint_TY_brick_brick_A.label>Механический червь для добычи гибридных строительных материалов (чертёж)</Blueprint_TY_brick_brick_A.label>
+  <Frame_TY_brick_brick_A.label>Механический червь для добычи гибридных строительных материалов (строительство)</Frame_TY_brick_brick_A.label>
+  <Frame_TY_brick_brick_A.description>Нижняя половина механического червя непрерывно собирает камни под землёй, обрабатывает и переваривает их в гибридные строительные материалы через своё механическое тело, затем выбрасывает материал через выхлопное отверстие в хвосте, который выступает над землёй. Может производить 550 единиц гибридных строительных материалов в день.</Frame_TY_brick_brick_A.description>
+
+  <TY_PlantGrower.label>Автоматический плантатор</TY_PlantGrower.label>
+  <TY_PlantGrower.description>Устройство, способное автоматически сажать и собирать урожай.</TY_PlantGrower.description>
+  <Blueprint_TY_PlantGrower.label>Автоматический плантатор (чертёж)</Blueprint_TY_PlantGrower.label>
+  <Frame_TY_PlantGrower.label>Автоматический плантатор (строительство)</Frame_TY_PlantGrower.label>
+  <Frame_TY_PlantGrower.description>Устройство, способное автоматически сажать и собирать урожай.</Frame_TY_PlantGrower.description>
+
+
+  <!-- // Never：永不触发的计时器类型，
+        // Normal：普通的计时器类型，
+        // Rare：稀有?的计时器类型，
+        // Long：长时间的计时器类型， -->
+
+  <TY_power_station_A.label>Крупномасштабный гибридный генератор на токсификаторе-химическом топливе</TY_power_station_A.label>
+  <TY_power_station_A.description>Генератор нового поколения отличается от традиционных токсификаторных генераторов тем, что требует химическое топливо и генерирует загрязнение в токсичных отходах. (5 токсичных отходов за 2 дня / 10000 Вт выходной мощности)</TY_power_station_A.description>
+  <Blueprint_TY_power_station_A.label>Крупномасштабный гибридный генератор на токсификаторе-химическом топливе (чертёж)</Blueprint_TY_power_station_A.label>
+  <Frame_TY_power_station_A.label>Крупномасштабный гибридный генератор на токсификаторе-химическом топливе (строительство)</Frame_TY_power_station_A.label>
+  <Frame_TY_power_station_A.description>Генератор нового поколения отличается от традиционных токсификаторных генераторов тем, что требует химическое топливо и генерирует загрязнение в токсичных отходах. (5 токсичных отходов за 2 дня / 10000 Вт выходной мощности)</Frame_TY_power_station_A.description>
+
+  <TY_power_station_B.label>Среднемасштабный гибридный генератор на токсификаторе-химическом топливе</TY_power_station_B.label>
+  <TY_power_station_B.description>Генератор нового поколения отличается от традиционных токсификаторных генераторов тем, что требует химическое топливо и генерирует загрязнение в токсичных отходах. (3 токсичных отхода за 1 день / 6000 Вт выходной мощности)</TY_power_station_B.description>
+  <Blueprint_TY_power_station_B.label>Среднемасштабный гибридный генератор на токсификаторе-химическом топливе (чертёж)</Blueprint_TY_power_station_B.label>
+  <Frame_TY_power_station_B.label>Среднемасштабный гибридный генератор на токсификаторе-химическом топливе (строительство)</Frame_TY_power_station_B.label>
+  <Frame_TY_power_station_B.description>Генератор нового поколения отличается от традиционных токсификаторных генераторов тем, что требует химическое топливо и генерирует загрязнение в токсичных отходах. (3 токсичных отхода за 1 день / 6000 Вт выходной мощности)</Frame_TY_power_station_B.description>
+
+
+  <!-- TY_Automatic_metal_catalyst -->
+
+  <TY_Building_Alfau_Food_Synthesizer.label>Установка обогащения наноминералами</TY_Building_Alfau_Food_Synthesizer.label>
+  <TY_Building_Alfau_Food_Synthesizer.description>Установка обогащения наноминералами — новое передовое предприятие по сбору ресурсов, которое использует наномашины в качестве шахтёров и гибридные материалы в качестве усиления. Хотя её эффективность относительно низка, она эффективно снижает давление на передовой линии.</TY_Building_Alfau_Food_Synthesizer.description>
+  <Blueprint_TY_Building_Alfau_Food_Synthesizer.label>Установка обогащения наноминералами (чертёж)</Blueprint_TY_Building_Alfau_Food_Synthesizer.label>
+  <Blueprint_Install_TY_Building_Alfau_Food_Synthesizer.label>Установка обогащения наноминералами (чертёж)</Blueprint_Install_TY_Building_Alfau_Food_Synthesizer.label>
+  <Frame_TY_Building_Alfau_Food_Synthesizer.label>Установка обогащения наноминералами (строительство)</Frame_TY_Building_Alfau_Food_Synthesizer.label>
+  <Frame_TY_Building_Alfau_Food_Synthesizer.description>Установка обогащения наноминералами — новое передовое предприятие по сбору ресурсов, которое использует наномашины в качестве шахтёров и гибридные материалы в качестве усиления. Хотя её эффективность относительно низка, она эффективно снижает давление на передовой линии.</Frame_TY_Building_Alfau_Food_Synthesizer.description>
+
+  <TY_Automatic_fuel_refining_equipment.label>Автоматизированная установка переработки химического топлива</TY_Automatic_fuel_refining_equipment.label>
+  <TY_Automatic_fuel_refining_equipment.description>С небольшим количеством дополнительных нанорастворителей в качестве катализатора мы можем получить более эффективную переработку химического топлива.</TY_Automatic_fuel_refining_equipment.description>
+  <Blueprint_TY_Automatic_fuel_refining_equipment.label>Автоматизированная установка переработки химического топлива (чертёж)</Blueprint_TY_Automatic_fuel_refining_equipment.label>
+  <Blueprint_Install_TY_Automatic_fuel_refining_equipment.label>Автоматизированная установка переработки химического топлива (чертёж)</Blueprint_Install_TY_Automatic_fuel_refining_equipment.label>
+  <Frame_TY_Automatic_fuel_refining_equipment.label>Автоматизированная установка переработки химического топлива (строительство)</Frame_TY_Automatic_fuel_refining_equipment.label>
+  <Frame_TY_Automatic_fuel_refining_equipment.description>С небольшим количеством дополнительных нанорастворителей в качестве катализатора мы можем получить более эффективную переработку химического топлива.</Frame_TY_Automatic_fuel_refining_equipment.description>
+
+  <TY_Automatic_alloy_smelting_equipment.label>Автоматизированная установка плавки сплавов</TY_Automatic_alloy_smelting_equipment.label>
+  <TY_Automatic_alloy_smelting_equipment.description>Использование химического топлива и нанорастворителей в качестве катализаторов позволяет более эффективно производить различные сплавы. Позволяет производить различные металлы, которые ранее было невозможно изготовить ручными методами.</TY_Automatic_alloy_smelting_equipment.description>
+  <Blueprint_TY_Automatic_alloy_smelting_equipment.label>Автоматизированная установка плавки сплавов (чертёж)</Blueprint_TY_Automatic_alloy_smelting_equipment.label>
+  <Blueprint_Install_TY_Automatic_alloy_smelting_equipment.label>Автоматизированная установка плавки сплавов (чертёж)</Blueprint_Install_TY_Automatic_alloy_smelting_equipment.label>
+  <Frame_TY_Automatic_alloy_smelting_equipment.label>Автоматизированная установка плавки сплавов (строительство)</Frame_TY_Automatic_alloy_smelting_equipment.label>
+  <Frame_TY_Automatic_alloy_smelting_equipment.description>Использование химического топлива и нанорастворителей в качестве катализаторов позволяет более эффективно производить различные сплавы. Позволяет производить различные металлы, которые ранее было невозможно изготовить ручными методами.</Frame_TY_Automatic_alloy_smelting_equipment.description>
+
+  <TY_Automatic_ammunition_production_equipment.label>Автоматизированная установка производства боеприпасов</TY_Automatic_ammunition_production_equipment.label>
+  <TY_Automatic_ammunition_production_equipment.description>Установка производства боеприпасов, разработанная для передовых логистических подразделений. Она может удобно использовать местные материалы из окружения для производства боеприпасов на месте, предлагая значительно лучшую экономическую эффективность, чем прямое использование верстаков.</TY_Automatic_ammunition_production_equipment.description>
+  <Blueprint_TY_Automatic_ammunition_production_equipment.label>Автоматизированная установка производства боеприпасов (чертёж)</Blueprint_TY_Automatic_ammunition_production_equipment.label>
+  <Blueprint_Install_TY_Automatic_ammunition_production_equipment.label>Автоматизированная установка производства боеприпасов (чертёж)</Blueprint_Install_TY_Automatic_ammunition_production_equipment.label>
+  <Frame_TY_Automatic_ammunition_production_equipment.label>Автоматизированная установка производства боеприпасов (строительство)</Frame_TY_Automatic_ammunition_production_equipment.label>
+  <Frame_TY_Automatic_ammunition_production_equipment.description>Установка производства боеприпасов, разработанная для передовых логистических подразделений. Она может удобно использовать местные материалы из окружения для производства боеприпасов на месте, предлагая значительно лучшую экономическую эффективность, чем прямое использование верстаков.</Frame_TY_Automatic_ammunition_production_equipment.description>
+
+  <TY_Automated_nano_solvent_production_facility.label>Автоматизированный центр производства наномашин</TY_Automated_nano_solvent_production_facility.label>
+  <TY_Automated_nano_solvent_production_facility.description>Автоматизированный производственный центр для более эффективного массового производства наномашин, исследованный и разработанный Новой Федерацией Речной Долины.</TY_Automated_nano_solvent_production_facility.description>
+  <Blueprint_TY_Automated_nano_solvent_production_facility.label>Автоматизированный центр производства наномашин (чертёж)</Blueprint_TY_Automated_nano_solvent_production_facility.label>
+  <Blueprint_Install_TY_Automated_nano_solvent_production_facility.label>Автоматизированный центр производства наномашин (чертёж)</Blueprint_Install_TY_Automated_nano_solvent_production_facility.label>
+  <Frame_TY_Automated_nano_solvent_production_facility.label>Автоматизированный центр производства наномашин (строительство)</Frame_TY_Automated_nano_solvent_production_facility.label>
+  <Frame_TY_Automated_nano_solvent_production_facility.description>Автоматизированный производственный центр для более эффективного массового производства наномашин, исследованный и разработанный Новой Федерацией Речной Долины.</Frame_TY_Automated_nano_solvent_production_facility.description>
+
+  <TY_Organic_production_factory.label>Установка производства органических соединений</TY_Organic_production_factory.label>
+  <TY_Organic_production_factory.description>Позволяет производить стандартные органические соединения Федерации Речной Долины, которые могут использоваться в качестве сырья для заводов и продаваться оптовикам Федерации Речной Долины. Также может быть переработано в синтетическую пищу Федерации через сложные процессы синтеза.</TY_Organic_production_factory.description>
+  <Blueprint_TY_Organic_production_factory.label>Установка производства органических соединений (чертёж)</Blueprint_TY_Organic_production_factory.label>
+  <Blueprint_Install_TY_Organic_production_factory.label>Установка производства органических соединений (чертёж)</Blueprint_Install_TY_Organic_production_factory.label>
+  <Frame_TY_Organic_production_factory.label>Установка производства органических соединений (строительство)</Frame_TY_Organic_production_factory.label>
+  <Frame_TY_Organic_production_factory.description>Позволяет производить стандартные органические соединения Федерации Речной Долины, которые могут использоваться в качестве сырья для заводов и продаваться оптовикам Федерации Речной Долины. Также может быть переработано в синтетическую пищу Федерации через сложные процессы синтеза.</Frame_TY_Organic_production_factory.description>
+
+
+</LanguageData>
+

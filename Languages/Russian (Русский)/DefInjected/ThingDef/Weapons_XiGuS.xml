@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 2021.10  1.3版本系列开始的武器 尖兵系列 -->
+
+  <DSanDanS_Atlas.label>№18</DSanDanS_Atlas.label>
+
+  <TY_A_Uplift_Weapons.label>Пистолет VK "Расщепление"</TY_A_Uplift_Weapons.label>
+  <TY_A_Uplift_Weapons.description>Пистолет, специально разработанный для использования в экспериментальных и эксплуатационных испытаниях расщепляющих патронов. Патрон 9.5мм VK "Расщепление" может вызывать небольшие взрывы после проникновения в человеческие тела или броню из-за специального материала боеголовки и дополнительного активирующего растворителя, что делает его лёгкой версией 25мм микрореактивной боеголовки.</TY_A_Uplift_Weapons.description>
+
+  <BuQiangS_Atlas.label>Патрон 9.5мм VK "Расщепление"</BuQiangS_Atlas.label>
+
+  <TY_A_Dawn_Weapons.label>Штурмовая винтовка VK "Расщепление"</TY_A_Dawn_Weapons.label>
+  <TY_A_Dawn_Weapons.description>Экспериментальное автоматическое оружие с огневой мощью, соперничающей с автоматическими пушечными турелями. Патрон 9.5мм VK "Расщепление" может вызывать небольшие взрывы после проникновения в человеческие тела или броню из-за специального материала боеголовки и дополнительного активирующего растворителя, что делает его лёгкой версией 25мм микрореактивной боеголовки.</TY_A_Dawn_Weapons.description>
+
+  <JuJiS_Atlas.label>Патрон 6.5мм специальный бронебойный</JuJiS_Atlas.label>
+
+  <TY_A_Eagle_Weapons.label>Штурмовая винтовка RAP "Расщепление"</TY_A_Eagle_Weapons.label>
+  <TY_A_Eagle_Weapons.description>Лёгкий вариант ближнего боя штурмовой винтовки VK "Расщепление", используемый для специализированных миссий, ограниченных сред и требований ближнего боя. Однако Федерация Речной Долины разработала его, чтобы он мог стрелять специальными нано-эрозионными пулями. Наномашины внутри боеголовки вызывают внутреннюю эрозию во вражеских целях для быстрого устранения высокоугрожающих подразделений.\n*Обратите внимание, что нано-эрозионные пули требуют активации наноструктурами тел Синтетиков Розарии и не могут эффективно повредить простые структурированные бронированные подразделения, композитную броню, щиты или неизвестные специальные структуры.</TY_A_Eagle_Weapons.description>
+
+  <TianQiLightB_Atlas.label>25мм микрореактивная боеголовка</TianQiLightB_Atlas.label>
+
+  <TY_A_Apocalypse_Weapons.label>25мм автоматическая ядерная пушка "Термическое плавление"</TY_A_Apocalypse_Weapons.label>
+  <TY_A_Apocalypse_Weapons.description>Индивидуальная автоматическая пушка, разработанная Красным Сектором Звезды Плювиорхид в 5480-х годах, обычно используемая в качестве стандартного оружия для Красной Армии Федерации Речной Долины. В обычном бою она может уничтожать тяжёлую пехоту, такую как Сороконожки, и даже бронированные транспортные средства. В настоящее время 25мм автоматическая ядерная пушка "Термическое плавление" в основном используется для переоборудования в оружие для механоидных боевых подразделений и наземных турелей.</TY_A_Apocalypse_Weapons.description>
+  <TY_A_Apocalypse_Weapons.tools.0.label>Лезвие</TY_A_Apocalypse_Weapons.tools.0.label>
+
+
+  <!-- EN: 子弹 -->
+  <!-- EN: 气弹 -->
+  <!-- EN: 大口径子弹 -->
+  <!--<JiQiangS_Atlas.label>TODO</JiQiangS_Atlas.label>-->
+  <!-- EN: 高能弹 -->
+  <!-- EN: 天启轰雷炮 -->
+  <!-- EN: 终极武器 -->
+  <!-- EN: 刀刃 -->
+  <!--<TY_A_Apocalypse_Weapons.verbs.Verb_Shoot.label>TODO</TY_A_Apocalypse_Weapons.verbs.Verb_Shoot.label>-->
+  <!-- EN: 破晓步枪 -->
+  <!-- EN: 尖兵武器之一 -->
+  <!-- EN: 枪托 -->
+  <!--<TY_A_Dawn_Weapons.tools.0.label>TODO</TY_A_Dawn_Weapons.tools.0.label>-->
+  <!--<TY_A_Dawn_Weapons.verbs.Verb_Shoot.label>TODO</TY_A_Dawn_Weapons.verbs.Verb_Shoot.label>-->
+  <!-- EN: 破坏神超重型机枪 -->
+  <!--<TY_A_Destroy_Weapons.label>TODO</TY_A_Destroy_Weapons.label>-->
+  <!--<TY_A_Destroy_Weapons.description>TODO</TY_A_Destroy_Weapons.description>-->
+  <!--<TY_A_Destroy_Weapons.tools.0.label>TODO</TY_A_Destroy_Weapons.tools.0.label>-->
+  <!--<TY_A_Destroy_Weapons.verbs.Verb_Shoot.label>TODO</TY_A_Destroy_Weapons.verbs.Verb_Shoot.label>-->
+  <!-- EN: 鹰眼步枪 -->
+  <!--<TY_A_Eagle_Weapons.tools.0.label>TODO</TY_A_Eagle_Weapons.tools.0.label>-->
+  <!--<TY_A_Eagle_Weapons.verbs.Verb_Shoot.label>TODO</TY_A_Eagle_Weapons.verbs.Verb_Shoot.label>-->
+  <!-- EN: 防卫者 -->
+  <!--<TY_A_Uplift_Weapons.tools.0.label>TODO</TY_A_Uplift_Weapons.tools.0.label>-->
+  <!--<TY_A_Uplift_Weapons.verbs.Verb_Shoot.label>TODO</TY_A_Uplift_Weapons.verbs.Verb_Shoot.label>-->
+
+</LanguageData>
+

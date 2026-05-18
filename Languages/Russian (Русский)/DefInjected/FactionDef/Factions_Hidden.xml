@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RebelliousSlaves.label>Мятежные рабы</RebelliousSlaves.label>
+  <RebelliousSlaves.description>Группа рабов, которые восстали против вас. Если вы не практикуете рабство, то они естественно не появятся в этом мире. Но когда они поднимут восстание, они будут контролировать всех механоидов под их контролем.</RebelliousSlaves.description>
+  <RebelliousSlaves.fixedName>Мятежные рабы</RebelliousSlaves.fixedName>
+  <RebelliousSlaves.pawnsPlural>Рабы</RebelliousSlaves.pawnsPlural>
+
+  <TY_A_Foreigner_hostility.label>Беженцы, бегущие от военачальников (Враждебные)</TY_A_Foreigner_hostility.label>
+  <TY_A_Foreigner_hostility.description>Либо оскорбили военачальников; либо оскорбили определённые силы; либо просто чтобы сбежать от гражданской войны; либо просто случайно совершили вынужденную посадку, эти беженцы обычно пришли на окраинный мир из-за гражданской войны Федерации Речной Долины или разделения красношкурыми военачальниками. Болезненный опыт сделал их враждебными к незнакомцам. (На самом деле, это просто потому, что я не знал, как заставить отклонённых беженцев уйти напрямую, чтобы предотвратить их бесплатное проживание на базе игрока. Поэтому они были сделаны враждебными.)</TY_A_Foreigner_hostility.description>
+  <TY_A_Foreigner_hostility.fixedName>Беженцы, бегущие от военачальников</TY_A_Foreigner_hostility.fixedName>
+  <TY_A_Foreigner_hostility.pawnsPlural>Беженцы, бегущие от военачальников</TY_A_Foreigner_hostility.pawnsPlural>
+
+
+</LanguageData>

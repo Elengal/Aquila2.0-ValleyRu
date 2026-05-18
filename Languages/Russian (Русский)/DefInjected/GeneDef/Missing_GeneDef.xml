@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Символы генов -->
+  <DriveSjumpG.symbolPack.prefixSymbols.0.symbol>прыжок</DriveSjumpG.symbolPack.prefixSymbols.0.symbol>
+  <DriveSjumpG.symbolPack.prefixSymbols.1.symbol>скачок</DriveSjumpG.symbolPack.prefixSymbols.1.symbol>
+  <DriveSjumpG.symbolPack.prefixSymbols.2.symbol>свод</DriveSjumpG.symbolPack.prefixSymbols.2.symbol>
+  <DriveSjumpG.symbolPack.prefixSymbols.3.symbol>длинный</DriveSjumpG.symbolPack.prefixSymbols.3.symbol>
+  <DriveSjumpG.symbolPack.prefixSymbols.4.symbol>лет</DriveSjumpG.symbolPack.prefixSymbols.4.symbol>
+  <DriveSjumpG.symbolPack.prefixSymbols.5.symbol>скок</DriveSjumpG.symbolPack.prefixSymbols.5.symbol>
+  <DriveSjumpG.symbolPack.wholeNameSymbols.0.symbol>прыгун</DriveSjumpG.symbolPack.wholeNameSymbols.0.symbol>
+  <DriveSjumpG.symbolPack.wholeNameSymbols.1.symbol>скакун</DriveSjumpG.symbolPack.wholeNameSymbols.1.symbol>
+  <DriveSjumpG.symbolPack.wholeNameSymbols.2.symbol>вышибала</DriveSjumpG.symbolPack.wholeNameSymbols.2.symbol>
+
+  <!-- Метки генов -->
+  <DriveSMoodG.labelShortAdj>дружелюбный</DriveSMoodG.labelShortAdj>
+  <DriveSMechG.customEffectDescriptions.0>микромеханизмы</DriveSMechG.customEffectDescriptions.0>
+  <DriveSMechG.symbolPack.prefixSymbols.0.symbol>ферт</DriveSMechG.symbolPack.prefixSymbols.0.symbol>
+  <DriveSMeroryG.labelShortAdj>запоминающий</DriveSMeroryG.labelShortAdj>
+  <DriveSEMPG.labelShortAdj>импульс шершня</DriveSEMPG.labelShortAdj>
+
+</LanguageData>
+

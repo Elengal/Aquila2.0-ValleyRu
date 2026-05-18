@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DriveSjumpG.label>Способность к дальним прыжкам</DriveSjumpG.label>
+  <DriveSjumpG.description>Водители могут концентрировать эфирную энергию в ногах, затем приводить в действие эфирное ядро для дальних прыжков.</DriveSjumpG.description>
+
+  <DriveSMoodG.label>Наивность и беззаботность</DriveSMoodG.label>
+  <DriveSMoodG.description>Водители более склонны к мирному сосуществованию с другими, потому что они несут в себе прекрасные идеалы и цели, но это не означает, что они легко будут зависеть от других.</DriveSMoodG.description>
+
+
+  <!-- <GeneDef Name="TY_LifeForceBase" Abstract="True">
+		<displayCategory>Archite</displayCategory>
+	</GeneDef>
+
+  <GeneDef ParentName="TY_LifeForceBase">
+		<defName>TY_Gene_Lifeforce</defName>
+		<label>Lifeforce</label>
+		<description>Text.</description>
+		<geneClass>TY_Mora_Gene.Gene_LifeForce</geneClass>
+		<resourceGizmoType>TY_Mora_Gene.GeneGizmo_ResourceLifeForce</resourceGizmoType>
+		<resourceLabel>lifeforce</resourceLabel>
+		<resourceGizmoThresholds>
+		  <li>0.25</li>
+		  <li>0.5</li>
+		  <li>0.75</li>
+		</resourceGizmoThresholds>
+		<showGizmoOnWorldView>true</showGizmoOnWorldView>
+		<showGizmoWhenDrafted>true</showGizmoWhenDrafted>
+		<resourceDescription>Text.</resourceDescription>
+		<iconPath>UI/Genes/LifeForce</iconPath>
+		<selectionWeight>0</selectionWeight>
+		<displayOrderInCategory>-2</displayOrderInCategory>
+    	<minAgeActive>18</minAgeActive>
+		<customEffectDescriptions>
+		  <li>Text.</li>
+		</customEffectDescriptions>
+		<symbolPack>
+		  <prefixSymbols>
+			<li><symbol>fert</symbol></li>
+		  </prefixSymbols>
+		</symbolPack>
+		<resourceLossPerDay>0.025</resourceLossPerDay>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>1</biostatMet>
+	</GeneDef>
+
+  <GeneDef ParentName="TY_LifeForceBase">
+		<defName>TY_Gene_Drain</defName>
+		<label>TY Mora Drain</label>
+		<labelShortAdj>Text</labelShortAdj>
+		<description>Text.</description>
+		<resourceLabel>Text</resourceLabel>
+		<geneClass>TY_Mora_Gene.Gene_LifeForceDrain</geneClass>
+		<iconPath>UI/Genes/Cumflation</iconPath>
+		<prerequisite>TY_Gene_Lifeforce</prerequisite>
+		<resourceLossPerDay>0.075</resourceLossPerDay>
+    	<minAgeActive>18</minAgeActive>
+		<displayOrderInCategory>-1</displayOrderInCategory>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>6</biostatMet>
+	</GeneDef> -->
+
+  <DriveSMechG.label>Расширение нанороботов</DriveSMechG.label>
+  <DriveSMechG.labelShortAdj>Нанороботы</DriveSMechG.labelShortAdj>
+  <DriveSMechG.description>Изначально нанороботы использовались как "механические тромбоциты" для стабилизации отторжения имплантатов у конструктов типа Люсия и поддержания лёгкой перегрузки имплантатов.\nОднако красная зона планеты警戒星 расширила функциональность нанороботов в конструктах типа Люсия.\nТеперь, после установки наночипа, конструкты Люсия могут точно управлять нанороботами, достигая эффектов, близких к псионической магии.</DriveSMechG.description>
+  <DriveSMechG.resourceLabel>Нанороботы</DriveSMechG.resourceLabel>
+  <DriveSMechG.resourceDescription>Микророботы</DriveSMechG.resourceDescription>
+
+  <DriveSMeroryG.label>Суперпамять</DriveSMeroryG.label>
+  <DriveSMeroryG.description>Пионеры, чтобы сохранить знания, каждый день повторяли старое и узнавали новое. С годами эволюции удивительная память была встроена в гены водителей.</DriveSMeroryG.description>
+
+  <DriveSEMPG.label>Слабая устойчивость к EMP</DriveSEMPG.label>
+  <DriveSEMPG.description>35% тела водителя состоит из особой эфирной биомеханической структуры, при воздействии EMP будут некоторые лёгкие эффекты, такие как головокружение и рвота.</DriveSEMPG.description>
+
+  <XG_Skin_WeiHuang.label>Слегка жёлтый тон кожи</XG_Skin_WeiHuang.label>
+  <XG_Skin_WeiHuang.description>Слегка жёлтый тон кожи, нормальный тон кожи людей.</XG_Skin_WeiHuang.description>
+
+  <XG_Skin_WeiHong.label>Слегка красный тон кожи</XG_Skin_WeiHong.label>
+  <XG_Skin_WeiHong.description>Слегка красный тон кожи, нормальный тон кожи людей.</XG_Skin_WeiHong.description>
+
+  <XG_Skin_XiaoMai.label>Пшеничный тон кожи</XG_Skin_XiaoMai.label>
+  <XG_Skin_XiaoMai.description>Пшеничный тон кожи, нормальный тон кожи людей.</XG_Skin_XiaoMai.description>
+
+  <XG_Skin_ZhongHei.label>Коричнево-чёрный тон кожи</XG_Skin_ZhongHei.label>
+  <XG_Skin_ZhongHei.description>Коричнево-чёрный тон кожи, нормальный тон кожи людей.</XG_Skin_ZhongHei.description>
+
+
+  <!-- EN: EMP弱受 -->
+  <!-- EN: 驱动者体内有35%是特殊的以太生物机械结构,受到EMP会有一些轻微的影响,如头晕、呕吐. -->
+  <!-- EN: EMP -->
+  <!--<DriveSEMPG.labelShortAdj>TODO</DriveSEMPG.labelShortAdj>-->
+  <!-- EN: 长跳能力 -->
+  <!-- EN: 驱动者能够将以太能量集中到腿部后驱动以太核心,进行远距离跳跃. -->
+  <!-- EN: jump -->
+  <!--<DriveSjumpG.symbolPack.prefixSymbols.0.symbol>TODO</DriveSjumpG.symbolPack.prefixSymbols.0.symbol>-->
+  <!-- EN: leap -->
+  <!--<DriveSjumpG.symbolPack.prefixSymbols.1.symbol>TODO</DriveSjumpG.symbolPack.prefixSymbols.1.symbol>-->
+  <!-- EN: vault -->
+  <!--<DriveSjumpG.symbolPack.prefixSymbols.2.symbol>TODO</DriveSjumpG.symbolPack.prefixSymbols.2.symbol>-->
+  <!-- EN: long -->
+  <!--<DriveSjumpG.symbolPack.prefixSymbols.3.symbol>TODO</DriveSjumpG.symbolPack.prefixSymbols.3.symbol>-->
+  <!-- EN: fly -->
+  <!--<DriveSjumpG.symbolPack.prefixSymbols.4.symbol>TODO</DriveSjumpG.symbolPack.prefixSymbols.4.symbol>-->
+  <!-- EN: hop -->
+  <!--<DriveSjumpG.symbolPack.prefixSymbols.5.symbol>TODO</DriveSjumpG.symbolPack.prefixSymbols.5.symbol>-->
+  <!-- EN: jumper -->
+  <!--<DriveSjumpG.symbolPack.wholeNameSymbols.0.symbol>TODO</DriveSjumpG.symbolPack.wholeNameSymbols.0.symbol>-->
+  <!-- EN: leaper -->
+  <!--<DriveSjumpG.symbolPack.wholeNameSymbols.1.symbol>TODO</DriveSjumpG.symbolPack.wholeNameSymbols.1.symbol>-->
+  <!-- EN: bouncer -->
+  <!--<DriveSjumpG.symbolPack.wholeNameSymbols.2.symbol>TODO</DriveSjumpG.symbolPack.wholeNameSymbols.2.symbol>-->
+  <!-- EN: 生物机械融合 -->
+  <!-- EN: 驱动者体内有35%是特殊的以太生物机械结构,并且有一定的毒素抗性.因为驱动者主要使用的能力是需要驱动以太核心的"以太之力",所以对灵能方面有些迟钝.并且因为体内的以太生物机械结构,驱动者能够与机械进行"心链",因此每一个驱动者都是机械师. -->
+  <!-- EN: 生物机械 -->
+  <!--<DriveSMechG.labelShortAdj>TODO</DriveSMechG.labelShortAdj>-->
+  <!-- EN: 超级记忆力 -->
+  <!-- EN: 先驱者们为了让知识保留,每天都温故而知新.随着多年的进化,惊人的记忆力已经刻入了驱动者的基因中. -->
+  <!-- EN: 过目不忘 -->
+  <!--<DriveSMeroryG.labelShortAdj>TODO</DriveSMeroryG.labelShortAdj>-->
+  <!-- EN: 天真烂漫 -->
+  <!-- EN: 驱动者们更愿意与他人和睦相处,因为他们怀揣着美好的理想与目标,但这也并不意味着他们会轻易的去依赖他人. -->
+  <!--<DriveSMoodG.labelShortAdj>TODO</DriveSMoodG.labelShortAdj>-->
+
+</LanguageData>

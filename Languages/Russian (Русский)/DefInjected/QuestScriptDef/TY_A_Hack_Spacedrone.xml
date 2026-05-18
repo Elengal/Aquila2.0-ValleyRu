@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_Hack_Spacedrone.questDescriptionRules.rulesStrings.0>questDescription-&gt;Вы обнаружили орбитальный космический дрон, который может содержать ценную информацию. У вас есть код, который заставит его приземлиться на [map_definite].\n\nЧтобы получить информацию, взломайте компьютер дрона. Взлом занимает время, но те, кто силён в интеллектуальных навыках, могут ускорить процесс.[raidsDescription]\n\nПосле приземления космический дрон самоуничтожится через [destroyDelayTicks_duration].</TY_A_Hack_Spacedrone.questDescriptionRules.rulesStrings.0>
+  <TY_A_Hack_Spacedrone.questDescriptionRules.rulesStrings.1>raidsDescription(allowViolence==true)-&gt;\n\n[enemyFaction_pawnsPlural] из [enemyFaction_name] [droneDetectionMethod]. Пока он присутствует, они будут отправлять атакующих примерно каждые [raidIntervalAvg_duration], чтобы уничтожить его и украсть богатство, которое, по их мнению, он содержит. У вас будет некоторое время, чтобы подготовить оборону вокруг него до их прибытия.</TY_A_Hack_Spacedrone.questDescriptionRules.rulesStrings.1>
+  <TY_A_Hack_Spacedrone.questDescriptionRules.rulesStrings.2>raidsDescription(allowViolence==false)-&gt;</TY_A_Hack_Spacedrone.questDescriptionRules.rulesStrings.2>
+  <TY_A_Hack_Spacedrone.questDescriptionRules.rulesStrings.3>droneDetectionMethod(enemyFactionNeolithic==true)-&gt;заметят дрон во время его спуска</TY_A_Hack_Spacedrone.questDescriptionRules.rulesStrings.3>
+  <TY_A_Hack_Spacedrone.questDescriptionRules.rulesStrings.4>droneDetectionMethod(enemyFactionNeolithic==false)-&gt;обнаружат энергетическую сигнатуру дрона</TY_A_Hack_Spacedrone.questDescriptionRules.rulesStrings.4>
+  <TY_A_Hack_Spacedrone.questNameRules.rulesStrings.0>questName-&gt;взлом [droneAdj] [drone]</TY_A_Hack_Spacedrone.questNameRules.rulesStrings.0>
+  <TY_A_Hack_Spacedrone.questNameRules.rulesStrings.1>questName-&gt;взлом [drone] [data]</TY_A_Hack_Spacedrone.questNameRules.rulesStrings.1>
+  <TY_A_Hack_Spacedrone.questNameRules.rulesStrings.2>droneAdj-&gt;орбитального</TY_A_Hack_Spacedrone.questNameRules.rulesStrings.2>
+  <TY_A_Hack_Spacedrone.questNameRules.rulesStrings.3>droneAdj-&gt;данных</TY_A_Hack_Spacedrone.questNameRules.rulesStrings.3>
+  <TY_A_Hack_Spacedrone.questNameRules.rulesStrings.4>droneAdj-&gt;древнего</TY_A_Hack_Spacedrone.questNameRules.rulesStrings.4>
+  <TY_A_Hack_Spacedrone.questNameRules.rulesStrings.5>drone-&gt;дрона</TY_A_Hack_Spacedrone.questNameRules.rulesStrings.5>
+  <TY_A_Hack_Spacedrone.questNameRules.rulesStrings.6>drone-&gt;космического корабля</TY_A_Hack_Spacedrone.questNameRules.rulesStrings.6>
+  <TY_A_Hack_Spacedrone.questNameRules.rulesStrings.7>drone-&gt;космического дрона</TY_A_Hack_Spacedrone.questNameRules.rulesStrings.7>
+  <TY_A_Hack_Spacedrone.questNameRules.rulesStrings.8>drone-&gt;криптодрона</TY_A_Hack_Spacedrone.questNameRules.rulesStrings.8>
+  <TY_A_Hack_Spacedrone.questNameRules.rulesStrings.9>data-&gt;данных</TY_A_Hack_Spacedrone.questNameRules.rulesStrings.9>
+  <TY_A_Hack_Spacedrone.questNameRules.rulesStrings.10>data-&gt;разведданных</TY_A_Hack_Spacedrone.questNameRules.rulesStrings.10>
+  <TY_A_Hack_Spacedrone.questNameRules.rulesStrings.11>data-&gt;информации</TY_A_Hack_Spacedrone.questNameRules.rulesStrings.11>
+
+
+</LanguageData>

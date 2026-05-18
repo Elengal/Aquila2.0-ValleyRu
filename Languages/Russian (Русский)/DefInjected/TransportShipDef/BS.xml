@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 定义一个建筑类物品：乘客穿梭机 -->
+
+  <XG_DaYunHuoCuang.label>Категория крупных грузовых шаттлов</XG_DaYunHuoCuang.label>
+
+  <TY_A_ChuanShuoChang.label>Одноместный шаттл</TY_A_ChuanShuoChang.label>
+
+</LanguageData>

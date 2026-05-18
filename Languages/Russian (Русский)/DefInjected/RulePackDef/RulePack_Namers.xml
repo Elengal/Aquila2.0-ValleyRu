@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <YYS_Rev_NamerPerson.rulePack.rulesStrings.0>r_name(p=2)->[YYS_Rev_Last] [YYS_Rev_First_Male]</YYS_Rev_NamerPerson.rulePack.rulesStrings.0>
+  <YYS_Rev_NamerPersonFemale.rulePack.rulesStrings.0>r_name(p=2)->[YYS_Rev_Last] [YYS_Rev_First_Female]</YYS_Rev_NamerPersonFemale.rulePack.rulesStrings.0>
+
+
+</LanguageData>

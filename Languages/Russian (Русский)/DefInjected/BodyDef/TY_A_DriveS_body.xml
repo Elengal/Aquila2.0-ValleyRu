@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DriveS.label>водители</DriveS.label>
+  <DriveS.corePart.parts.6.customLabel>левое лёгкое</DriveS.corePart.parts.6.customLabel>
+  <DriveS.corePart.parts.7.customLabel>правое лёгкое</DriveS.corePart.parts.7.customLabel>
+  <DriveS.corePart.parts.8.customLabel>левая почка</DriveS.corePart.parts.8.customLabel>
+  <DriveS.corePart.parts.9.customLabel>правая почка</DriveS.corePart.parts.9.customLabel>
+  <DriveS.corePart.parts.11.parts.0.parts.1.customLabel>левый глаз</DriveS.corePart.parts.11.parts.0.parts.1.customLabel>
+  <DriveS.corePart.parts.11.parts.0.parts.2.customLabel>правый глаз</DriveS.corePart.parts.11.parts.0.parts.2.customLabel>
+  <DriveS.corePart.parts.11.parts.0.parts.3.customLabel>левое ухо</DriveS.corePart.parts.11.parts.0.parts.3.customLabel>
+  <DriveS.corePart.parts.11.parts.0.parts.4.customLabel>правое ухо</DriveS.corePart.parts.11.parts.0.parts.4.customLabel>
+  <DriveS.corePart.parts.12.customLabel>левое плечо</DriveS.corePart.parts.12.customLabel>
+  <DriveS.corePart.parts.12.parts.0.customLabel>левая ключица</DriveS.corePart.parts.12.parts.0.customLabel>
+  <DriveS.corePart.parts.12.parts.1.customLabel>левая рука</DriveS.corePart.parts.12.parts.1.customLabel>
+  <DriveS.corePart.parts.12.parts.1.parts.0.customLabel>левая плечевая кость</DriveS.corePart.parts.12.parts.1.parts.0.customLabel>
+  <DriveS.corePart.parts.12.parts.1.parts.1.customLabel>левая лучевая кость</DriveS.corePart.parts.12.parts.1.parts.1.customLabel>
+  <DriveS.corePart.parts.12.parts.1.parts.2.customLabel>левая кисть</DriveS.corePart.parts.12.parts.1.parts.2.customLabel>
+  <DriveS.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>левый мизинец</DriveS.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <DriveS.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>левый безымянный палец</DriveS.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <DriveS.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>левый средний палец</DriveS.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <DriveS.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>левый указательный палец</DriveS.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <DriveS.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>левый большой палец</DriveS.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <DriveS.corePart.parts.13.customLabel>правое плечо</DriveS.corePart.parts.13.customLabel>
+  <DriveS.corePart.parts.13.parts.0.customLabel>правая ключица</DriveS.corePart.parts.13.parts.0.customLabel>
+  <DriveS.corePart.parts.13.parts.1.customLabel>правая рука</DriveS.corePart.parts.13.parts.1.customLabel>
+  <DriveS.corePart.parts.13.parts.1.parts.0.customLabel>правая плечевая кость</DriveS.corePart.parts.13.parts.1.parts.0.customLabel>
+  <DriveS.corePart.parts.13.parts.1.parts.1.customLabel>правая лучевая кость</DriveS.corePart.parts.13.parts.1.parts.1.customLabel>
+  <DriveS.corePart.parts.13.parts.1.parts.2.customLabel>правая кисть</DriveS.corePart.parts.13.parts.1.parts.2.customLabel>
+  <DriveS.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>правый мизинец</DriveS.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <DriveS.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>правый безымянный палец</DriveS.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <DriveS.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>правый средний палец</DriveS.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <DriveS.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>правый указательный палец</DriveS.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <DriveS.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>правый большой палец</DriveS.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <DriveS.corePart.parts.15.customLabel>левая нога</DriveS.corePart.parts.15.customLabel>
+  <DriveS.corePart.parts.15.parts.0.customLabel>левое бедро</DriveS.corePart.parts.15.parts.0.customLabel>
+  <DriveS.corePart.parts.15.parts.1.customLabel>левая большеберцовая кость</DriveS.corePart.parts.15.parts.1.customLabel>
+  <DriveS.corePart.parts.15.parts.2.customLabel>левая стопа</DriveS.corePart.parts.15.parts.2.customLabel>
+  <DriveS.corePart.parts.15.parts.2.parts.0.customLabel>левый мизинец ноги</DriveS.corePart.parts.15.parts.2.parts.0.customLabel>
+  <DriveS.corePart.parts.15.parts.2.parts.1.customLabel>левый четвёртый палец ноги</DriveS.corePart.parts.15.parts.2.parts.1.customLabel>
+  <DriveS.corePart.parts.15.parts.2.parts.2.customLabel>левый средний палец ноги</DriveS.corePart.parts.15.parts.2.parts.2.customLabel>
+  <DriveS.corePart.parts.15.parts.2.parts.3.customLabel>левый второй палец ноги</DriveS.corePart.parts.15.parts.2.parts.3.customLabel>
+  <DriveS.corePart.parts.15.parts.2.parts.4.customLabel>левый большой палец ноги</DriveS.corePart.parts.15.parts.2.parts.4.customLabel>
+  <DriveS.corePart.parts.16.customLabel>правая нога</DriveS.corePart.parts.16.customLabel>
+  <DriveS.corePart.parts.16.parts.0.customLabel>правое бедро</DriveS.corePart.parts.16.parts.0.customLabel>
+  <DriveS.corePart.parts.16.parts.1.customLabel>правая большеберцовая кость</DriveS.corePart.parts.16.parts.1.customLabel>
+  <DriveS.corePart.parts.16.parts.2.customLabel>правая стопа</DriveS.corePart.parts.16.parts.2.customLabel>
+  <DriveS.corePart.parts.16.parts.2.parts.0.customLabel>правый мизинец ноги</DriveS.corePart.parts.16.parts.2.parts.0.customLabel>
+  <DriveS.corePart.parts.16.parts.2.parts.1.customLabel>правый четвёртый палец ноги</DriveS.corePart.parts.16.parts.2.parts.1.customLabel>
+  <DriveS.corePart.parts.16.parts.2.parts.2.customLabel>правый средний палец ноги</DriveS.corePart.parts.16.parts.2.parts.2.customLabel>
+  <DriveS.corePart.parts.16.parts.2.parts.3.customLabel>правый второй палец ноги</DriveS.corePart.parts.16.parts.2.parts.3.customLabel>
+  <DriveS.corePart.parts.16.parts.2.parts.4.customLabel>правый большой палец ноги</DriveS.corePart.parts.16.parts.2.parts.4.customLabel>
+  <DriveS.corePart.parts.17.customLabel>Слот модуля</DriveS.corePart.parts.17.customLabel>
+  <DriveS.corePart.parts.18.customLabel>Слот модуля A - Манёвренный модуль</DriveS.corePart.parts.18.customLabel>
+  <DriveS.corePart.parts.19.customLabel>Слот модуля B - Боевой модуль</DriveS.corePart.parts.19.customLabel>
+  <DriveS.corePart.parts.20.customLabel>Слот модуля C - Модуль боевых навыков</DriveS.corePart.parts.20.customLabel>
+  <DriveS.corePart.parts.21.customLabel>Слот модуля D - Модуль навыков управления</DriveS.corePart.parts.21.customLabel>
+  <DriveS.corePart.parts.22.customLabel>Слот модуля E - Модуль навыков</DriveS.corePart.parts.22.customLabel>
+
+
+</LanguageData>

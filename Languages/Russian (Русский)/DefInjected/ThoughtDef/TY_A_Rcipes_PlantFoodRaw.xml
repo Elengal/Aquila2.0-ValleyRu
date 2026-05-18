@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_AteFineMeal.stages.0.label>Съел консервированную фасоль</TY_A_AteFineMeal.stages.0.label>
+  <TY_A_AteFineMeal.stages.0.description>В конце концов, это просто фасоль в банке. Текстура довольно разнообразная, но вкус несколько однообразный.</TY_A_AteFineMeal.stages.0.description>
+
+  <TY_A_AteFineMeal_A.stages.0.label>Съел сгущённое молоко "Белый кролик"</TY_A_AteFineMeal_A.stages.0.label>
+  <TY_A_AteFineMeal_A.stages.0.description>Насыщенный молочный аромат, абсолютно восхитительно!</TY_A_AteFineMeal_A.stages.0.description>
+
+  <TY_A_Synthetic_food.stages.0.label>Съел синтетическую сырую пищу Федерации</TY_A_Synthetic_food.stages.0.label>
+  <TY_A_Synthetic_food.stages.0.description>Хотя в синтетической пище нет паразитов, текстура всё равно не может сравниться с приготовленной едой.</TY_A_Synthetic_food.stages.0.description>
+
+  <TY_A_Federal_canned_meat_ty.stages.0.label>Съел консервированное тушёное мясо "Речная долина"</TY_A_Federal_canned_meat_ty.stages.0.label>
+  <TY_A_Federal_canned_meat_ty.stages.0.description>Это тушёное мясо чудесно ароматное, но немного слишком жирное.</TY_A_Federal_canned_meat_ty.stages.0.description>
+
+
+</LanguageData>

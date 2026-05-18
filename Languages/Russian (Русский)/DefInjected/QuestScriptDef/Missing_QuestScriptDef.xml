@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Квест: Разрешение на персонал -->
+  <RV_QuestScript_Permit_Apply_for_Pawns.root.nodes.Letter.label.slateRef>шаттл прибыл</RV_QuestScript_Permit_Apply_for_Pawns.root.nodes.Letter.label.slateRef>
+  <RV_QuestScript_Permit_Apply_for_Pawns.root.nodes.Letter.text.slateRef>Персонал из [permitFaction_name] прибыл.</RV_QuestScript_Permit_Apply_for_Pawns.root.nodes.Letter.text.slateRef>
+
+  <!-- Квест: Лагерь бандитов -->
+  <TY_A_OpportunitySite_BanditCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Квест истёк:</TY_A_OpportunitySite_BanditCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <TY_A_OpportunitySite_BanditCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Лагерь бандитов свернулся и ушёл. Квест истёк.</TY_A_OpportunitySite_BanditCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <TY_A_OpportunitySite_BanditCamp.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Квест провален:</TY_A_OpportunitySite_BanditCamp.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+  <TY_A_OpportunitySite_BanditCamp.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>После обнаружения лагерь бандитов рассеялся. Квест завершён.</TY_A_OpportunitySite_BanditCamp.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+  <TY_A_OpportunitySite_BanditCamp.root.nodes.siteAllEnemiesDefeated.node.nodes.TY_A_QuestNode_GiveRewards.customLetterLabel.slateRef>Оплата прибыла</TY_A_OpportunitySite_BanditCamp.root.nodes.siteAllEnemiesDefeated.node.nodes.TY_A_QuestNode_GiveRewards.customLetterLabel.slateRef>
+  <TY_A_OpportunitySite_BanditCamp.root.nodes.siteAllEnemiesDefeated.node.nodes.TY_A_QuestNode_GiveRewards.customLetterText.slateRef>Вы победили лагерь бандитов!
+
+Оплата прибыла.</TY_A_OpportunitySite_BanditCamp.root.nodes.siteAllEnemiesDefeated.node.nodes.TY_A_QuestNode_GiveRewards.customLetterText.slateRef>
+  <TY_A_OpportunitySite_BanditCamp.root.nodes.siteAllEnemiesDefeated.node.nodes.TY_A_QuestNode_GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>Эти колонисты участвовали в победе за квест. Кто должен получить награду за эту службу?</TY_A_OpportunitySite_BanditCamp.root.nodes.siteAllEnemiesDefeated.node.nodes.TY_A_QuestNode_GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>
+
+  <!-- Квест: Одолжить пешку -->
+  <TY_A_APawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.ResolveTextNow.rules.slateRef>&lt;rulesStrings&gt;&lt;li&gt;dutyDescription-&gt;собрать урожай&lt;/li&gt;&lt;li&gt;dutyDescription-&gt;укрепить поселение&lt;/li&gt;&lt;li&gt;dutyDescription-&gt;основать поселение&lt;/li&gt;&lt;li&gt;dutyDescription-&gt;следить за рейдерами&lt;/li&gt;&lt;li&gt;dutyDescription-&gt;организовать госпиталь&lt;/li&gt;&lt;li&gt;dutyDescription-&gt;сдержать вспышку [disease]&lt;/li&gt;&lt;/rulesStrings&gt;</TY_A_APawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.ResolveTextNow.rules.slateRef>
+  <TY_A_APawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.Set.value.slateRef>{PAWNS} [pawnListHaveConjugation] вернулись после помощи [asker_nameFull] из [asker_faction_name] [dutyDescription].</TY_A_APawnLend.root.nodes.RandomNode.nodes.Sequence-0.nodes.Set.value.slateRef>
+  <TY_A_APawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.ResolveTextNow.rules.slateRef>&lt;rulesStrings&gt;&lt;li&gt;dutyRoyalDescription-&gt;подготовить церемонию&lt;/li&gt;&lt;li&gt;dutyRoyalDescription-&gt;провести переговоры с племенем&lt;/li&gt;&lt;li&gt;dutyRoyalDescription-&gt;исследовать болото&lt;/li&gt;&lt;li&gt;dutyRoyalDescription-&gt;перевести книгу&lt;/li&gt;&lt;li&gt;dutyRoyalDescription-&gt;организовать тренировочный полигон&lt;/li&gt;&lt;li&gt;dutyRoyalDescription-&gt;собрать урожай&lt;/li&gt;&lt;/rulesStrings&gt;</TY_A_APawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.ResolveTextNow.rules.slateRef>
+  <TY_A_APawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.Set.value.slateRef>{PAWNS} [pawnListHaveConjugation] вернулись после помощи [asker_royalTitleInCurrentFaction] [asker_nameFull] из [asker_faction_name] [dutyRoyalDescription].</TY_A_APawnLend.root.nodes.RandomNode.nodes.Sequence-1.nodes.Set.value.slateRef>
+  <TY_A_APawnLend.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>Шаттл прибыл</TY_A_APawnLend.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>
+  <TY_A_APawnLend.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>Шаттл прибыл, чтобы забрать [colonistsToLendCount] ваших колонистов.</TY_A_APawnLend.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>
+  <TY_A_APawnLend.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.label.slateRef>Шаттл уничтожен</TY_A_APawnLend.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.label.slateRef>
+  <TY_A_APawnLend.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.text.slateRef>Шаттл, посланный за колонистами, был уничтожен.</TY_A_APawnLend.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.text.slateRef>
+  <TY_A_APawnLend.root.nodes.ColonistsReturned.node.nodes.Letter.label.slateRef>Колонисты вернулись</TY_A_APawnLend.root.nodes.ColonistsReturned.node.nodes.Letter.label.slateRef>
+
+  <!-- Квест: Торговый запрос -->
+  <TY_A_TradeRequest.root.nodes.TY_A_QuestNode_GetNearbySettlement.storeAs.slateRef>поселение</TY_A_TradeRequest.root.nodes.TY_A_QuestNode_GetNearbySettlement.storeAs.slateRef>
+  <TY_A_TradeRequest.root.nodes.TY_A_QuestNode_GetNearbySettlement.storeFactionLeaderAs.slateRef>заказчик</TY_A_TradeRequest.root.nodes.TY_A_QuestNode_GetNearbySettlement.storeFactionLeaderAs.slateRef>
+  <TY_A_TradeRequest.root.nodes.Letter.label.slateRef>Квест провален: [resolvedQuestName]</TY_A_TradeRequest.root.nodes.Letter.label.slateRef>
+  <TY_A_TradeRequest.root.nodes.Letter.text.slateRef>[faction_name] стала враждебной к вам.</TY_A_TradeRequest.root.nodes.Letter.text.slateRef>
+  <TY_A_TradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</TY_A_TradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>
+  <TY_A_TradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>Кому зачислить [asker_faction_royalFavorLabel] за выполнение торгового запроса?</TY_A_TradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>
+
+  <!-- Квест: Награда за заключённого -->
+  <TY_A_PrisonerBounty.root.nodes.ProcessPrisonerBounty.storeAs.slateRef>параметрыНаграды</TY_A_PrisonerBounty.root.nodes.ProcessPrisonerBounty.storeAs.slateRef>
+  <TY_A_PrisonerBounty.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>Шаттл для перевозки заключённых прибыл</TY_A_PrisonerBounty.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>
+  <TY_A_PrisonerBounty.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>Шаттл для перевозки заключённых прибыл</TY_A_PrisonerBounty.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>
+  <TY_A_PrisonerBounty.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>Шаттл для перевозки заключённых прибыл</TY_A_PrisonerBounty.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>
+
+</LanguageData>
+

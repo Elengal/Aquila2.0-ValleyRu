@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 健康状态 -->
+
+  <TY_A_Fighter_chip_A.label>ОГАС: Базовый чип стрельбы</TY_A_Fighter_chip_A.label>
+  <TY_A_Fighter_chip_A.description>Базовые чипы стрельбы, широко доступные в Федеральной Армии через технологию ОГАС, содержат программы, которые помогают в прицеливании и измерении параметров стрельбы.</TY_A_Fighter_chip_A.description>
+  <TY_A_Fighter_chip_A.labelNoun>ОГАС: Базовый чип стрельбы</TY_A_Fighter_chip_A.labelNoun>
+
+  <TY_A_ShingLanArm.label>Сельскохозяйственная рука Речной Долины</TY_A_ShingLanArm.label>
+  <TY_A_ShingLanArm.description>Вторая Атомная Революция принесла совершенно новые экологически чистые источники энергии, а вместе с ними и новые протезные технологии.</TY_A_ShingLanArm.description>
+
+
+  <!-- 物品 -->
+
+  <TY_A_Rudimentary_handicraft_ShingLanArm.label>ОГАС: Базовый чип ремесла</TY_A_Rudimentary_handicraft_ShingLanArm.label>
+  <TY_A_Rudimentary_handicraft_ShingLanArm.description>Встроенный поиск и энциклопедия, обобщённая ИИ, для повышения эффективности работы.\nКак говорится, самая бледная чернила лучше самой лучшей памяти, но для тех, кто овладел навыками через практику, её улучшение ограничено.\nПоскольку это всего лишь энциклопедия, обобщённая ИИ, это только базовый чип навыков.</TY_A_Rudimentary_handicraft_ShingLanArm.description>
+
+  <TY_A_military_ShingLanArm.label>ОГАС: Базовый чип животных</TY_A_military_ShingLanArm.label>
+  <TY_A_military_ShingLanArm.description>Встроенный поиск и энциклопедия, обобщённая ИИ, для повышения эффективности работы.\nКак говорится, самая бледная чернила лучше самой лучшей памяти, но для тех, кто овладел навыками через практику, её улучшение ограничено.\nПоскольку это всего лишь энциклопедия, обобщённая ИИ, это только базовый чип навыков.</TY_A_military_ShingLanArm.description>
+
+  <TY_A_engineer_ShingLanArm.label>ОГАС: Базовый интеллектуальный чип</TY_A_engineer_ShingLanArm.label>
+  <TY_A_engineer_ShingLanArm.description>Встроенный поиск и энциклопедия, обобщённая ИИ, для повышения эффективности работы.\nКак говорится, самая бледная чернила лучше самой лучшей памяти, но для тех, кто овладел навыками через практику, её улучшение ограничено.\nПоскольку это всего лишь энциклопедия, обобщённая ИИ, это только базовый чип навыков.</TY_A_engineer_ShingLanArm.description>
+
+  <TY_Treatment_of_foam_A_A.label>ОГАС: Базовый медицинский чип</TY_Treatment_of_foam_A_A.label>
+  <TY_Treatment_of_foam_A_A.description>Встроенный поиск и энциклопедия, обобщённая ИИ, для повышения эффективности работы.\nКак говорится, самая бледная чернила лучше самой лучшей памяти, но для тех, кто овладел навыками через практику, её улучшение ограничено.\nПоскольку это всего лишь энциклопедия, обобщённая ИИ, это только базовый чип навыков.</TY_Treatment_of_foam_A_A.description>
+
+  <TY_D_moderate_A.label>Наномашины: Чип замедления</TY_D_moderate_A.label>
+  <TY_D_moderate_A.description>Путем манипуляции наномашинами для излучения специальных сигналов, которые замедляют человеческий нервный центр, что приводит к замедлению движения.</TY_D_moderate_A.description>
+
+  <TY_Treatment_of_foam_A.label>Наномашины: Чип перевязки B</TY_Treatment_of_foam_A.label>
+  <TY_Treatment_of_foam_A.description>Путем манипуляции наномашинами для блокировки ран и высвобождения лечебных химических веществ для достижения быстрой перевязки и лечебных эффектов.</TY_Treatment_of_foam_A.description>
+
+  <TY_A_Fighter_chip.label>Наномашины: Базовый чип стрельбы B</TY_A_Fighter_chip.label>
+  <TY_A_Fighter_chip.description>Базовый чип стрельбы, широко развёрнутый в военных через технологию ОГАС, улучшает навык стрельбы, усиливая сетчатку и сенсорную систему через наномашины.</TY_A_Fighter_chip.description>
+
+  <TY_combat_A.label>Наномашины: Базовый чип ближнего боя B</TY_combat_A.label>
+  <TY_combat_A.description>Путем манипуляции наномашинами для усиления мышц и костей, улучшая возможности ближнего боя.</TY_combat_A.description>
+
+  <TY_B_hemostasis_AA.label>Остановка кровотечения</TY_B_hemostasis_AA.label>
+  <TY_B_hemostasis_AA.description>Путем манипуляции наномашинами для быстрой закупорки раны с целью остановки кровотечения, но всё ещё существует риск заражения.</TY_B_hemostasis_AA.description>
+  <TY_B_hemostasis_AA.labelNoun>Остановка кровотечения</TY_B_hemostasis_AA.labelNoun>
+
+  <TY_B_hemostasis_A.label>Наномашины: Чип остановки кровотечения</TY_B_hemostasis_A.label>
+  <TY_B_hemostasis_A.description>Путем манипуляции наномашинами для быстрой закупорки раны с целью остановки кровотечения, но всё ещё существует риск заражения.</TY_B_hemostasis_A.description>
+
+  <TY_B_relievepain_AA.label>Анальгезия</TY_B_relievepain_AA.label>
+  <TY_B_relievepain_AA.description>Путем манипуляции наномашинами для высвобождения специальных химических сигналов, это блокирует передачу боли. Но, пожалуйста, будьте предупреждены: это не залечивает раны.</TY_B_relievepain_AA.description>
+  <TY_B_relievepain_AA.labelNoun>Анальгезия</TY_B_relievepain_AA.labelNoun>
+
+  <TY_B_relievepain_A.label>Наномашины: Чип анальгезии</TY_B_relievepain_A.label>
+  <TY_B_relievepain_A.description>Путем манипуляции наномашинами для высвобождения специальных химических сигналов, это блокирует передачу боли. Но, пожалуйста, будьте предупреждены: это не залечивает раны.</TY_B_relievepain_A.description>
+
+  <TY_BerserkPulse_A.label>Наномашины: Чип индивидуального берсерк-импульса</TY_BerserkPulse_A.label>
+  <TY_BerserkPulse_A.description>Путем манипуляции наномашинами для высвобождения специальных сигналов для нарушения нервной системы врага, это делает врага временно берсерком.</TY_BerserkPulse_A.description>
+
+  <TY_C_Stun_A_A.label>Наномашины: Чип оглушения</TY_C_Stun_A_A.label>
+  <TY_C_Stun_A_A.description>Путем манипуляции наномашинами для высвобождения специальных сигналов для нарушения нервной системы врага, это оглушает и останавливает врага.</TY_C_Stun_A_A.description>
+
+  <TY_Invisibility_A.label>Наномашины: Чип невидимости</TY_Invisibility_A.label>
+  <TY_Invisibility_A.description>Путем высвобождения наномашин для прикрепления к поверхности тела и изменения природы наномашин, это достигает эффекта оптического камуфляжа.</TY_Invisibility_A.description>
+
+  <TY_A_C_Sian_Weinstein.label>Наномашины: Чип Сандевистан</TY_A_C_Sian_Weinstein.label>
+  <TY_A_C_Sian_Weinstein.description>Путем манипуляции наномашинами для передачи сигналов ускорения в нервную систему, тело Синтетика входит в состояние полного ускоренного перегруза. Скорость настолько экстремальна, что оставляет только остаточные изображения в зрении обычных людей.</TY_A_C_Sian_Weinstein.description>
+
+  <TY_A_C_Sian_Weinstein_AA.label>Сандевистан активирован</TY_A_C_Sian_Weinstein_AA.label>
+  <TY_A_C_Sian_Weinstein_AA.description>Сандевистан активирован</TY_A_C_Sian_Weinstein_AA.description>
+  <!-- <TY_A_C_Sian_Weinstein_AA.labelNoun>Sandevistan Activated</TY_A_C_Sian_Weinstein_AA.labelNoun> -->
+
+  <TY_A_C_Bully_chip.label>Наномашины: Чип момента неуязвимости</TY_A_C_Bully_chip.label>
+  <TY_A_C_Bully_chip.description>Путем активации всех наноструктур внутри Синтетика, позволяя им быть активными и постоянно ремонтировать тело для владельца, чтобы выдерживать урон и ускорять функционирование тела, чтобы достичь короткого периода времени для получения сверхчеловеческого и бессмертного тела.</TY_A_C_Bully_chip.description>
+
+  <TY_A_C_Bully_chip_AA.label>Момент неуязвимости!!</TY_A_C_Bully_chip_AA.label>
+  <TY_A_C_Bully_chip_AA.description>"Гипер Мутеки"!! (Из Камен Райдер Ex-Aid)</TY_A_C_Bully_chip_AA.description>
+  <TY_A_C_Bully_chip_AA.labelNoun>Путем быстрого потребления активированных наномашин во всех частях тела, активируя и быстро обёртывая и ремонтируя тело, это позволяет пешкам достичь сверхнеуязвимого времени.</TY_A_C_Bully_chip_AA.labelNoun>
+
+  <TY_BulletShield_A.label>Наномашины: Чип большого щита</TY_BulletShield_A.label>
+  <TY_BulletShield_A.description>Высвобождает нанопыль в воздух для формирования большого щита, который блокирует дальнобойные атаки, за цену блокировки исходящих дальнобойных атак, запущенных изнутри по врагам.\nРазвёртывание крупномасштабного щита наномашин вызывает перегрузку и перегрев чипа, требуя 14-часового периода охлаждения.</TY_BulletShield_A.description>
+
+  <TY_Resurrected_Nanomechanical_Devices_A.label>Чип воскрешающих наномашин</TY_Resurrected_Nanomechanical_Devices_A.label>
+  <TY_Resurrected_Nanomechanical_Devices_A.description>Чип воскрешающих наномашин</TY_Resurrected_Nanomechanical_Devices_A.description>
+
+  <TY_Wallraise_A.label>Наномашины: Чип поднятия стены</TY_Wallraise_A.label>
+  <TY_Wallraise_A.description>Путем манипуляции наномашинами для быстрого расширения для формирования затвердевшей пены, чтобы действовать как укрытие.</TY_Wallraise_A.description>
+
+  <TY_D_moderate_AA.label>Замедление</TY_D_moderate_AA.label>
+  <TY_D_moderate_AA.description>Путем манипуляции наномашинами для излучения специальных сигналов, это замедляет проведение человеческого нервного центра, что приводит к замедлению скорости движения.</TY_D_moderate_AA.description>
+  <TY_D_moderate_AA.labelNoun>Замедление</TY_D_moderate_AA.labelNoun>
+
+  <TY_D_moderate_AAA.label>Наномашины: Чип замедления</TY_D_moderate_AAA.label>
+  <TY_D_moderate_AAA.description>Путем манипуляции наномашинами для излучения специальных сигналов, это замедляет проведение человеческого нервного центра, что приводит к замедлению скорости движения.</TY_D_moderate_AAA.description>
+
+  <TY_DriveSjump_A.label>Наномашины: Чип прыжка</TY_DriveSjump_A.label>
+  <TY_DriveSjump_A.description>Путем манипуляции наномашинами для усиления мышц ног, это позволяет пешкам прыгать на большое расстояние.</TY_DriveSjump_A.description>
+
+  <TestBioc.label>ТестБиок</TestBioc.label>
+  <TestBioc.description>Тест.</TestBioc.description>
+
+  <TestState.label>ТестСостояние</TestState.label>
+  <TestState.description>Тест.</TestState.description>
+
+
+</LanguageData>

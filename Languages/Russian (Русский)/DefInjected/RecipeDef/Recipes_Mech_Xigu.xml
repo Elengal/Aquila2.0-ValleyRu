@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_Hexin.label>Изготовить продвинутое субъядро</Make_Hexin.label>
+  <Make_Hexin.description>Изготовить продвинутое субъядро</Make_Hexin.description>
+
+  <Make_HexinW.label>Изготовить стандартное субъядро</Make_HexinW.label>
+  <Make_HexinW.description>Изготовить стандартное субъядро</Make_HexinW.description>
+  <Make_HexinW.jobString>изготавливает стандартное субъядро</Make_HexinW.jobString>
+
+  <TY_A_check_A.label>Вырастить транспортного робота "Лось"-1</TY_A_check_A.label>
+  <TY_A_check_A.description>Вырастить транспортного робота "Лось"-1.</TY_A_check_A.description>
+  <TY_A_check_A.jobString>выращивает механоида.</TY_A_check_A.jobString>
+
+  <Make_MJipu.label>Вырастить робота 0-173</Make_MJipu.label>
+  <Make_MJipu.description>Вырастить робота 0-173.</Make_MJipu.description>
+  <Make_MJipu.jobString>выращивает механоида.</Make_MJipu.jobString>
+
+  <TY_Make_A_Agrihand.label>Вырастить трактор "Фермер"-9</TY_Make_A_Agrihand.label>
+  <TY_Make_A_Agrihand.description>Вырастить трактор "Фермер"-9.</TY_Make_A_Agrihand.description>
+  <TY_Make_A_Agrihand.jobString>выращивает механоида.</TY_Make_A_Agrihand.jobString>
+
+  <Make_MLiM.label>Вырастить боевого робота "Аврора"-9</Make_MLiM.label>
+  <Make_MLiM.description>Вырастить боевого робота "Аврора"-9.</Make_MLiM.description>
+  <Make_MLiM.jobString>выращивает механоида.</Make_MLiM.jobString>
+
+  <Make_MNurse.label>Вырастить медицинского робота "Маленькая медсестра"</Make_MNurse.label>
+  <Make_MNurse.description>Вырастить медицинского робота "Маленькая медсестра".</Make_MNurse.description>
+  <Make_MNurse.jobString>выращивает механоида.</Make_MNurse.jobString>
+
+  <Make_Nurse_QET.label>Вырастить снайперского робота "Алёша"</Make_Nurse_QET.label>
+  <Make_Nurse_QET.description>Вырастить снайперского робота "Алёша"</Make_Nurse_QET.description>
+  <Make_Nurse_QET.jobString>выращивает механоида.</Make_Nurse_QET.jobString>
+
+  <Make_MXwS.label>Вырастить механизированную броню "Кроталь"-94</Make_MXwS.label>
+  <Make_MXwS.description>Вырастить механизированную броню "Кроталь"-94.</Make_MXwS.description>
+  <Make_MXwS.jobString>выращивает механоида.</Make_MXwS.jobString>
+
+  <Make_MChengBao_C.label>Вырастить большой беспилотный летательный аппарат ближнего боя "Прорыв"-1</Make_MChengBao_C.label>
+  <Make_MChengBao_C.description>Вырастить большой беспилотный летательный аппарат ближнего боя "Прорыв"-1.</Make_MChengBao_C.description>
+  <Make_MChengBao_C.jobString>выращивает механоида.</Make_MChengBao_C.jobString>
+
+  <Make_MChengBao.label>Вырастить щитового робота "Движущаяся крепость"-96</Make_MChengBao.label>
+  <Make_MChengBao.description>Вырастить щитового робота "Движущаяся крепость"-96.</Make_MChengBao.description>
+  <Make_MChengBao.jobString>выращивает механоида.</Make_MChengBao.jobString>
+
+  <Make_Mech_Diabolus.label>Вырастить тяжёлую артиллерийскую броню "Сжигатель"-3</Make_Mech_Diabolus.label>
+  <Make_Mech_Diabolus.description>Вырастить тяжёлую артиллерийскую броню "Сжигатель"-3.</Make_Mech_Diabolus.description>
+  <Make_Mech_Diabolus.jobString>выращивает механоида.</Make_Mech_Diabolus.jobString>
+
+  <Mech_A_battle_fortress_A.label>Вырастить беспилотную боевую крепость "Королева пчёл"-9</Mech_A_battle_fortress_A.label>
+  <Mech_A_battle_fortress_A.description>Вырастить беспилотную боевую крепость "Королева пчёл"-9</Mech_A_battle_fortress_A.description>
+  <Mech_A_battle_fortress_A.jobString>выращивает механоида.</Mech_A_battle_fortress_A.jobString>
+
+
+  <!-- EN: 制作高级次生核心 -->
+  <!-- EN: Doing an unknown recipe. -->
+  <!--<Make_Hexin.jobString>TODO</Make_Hexin.jobString>-->
+  <!-- EN: 培育堡垒护盾机 -->
+  <!-- EN: 培育机器人 -->
+  <!-- EN: Gestating mechanoid. -->
+  <!-- EN: 培育0-173 -->
+  <!-- EN: 培育黎明作战机器人 -->
+  <!-- EN: 培育机械护士 -->
+  <!-- EN: 培育响尾蛇机甲 -->
+  <!-- EN: G培育机器人 -->
+
+</LanguageData>

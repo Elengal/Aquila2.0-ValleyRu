@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Aquila2.0-Valley - Русификатор</name>
+  <author>Elengal, Dmitry6</author>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <packageId>Elengal.Aquila20ValleyRU</packageId>
+  <description>Русификатор для мода [TY2.0] Aquila 2.0 Valley (Долина Орла).
+
+Авторы перевода:
+• Elengal
+• Dmitry6
+
+Требуется мод Aquila 2.0 Valley.</description>
+  <modDependencies>
+    <li>
+      <packageId>TYll.valley</packageId>
+      <displayName>[TY2.0] Aquila2.0 Valley</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3280990469</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>Elengal.RimWorldRU</packageId>
+      <displayName>RimWorld RU</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3615283148</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>Elengal.Aquila20CoreRU</packageId>
+      <displayName>Aquila2.0-Core RU</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3607397722</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>Elengal.HARRU</packageId>
+      <displayName>Humanoid Alien Races RU</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3616740991</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>TYll.valley</li>
+	<li>Elengal.HARRU</li>
+    <li>Elengal.Aquila20CoreRU</li>
+  </loadAfter>
+</ModMetaData>
+

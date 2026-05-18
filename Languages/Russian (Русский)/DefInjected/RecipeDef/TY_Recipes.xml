@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_LBHW_AtBT.label>Изготовить ракету "Гроза" *6</TY_A_LBHW_AtBT.label>
+  <TY_A_LBHW_AtBT.description>Изготовить ракету "Гроза" *6.</TY_A_LBHW_AtBT.description>
+  <TY_A_LBHW_AtBT.jobString>Изготавливает ракету "Гроза"</TY_A_LBHW_AtBT.jobString>
+
+  <TY_A_LBHW_AtBT_D.label>Изготовить ракету "Гроза" с ЭМИ *3</TY_A_LBHW_AtBT_D.label>
+  <TY_A_LBHW_AtBT_D.description>Изготовить ракету "Гроза" с ЭМИ *3.</TY_A_LBHW_AtBT_D.description>
+  <TY_A_LBHW_AtBT_D.jobString>Изготавливает ракету "Гроза" с ЭМИ</TY_A_LBHW_AtBT_D.jobString>
+
+  <TY_A_Corpse_oil.label>Извлечь и переработать</TY_A_Corpse_oil.label>
+  <TY_A_Corpse_oil.description>Извлечь и переработать Химтопливо *100 из одного трупа.</TY_A_Corpse_oil.description>
+  <TY_A_Corpse_oil.jobString>Извлекает и перерабатывает химтопливо из пиролиза трупа.</TY_A_Corpse_oil.jobString>
+
+  <TY_A_Make_ChemfuelFromWood.label>Переработать химтопливо *40 из промышленной кукурузы Федерации</TY_A_Make_ChemfuelFromWood.label>
+  <TY_A_Make_ChemfuelFromWood.description>Переработать химтопливо из промышленной кукурузы.</TY_A_Make_ChemfuelFromWood.description>
+  <TY_A_Make_ChemfuelFromWood.jobString>Работает на перерабатывающем предприятии</TY_A_Make_ChemfuelFromWood.jobString>
+
+
+</LanguageData>

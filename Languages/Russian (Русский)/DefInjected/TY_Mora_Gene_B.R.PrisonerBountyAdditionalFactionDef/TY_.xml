@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 额外允许的阵营列表 -->
+
+  <TY_A_AdditionalAllowedFactions.label>Дополнительно разрешённые враждебные фракции</TY_A_AdditionalAllowedFactions.label>
+  <TY_A_AdditionalAllowedFactions.description>Заключённые из этих фракций будут разрешены для использования в миссиях награды.</TY_A_AdditionalAllowedFactions.description>
+
+
+</LanguageData>

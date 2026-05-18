@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <TY_A_OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_definite]: Товарищ, приветствие! Наша разведывательная команда обнаружила группу Белых бандитов, которые создали военный аванпост рядом с вашей базой, терроризируя наши караваны и близлежащие деревни.\nМы просим вас помочь нам уничтожить этот аванпост Белых бандитов и устранить врагов и турели внутри.</li>
+  </TY_A_OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
+  <TY_A_OpportunitySite_BanditCamp.questNameRules.rulesStrings>
+    <li>camp->Лагерь</li>
+    <li>camp->Аванпост</li>
+    <li>camp->Логово</li>
+    <li>camp->Укреплённый пункт</li>
+    <li>bandit->Белые бандиты</li>
+    <li>bandit->Контрреволюционные силы</li>
+    <li>bandit->Белая армия</li>
+    <li>bandit->Реакционные силы</li>
+    <li>bandit->Бандиты и агенты</li>
+  </TY_A_OpportunitySite_BanditCamp.questNameRules.rulesStrings>
+  <TY_A_OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>Миссия истекла:</TY_A_OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>
+  <TY_A_OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>[asker_definite]: Похоже, Белые бандиты ушли до вашей атаки, мы сожалеем об этом. Мы продолжим преследование самостоятельно.</TY_A_OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>
+  <TY_A_OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>Миссия провалена:</TY_A_OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>
+  <TY_A_OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>[asker_definite]: Мы сожалеем услышать, что ваша миссия провалилась из-за несчастного случая.</TY_A_OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>
+  <TY_A_OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>Награда прибыла</TY_A_OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>
+  <TY_A_OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>[asker_definite]: Спасибо, товарищи, за отличную работу, которую вы проделали, уничтожив аванпост Белых бандитов!\n\nНаграда от {0} прибыла.</TY_A_OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>
+  <TY_A_OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</TY_A_OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>
+  <TY_A_OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>[asker_definite]: Я хотел бы узнать, кто из вас, товарищей, собирается получить награду за эту миссию?</TY_A_OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
+  
+</LanguageData>

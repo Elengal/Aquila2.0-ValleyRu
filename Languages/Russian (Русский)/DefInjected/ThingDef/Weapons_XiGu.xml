@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_Aeis_Bullet.label>25мм фугасная граната</TY_A_Aeis_Bullet.label>
+  <TY_A_Aeis_Bullet_Q.label>25мм бронебойная граната</TY_A_Aeis_Bullet_Q.label>
+  <TY_A_Aeis_Bullet_W.label>25мм ЭМИ граната</TY_A_Aeis_Bullet_W.label>
+
+  <TY_A_Aeis_Weapon.label>Гранатомёт "Алиса"</TY_A_Aeis_Weapon.label>
+  <TY_A_Aeis_Weapon.description>Гранатомёт "Алиса" — это гранатомёт, разработанный Федерацией Речной Долины в 5484 году. Он использует призму из лазерной винтовки "Вифиер" в качестве устройства зажигания, при этом расширяя дальность за счёт добавления безреактивных двигателей к оснащённым гранатным боеголовкам.</TY_A_Aeis_Weapon.description>
+
+  <TY_A_Zsmg_Bullet.label>Быстрострельный слабый лазер</TY_A_Zsmg_Bullet.label>
+
+  <TY_A_Zsmg_Weapon.label>Вифиер-U</TY_A_Zsmg_Weapon.label>
+  <TY_A_Zsmg_Weapon.description>Модифицированная конструкция на основе лазерной винтовки "Вифиер", решающая давнюю проблему Федерации Речной Долины с возможностью подавления огня лазерного оружия. Выдаётся экипажам транспортных средств и боевым подразделениям второй линии в качестве лёгкого лазерного оружия. Хотя его урон не исключителен, он выигрывает гибкостью и портативностью.</TY_A_Zsmg_Weapon.description>
+
+  <TY_A_Zsmg_Bullet_Z.label>Быстрострельный лазер</TY_A_Zsmg_Bullet_Z.label>
+
+  <TY_A_Zsmg_Weapon_Z.label>Ахка-63 штыкового типа</TY_A_Zsmg_Weapon_Z.label>
+  <TY_A_Zsmg_Weapon_Z.description>Винтовка средней мощности Федерации Речной Долины, принятая на вооружение в 1960-х годах. Хотя сегодня она устарела, Ахка-63 широко вооружает Красную Гвардию правительством Красного Сектора в мире окраины.</TY_A_Zsmg_Weapon_Z.description>
+
+  <TY_A_Wifier_Bullet.label>Лазер средней мощности</TY_A_Wifier_Bullet.label>
+
+  <TY_A_Wifier_Weapon.label>Лазерная винтовка "Вифиер"</TY_A_Wifier_Weapon.label>
+  <TY_A_Wifier_Weapon.description>Лазерная винтовка "Вифиер", также известная как винтовка типа 93, — это новая боевая винтовка, разработанная и спроектированная арсеналом Карл-Москов в 5493 году.\nТрубчатый улучшенный конденсатор внутри оружия и принятие новой трёхскладной структуры направляющего зеркала дают винтовке типа 93 более высокую точность и более длительную выносливость, чем винтовка предыдущего поколения Ка-Мо 85.\nОна начала развёртывание в войсках Федерации Речной Долины в 5495 году.</TY_A_Wifier_Weapon.description>
+
+  <TY_A_Wifier_Weapon_A.label>Лазерная винтовка "Вифиер" (Режим фокусировки)</TY_A_Wifier_Weapon_A.label>
+  <TY_A_Wifier_Weapon_A.description>В этом режиме враг подвергается воздействию сфокусированного лазера в течение длительного времени, и урон переключается на тепловой урон.</TY_A_Wifier_Weapon_A.description>
+
+  <TY_A_BigX_Bullet.label>30мм противотанковый снаряд</TY_A_BigX_Bullet.label>
+
+  <TY_A_BigX_Weapon.label>30мм противотанковая пушка "Пустынная кавалерия"</TY_A_BigX_Weapon.label>
+  <TY_A_BigX_Weapon.description>Дальнейшая модификация и разработка индивидуальной противотанковой пушки периода Межзвёздного Освобождения, использующая реактивные боеголовки и улучшенные механизмы стрельбы. Причина, по которой она называется "Пустынная кавалерия", заключается в том, что прототип этого оружия в период Межзвёздного Освобождения обычно использовался коренным племенем "Чёрное захоронение" в качестве ручного индивидуального оружия для пустынной кавалерии.</TY_A_BigX_Weapon.description>
+
+  <TY_A_JungleDragon_Weapon.label>Безоткатное орудие "Дракон джунглей-U"</TY_A_JungleDragon_Weapon.label>
+  <TY_A_JungleDragon_Weapon.description>Безоткатное орудие, которое просто уменьшает вес и улучшает механизм стрельбы, появляется как аномалия в системе Аквила, которая массово производила причудливое оружие с древних времён. Однако гетерогенные энергетические снаряды, которые оно стреляет, могут растворять вражескую броню внешне.</TY_A_JungleDragon_Weapon.description>
+
+  <TY_A_JungleDragon_Bullet.label>Снаряд безоткатного орудия "Дракон джунглей-U"</TY_A_JungleDragon_Bullet.label>
+  <TY_A_heterogeneous_Lightweight_exploration_energy_projectile.label>Гетерогенные энергетические снаряды</TY_A_heterogeneous_Lightweight_exploration_energy_projectile.label>
+
+  <TY_A_heterogeneous.label>Винтовка Гаусса</TY_A_heterogeneous.label>
+  <TY_A_heterogeneous.description>Винтовка Гаусса</TY_A_heterogeneous.description>
+
+  <TY_A_BigX_Weapon_P.label>Ракетная установка 9K1114</TY_A_BigX_Weapon_P.label>
+  <TY_A_BigX_Weapon_P.description>Портативная ракетная установка с инфракрасным автоматическим наведением.</TY_A_BigX_Weapon_P.description>
+
+  <TY_N_CiHeX_Bullet_A.label>3.24мм магнитный зарядный патрон</TY_N_CiHeX_Bullet_A.label>
+
+  <TY_A_N_CiHeX_Weapon.label>Многоцелевое ружьё Федерации</TY_A_N_CiHeX_Weapon.label>
+  <TY_A_N_CiHeX_Weapon.description>Модификация цепного ружья на основе дизайна старой эры, позволяющая стрелять разными патронами.</TY_A_N_CiHeX_Weapon.description>
+
+
+  <!-- EN: 破片弹 -->
+  <!-- EN: 爱尼斯榴弹枪 -->
+  <!-- EN: 一把专门使用榴弹的枪械. -->
+  <!-- EN: 枪托 -->
+  <!--<TY_A_Aeis_Weapon.tools.0.label>TODO</TY_A_Aeis_Weapon.tools.0.label>-->
+  <!--<TY_A_Aeis_Weapon.verbs.Verb_Shoot.label>TODO</TY_A_Aeis_Weapon.verbs.Verb_Shoot.label>-->
+  <!-- EN: 炮弹 -->
+  <!-- EN: X-重驽 -->
+  <!-- EN: 无后坐力炮,但太重了,不适合执行机密任务. -->
+  <!--<TY_A_BigX_Weapon.tools.0.label>TODO</TY_A_BigX_Weapon.tools.0.label>-->
+  <!--<TY_A_BigX_Weapon.verbs.Verb_Shoot.label>TODO</TY_A_BigX_Weapon.verbs.Verb_Shoot.label>-->
+  <!-- EN: 丛林龙炮弹 -->
+  <!-- EN: 丛林龙火炮 -->
+  <!-- EN: 专门针对机械蜈蚣所设计的武器 -->
+  <!--<TY_A_JungleDragon_Weapon.verbs.Verb_ShootOneUse.label>TODO</TY_A_JungleDragon_Weapon.verbs.Verb_ShootOneUse.label>-->
+  <!-- EN: 激光 -->
+  <!-- EN: 微菲尔步枪 -->
+  <!-- EN: 微菲尔步枪又称93式激光步枪。于5493年由卡尔莫斯科夫冰工厂研发并设计出来的新型战斗步枪。\n枪械内部的管状升级电容与采用了全新的导向镜三折结构，为93式步枪带来了比上一代卡莫-85步枪更高的精准度与更强的续航能力。\n于95年开始列装于联邦部队。 -->
+  <!--<TY_A_Wifier_Weapon.tools.0.label>TODO</TY_A_Wifier_Weapon.tools.0.label>-->
+  <!--<TY_A_Wifier_Weapon.verbs.Verb_Shoot.label>TODO</TY_A_Wifier_Weapon.verbs.Verb_Shoot.label>-->
+  <!-- EN: 子弹 -->
+  <!-- EN: 泽淘冲锋枪(双持) -->
+  <!-- EN: 溪谷联邦为了应对战争匆忙制造的武器,因为容易构造简单,只要拥有图纸就能制作.有人说,这就是古代的Tec9. -->
+  <!--<TY_A_Zsmg_Weapon.verbs.Verb_Shoot.label>TODO</TY_A_Zsmg_Weapon.verbs.Verb_Shoot.label>-->
+
+</LanguageData>
+

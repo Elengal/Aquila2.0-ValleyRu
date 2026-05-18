@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 速度提升效果 -->
+
+  <MechSpeedBoost.label>Увеличение скорости</MechSpeedBoost.label>
+  <MechSpeedBoost.description>Скорость механоида была увеличена.</MechSpeedBoost.description>
+
+
+  <!-- 效率提升效果 -->
+
+  <MechEfficiencyBoost.label>Увеличение эффективности</MechEfficiencyBoost.label>
+  <MechEfficiencyBoost.description>Трудовая эффективность механоида была увеличена.</MechEfficiencyBoost.description>
+
+
+  <!-- 健康提升效果 -->
+
+  <MechHealthBoost.label>Увеличение брони</MechHealthBoost.label>
+  <MechHealthBoost.description>Броня механоидов была увеличена.</MechHealthBoost.description>
+
+
+  <!-- 装甲升级升级模块 -->
+
+  <MechSpeedBoost_WRJ.label>Модуль улучшения беспилотного летательного аппарата "Гроза-TK19 Гроза"</MechSpeedBoost_WRJ.label>
+  <MechSpeedBoost_WRJ.description>Механоид был улучшен.</MechSpeedBoost_WRJ.description>
+
+
+</LanguageData>

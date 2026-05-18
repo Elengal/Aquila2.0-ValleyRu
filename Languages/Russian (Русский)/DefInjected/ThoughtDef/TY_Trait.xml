@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Ahateinjusticelikepoison.stages.0.label>Праведный гнев</Ahateinjusticelikepoison.stages.0.label>
+  <Ahateinjusticelikepoison.stages.0.description>[PAWN_nameDef] не мог[PAWN_verb] терпеть такие преступные деяния, как торговля органами и тяжёлыми наркотиками, из чувства справедливости в [PAWN_possessive] сердце.</Ahateinjusticelikepoison.stages.0.description>
+
+  <TYKnowGuestOrganHarvested.stages.0.label>Возмущение из-за изъятия и торговли органами</TYKnowGuestOrganHarvested.stages.0.label>
+  <TYKnowGuestOrganHarvested.stages.0.description>Применение смертной казни к самым отвратительным преступникам среди них могло бы быть приемлемым. Но действовать из жадности заставило бы нас опуститься до их же уровня порочности, что абсолютно недопустимо!</TYKnowGuestOrganHarvested.stages.0.description>
+
+  <TYYKnowGuestOrganHarvested.stages.0.label>Возмущение из-за изъятия и торговли органами</TYYKnowGuestOrganHarvested.stages.0.label>
+  <TYYKnowGuestOrganHarvested.stages.0.description>Применение смертной казни к самым отвратительным преступникам среди них могло бы быть приемлемым. Но действовать из жадности заставило бы нас опуститься до их же уровня порочности, что абсолютно недопустимо!</TYYKnowGuestOrganHarvested.stages.0.description>
+
+
+</LanguageData>

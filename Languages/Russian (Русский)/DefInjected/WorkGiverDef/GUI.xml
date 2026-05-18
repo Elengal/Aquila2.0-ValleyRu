@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 工作给予者定义 -->
+
+  <WorkGiver_RadioStation.label>Управлять консолью связи</WorkGiver_RadioStation.label>
+  <WorkGiver_RadioStation.verb>Управлять</WorkGiver_RadioStation.verb>
+  <WorkGiver_RadioStation.gerund>Управляет консолью связи</WorkGiver_RadioStation.gerund>
+
+
+</LanguageData>

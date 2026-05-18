@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 这玩意儿不能写buff上去，他不会接受你必须写个仿生体上去，他才会读取那仿生体对应的buff 太难我阐述你的梦( -->
+
+  <TY_A_Mech_Terror_Drone_B.label>&lt;color=#e3f514&gt;&lt;b&gt;Распад&lt;/b&gt;&lt;/color&gt;</TY_A_Mech_Terror_Drone_B.label>
+  <TY_A_Mech_Terror_Drone_B.description>Распад</TY_A_Mech_Terror_Drone_B.description>
+  <TY_A_Mech_Terror_Drone_B.stages.0.label>&lt;color=#e3f514&gt;&lt;b&gt;Распад&lt;/b&gt;&lt;/color&gt;</TY_A_Mech_Terror_Drone_B.stages.0.label>
+  <TY_A_Mech_Terror_Drone_B.stages.1.label>&lt;color=#e3f514&gt;&lt;b&gt;Распад&lt;/b&gt;&lt;/color&gt;</TY_A_Mech_Terror_Drone_B.stages.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 定义了一个名为TY_A_ShuttleCrashingSkyfallerBase的物体，它继承自ShuttleSkyfallerBase（一个假设存在的天空坠落物基础类型） -->
+
+  <TY_A_ShuttleCrashing.label>Шаттл (Падающий)</TY_A_ShuttleCrashing.label>
+
+
+  <!-- 定义了一个名为TY_A_ShuttleCrashedExitable的物体，它继承自TY_A_ShuttleCrashedBase（一个假设存在的坠毁穿梭机基础类型） -->
+
+  <TY_A_ShuttleCrashed_Exitable.label>Повреждённый космический корабль Федерации</TY_A_ShuttleCrashed_Exitable.label>
+  <TY_A_ShuttleCrashed_Exitable.description>Шаттл космических технологий на урановом топливе, предназначенный для перелётов между поверхностью и орбитой или между лунами планетарной системы. Для предотвращения несанкционированного использования шаттл заблокирован биометрической подписью пилота.</TY_A_ShuttleCrashed_Exitable.description>
+
+
+  <!-- 定义了一个基于TY_A_ShuttleCrashedExitable的物体 -->
+
+  <TY_A_ShuttleCrashed_Exitable_Mechanitor.label>Разбившийся корабль механитора</TY_A_ShuttleCrashed_Exitable_Mechanitor.label>
+  <TY_A_ShuttleCrashed_Exitable_Mechanitor.description>Корабль ближнего действия, используемый механитором для перевозки механоидов при полётах на низкой орбите или планетарных перелётах.</TY_A_ShuttleCrashed_Exitable_Mechanitor.description>
+
+
+  <!-- 定义了一个基于ShuttleBase的物体，表示坠毁的飞船基础类型 -->
+
+  <TY_A_ShuttleCrashed.label>Повреждённый космический корабль Федерации</TY_A_ShuttleCrashed.label>
+  <TY_A_ShuttleCrashed.description>Шаттл космических технологий на урановом топливе, предназначенный для перелётов между поверхностью и орбитой или между лунами планетарной системы. Для предотвращения несанкционированного использования шаттл заблокирован биометрической подписью пилота.</TY_A_ShuttleCrashed.description>
+
+  <TY_A_Spacedrone.label>Спутник Старой Федерации Речной Долины</TY_A_Spacedrone.label>
+  <TY_A_Spacedrone.description>Спутник эпохи Старой Федерации Речной Долины, дистанционно управляемый здесь Федерацией Речной Долины. Вам нужно взломать его, а затем получить награду в виде очков. (*Примечание: после завершения взлома данные будут автоматически загружены, и система самоуничтожения будет активирована.)</TY_A_Spacedrone.description>
+
+
+  <!-- 定义一个从天而降的飞船物体（继承自ShuttleSkyfallerBase基础类） -->
+
+  <TY_A_ShuttleIncomingPrisonVan.label>Тюремный шаттл (Спускающийся)</TY_A_ShuttleIncomingPrisonVan.label>
+  <TY_A_ShuttleLeavingPrisonVan.label>Тюремный шаттл (Поднимающийся)</TY_A_ShuttleLeavingPrisonVan.label>
+
+  <TY_A_ShuttlePrisonVan.label>Тюремный шаттл</TY_A_ShuttlePrisonVan.label>
+  <TY_A_ShuttlePrisonVan.description>Тюремный шаттл.</TY_A_ShuttlePrisonVan.description>
+
+
+</LanguageData>
+

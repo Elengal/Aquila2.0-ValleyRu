@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_Miniature_super_ion_capacitor_A.label>Произвести микро супер ионный конденсатор</TY_A_Miniature_super_ion_capacitor_A.label>
+  <TY_A_Miniature_super_ion_capacitor_A.description>Произвести микро супер ионный конденсатор.</TY_A_Miniature_super_ion_capacitor_A.description>
+  <TY_A_Miniature_super_ion_capacitor_A.jobString>производит микро супер ионный конденсатор</TY_A_Miniature_super_ion_capacitor_A.jobString>
+
+  <TY_A_Production_of_Semi_finished_PowerfocusChip_chips.label>Использовать полуфабрикат чипа фокусировки для производства наноструктурного чипа</TY_A_Production_of_Semi_finished_PowerfocusChip_chips.label>
+  <TY_A_Production_of_Semi_finished_PowerfocusChip_chips.description>Использовать полуфабрикат чипа фокусировки для производства наноструктурного чипа.</TY_A_Production_of_Semi_finished_PowerfocusChip_chips.description>
+  <TY_A_Production_of_Semi_finished_PowerfocusChip_chips.jobString>использует полуфабрикат чипа фокусировки для производства наноструктурного чипа</TY_A_Production_of_Semi_finished_PowerfocusChip_chips.jobString>
+
+  <TY_A_Production_of_Semi_finished_nanostructured_chips.label>Использовать полуфабрикат наноструктурного чипа для производства наноструктурного чипа</TY_A_Production_of_Semi_finished_nanostructured_chips.label>
+  <TY_A_Production_of_Semi_finished_nanostructured_chips.description>Использовать полуфабрикат наноструктурного чипа для производства наноструктурного чипа.</TY_A_Production_of_Semi_finished_nanostructured_chips.description>
+  <TY_A_Production_of_Semi_finished_nanostructured_chips.jobString>использует полуфабрикат наноструктурного чипа для производства наноструктурного чипа</TY_A_Production_of_Semi_finished_nanostructured_chips.jobString>
+
+  <TY_A_Production_of_nano_therapeutic_solvents.label>Произвести нанотерапевтические растворители</TY_A_Production_of_nano_therapeutic_solvents.label>
+  <TY_A_Production_of_nano_therapeutic_solvents.description>Произвести нанотерапевтические растворители.</TY_A_Production_of_nano_therapeutic_solvents.description>
+  <TY_A_Production_of_nano_therapeutic_solvents.jobString>Работает на предприятии производства органики</TY_A_Production_of_nano_therapeutic_solvents.jobString>
+
+
+</LanguageData>

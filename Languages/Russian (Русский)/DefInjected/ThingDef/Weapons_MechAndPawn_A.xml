@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZCZD_AtB.label>Патрон 12.5x50мм</ZCZD_AtB.label>
+
+  <ZCLFP_A_Weapon.label>Оружейная система: Пулемёт боевого робота ополчения</ZCLFP_A_Weapon.label>
+  <ZCLFP_A_Weapon.description>Пулемёт боевого робота ополчения имеет улучшенную ёмкость метательного заряда, скорость проектирования и точность, демонстрируя превосходные характеристики.</ZCLFP_A_Weapon.description>
+
+  <ZCLFP_A_WRJ.label>Оружейная система: Лазерная пушка беспилотного летательного аппарата "Гроза-TK19"</ZCLFP_A_WRJ.label>
+  <ZCLFP_A_WRJ.description>Лазер с короткой дальностью и низким уроном лучше, чем ничего.</ZCLFP_A_WRJ.description>
+
+
+  <!-- 注意这玩意是炮塔 -->
+
+  <MJiZQ_A_BRM3A.label>Оружейная система: Граната самоходной колёсной гаубицы мехособаки</MJiZQ_A_BRM3A.label>
+  <MJiZQ_A_BRM3A.description>Граната 25мм</MJiZQ_A_BRM3A.description>
+
+  <MJiZQ_A_MiniUMV_P.label>Оружейная система: Самоходное колёсное миномётное транспортное средство</MJiZQ_A_MiniUMV_P.label>
+  <MJiZQ_A_MiniUMV_P.description>Граната 25мм</MJiZQ_A_MiniUMV_P.description>
+
+  <TY_A_Aeis_MiniUMVHE.label>Фугасная граната самоходного колёсного миномётного транспортного средства</TY_A_Aeis_MiniUMVHE.label>
+
+  <MJiZQ_A_MiniUMV.label>Оружейная система: Самоходное колёсное миномётное транспортное средство</MJiZQ_A_MiniUMV.label>
+  <MJiZQ_A_MiniUMV.description>Граната 25мм</MJiZQ_A_MiniUMV.description>
+
+  <MJiZQ_A_JiXieTi.label>Оружейная система: Огнемётное транспортное средство</MJiZQ_A_JiXieTi.label>
+  <MJiZQ_A_JiXieTi.description>Оружейная система: Огнемётное транспортное средство</MJiZQ_A_JiXieTi.description>
+
+  <MJiZQ_A_HSMG.label>Оружейная система: Тяжёлый пистолет-пулемёт</MJiZQ_A_HSMG.label>
+  <MJiZQ_A_HSMG.description>Оружейная система: Тяжёлый пистолет-пулемёт</MJiZQ_A_HSMG.description>
+
+  <TY_A_Bullet_HeavySMG.label>Оружейная система: Патрон тяжёлого пистолета-пулемёта</TY_A_Bullet_HeavySMG.label>
+
+  <MJiZQ_A_HSMG_A.label>Оружейная система: Головка пистолета-пулемёта</MJiZQ_A_HSMG_A.label>
+  <MJiZQ_A_HSMG_A.description>Оружейная система: Головка пистолета-пулемёта</MJiZQ_A_HSMG_A.description>
+
+
+</LanguageData>
+

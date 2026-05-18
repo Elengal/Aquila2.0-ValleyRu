@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AtPlayer_Factions.label>Пионеры Федерации</AtPlayer_Factions.label>
+  <AtPlayer_Factions.description>Вы — бывшие граждане Федеральных миров Долины Рек. Авария во время перелёта к новому колониальному миру или разведывательной экспедиции обернулась крушением на Окраине. Здесь вас ждут и дружелюбные поселенцы с племенами, и беспощадные пираты. Что бы ни случилось — держитесь вместе, выживайте и строите своё новое будущее.</AtPlayer_Factions.description>
+  <AtPlayer_Factions.pawnsPlural>пионеры</AtPlayer_Factions.pawnsPlural>
+
+
+  <!-- EN: 联邦拓荒者 -->
+  <!-- EN: 你们原本是生活在溪谷联邦统领星域内的平民,因为一些事故啊,比如前往新加盟国或者探索新星域等事情发生了意外,飞船坠落到了边缘世界.这个边缘世界有善良的外来者和部落,也有无恶不作的海盗们.但不管如何,一定要拼命地活下去! -->
+  <!-- EN: leader -->
+  <!--<AtPlayer_Factions.leaderTitle>TODO</AtPlayer_Factions.leaderTitle>-->
+  <!-- EN: AtPawn_A_PlayerDrivsS -->
+  <!--<AtPlayer_Factions.pawnSingular>TODO</AtPlayer_Factions.pawnSingular>-->
+
+</LanguageData>

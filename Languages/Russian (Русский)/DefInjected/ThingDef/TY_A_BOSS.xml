@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_AInduced_signal_transmitter.label>Искатель ядер Гаусса</TY_A_AInduced_signal_transmitter.label>
+  <TY_A_AInduced_signal_transmitter.description>Специальное механическое устройство связи. При активации излучает импульс определённого частотного диапазона, который привлечёт механоидов, оснащённых ядрами Гаусса. Если вы сможете их победить, вы получите ядро Гаусса. Сигнальный импульс сжигает антенну, поэтому это устройство можно использовать только один раз.</TY_A_AInduced_signal_transmitter.description>
+  <Blueprint_TY_A_AInduced_signal_transmitter.label>Искатель ядер Гаусса (чертёж)</Blueprint_TY_A_AInduced_signal_transmitter.label>
+  <Frame_TY_A_AInduced_signal_transmitter.label>Искатель ядер Гаусса (строительство)</Frame_TY_A_AInduced_signal_transmitter.label>
+  <Frame_TY_A_AInduced_signal_transmitter.description>Специальное механическое устройство связи. При активации излучает импульс определённого частотного диапазона, который привлечёт механоидов, оснащённых ядрами Гаусса. Если вы сможете их победить, вы получите ядро Гаусса. Сигнальный импульс сжигает антенну, поэтому это устройство можно использовать только один раз.</Frame_TY_A_AInduced_signal_transmitter.description>
+
+  <TY_A_Nano_scale_industrial_core_components.label>Наноразмерные промышленные основные компоненты</TY_A_Nano_scale_industrial_core_components.label>
+  <TY_A_Nano_scale_industrial_core_components.description>Промышленный производственный компонент с исключительно превосходными характеристиками. Его производство делает возможным производить на земле некоторые предметы, которые изначально можно было изготовить только в космосе. Очевидно, ваши колонисты не могут напрямую изготовить это. Вы можете полагаться только на привлечение рейдов специальными механоидами, чтобы получить этот драгоценный компонент.</TY_A_Nano_scale_industrial_core_components.description>
+
+
+</LanguageData>
+

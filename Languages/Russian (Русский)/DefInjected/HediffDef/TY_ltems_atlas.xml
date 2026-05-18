@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_titanium_alloy_B_A.label>Медленное восстановление наномашин</TY_A_titanium_alloy_B_A.label>
+  <TY_A_titanium_alloy_B_A.description>Нанококтейль медленно диффундирует наномашины в кровоток и по всему телу для пополнения недостающих наномашин.</TY_A_titanium_alloy_B_A.description>
+  <TY_A_titanium_alloy_B_A.labelNoun>Нанококтейль</TY_A_titanium_alloy_B_A.labelNoun>
+
+  <TY_A_titanium_alloy_A_A.label>Военное восстановление наномашин</TY_A_titanium_alloy_A_A.label>
+  <TY_A_titanium_alloy_A_A.description>Военная наносыворотка быстро пополняет наномашины в телах боевых солдат, позволяя выполнять различные боевые техники.</TY_A_titanium_alloy_A_A.description>
+  <TY_A_titanium_alloy_A_A.labelNoun>Военная наносыворотка</TY_A_titanium_alloy_A_A.labelNoun>
+
+
+</LanguageData>

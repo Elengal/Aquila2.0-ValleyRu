@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Торговые рынки -->
+  <AdvancedWeaponsMarket.marketDescription>Текущая репутация: {0}
+
+"Товарищ, пожалуйста, выберите необходимую вам военную помощь. (• v• ̳)。"</AdvancedWeaponsMarket.marketDescription>
+
+  <FangJunXG_YuanZhu.marketDescription>Текущая репутация: {0}
+
+"Товарищ, пожалуйста, выберите необходимую вам помощь бронезащитой. (• v• ̳)。"</FangJunXG_YuanZhu.marketDescription>
+
+  <XG_Gkj_JXzs.marketDescription>Текущая репутация: {0}
+
+"Товарищ, пожалуйста, выберите необходимую вам помощь механическими центрами. ( ̳• v • ̳)。"</XG_Gkj_JXzs.marketDescription>
+
+  <XG_Gkj_OGAS.marketDescription>Текущая репутация: {0}
+
+"Товарищ, пожалуйста, выберите необходимую вам помощь ОГАС и чипами. ( ̳• v • ̳)。"</XG_Gkj_OGAS.marketDescription>
+
+  <XG_JCyuanliao.marketDescription>Текущая репутация: {0}
+
+"Товарищ, пожалуйста, выберите необходимую вам помощь сырьём. ( ̳• v • ̳)。"</XG_JCyuanliao.marketDescription>
+
+  <XG_DianZhiLingJian_JiaGongPing.marketDescription>Текущая репутация: {0}
+
+"Товарищ, пожалуйста, выберите необходимую вам помощь электронными компонентами. ( ̳• v • ̳)。"</XG_DianZhiLingJian_JiaGongPing.marketDescription>
+
+  <WuanZuXiangMu_CongJiQiangCJQ.marketDescription>Текущая репутация: {0}
+
+"Товарищ, пожалуйста, выберите необходимую вам помощь психическим оружием. ( ̳• v • ̳)。"</WuanZuXiangMu_CongJiQiangCJQ.marketDescription>
+
+  <MedicalSuppliesMarket.marketDescription>Текущая репутация: {0}
+
+"Товарищ, пожалуйста, выберите необходимую вам помощь медикаментами. ( ̳• v • ̳)。"</MedicalSuppliesMarket.marketDescription>
+
+</LanguageData>
+

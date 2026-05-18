@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_Corpse_Oil_Smelter_A.label>Очищать</TY_A_Corpse_Oil_Smelter_A.label>
+  <TY_A_Corpse_Oil_Smelter_A.verb>Очищать</TY_A_Corpse_Oil_Smelter_A.verb>
+  <TY_A_Corpse_Oil_Smelter_A.gerund>Очищает</TY_A_Corpse_Oil_Smelter_A.gerund>
+
+  <TY_A_XG_PengRenTai_A.label>Готовить</TY_A_XG_PengRenTai_A.label>
+  <TY_A_XG_PengRenTai_A.verb>Готовить</TY_A_XG_PengRenTai_A.verb>
+  <TY_A_XG_PengRenTai_A.gerund>Готовит</TY_A_XG_PengRenTai_A.gerund>
+
+
+  <!-- <ThingDef ParentName="BuildingBase">
+    <defName>TY_A_RV_Disappearer_JailTransporter</defName>
+    <label>审判传送器</label>
+    <description>那些对人民实施了极其残忍的统治的派系领袖及他们的同伙将遭到正义的审判(也就是部分高价值目标以及海盗帝国还有光辉领袖)</description>
+    <thingClass>RV_Assemblie.Building_RV_Disappearer</thingClass>
+    <containedPawnsSelectable>true</containedPawnsSelectable>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.3</fillPercent>
+    <graphicData>
+      <texPath>Things/Buildings/XG_3_CuanSong</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(4.00,4.00)</drawSize>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+    <building>
+      <buildingTags>
+      </buildingTags>
+      <subcoreScannerOutputDef>SubcoreRegular</subcoreScannerOutputDef>
+      <subcoreScannerStartEffect>SubcoreSoftscanner_Start</subcoreScannerStartEffect>
+      <subcoreScannerWorking>SubcoreSoftscanner_Working</subcoreScannerWorking>
+      <subcoreScannerComplete>SubcoreSoftscanner_Complete</subcoreScannerComplete>
+      <subcoreScannerHediff>ScanningSickness</subcoreScannerHediff>
+    </building>
+    <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+    <designationCategory>AtlasTab</designationCategory>
+    <uiOrder>2430</uiOrder>
+    <canOverlapZones>false</canOverlapZones>
+    <size>(2,2)</size>
+    <rotatable>false</rotatable>
+    <hasInteractionCell>true</hasInteractionCell>
+    <interactionCellOffset>(0,0,-1)</interactionCellOffset>
+    <statBases>
+      <Mass>25</Mass>
+      <Flammability>0.5</Flammability>
+      <WorkToBuild>8000</WorkToBuild>
+      <MaxHitPoints>250</MaxHitPoints>
+    </statBases>
+    <costList>
+      <Steel>200</Steel>
+      <Plasteel>50</Plasteel>
+      <ComponentIndustrial>4</ComponentIndustrial>
+    </costList>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>150</basePowerConsumption>
+      </li>
+      <li Class="CompProperties_Flickable"/>
+      <li Class="RV_Assemblie.CompProperties_RV_Disappearer">
+        <faction>Atlas_Faction</faction>
+        <initIcon>Things/UI/XG_3_LaoGai</initIcon>
+		<insertPersonIcon>Things/UI/XG_3_LaoGai</insertPersonIcon>
+        <transportingTicks>240</transportingTicks>
+        <wantedList>
+          <li>
+            <label>帝国皇帝</label>
+            <pawnKindDefs>
+              <li>Empire_Royal_Stellarch</li>
+            </pawnKindDefs>
+            <thingRewards>
+              <TY_A_senior_exploit>1</TY_A_senior_exploit>
+            </thingRewards>
+          </li>
+          <li>
+            <label>帝国贵族</label>
+            <pawnKindDefs>
+              <li>Empire_Royal_NobleWimp</li>
+			   <li>Empire_Royal_Praetor</li>
+            </pawnKindDefs>
+            <thingRewards>
+              <TY_A_intermediate_exploit>1</TY_A_intermediate_exploit>
+            </thingRewards>
+          </li>
+		   <li>
+            <label>毒性海盗头目</label>
+            <pawnKindDefs>
+              <li>PirateBossTox</li>
+            </pawnKindDefs>
+            <thingRewards>
+              <TY_A_intermediate_exploit>1</TY_A_intermediate_exploit>
+            </thingRewards>
+          </li>
+        </wantedList>
+      </li>
+    </comps>
+    <tickerType>Normal</tickerType>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <researchPrerequisites>
+      <li>TY_A_RV_Disappearer_JailTransporter</li>
+    </researchPrerequisites>
+  </ThingDef> -->
+
+  <RV_WorkGiver_CarryToDisappearer.label>Отнести к машине</RV_WorkGiver_CarryToDisappearer.label>
+  <RV_WorkGiver_CarryToDisappearer.verb>Отнести</RV_WorkGiver_CarryToDisappearer.verb>
+  <RV_WorkGiver_CarryToDisappearer.gerund>Относит</RV_WorkGiver_CarryToDisappearer.gerund>
+
+
+</LanguageData>

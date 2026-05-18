@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_EMP.label>Плазменный импульс</TY_EMP.label>
+  <TY_EMP.deathMessage>{0} был убит плазменным импульсом.</TY_EMP.deathMessage>
+
+  <TY_ToxGas.label>Белый фосфор</TY_ToxGas.label>
+  <TY_ToxGas.deathMessage>{0} был убит белым фосфором.</TY_ToxGas.deathMessage>
+
+  <TY_Bomb.label>Нано-эрозионные боеголовки</TY_Bomb.label>
+  <TY_Bomb.deathMessage>{0} был разъеден до смерти нано-эрозией.</TY_Bomb.deathMessage>
+
+  <TY_A_Scratch.label>Нано-эрозионные царапины</TY_A_Scratch.label>
+  <TY_A_Scratch.deathMessage>{0} был исцарапан до смерти нано-эрозией.</TY_A_Scratch.deathMessage>
+
+  <TY_A_ScratchToxic.label>Нано-эрозия</TY_A_ScratchToxic.label>
+  <TY_A_ScratchToxic.deathMessage>{0} был разъеден до смерти нано-эрозией.</TY_A_ScratchToxic.deathMessage>
+
+  <TY_A_Copper_head_belt_beating.label>Медный ремень с пряжкой</TY_A_Copper_head_belt_beating.label>
+  <TY_A_Copper_head_belt_beating.deathMessage>{0} был забит до смерти медным ремнём с пряжкой.</TY_A_Copper_head_belt_beating.deathMessage>
+
+  <TY_A_HotShao.label>Плазменный ожог</TY_A_HotShao.label>
+  <TY_A_HotShao.deathMessage>{0} был сожжён до смерти плазменным ожогом.</TY_A_HotShao.deathMessage>
+
+  <TY_Damage_Laser_Beam.label>Лазерный ожог</TY_Damage_Laser_Beam.label>
+  <TY_Damage_Laser_Beam.deathMessage>{0} был сожжён до смерти лазером.</TY_Damage_Laser_Beam.deathMessage>
+
+
+</LanguageData>

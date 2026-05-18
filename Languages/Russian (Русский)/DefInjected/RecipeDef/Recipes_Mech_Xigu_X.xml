@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_JiPu.label>Вырастить механоида-пса "Доберман"-4</Make_JiPu.label>
+  <Make_JiPu.description>Вырастить механоида-пса "Доберман"-4.</Make_JiPu.description>
+  <Make_JiPu.jobString>выращивает механоида.</Make_JiPu.jobString>
+
+  <Make_WRJ.label>Вырастить беспилотный летательный аппарат "Гроза-TK19 Гроза"</Make_WRJ.label>
+  <Make_WRJ.description>Вырастить беспилотный летательный аппарат "Гроза-TK19 Гроза".</Make_WRJ.description>
+  <Make_WRJ.jobString>выращивает механоида.</Make_WRJ.jobString>
+
+  <Make_BRM2A.label>Вырастить робота милиции "Легион"-1</Make_BRM2A.label>
+  <Make_BRM2A.description>Вырастить робота милиции "Легион"-1.</Make_BRM2A.description>
+  <Make_BRM2A.jobString>выращивает механоида.</Make_BRM2A.jobString>
+
+  <Make_BRM3A.label>Вырастить механоида-пса "Охотничий Тигр"-3 самоходную колёсную гаубицу</Make_BRM3A.label>
+  <Make_BRM3A.description>Вырастить механоида-пса "Охотничий Тигр"-3 самоходную колёсную гаубицу.</Make_BRM3A.description>
+  <Make_BRM3A.jobString>выращивает механоида.</Make_BRM3A.jobString>
+
+  <Make_MiniUMV.label>Вырастить самоходную колёсную миномётную машину "Праща"-7</Make_MiniUMV.label>
+  <Make_MiniUMV.description>Вырастить самоходную колёсную миномётную машину "Праща"-7</Make_MiniUMV.description>
+  <Make_MiniUMV.jobString>выращивает механоида.</Make_MiniUMV.jobString>
+
+  <Make_JiXieTi.label>Вырастить огнемётную машину</Make_JiXieTi.label>
+  <Make_JiXieTi.description>Вырастить огнемётную машину</Make_JiXieTi.description>
+  <Make_JiXieTi.jobString>выращивает механоида.</Make_JiXieTi.jobString>
+
+  <Make_TY_A_Mech_GongBingJQR.label>Вырастить строительного робота "Гигантская Обезьяна"-7</Make_TY_A_Mech_GongBingJQR.label>
+  <Make_TY_A_Mech_GongBingJQR.description>Вырастить строительного робота "Гигантская Обезьяна"-7</Make_TY_A_Mech_GongBingJQR.description>
+  <Make_TY_A_Mech_GongBingJQR.jobString>выращивает механоида.</Make_TY_A_Mech_GongBingJQR.jobString>
+
+
+</LanguageData>

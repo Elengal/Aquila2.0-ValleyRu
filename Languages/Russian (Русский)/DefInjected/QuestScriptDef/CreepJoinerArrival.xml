@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 定义一个任务脚本定义（QuestScriptDef），名称为"CreepjoinerArrivalBase"，并标记为抽象（Abstract="True"） -->
+
+  <TY_A_CreepJoinerArrival.questDescriptionRules.rulesStrings.0>questDescription-&gt;ползун-присоединяющийся</TY_A_CreepJoinerArrival.questDescriptionRules.rulesStrings.0>
+  <TY_A_CreepJoinerArrival.questNameRules.rulesStrings.0>questDescription-&gt;ползун-присоединяющийся</TY_A_CreepJoinerArrival.questNameRules.rulesStrings.0>
+
+
+</LanguageData>

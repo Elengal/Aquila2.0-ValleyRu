@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 定义一个名为TY_BaseMechanoidWalker的机械族基础单位，该定义是抽象的，不会直接生成实体 -->
+
+  <TY_A_Mech_Apocriton.label>Сверхкрупная туннельная машина "Дождевой червь"-78</TY_A_Mech_Apocriton.label>
+  <TY_A_Mech_Apocriton.description>Сверхкрупная туннельная машина, разработанная Федерацией Речной Долины в 5478 году.\nЭтот похожий на червя механоид для земляных работ, оснащённый ядром Гаусса, использует импульсы Гаусса для быстрого подземного туннельного бурения.\nЕго массивный размер и мощные импульсные лучи дают "Дождевому червю"-78 огромную разрушительную способность.\nИзначальной целью "Дождевого червя"-78 было выкапывание массивных подземных проходов или рытьё под землёй, выпуская специальные химикаты для изменения состава почвы и облегчения строительства экосистем на бесплодных планетах.\nОднако во время фазы технической доработки этот проект механоида был заброшен из-за создания Суверенной Конфедерации (фактически роспуска Федерации Речной Долины). Прототип, оставленный на исследовательском объекте окраинного мира, был обратно спроектирован механоидами.</TY_A_Mech_Apocriton.description>
+  <TY_A_Mech_Apocriton.tools.0.label>Голова</TY_A_Mech_Apocriton.tools.0.label>
+  <!-- Flesh Type: Mechanoid -->
+  <Corpse_TY_A_Mech_Apocriton.label>Труп сверхкрупной туннельной машины "Дождевой червь"-78</Corpse_TY_A_Mech_Apocriton.label>
+  <Corpse_TY_A_Mech_Apocriton.description>Труп сверхкрупной туннельной машины "Дождевой червь"-78</Corpse_TY_A_Mech_Apocriton.description>
+
+
+  <!-- 定义一个名为TY_BaseMechanoidWalker的机械族基础单位，该定义是抽象的，不会直接生成实体 -->
+
+  <TY_A_Lightweight_exploration_energy_cannon.label>Бурильщик луча Гаусса</TY_A_Lightweight_exploration_energy_cannon.label>
+  <TY_A_Lightweight_exploration_energy_cannon.description>Бурильщик луча Гаусса</TY_A_Lightweight_exploration_energy_cannon.description>
+  <TY_A_Lightweight_exploration_energy_cannon.tools.0.label>Мономолекулярное щупальце-лезвие</TY_A_Lightweight_exploration_energy_cannon.tools.0.label>
+
+  <TY_A_Lightweight_exploration_energy_projectile.label>Луч Гаусса</TY_A_Lightweight_exploration_energy_projectile.label>
+
+
+</LanguageData>
+

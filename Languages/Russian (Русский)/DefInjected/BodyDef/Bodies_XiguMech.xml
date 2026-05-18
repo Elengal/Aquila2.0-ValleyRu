@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 坦克，机甲，直升机↓ -->
+
+  <XiGuMechBodyPart.label>Модуль механоида Речной Долины</XiGuMechBodyPart.label>
+  <XiGuMechBodyPart.corePart.parts.0.customLabel>Броня</XiGuMechBodyPart.corePart.parts.0.customLabel>
+  <XiGuMechBodyPart.corePart.parts.1.customLabel>Главная внешняя структура</XiGuMechBodyPart.corePart.parts.1.customLabel>
+  <XiGuMechBodyPart.corePart.parts.1.parts.0.customLabel>Реактор</XiGuMechBodyPart.corePart.parts.1.parts.0.customLabel>
+  <XiGuMechBodyPart.corePart.parts.1.parts.1.customLabel>Датчик</XiGuMechBodyPart.corePart.parts.1.parts.1.customLabel>
+  <XiGuMechBodyPart.corePart.parts.1.parts.2.customLabel>Левый оружейный модуль</XiGuMechBodyPart.corePart.parts.1.parts.2.customLabel>
+  <XiGuMechBodyPart.corePart.parts.1.parts.3.customLabel>Правый оружейный модуль</XiGuMechBodyPart.corePart.parts.1.parts.3.customLabel>
+  <XiGuMechBodyPart.corePart.parts.1.parts.4.customLabel>Левый манёвренный модуль</XiGuMechBodyPart.corePart.parts.1.parts.4.customLabel>
+  <XiGuMechBodyPart.corePart.parts.1.parts.5.customLabel>Правый манёвренный модуль</XiGuMechBodyPart.corePart.parts.1.parts.5.customLabel>
+
+
+  <!-- 工程机甲↓ -->
+
+  <XG_GongCheng.label>Инженерный модуль Речной Долины</XG_GongCheng.label>
+  <XG_GongCheng.corePart.parts.0.customLabel>Броня</XG_GongCheng.corePart.parts.0.customLabel>
+  <XG_GongCheng.corePart.parts.1.customLabel>Главная внешняя структура</XG_GongCheng.corePart.parts.1.customLabel>
+  <XG_GongCheng.corePart.parts.1.parts.0.customLabel>Реактор</XG_GongCheng.corePart.parts.1.parts.0.customLabel>
+  <XG_GongCheng.corePart.parts.1.parts.1.customLabel>Датчик</XG_GongCheng.corePart.parts.1.parts.1.customLabel>
+  <XG_GongCheng.corePart.parts.1.parts.2.customLabel>Левый оружейный модуль</XG_GongCheng.corePart.parts.1.parts.2.customLabel>
+  <XG_GongCheng.corePart.parts.1.parts.3.customLabel>Правый оружейный модуль</XG_GongCheng.corePart.parts.1.parts.3.customLabel>
+  <XG_GongCheng.corePart.parts.1.parts.4.customLabel>Левое колесо механоида</XG_GongCheng.corePart.parts.1.parts.4.customLabel>
+  <XG_GongCheng.corePart.parts.1.parts.5.customLabel>Правое колесо механоида</XG_GongCheng.corePart.parts.1.parts.5.customLabel>
+
+
+  <!-- 护盾机甲↓ -->
+
+  <XiGuMechShieldBP.label>Модуль механоида Речной Долины</XiGuMechShieldBP.label>
+  <XiGuMechShieldBP.corePart.parts.0.customLabel>Броня</XiGuMechShieldBP.corePart.parts.0.customLabel>
+  <XiGuMechShieldBP.corePart.parts.1.customLabel>Главная внешняя структура</XiGuMechShieldBP.corePart.parts.1.customLabel>
+  <XiGuMechShieldBP.corePart.parts.1.parts.0.customLabel>Реактор</XiGuMechShieldBP.corePart.parts.1.parts.0.customLabel>
+  <XiGuMechShieldBP.corePart.parts.1.parts.1.customLabel>Датчик</XiGuMechShieldBP.corePart.parts.1.parts.1.customLabel>
+  <XiGuMechShieldBP.corePart.parts.1.parts.2.customLabel>Левый оружейный модуль</XiGuMechShieldBP.corePart.parts.1.parts.2.customLabel>
+  <XiGuMechShieldBP.corePart.parts.1.parts.3.customLabel>Правый оружейный модуль</XiGuMechShieldBP.corePart.parts.1.parts.3.customLabel>
+  <XiGuMechShieldBP.corePart.parts.1.parts.4.customLabel>Левый манёвренный модуль</XiGuMechShieldBP.corePart.parts.1.parts.4.customLabel>
+  <XiGuMechShieldBP.corePart.parts.1.parts.5.customLabel>Правый манёвренный модуль</XiGuMechShieldBP.corePart.parts.1.parts.5.customLabel>
+
+  <TY_A_XiGuMechShieldBP.label>Модуль механоида Речной Долины</TY_A_XiGuMechShieldBP.label>
+  <TY_A_XiGuMechShieldBP.corePart.parts.0.customLabel>Броня</TY_A_XiGuMechShieldBP.corePart.parts.0.customLabel>
+  <TY_A_XiGuMechShieldBP.corePart.parts.1.customLabel>Главная внешняя структура</TY_A_XiGuMechShieldBP.corePart.parts.1.customLabel>
+  <TY_A_XiGuMechShieldBP.corePart.parts.1.parts.0.customLabel>Реактор</TY_A_XiGuMechShieldBP.corePart.parts.1.parts.0.customLabel>
+  <TY_A_XiGuMechShieldBP.corePart.parts.1.parts.1.customLabel>Датчик</TY_A_XiGuMechShieldBP.corePart.parts.1.parts.1.customLabel>
+  <TY_A_XiGuMechShieldBP.corePart.parts.1.parts.2.customLabel>Левый оружейный модуль</TY_A_XiGuMechShieldBP.corePart.parts.1.parts.2.customLabel>
+  <TY_A_XiGuMechShieldBP.corePart.parts.1.parts.3.customLabel>Правый оружейный модуль</TY_A_XiGuMechShieldBP.corePart.parts.1.parts.3.customLabel>
+  <TY_A_XiGuMechShieldBP.corePart.parts.1.parts.4.customLabel>Левый манёвренный модуль</TY_A_XiGuMechShieldBP.corePart.parts.1.parts.4.customLabel>
+  <TY_A_XiGuMechShieldBP.corePart.parts.1.parts.5.customLabel>Правый манёвренный модуль</TY_A_XiGuMechShieldBP.corePart.parts.1.parts.5.customLabel>
+  <TY_A_XiGuMechShieldBP.corePart.parts.2.customLabel>Башенка-луковица</TY_A_XiGuMechShieldBP.corePart.parts.2.customLabel>
+
+
+  <!-- 人形机械↓ -->
+
+  <XiGuRobotBP.label>Модуль механоида Речной Долины</XiGuRobotBP.label>
+  <XiGuRobotBP.corePart.parts.0.customLabel>Броня</XiGuRobotBP.corePart.parts.0.customLabel>
+  <XiGuRobotBP.corePart.parts.1.customLabel>Туловище</XiGuRobotBP.corePart.parts.1.customLabel>
+  <XiGuRobotBP.corePart.parts.1.parts.0.customLabel>Реактор</XiGuRobotBP.corePart.parts.1.parts.0.customLabel>
+  <XiGuRobotBP.corePart.parts.1.parts.1.customLabel>Голова</XiGuRobotBP.corePart.parts.1.parts.1.customLabel>
+  <XiGuRobotBP.corePart.parts.1.parts.1.parts.0.customLabel>Датчик</XiGuRobotBP.corePart.parts.1.parts.1.parts.0.customLabel>
+  <XiGuRobotBP.corePart.parts.1.parts.2.customLabel>Левая рука</XiGuRobotBP.corePart.parts.1.parts.2.customLabel>
+  <XiGuRobotBP.corePart.parts.1.parts.3.customLabel>Правая рука</XiGuRobotBP.corePart.parts.1.parts.3.customLabel>
+  <XiGuRobotBP.corePart.parts.1.parts.4.customLabel>Левая нога</XiGuRobotBP.corePart.parts.1.parts.4.customLabel>
+  <XiGuRobotBP.corePart.parts.1.parts.5.customLabel>Правая нога</XiGuRobotBP.corePart.parts.1.parts.5.customLabel>
+
+
+  <!-- 定义一个机械体（Q）的身体结构 -->
+
+  <TY_A_Mech_Centurion.label>Беспилотный модуль механоида Речной Долины</TY_A_Mech_Centurion.label>
+  <TY_A_Mech_Centurion.corePart.parts.0.parts.0.customLabel>Броня</TY_A_Mech_Centurion.corePart.parts.0.parts.0.customLabel>
+  <TY_A_Mech_Centurion.corePart.parts.0.parts.1.parts.1.customLabel>AN/AAS-114 Многоспектральный прицел</TY_A_Mech_Centurion.corePart.parts.0.parts.1.parts.1.customLabel>
+  <TY_A_Mech_Centurion.corePart.parts.0.parts.1.parts.2.customLabel>Инфракрасная система третьего поколения переднего обзора</TY_A_Mech_Centurion.corePart.parts.0.parts.1.parts.2.customLabel>
+  <TY_A_Mech_Centurion.corePart.parts.0.parts.1.parts.3.customLabel>Система определения местоположения огнестрельного оружия</TY_A_Mech_Centurion.corePart.parts.0.parts.1.parts.3.customLabel>
+  <TY_A_Mech_Centurion.corePart.parts.0.parts.1.parts.4.customLabel>Радиочастотная направленная антенная решётка</TY_A_Mech_Centurion.corePart.parts.0.parts.1.parts.4.customLabel>
+  <TY_A_Mech_Centurion.corePart.parts.1.customLabel>Нога механоида Федерации (Передняя левая)</TY_A_Mech_Centurion.corePart.parts.1.customLabel>
+  <TY_A_Mech_Centurion.corePart.parts.1.parts.0.customLabel>Стопа механоида Федерации (Передняя левая)</TY_A_Mech_Centurion.corePart.parts.1.parts.0.customLabel>
+  <TY_A_Mech_Centurion.corePart.parts.2.customLabel>Нога механоида Федерации (Передняя правая)</TY_A_Mech_Centurion.corePart.parts.2.customLabel>
+  <TY_A_Mech_Centurion.corePart.parts.2.parts.0.customLabel>Стопа механоида Федерации (Передняя правая)</TY_A_Mech_Centurion.corePart.parts.2.parts.0.customLabel>
+  <TY_A_Mech_Centurion.corePart.parts.3.customLabel>Нога механоида Федерации (Задняя левая)</TY_A_Mech_Centurion.corePart.parts.3.customLabel>
+  <TY_A_Mech_Centurion.corePart.parts.3.parts.0.customLabel>Стопа механоида Федерации (Задняя правая)</TY_A_Mech_Centurion.corePart.parts.3.parts.0.customLabel>
+  <TY_A_Mech_Centurion.corePart.parts.4.customLabel>Нога механоида Федерации (Задняя правая)</TY_A_Mech_Centurion.corePart.parts.4.customLabel>
+  <TY_A_Mech_Centurion.corePart.parts.4.parts.0.customLabel>Стопа механоида Федерации (Задняя правая)</TY_A_Mech_Centurion.corePart.parts.4.parts.0.customLabel>
+  <TY_A_Mech_Centurion.corePart.parts.8.customLabel>Башня</TY_A_Mech_Centurion.corePart.parts.8.customLabel>
+
+  <TY_A_Mech_Centurion_Q.label>Беспилотный модуль механоида Речной Долины (Версия с двойной гусеницей)</TY_A_Mech_Centurion_Q.label>
+  <TY_A_Mech_Centurion_Q.corePart.parts.0.parts.0.customLabel>Броня</TY_A_Mech_Centurion_Q.corePart.parts.0.parts.0.customLabel>
+  <TY_A_Mech_Centurion_Q.corePart.parts.0.parts.1.parts.1.customLabel>AN/AAS-114 Многоспектральный прицел</TY_A_Mech_Centurion_Q.corePart.parts.0.parts.1.parts.1.customLabel>
+  <TY_A_Mech_Centurion_Q.corePart.parts.0.parts.1.parts.2.customLabel>Инфракрасная система третьего поколения переднего обзора</TY_A_Mech_Centurion_Q.corePart.parts.0.parts.1.parts.2.customLabel>
+  <TY_A_Mech_Centurion_Q.corePart.parts.0.parts.1.parts.3.customLabel>Система определения местоположения огнестрельного оружия</TY_A_Mech_Centurion_Q.corePart.parts.0.parts.1.parts.3.customLabel>
+  <TY_A_Mech_Centurion_Q.corePart.parts.0.parts.1.parts.4.customLabel>Радиочастотная направленная антенная решётка</TY_A_Mech_Centurion_Q.corePart.parts.0.parts.1.parts.4.customLabel>
+  <TY_A_Mech_Centurion_Q.corePart.parts.1.customLabel>Сборка резиновой гусеницы с двойным штифтом (Передняя левая)</TY_A_Mech_Centurion_Q.corePart.parts.1.customLabel>
+  <TY_A_Mech_Centurion_Q.corePart.parts.1.parts.0.customLabel>Модульная гусеничная плита (Передняя левая)</TY_A_Mech_Centurion_Q.corePart.parts.1.parts.0.customLabel>
+  <TY_A_Mech_Centurion_Q.corePart.parts.2.customLabel>Сборка резиновой гусеницы с двойным штифтом (Передняя правая)</TY_A_Mech_Centurion_Q.corePart.parts.2.customLabel>
+  <TY_A_Mech_Centurion_Q.corePart.parts.2.parts.0.customLabel>Модульная гусеничная плита (Передняя правая)</TY_A_Mech_Centurion_Q.corePart.parts.2.parts.0.customLabel>
+  <TY_A_Mech_Centurion_Q.corePart.parts.6.customLabel>Башня</TY_A_Mech_Centurion_Q.corePart.parts.6.customLabel>
+
+
+  <!-- 定义一个机械体的身体结构 -->
+
+  <TY_A_Mech_Centurion_W.label>Беспилотный модуль механоида Речной Долины</TY_A_Mech_Centurion_W.label>
+  <TY_A_Mech_Centurion_W.corePart.parts.0.parts.0.customLabel>Броня</TY_A_Mech_Centurion_W.corePart.parts.0.parts.0.customLabel>
+  <TY_A_Mech_Centurion_W.corePart.parts.0.parts.1.parts.1.customLabel>AN/AAS-114 Многоспектральный прицел</TY_A_Mech_Centurion_W.corePart.parts.0.parts.1.parts.1.customLabel>
+  <TY_A_Mech_Centurion_W.corePart.parts.0.parts.1.parts.2.customLabel>Инфракрасная система третьего поколения переднего обзора</TY_A_Mech_Centurion_W.corePart.parts.0.parts.1.parts.2.customLabel>
+  <TY_A_Mech_Centurion_W.corePart.parts.0.parts.1.parts.3.customLabel>Система определения местоположения огнестрельного оружия</TY_A_Mech_Centurion_W.corePart.parts.0.parts.1.parts.3.customLabel>
+  <TY_A_Mech_Centurion_W.corePart.parts.0.parts.1.parts.4.customLabel>Радиочастотная направленная антенная решётка</TY_A_Mech_Centurion_W.corePart.parts.0.parts.1.parts.4.customLabel>
+  <TY_A_Mech_Centurion_W.corePart.parts.1.customLabel>Сборка резиновой гусеницы с двойным штифтом (Передняя левая)</TY_A_Mech_Centurion_W.corePart.parts.1.customLabel>
+  <TY_A_Mech_Centurion_W.corePart.parts.1.parts.0.customLabel>Модульная гусеничная плита (Передняя левая)</TY_A_Mech_Centurion_W.corePart.parts.1.parts.0.customLabel>
+  <TY_A_Mech_Centurion_W.corePart.parts.2.customLabel>Сборка резиновой гусеницы с двойным штифтом (Передняя правая)</TY_A_Mech_Centurion_W.corePart.parts.2.customLabel>
+  <TY_A_Mech_Centurion_W.corePart.parts.2.parts.0.customLabel>Модульная гусеничная плита (Передняя правая)</TY_A_Mech_Centurion_W.corePart.parts.2.parts.0.customLabel>
+  <TY_A_Mech_Centurion_W.corePart.parts.3.customLabel>Сборка резиновой гусеницы с двойным штифтом (Задняя левая)</TY_A_Mech_Centurion_W.corePart.parts.3.customLabel>
+  <TY_A_Mech_Centurion_W.corePart.parts.3.parts.0.customLabel>Модульная гусеничная плита (Задняя левая)</TY_A_Mech_Centurion_W.corePart.parts.3.parts.0.customLabel>
+  <TY_A_Mech_Centurion_W.corePart.parts.4.customLabel>Сборка резиновой гусеницы с двойным штифтом (Задняя правая)</TY_A_Mech_Centurion_W.corePart.parts.4.customLabel>
+  <TY_A_Mech_Centurion_W.corePart.parts.4.parts.0.customLabel>Модульная гусеничная плита (Задняя правая)</TY_A_Mech_Centurion_W.corePart.parts.4.parts.0.customLabel>
+  <TY_A_Mech_Centurion_W.corePart.parts.8.customLabel>Башня</TY_A_Mech_Centurion_W.corePart.parts.8.customLabel>
+
+
+  <!-- 联邦通用机器人形结构 -->
+
+  <TY_A_Mech_Centurion_E.label>Беспилотный модуль механоида Речной Долины</TY_A_Mech_Centurion_E.label>
+  <TY_A_Mech_Centurion_E.corePart.parts.0.parts.0.customLabel>Броня</TY_A_Mech_Centurion_E.corePart.parts.0.parts.0.customLabel>
+  <TY_A_Mech_Centurion_E.corePart.parts.0.parts.1.parts.1.customLabel>AN/AAS-114 Многоспектральный прицел</TY_A_Mech_Centurion_E.corePart.parts.0.parts.1.parts.1.customLabel>
+  <TY_A_Mech_Centurion_E.corePart.parts.0.parts.1.parts.2.customLabel>Инфракрасная система третьего поколения переднего обзора</TY_A_Mech_Centurion_E.corePart.parts.0.parts.1.parts.2.customLabel>
+  <TY_A_Mech_Centurion_E.corePart.parts.0.parts.1.parts.3.customLabel>Система определения местоположения огнестрельного оружия</TY_A_Mech_Centurion_E.corePart.parts.0.parts.1.parts.3.customLabel>
+  <TY_A_Mech_Centurion_E.corePart.parts.0.parts.1.parts.4.customLabel>Радиочастотная направленная антенная решётка</TY_A_Mech_Centurion_E.corePart.parts.0.parts.1.parts.4.customLabel>
+  <TY_A_Mech_Centurion_E.corePart.parts.1.customLabel>Двигатель (Левый)</TY_A_Mech_Centurion_E.corePart.parts.1.customLabel>
+  <TY_A_Mech_Centurion_E.corePart.parts.1.parts.0.customLabel>Лопасти двигателя (Левые)</TY_A_Mech_Centurion_E.corePart.parts.1.parts.0.customLabel>
+  <TY_A_Mech_Centurion_E.corePart.parts.2.customLabel>Двигатель (Правый)</TY_A_Mech_Centurion_E.corePart.parts.2.customLabel>
+  <TY_A_Mech_Centurion_E.corePart.parts.2.parts.0.customLabel>Лопасти двигателя (Правые)</TY_A_Mech_Centurion_E.corePart.parts.2.parts.0.customLabel>
+  <TY_A_Mech_Centurion_E.corePart.parts.6.customLabel>Башня</TY_A_Mech_Centurion_E.corePart.parts.6.customLabel>
+
+  <TY_A_robot.label>Универсальная структура андроида-механоида Федерации</TY_A_robot.label>
+  <TY_A_robot.corePart.parts.0.parts.0.parts.1.customLabel>Левый датчик зрения</TY_A_robot.corePart.parts.0.parts.0.parts.1.customLabel>
+  <TY_A_robot.corePart.parts.0.parts.0.parts.2.customLabel>Правый датчик зрения</TY_A_robot.corePart.parts.0.parts.0.parts.2.customLabel>
+  <TY_A_robot.corePart.parts.0.parts.0.parts.3.customLabel>Левый слуховой датчик</TY_A_robot.corePart.parts.0.parts.0.parts.3.customLabel>
+  <TY_A_robot.corePart.parts.0.parts.0.parts.4.customLabel>Правый слуховой датчик</TY_A_robot.corePart.parts.0.parts.0.parts.4.customLabel>
+  <TY_A_robot.corePart.parts.1.customLabel>Левое плечо андроида Федерации</TY_A_robot.corePart.parts.1.customLabel>
+  <TY_A_robot.corePart.parts.1.parts.0.customLabel>Левая рука андроида Федерации</TY_A_robot.corePart.parts.1.parts.0.customLabel>
+  <TY_A_robot.corePart.parts.1.parts.0.parts.0.customLabel>Левая кисть андроида Федерации</TY_A_robot.corePart.parts.1.parts.0.parts.0.customLabel>
+  <TY_A_robot.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>Левый мизинец андроида Федерации</TY_A_robot.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>
+  <TY_A_robot.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>Левый средний палец андроида Федерации</TY_A_robot.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>
+  <TY_A_robot.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>Левый указательный палец андроида Федерации</TY_A_robot.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>
+  <TY_A_robot.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>Левый большой палец андроида Федерации</TY_A_robot.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>
+  <TY_A_robot.corePart.parts.2.customLabel>Правое плечо андроида Федерации</TY_A_robot.corePart.parts.2.customLabel>
+  <TY_A_robot.corePart.parts.2.parts.0.customLabel>Правая рука андроида Федерации</TY_A_robot.corePart.parts.2.parts.0.customLabel>
+  <TY_A_robot.corePart.parts.2.parts.0.parts.0.customLabel>Правая кисть андроида Федерации</TY_A_robot.corePart.parts.2.parts.0.parts.0.customLabel>
+  <TY_A_robot.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>Правый мизинец андроида Федерации</TY_A_robot.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>
+  <TY_A_robot.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>Правый средний палец андроида Федерации</TY_A_robot.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>
+  <TY_A_robot.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>Правый указательный палец андроида Федерации</TY_A_robot.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>
+  <TY_A_robot.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>Правый большой палец андроида Федерации</TY_A_robot.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>
+  <TY_A_robot.corePart.parts.3.customLabel>Правая нога андроида Федерации</TY_A_robot.corePart.parts.3.customLabel>
+  <TY_A_robot.corePart.parts.3.parts.0.customLabel>Правая стопа андроида Федерации</TY_A_robot.corePart.parts.3.parts.0.customLabel>
+  <TY_A_robot.corePart.parts.4.customLabel>Правая нога андроида Федерации</TY_A_robot.corePart.parts.4.customLabel>
+  <TY_A_robot.corePart.parts.4.parts.0.customLabel>Правая стопа андроида Федерации</TY_A_robot.corePart.parts.4.parts.0.customLabel>
+
+
+  <!-- EN: 溪谷机械模块 -->
+  <!-- EN: 装甲 -->
+  <!-- EN: 主外结构 -->
+  <!-- EN: 反应堆 -->
+  <!-- EN: 传感器 -->
+  <!-- EN: 左武器系统 -->
+  <!-- EN: 右武器系统 -->
+  <!-- EN: 左机动系统 -->
+  <!-- EN: 右机动系统 -->
+  <!-- EN: 躯干 -->
+  <!-- EN: 头部 -->
+  <!-- EN: 左臂 -->
+  <!-- EN: 右臂 -->
+  <!-- EN: 左腿 -->
+  <!-- EN: 右腿 -->
+
+</LanguageData>

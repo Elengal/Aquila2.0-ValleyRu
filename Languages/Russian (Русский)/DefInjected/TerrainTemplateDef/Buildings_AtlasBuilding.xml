@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bridge can be built here  地形承受能力 -->
+
+  <TY_Carpet.label>Ковер ({0})</TY_Carpet.label>
+  <TY_Carpet.description>Ковер</TY_Carpet.description>
+
+
+</LanguageData>

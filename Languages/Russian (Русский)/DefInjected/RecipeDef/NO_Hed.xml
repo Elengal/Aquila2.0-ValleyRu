@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_Old_body_parts_NO.label>Провести операцию на старых компонентах тела</TY_Old_body_parts_NO.label>
+  <TY_Old_body_parts_NO.description>Провести операцию на старых компонентах тела.</TY_Old_body_parts_NO.description>
+  <TY_Old_body_parts_NO.jobString>проводит операцию</TY_Old_body_parts_NO.jobString>
+  <TY_Old_body_parts_NO.successfullyRemovedHediffMessage>{0} успешно отремонтировал старые компоненты тела {0}.</TY_Old_body_parts_NO.successfullyRemovedHediffMessage>
+
+
+</LanguageData>
