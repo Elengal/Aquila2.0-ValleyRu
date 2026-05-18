@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <EtATorso.label>торс</EtATorso.label>
+  <EtAShoulder.label>плечо</EtAShoulder.label>
+  <EtAEye.label>глаз</EtAEye.label>
+  <EtAArm.label>рука</EtAArm.label>
+  <EtAHand.label>кисть</EtAHand.label>
+  <EtANeck.label>шея</EtANeck.label>
+  <EtAHead.label>голова</EtAHead.label>
+  <EtABrain.label>мозг</EtABrain.label>
+  <EtASpine.label>позвоночник</EtASpine.label>
+  <EtAWaist.label>поясница</EtAWaist.label>
+  <EtALeg.label>нога</EtALeg.label>
+  <EtAFoot.label>стопа</EtAFoot.label>
+  <SWTianYi.label>крыло</SWTianYi.label>
+  <SWHuxiqi.label>дыхательный орган</SWHuxiqi.label>
+  <EtAHeart.label>Эфирное ядро (сердце)</EtAHeart.label>
+</LanguageData>

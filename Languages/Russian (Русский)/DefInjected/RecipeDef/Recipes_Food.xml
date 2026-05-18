@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <MakeF_MljtT.label>Приготовить конфеты x30</MakeF_MljtT.label>
+  <MakeF_MljtT.description>Готовка</MakeF_MljtT.description>
+  <MakeF_MljtT.jobString>Готовка</MakeF_MljtT.jobString>
+  <MakeF_AXBD.label>Приготовить изящный бенто</MakeF_AXBD.label>
+  <MakeF_AXBD.description>Готовка</MakeF_AXBD.description>
+  <MakeF_AXBD.jobString>Готовка</MakeF_AXBD.jobString>
+  <MakeF_AXBDT.label>Приготовить изящные бенто x5</MakeF_AXBDT.label>
+  <MakeF_AXBDT.description>Готовка</MakeF_AXBDT.description>
+  <MakeF_AXBDT.jobString>Готовка</MakeF_AXBDT.jobString>
+  <MakeF_AXBDSHI.label>Приготовить изящные бенто x10</MakeF_AXBDSHI.label>
+  <MakeF_AXBDSHI.description>Готовка</MakeF_AXBDSHI.description>
+  <MakeF_AXBDSHI.jobString>Готовка</MakeF_AXBDSHI.jobString>
+  <MakeF_JZGT.label>Приготовить изящную консерву</MakeF_JZGT.label>
+  <MakeF_JZGT.description>Готовка</MakeF_JZGT.description>
+  <MakeF_JZGT.jobString>Готовка</MakeF_JZGT.jobString>
+  <MakeF_JZGTT.label>Приготовить изящные консервы x5</MakeF_JZGTT.label>
+  <MakeF_JZGTT.description>Готовка</MakeF_JZGTT.description>
+  <MakeF_JZGTT.jobString>Готовка</MakeF_JZGTT.jobString>
+  <MakeF_JZGTSHI.label>Приготовить изящные консервы x10</MakeF_JZGTSHI.label>
+  <MakeF_JZGTSHI.description>Готовка</MakeF_JZGTSHI.description>
+  <MakeF_JZGTSHI.jobString>Готовка</MakeF_JZGTSHI.jobString>
+  <MakeF_JBQS.label>Приготовить газировку</MakeF_JBQS.label>
+  <MakeF_JBQS.description>Готовка</MakeF_JBQS.description>
+  <MakeF_JBQS.jobString>Готовка</MakeF_JBQS.jobString>
+  <MakeF_JBQST.label>Приготовить газировки x5</MakeF_JBQST.label>
+  <MakeF_JBQST.description>Готовка</MakeF_JBQST.description>
+  <MakeF_JBQST.jobString>Готовка</MakeF_JBQST.jobString>
+  <MakeF_SP_AtFood.label>Приготовить чипсы Аквилы</MakeF_SP_AtFood.label>
+  <MakeF_SP_AtFood.description>Готовка</MakeF_SP_AtFood.description>
+  <MakeF_SP_AtFood.jobString>Готовка</MakeF_SP_AtFood.jobString>
+  <MakeF_DGSPT.label>Приготовить чипсы Аквилы x5</MakeF_DGSPT.label>
+  <MakeF_DGSPT.description>Готовка</MakeF_DGSPT.description>
+  <MakeF_DGSPT.jobString>Готовка</MakeF_DGSPT.jobString>
+  <MakeF_Qqlb.label>Приготовить энергетический батончик</MakeF_Qqlb.label>
+  <MakeF_Qqlb.description>Готовка</MakeF_Qqlb.description>
+  <MakeF_Qqlb.jobString>Готовка</MakeF_Qqlb.jobString>
+  <MakeF_QqlbT.label>Приготовить энергетические батончики x5</MakeF_QqlbT.label>
+  <MakeF_QqlbT.description>Готовка</MakeF_QqlbT.description>
+  <MakeF_QqlbT.jobString>Готовка</MakeF_QqlbT.jobString>
+  <MakeF_Jbdl.label>Приготовить функциональные напитки x3</MakeF_Jbdl.label>
+  <MakeF_Jbdl.description>Готовка</MakeF_Jbdl.description>
+  <MakeF_Jbdl.jobString>Готовка</MakeF_Jbdl.jobString>
+  <MakeF_JbdlT.label>Приготовить функциональные напитки x10</MakeF_JbdlT.label>
+  <MakeF_JbdlT.description>Готовка</MakeF_JbdlT.description>
+  <MakeF_JbdlT.jobString>Готовка</MakeF_JbdlT.jobString>
+  <MakeF_Jdxl.label>Приготовить мороженое</MakeF_Jdxl.label>
+  <MakeF_Jdxl.description>Готовка</MakeF_Jdxl.description>
+  <MakeF_Jdxl.jobString>Готовка</MakeF_Jdxl.jobString>
+  <MakeF_JdxlT.label>Приготовить мороженое x5</MakeF_JdxlT.label>
+  <MakeF_JdxlT.description>Готовка</MakeF_JdxlT.description>
+  <MakeF_JdxlT.jobString>Готовка</MakeF_JdxlT.jobString>
+  <MakeF_Kkms.label>Приготовить какао-мусс</MakeF_Kkms.label>
+  <MakeF_Kkms.description>Готовка</MakeF_Kkms.description>
+  <MakeF_Kkms.jobString>Готовка</MakeF_Kkms.jobString>
+  <MakeF_KkmsT.label>Приготовить какао-мусс x5</MakeF_KkmsT.label>
+  <MakeF_KkmsT.description>Готовка</MakeF_KkmsT.description>
+  <MakeF_KkmsT.jobString>Готовка</MakeF_KkmsT.jobString>
+  <MakeF_Yysj.label>Приготовить жареную курицу</MakeF_Yysj.label>
+  <MakeF_Yysj.description>Готовка</MakeF_Yysj.description>
+  <MakeF_Yysj.jobString>Готовка</MakeF_Yysj.jobString>
+  <MakeF_YysjT.label>Приготовить жареную курицу x5</MakeF_YysjT.label>
+  <MakeF_YysjT.description>Готовка</MakeF_YysjT.description>
+  <MakeF_YysjT.jobString>Готовка</MakeF_YysjT.jobString>
+  <MakeF_Mgjb.label>Приготовить буррито</MakeF_Mgjb.label>
+  <MakeF_Mgjb.description>Готовка</MakeF_Mgjb.description>
+  <MakeF_Mgjb.jobString>Готовка</MakeF_Mgjb.jobString>
+  <MakeF_MgjbT.label>Приготовить буррито x5</MakeF_MgjbT.label>
+  <MakeF_MgjbT.description>Готовка</MakeF_MgjbT.description>
+  <MakeF_MgjbT.jobString>Готовка</MakeF_MgjbT.jobString>
+  <MakeF_Lbmz.label>Приготовить гамбургер</MakeF_Lbmz.label>
+  <MakeF_Lbmz.description>Готовка</MakeF_Lbmz.description>
+  <MakeF_Lbmz.jobString>Готовка</MakeF_Lbmz.jobString>
+  <MakeF_LbmzT.label>Приготовить гамбургеры x5</MakeF_LbmzT.label>
+  <MakeF_LbmzT.description>Готовка</MakeF_LbmzT.description>
+  <MakeF_LbmzT.jobString>Готовка</MakeF_LbmzT.jobString>
+</LanguageData>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Mech_N_JianChaShiSurveillance.label>Надзорный эмиссар</Mech_N_JianChaShiSurveillance.label>
+  <Mech_N_JianChaShiSurveillance.description>Специальный механоид, созданный проектом идеальной инженерии Церкви Славы. Ранее развёртывался для надзора за коренными народами окраинного мира, изучающими технологии Аквилы. При победе над ним можно получить высокопроизводительное широкополосное ядро.</Mech_N_JianChaShiSurveillance.description>
+  <Mech_N_JianChaShiSurveillance.tools.0.label>Удар</Mech_N_JianChaShiSurveillance.tools.0.label>
+  <Mech_N_JianChaShiSurveillance.tools.1.label>Удар</Mech_N_JianChaShiSurveillance.tools.1.label>
+  <Mech_N_JianChaShiSurveillance.tools.2.label>Удар ногой</Mech_N_JianChaShiSurveillance.tools.2.label>
+  <Mech_N_JianChaShiSurveillance_Corpse.label>Oversight Emissary corpse</Mech_N_JianChaShiSurveillance_Corpse.label>
+  <Mech_N_JianChaShiSurveillance_Corpse.description>Oversight Emissary corpse</Mech_N_JianChaShiSurveillance_Corpse.description>
+  <TY_MJiZQ_A_WeaponTurret.label>Оружейная система: 19.5-мм тяжёлый пулемёт</TY_MJiZQ_A_WeaponTurret.label>
+  <TY_MJiZQ_A_WeaponTurret.description>19.5-мм тяжёлый пулемёт</TY_MJiZQ_A_WeaponTurret.description>
+  <TY_Bxzd_AtB.label>Кассетный бронебойный снаряд</TY_Bxzd_AtB.label>
+  <TY_High_performance_broadband_chip.label>Высокопроизводительная широкополосная микросхема</TY_High_performance_broadband_chip.label>
+  <TY_High_performance_broadband_chip.description>Ключевой предмет, используемый для создания высокопроизводительных широкополосных узлов.</TY_High_performance_broadband_chip.description>
+  <TY_Armed_mining_machine.label>«Крот»-1</TY_Armed_mining_machine.label>
+  <TY_Armed_mining_machine.description>"Mole"-1 Excavator is a mechanoid researched by the River Valley Federation in 5472 for excavation, mining, and underground construction. Its broad head houses a laser emitter that utilizes high-intensity beams for subterranean drilling.\nHowever, due to political turmoil in 5472, the "Mole" never achieved nationwide deployment. The establishment of the Sovereign Confederation also led to the loss of numerous advanced research achievements, causing the "Mole" and vast mechanoid technologies to fall into the hands of rim world mechanoids.</TY_Armed_mining_machine.description>
+  <TY_Armed_mining_machine.tools.0.label>левый кулак</TY_Armed_mining_machine.tools.0.label>
+  <TY_Armed_mining_machine.tools.1.label>правый кулак</TY_Armed_mining_machine.tools.1.label>
+  <TY_Armed_mining_machine.tools.2.label>голова</TY_Armed_mining_machine.tools.2.label>
+  <TY_Armed_mining_machine_Corpse.label>"Mole"-1 Excavator corpse</TY_Armed_mining_machine_Corpse.label>
+  <TY_Armed_mining_machine_Corpse.description>"Mole"-1 Excavator corpse</TY_Armed_mining_machine_Corpse.description>
+  <TY_qWifier_Bullet.label>Лазер</TY_qWifier_Bullet.label>
+  <TY_MJQiang_A_Weapon.label>Оружейная система: лазерное бур механоидов</TY_MJQiang_A_Weapon.label>
+  <TY_MJQiang_A_Weapon.description>A laser drill designed for mining operations, but of course it can also be used for attacks.</TY_MJQiang_A_Weapon.description>
+  <TY_Mech_CentipedeGunner.label>Транспортный механополипед</TY_Mech_CentipedeGunner.label>
+  <TY_Mech_CentipedeGunner.description>A heavy transport unit developed by the mechanoids to acquire various metallic and steel resources, typically equipped with rapid-fire machine guns for self-defense.</TY_Mech_CentipedeGunner.description>
+  <TY_Mech_CentipedeGunner.tools.0.label>голова</TY_Mech_CentipedeGunner.tools.0.label>
+  <TY_Mech_CentipedeGunner_Corpse.label>Transport Centipede corpse</TY_Mech_CentipedeGunner_Corpse.label>
+  <TY_Mech_CentipedeGunner_Corpse.description>Transport Centipede corpse</TY_Mech_CentipedeGunner_Corpse.description>
+</LanguageData>

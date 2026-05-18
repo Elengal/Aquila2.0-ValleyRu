@@ -1,34 +1,30 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- 这个任务会来三波袭击 -->
-
-  <TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.0>questDescription(asker_factionLeader==True)-&gt;[asker_nameFull], [asker_faction_leaderTitle] из [asker_faction_name], просит вас помочь спасти один из [asker_possessive] караванов...</TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.0>
-  <TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.1>questDescription(asker_royalInCurrentFaction==True)-&gt;[asker_nameFull], [asker_royalTitleInCurrentFaction] из [asker_faction_name], обращается к вам с просьбой...</TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.1>
-  <TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.2>groupsOf(raidCount==1,priority=1)-&gt;[enemyFaction_pawnsPlural]</TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.2>
-  <TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.3>groupsOf-&gt;[numGroupsOf] [enemyFaction_pawnsPlural]</TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.3>
-  <TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.4>endingCommon(helpersCount==0)-&gt;\n\n[pawnKindsParagraph]\n\nЕсли вы примете, [enemyFaction_pawnsPlural] прибудут через [firstRaidDelayTicks_duration].</TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.4>
-  <TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.5>endingCommon(helpersCount&gt;=1)-&gt;\n\n[pawnKindsParagraph][helpersParagraph]Если вы примете, [enemyFaction_pawnsPlural] прибудут через [firstRaidDelayTicks_duration].</TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.5>
-  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.0>questName-&gt;[enemyFaction_pawnsPlural] Удачи</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.0>
-  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.1>questName-&gt;[violence] Удачи</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.1>
-  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.2>questName-&gt;[violence] по найму</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.2>
-  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.3>questName-&gt;[violence] ради прибыли</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.3>
-  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.4>questName-&gt;Вознаграждённое [violence]</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.4>
-  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.5>questName-&gt;Оплаченное [violence]</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.5>
-  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.6>questName-&gt;Компенсированное [violence]</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.6>
-  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.7>questName(reward==royalFavor)-&gt;[enemyFaction_pawnsPlural] за благосклонность</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.7>
-  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.8>questName(reward==royalFavor)-&gt;[violence] за благосклонность</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.8>
-  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.9>violence-&gt;Насилие</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.9>
-  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.10>violence-&gt;Битва</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.10>
-  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.11>violence-&gt;Бой</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.11>
-  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.12>violence-&gt;Война</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.12>
-  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.13>violence-&gt;Сражение</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.13>
-  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.14>violence-&gt;Кровопролитие</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.14>
-  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.15>violence-&gt;Атака</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.15>
-  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.16>violence-&gt;Оборона</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.16>
-  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.17>violence-&gt;Конфликт</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.17>
-  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.18>violence-&gt;Враждебность</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.18>
-  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.19>violence-&gt;Военные действия</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.19>
-
-
+  <TY_A_ThreatReward_Raid_MiscReward.root.nodes.6.name>задержкаПервогоНабега</TY_A_ThreatReward_Raid_MiscReward.root.nodes.6.name>
+  <TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.0>questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] из [asker_faction_name], просит вас помочь спасти один из [asker_possessive] караванов...</TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.0>
+  <TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.1>questDescription(asker_royalInCurrentFaction==True)->[asker_nameFull], [asker_royalTitleInCurrentFaction] из [asker_faction_name], обращается к вам с просьбой...</TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.1>
+  <TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.2>groupsOf(raidCount==1,priority=1)->[enemyFaction_pawnsPlural]</TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.2>
+  <TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.3>groupsOf->[numGroupsOf] [enemyFaction_pawnsPlural]</TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.3>
+  <TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.4>endingCommon(helpersCount==0)->\n\n[pawnKindsParagraph]\n\nЕсли вы примете, [enemyFaction_pawnsPlural] прибудут через [firstRaidDelayTicks_duration].</TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.4>
+  <TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.5>endingCommon(helpersCount>=1)->\n\n[pawnKindsParagraph][helpersParagraph]Если вы примете, [enemyFaction_pawnsPlural] прибудут через [firstRaidDelayTicks_duration].</TY_A_ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.5>
+  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.0>questName->[enemyFaction_pawnsPlural] Удачи</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.0>
+  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.1>questName->[violence] Удачи</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.1>
+  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.2>questName->[violence] по найму</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.2>
+  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.3>questName->[violence] ради прибыли</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.3>
+  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.4>questName->Вознаграждённое [violence]</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.4>
+  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.5>questName->Оплаченное [violence]</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.5>
+  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.6>questName->Компенсированное [violence]</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.6>
+  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.7>questName(reward==royalFavor)->[enemyFaction_pawnsPlural] за благосклонность</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.7>
+  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.8>questName(reward==royalFavor)->[violence] за благосклонность</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.8>
+  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.9>violence->Насилие</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.9>
+  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.10>violence->Битва</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.10>
+  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.11>violence->Бой</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.11>
+  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.12>violence->Война</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.12>
+  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.13>violence->Сражение</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.13>
+  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.14>violence->Кровопролитие</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.14>
+  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.15>violence->Атака</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.15>
+  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.16>violence->Оборона</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.16>
+  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.17>violence->Конфликт</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.17>
+  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.18>violence->Враждебность</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.18>
+  <TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.19>violence->Военные действия</TY_A_ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.19>
 </LanguageData>

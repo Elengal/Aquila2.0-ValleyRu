@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ExplosiveDash.label>Взрывной рывок</ExplosiveDash.label>
+  <ExplosiveDash.description>Управление нано-машинами для укрепления мышц ног для выполнения короткого быстрого рывка, который создаёт взрыв и оглушает врагов на пути.</ExplosiveDash.description>
+  <ExplosiveDash.verbProperties.label>Взрывной рывок</ExplosiveDash.verbProperties.label>
+  <SemicircleSlash.label>Полукруглый удар</SemicircleSlash.label>
+  <SemicircleSlash.description>Размахивает оружием в широком полукруглом ударе, нанося урон всем врагам в полукруглом секторе перед атакующим. Дальность атаки увеличивается с уровнем навыка владения оружием.</SemicircleSlash.description>
+  <SemicircleSlash.verbProperties.label>Полукруглый удар</SemicircleSlash.verbProperties.label>
+  <DriveDash.label>Рывок</DriveDash.label>
+  <DriveDash.description>Управление нано-машинами для укрепления мышц ног для короткого быстрого рывка, чтобы быстро приблизиться к врагам или выйти из опасной ситуации. Во время рывка активируется короткий период неуязвимости.</DriveDash.description>
+  <DriveDash.verbProperties.label>Рывок</DriveDash.verbProperties.label>
+  <DriveWormBurrow.label>Бур механочервя</DriveWormBurrow.label>
+  <DriveWormBurrow.description>Механочервь активирует режим бурения и после короткой подготовки зарывается в землю, быстро перемещаясь под землёй к целевой точке, а затем вырывается на поверхность. Во время бурения полностью невидим и неуязвим — крайне эффективный тактический навык.</DriveWormBurrow.description>
+  <DriveWormBurrow.verbProperties.label>Бур механочервя</DriveWormBurrow.verbProperties.label>
+</LanguageData>

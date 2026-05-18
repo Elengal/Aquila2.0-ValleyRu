@@ -1,14 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- 物品 -->
-
   <TY_A_Fighter_chip_A.label>Базовый чип стрельбы ОГАС</TY_A_Fighter_chip_A.label>
   <TY_A_Fighter_chip_A.description>Базовые чипы стрельбы, широко доступные в Федеральной армии через технологию ОГАС, содержат программы, которые помогают в прицеливании и измерении параметров стрельбы.</TY_A_Fighter_chip_A.description>
-
+  <TY_A_Fighter_chip_A.comps.1.useLabel>Вставить чип</TY_A_Fighter_chip_A.comps.1.useLabel>
   <TY_A_ShingLanArm_A.label>Сельскохозяйственная рука Речной Долины</TY_A_ShingLanArm_A.label>
   <TY_A_ShingLanArm_A.description>На запястье установлены различные механические сельскохозяйственные инструменты для обработки. Этот протез руки может повысить эффективность сельскохозяйственных работ.</TY_A_ShingLanArm_A.description>
-
-
 </LanguageData>
-

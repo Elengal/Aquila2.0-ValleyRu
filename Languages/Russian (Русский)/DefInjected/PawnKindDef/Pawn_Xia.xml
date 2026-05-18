@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AtPawn_N_Xia.label>Герой</AtPawn_N_Xia.label>
+  <AtPawn_N_Xia.labelPlural>Герои</AtPawn_N_Xia.labelPlural>
+  <AtPawn_N_Xia.labelMale>Герой</AtPawn_N_Xia.labelMale>
+  <AtPawn_N_Xia.labelMalePlural>Герои</AtPawn_N_Xia.labelMalePlural>
+  <AtPawn_N_Xia.labelFemale>Героиня</AtPawn_N_Xia.labelFemale>
+  <AtPawn_N_Xia.labelFemalePlural>Героини</AtPawn_N_Xia.labelFemalePlural>
+  <AtPawn_N_MechHunter.label>Охотник на механоидов</AtPawn_N_MechHunter.label>
+  <AtPawn_N_MechHunter.labelPlural>Охотники на механоидов</AtPawn_N_MechHunter.labelPlural>
+</LanguageData>

@@ -1,12 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Это определения Mote. Оставьте их как есть, НЕ переводите их. -->
-
   <TY_A_Mote_HellsphereCannon_Aim.label>Mote</TY_A_Mote_HellsphereCannon_Aim.label>
   <TY_A_Mote_HellsphereCannon_Target.label>Mote</TY_A_Mote_HellsphereCannon_Target.label>
   <TY_Mote_ReaperBeam.label>Mote</TY_Mote_ReaperBeam.label>
-
-
+  <Mote_Fire_At.label>Частица</Mote_Fire_At.label>
+  <Mote_Ice_At.label>Частица</Mote_Ice_At.label>
+  <Mote_Lei_At.label>Частица</Mote_Lei_At.label>
+  <Mote_HJG_At.label>Частица</Mote_HJG_At.label>
+  <Mote_LJG_At.label>Частица</Mote_LJG_At.label>
 </LanguageData>
-

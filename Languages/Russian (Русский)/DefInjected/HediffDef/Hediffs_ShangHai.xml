@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <GhZuzhou_AtH.comps.1.labelSolidTendedWell>В стадии ремиссии</GhZuzhou_AtH.comps.1.labelSolidTendedWell>
+  <GhZuzhou_AtH.comps.1.labelTendedWell>Заживление</GhZuzhou_AtH.comps.1.labelTendedWell>
+  <GhZuzhou_AtH.comps.1.labelTendedWellInner>Заживление</GhZuzhou_AtH.comps.1.labelTendedWellInner>
+  <GhZuzhou_AtH.description>Если это вещество попадёт на тело, поток непостижимых явлений и знаний ворвётся в разум, и рассудок будет постепенно разрушаться этими извращёнными вещами. Без своевременного лечения раненый сойдёт с ума.</GhZuzhou_AtH.description>
+  <GhZuzhou_AtH.injuryProps.destroyedLabel>Разъедено</GhZuzhou_AtH.injuryProps.destroyedLabel>
+  <GhZuzhou_AtH.injuryProps.destroyedOutLabel>Подвержено порче</GhZuzhou_AtH.injuryProps.destroyedOutLabel>
+  <GhZuzhou_AtH.label><![CDATA[<color=#FFCC66><b>Erode</b></color>]]></GhZuzhou_AtH.label>
+  <GhZuzhou_AtH.labelNoun>Эрозия</GhZuzhou_AtH.labelNoun>
+  <Ice_Shang.comps.1.labelSolidTendedWell>Лечено</Ice_Shang.comps.1.labelSolidTendedWell>
+  <Ice_Shang.comps.1.labelTendedWell>Восстановление</Ice_Shang.comps.1.labelTendedWell>
+  <Ice_Shang.comps.1.labelTendedWellInner>Восстановление</Ice_Shang.comps.1.labelTendedWellInner>
+  <Ice_Shang.description>Урон от заморозки, вызванный низкими температурами</Ice_Shang.description>
+  <Ice_Shang.injuryProps.destroyedLabel>Уничтожено заморозкой</Ice_Shang.injuryProps.destroyedLabel>
+  <Ice_Shang.injuryProps.destroyedOutLabel>Выморожено</Ice_Shang.injuryProps.destroyedOutLabel>
+  <Ice_Shang.label><![CDATA[<color=#87CEFA><b>Freeze</b></color>]]></Ice_Shang.label>
+  <Ice_Shang.labelNoun>Заморозка</Ice_Shang.labelNoun>
+  <MaBiS_Shang.comps.1.labelSolidTendedWell>Заживление</MaBiS_Shang.comps.1.labelSolidTendedWell>
+  <MaBiS_Shang.comps.1.labelTendedWell>Заживление</MaBiS_Shang.comps.1.labelTendedWell>
+  <MaBiS_Shang.comps.1.labelTendedWellInner>Заживление</MaBiS_Shang.comps.1.labelTendedWellInner>
+  <MaBiS_Shang.description>Молния замкнула его сердце</MaBiS_Shang.description>
+  <MaBiS_Shang.injuryProps.destroyedLabel>Удушено</MaBiS_Shang.injuryProps.destroyedLabel>
+  <MaBiS_Shang.injuryProps.destroyedOutLabel>Удушено</MaBiS_Shang.injuryProps.destroyedOutLabel>
+  <MaBiS_Shang.label><![CDATA[<color=#1E90FF><b>Psychic Electric Lock</b></color>]]></MaBiS_Shang.label>
+  <MaBiS_Shang.labelNoun>Молния замкнула сердце этого пешки.</MaBiS_Shang.labelNoun>
+  <MaBi_Shang.comps.1.labelSolidTendedWell>Лечено</MaBi_Shang.comps.1.labelSolidTendedWell>
+  <MaBi_Shang.comps.1.labelTendedWell>Восстановление</MaBi_Shang.comps.1.labelTendedWell>
+  <MaBi_Shang.comps.1.labelTendedWellInner>Восстановление</MaBi_Shang.comps.1.labelTendedWellInner>
+  <MaBi_Shang.description>Паралич от высоковольтного тока</MaBi_Shang.description>
+  <MaBi_Shang.injuryProps.destroyedLabel>Пробит током</MaBi_Shang.injuryProps.destroyedLabel>
+  <MaBi_Shang.injuryProps.destroyedOutLabel>Убит током</MaBi_Shang.injuryProps.destroyedOutLabel>
+  <MaBi_Shang.label><![CDATA[<color=#1E90FF><b>Paralyze</b></color>]]></MaBi_Shang.label>
+  <MaBi_Shang.labelNoun>Паралич</MaBi_Shang.labelNoun>
+</LanguageData>

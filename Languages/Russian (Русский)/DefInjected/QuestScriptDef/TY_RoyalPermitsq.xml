@@ -1,10 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- 被程序集引用的任务脚本，决定摇人流程 -->
-
-  <RV_QuestScript_Permit_Apply_for_Pawns.questDescriptionAndNameRules.rulesStrings.0>questName-&gt;Труженики</RV_QuestScript_Permit_Apply_for_Pawns.questDescriptionAndNameRules.rulesStrings.0>
-  <RV_QuestScript_Permit_Apply_for_Pawns.questDescriptionAndNameRules.rulesStrings.1>questDescription-&gt;</RV_QuestScript_Permit_Apply_for_Pawns.questDescriptionAndNameRules.rulesStrings.1>
-
-
+  <RV_QuestScript_Permit_Apply_for_Pawns.root.nodes.2.name>изменениеДоброжелательностиПриУничтоженииШаттла</RV_QuestScript_Permit_Apply_for_Pawns.root.nodes.2.name>
+  <RV_QuestScript_Permit_Apply_for_Pawns.root.nodes.4.label>Шаттл прибыл.</RV_QuestScript_Permit_Apply_for_Pawns.root.nodes.4.label>
+  <RV_QuestScript_Permit_Apply_for_Pawns.root.nodes.4.text>Пеши из [permitFaction_name] прибыли.</RV_QuestScript_Permit_Apply_for_Pawns.root.nodes.4.text>
+  <RV_QuestScript_Permit_Apply_for_Pawns.questDescriptionAndNameRules.rulesStrings.0>questName->Труженики</RV_QuestScript_Permit_Apply_for_Pawns.questDescriptionAndNameRules.rulesStrings.0>
+  <RV_QuestScript_Permit_Apply_for_Pawns.questDescriptionAndNameRules.rulesStrings.1>questDescription-></RV_QuestScript_Permit_Apply_for_Pawns.questDescriptionAndNameRules.rulesStrings.1>
 </LanguageData>

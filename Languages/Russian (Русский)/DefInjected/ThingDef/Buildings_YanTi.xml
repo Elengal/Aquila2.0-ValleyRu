@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <SLDD_AtBuild.label>Сияющий фонарь</SLDD_AtBuild.label>
+  <SLDD_AtBuild.description>Сияющий фонарь со встроенным питанием. Достаточно нескольких, чтобы осветить всю колонию.</SLDD_AtBuild.description>
+  <SLDD_AtBuild_Blueprint.label>Сияющий фонарь (чертёж)</SLDD_AtBuild_Blueprint.label>
+  <SLDD_AtBuild_Blueprint_Install.label>Сияющий фонарь (чертёж)</SLDD_AtBuild_Blueprint_Install.label>
+  <SLDD_AtBuild_Frame.label>Сияющий фонарь (строительство)</SLDD_AtBuild_Frame.label>
+  <SLDD_AtBuild_Frame.description>Сияющий фонарь со встроенным питанием. Достаточно нескольких, чтобы осветить всю колонию.</SLDD_AtBuild_Frame.description>
+  <YanTi_AtBuild.label>Защитная стена</YanTi_AtBuild.label>
+  <YanTi_AtBuild.description>Настоящее укрытие во всех смыслах. Края используют специальные строительные технологии, где лишь малая часть пуль пробивает, а снаряды другого оружия отклоняются. Однако строительство требует значительных материалов и времени. (*Пеши должны стоять рядом со стеной, чтобы получить защиту.)</YanTi_AtBuild.description>
+  <YanTi_AtBuild_Blueprint.label>Защитная стена (чертёж)</YanTi_AtBuild_Blueprint.label>
+  <YanTi_AtBuild_Frame.label>Защитная стена (строительство)</YanTi_AtBuild_Frame.label>
+  <YanTi_AtBuild_Frame.description>Настоящее укрытие во всех смыслах. Края используют специальные строительные технологии, где лишь малая часть пуль пробивает, а снаряды другого оружия отклоняются. Однако строительство требует значительных материалов и времени. (*Пеши должны стоять рядом со стеной, чтобы получить защиту.)</YanTi_AtBuild_Frame.description>
+  <TY_MoisturePump.label>Улучшенный водоотливной насос</TY_MoisturePump.label>
+  <TY_MoisturePump.description>Улучшенный водоотливной насос по сравнению с базовым, с большим радиусом действия — осушает за 5 дней.</TY_MoisturePump.description>
+  <TY_MoisturePump_Blueprint.label>Улучшенный водоотливной насос (чертёж)</TY_MoisturePump_Blueprint.label>
+  <TY_MoisturePump_Frame.label>Улучшенный водоотливной насос (строительство)</TY_MoisturePump_Frame.label>
+  <TY_MoisturePump_Frame.description>Улучшенный водоотливной насос по сравнению с базовым, с большим радиусом действия — осушает за 5 дней.</TY_MoisturePump_Frame.description>
+  <TY_A_strange_and_peculiar_doll.label>Кукла-конструкт</TY_A_strange_and_peculiar_doll.label>
+  <TY_A_strange_and_peculiar_doll.description>Кукла-талисман, но почему она в этой вкладке? Конечно, она не выполняет никакой развлекательной функции, это просто декорация.</TY_A_strange_and_peculiar_doll.description>
+  <TY_A_strange_and_peculiar_doll_Blueprint.label>Кукла-конструкт (чертёж)</TY_A_strange_and_peculiar_doll_Blueprint.label>
+  <TY_A_strange_and_peculiar_doll_Blueprint_Install.label>Кукла-конструкт (чертёж)</TY_A_strange_and_peculiar_doll_Blueprint_Install.label>
+  <TY_A_strange_and_peculiar_doll_Frame.label>Кукла-конструкт (строительство)</TY_A_strange_and_peculiar_doll_Frame.label>
+  <TY_A_strange_and_peculiar_doll_Frame.description>Кукла-талисман, но почему она в этой вкладке? Конечно, она не выполняет никакой развлекательной функции, это просто декорация.</TY_A_strange_and_peculiar_doll_Frame.description>
+</LanguageData>

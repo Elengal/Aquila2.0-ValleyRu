@@ -1,23 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <TY_A_TradeRequest.questDescriptionRules.rulesStrings.0>questDescription-&gt;Близлежащее поселение, [settlement_label], имеет особый торговый запрос. Они хотели бы купить:
+  <TY_A_TradeRequest.root.nodes.3.label>Quest failed: [resolvedQuestName]</TY_A_TradeRequest.root.nodes.3.label>
+  <TY_A_TradeRequest.root.nodes.3.text>[faction_name] стал враждебен к вам.</TY_A_TradeRequest.root.nodes.3.text>
+  <TY_A_TradeRequest.root.nodes.10.name>ценностьНаграды</TY_A_TradeRequest.root.nodes.10.name>
+  <TY_A_TradeRequest.root.nodes.11.nodeIfChosenPawnSignalUsed.label>[asker_faction_royalFavorLabel]</TY_A_TradeRequest.root.nodes.11.nodeIfChosenPawnSignalUsed.label>
+  <TY_A_TradeRequest.root.nodes.11.nodeIfChosenPawnSignalUsed.text>Кому следует приписать [asker_faction_royalFavorLabel] за выполнение торгового запроса?</TY_A_TradeRequest.root.nodes.11.nodeIfChosenPawnSignalUsed.text>
+  <TY_A_TradeRequest.questDescriptionRules.rulesStrings.0>questDescription->Близлежащее поселение, [settlement_label], имеет особый торговый запрос. Они хотели бы купить:
 \n  [requestedThingCount]x [requestedThing_label] [qualityInfo](стоимостью [requestedThingMarketValue_money])
 \nЕсли вы хотите совершить сделку, отправьте караван с запрошенными предметами. Ориентировочное время в пути составляет [estimatedTravelTime_duration].</TY_A_TradeRequest.questDescriptionRules.rulesStrings.0>
-  <TY_A_TradeRequest.questDescriptionRules.rulesStrings.1>qualityInfo(requestedThingHasQuality==True,priority=1)-&gt;нормального+ качества </TY_A_TradeRequest.questDescriptionRules.rulesStrings.1>
-  <TY_A_TradeRequest.questDescriptionRules.rulesStrings.2>qualityInfo-&gt;</TY_A_TradeRequest.questDescriptionRules.rulesStrings.2>
-  <TY_A_TradeRequest.questNameRules.rulesStrings.0>questName-&gt;Караван в [settlement_label]</TY_A_TradeRequest.questNameRules.rulesStrings.0>
-  <TY_A_TradeRequest.questNameRules.rulesStrings.1>questName-&gt;Торговля с [settlement_label]</TY_A_TradeRequest.questNameRules.rulesStrings.1>
-  <TY_A_TradeRequest.questNameRules.rulesStrings.2>questName-&gt;Продажа в [settlement_label]</TY_A_TradeRequest.questNameRules.rulesStrings.2>
-  <TY_A_TradeRequest.questNameRules.rulesStrings.3>questName-&gt;Припасы для [settlement_label]</TY_A_TradeRequest.questNameRules.rulesStrings.3>
-  <TY_A_TradeRequest.questNameRules.rulesStrings.4>questName-&gt;[special] [trade]</TY_A_TradeRequest.questNameRules.rulesStrings.4>
-  <TY_A_TradeRequest.questNameRules.rulesStrings.5>special-&gt;Особая</TY_A_TradeRequest.questNameRules.rulesStrings.5>
-  <TY_A_TradeRequest.questNameRules.rulesStrings.6>special-&gt;Уникальная</TY_A_TradeRequest.questNameRules.rulesStrings.6>
-  <TY_A_TradeRequest.questNameRules.rulesStrings.7>special-&gt;Нетрадиционная</TY_A_TradeRequest.questNameRules.rulesStrings.7>
-  <TY_A_TradeRequest.questNameRules.rulesStrings.8>trade-&gt;Торговля</TY_A_TradeRequest.questNameRules.rulesStrings.8>
-  <TY_A_TradeRequest.questNameRules.rulesStrings.9>trade-&gt;Обмен</TY_A_TradeRequest.questNameRules.rulesStrings.9>
-  <TY_A_TradeRequest.questNameRules.rulesStrings.10>trade-&gt;Сделка</TY_A_TradeRequest.questNameRules.rulesStrings.10>
-  <TY_A_TradeRequest.questNameRules.rulesStrings.11>trade-&gt;Предложение</TY_A_TradeRequest.questNameRules.rulesStrings.11>
-
-
+  <TY_A_TradeRequest.questDescriptionRules.rulesStrings.1>qualityInfo(requestedThingHasQuality==True,priority=1)->нормального+ качества </TY_A_TradeRequest.questDescriptionRules.rulesStrings.1>
+  <TY_A_TradeRequest.questDescriptionRules.rulesStrings.2>qualityInfo-></TY_A_TradeRequest.questDescriptionRules.rulesStrings.2>
+  <TY_A_TradeRequest.questNameRules.rulesStrings.0>questName->Караван в [settlement_label]</TY_A_TradeRequest.questNameRules.rulesStrings.0>
+  <TY_A_TradeRequest.questNameRules.rulesStrings.1>questName->Торговля с [settlement_label]</TY_A_TradeRequest.questNameRules.rulesStrings.1>
+  <TY_A_TradeRequest.questNameRules.rulesStrings.2>questName->Продажа в [settlement_label]</TY_A_TradeRequest.questNameRules.rulesStrings.2>
+  <TY_A_TradeRequest.questNameRules.rulesStrings.3>questName->Припасы для [settlement_label]</TY_A_TradeRequest.questNameRules.rulesStrings.3>
+  <TY_A_TradeRequest.questNameRules.rulesStrings.4>questName->[special] [trade]</TY_A_TradeRequest.questNameRules.rulesStrings.4>
+  <TY_A_TradeRequest.questNameRules.rulesStrings.5>special->Особая</TY_A_TradeRequest.questNameRules.rulesStrings.5>
+  <TY_A_TradeRequest.questNameRules.rulesStrings.6>special->Уникальная</TY_A_TradeRequest.questNameRules.rulesStrings.6>
+  <TY_A_TradeRequest.questNameRules.rulesStrings.7>special->Нетрадиционная</TY_A_TradeRequest.questNameRules.rulesStrings.7>
+  <TY_A_TradeRequest.questNameRules.rulesStrings.8>trade->Торговля</TY_A_TradeRequest.questNameRules.rulesStrings.8>
+  <TY_A_TradeRequest.questNameRules.rulesStrings.9>trade->Обмен</TY_A_TradeRequest.questNameRules.rulesStrings.9>
+  <TY_A_TradeRequest.questNameRules.rulesStrings.10>trade->Сделка</TY_A_TradeRequest.questNameRules.rulesStrings.10>
+  <TY_A_TradeRequest.questNameRules.rulesStrings.11>trade->Предложение</TY_A_TradeRequest.questNameRules.rulesStrings.11>
 </LanguageData>

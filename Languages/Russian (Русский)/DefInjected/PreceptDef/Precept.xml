@@ -1,18 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- EN: deeply abhorrent -->
-  <!--<TY_Apostasy_Abhorrent.label>TODO</TY_Apostasy_Abhorrent.label>-->
-  <!-- EN: To leave our ideoligion after having known it is the depth of immorality. -->
-  <!--<TY_Apostasy_Abhorrent.description>TODO</TY_Apostasy_Abhorrent.description>-->
-  <!-- EN: Changed ideoligion -->
-  <!--<TY_Apostasy_Abhorrent.comps.0.description>TODO</TY_Apostasy_Abhorrent.comps.0.description>-->
-
-  <!-- EN: 同甘共苦 -->
-  <!--<TY_ShareWealAndWoe.label>TODO</TY_ShareWealAndWoe.label>-->
-  <!-- EN: 我们绝不会允许率领我们的引导者成为骑在我们头上作威作福的新的压迫者。 -->
-  <!--<TY_ShareWealAndWoe.description>TODO</TY_ShareWealAndWoe.description>-->
-  <!-- EN: 领袖与传教者期望与正常殖民者一致。 -->
-  <!--<TY_ShareWealAndWoe.tipLabelOverride>TODO</TY_ShareWealAndWoe.tipLabelOverride>-->
-
+  <TY_Apostasy_Abhorrent.comps.0.description>Сменил идеолигию</TY_Apostasy_Abhorrent.comps.0.description>
+  <TY_Apostasy_Abhorrent.description>Как может быть хоть какая-то причина отказаться от мести за тысячелетия ненависти и кровопролития?</TY_Apostasy_Abhorrent.description>
+  <TY_Apostasy_Abhorrent.label>Глубоко отвратительно</TY_Apostasy_Abhorrent.label>
+  <TY_JianKuZuoJue_Precept.description>Perferre Superesseque: Претерпеть и превзойти. Мы знаем цену каждого крупицы ресурсов и каждого часа труда. В наших жилах течёт пот и кровь рабочих.</TY_JianKuZuoJue_Precept.description>
+  <TY_JianKuZuoJue_Precept.label>Perferre Superesseque</TY_JianKuZuoJue_Precept.label>
+  <TY_NutrientPasteEating_DontMind.description>Нет ничего плохого в эффективной и питательной еде. Паста — это нормально.</TY_NutrientPasteEating_DontMind.description>
+  <TY_NutrientPasteEating_DontMind.label>не возражает</TY_NutrientPasteEating_DontMind.label>
+  <TY_RoughLiving_Welcomed.description>Нам не нужно отгораживаться от суровых условий. Грубая жизнь закаляет дух.</TY_RoughLiving_Welcomed.description>
+  <TY_RoughLiving_Welcomed.label>приветствуется</TY_RoughLiving_Welcomed.label>
+  <TY_ShareWealAndWoe.comps.0.description>Носит чужое снаряжение</TY_ShareWealAndWoe.comps.0.description>
+  <TY_ShareWealAndWoe.description>Мы никогда не позволим проводникам, ведущим нас, стать новыми угнетателями, тиранящими нас! Мы должны делить радость и горе, разделить все тяготы и богатства!</TY_ShareWealAndWoe.description>
+  <TY_ShareWealAndWoe.label>Общие тяготы</TY_ShareWealAndWoe.label>
 </LanguageData>

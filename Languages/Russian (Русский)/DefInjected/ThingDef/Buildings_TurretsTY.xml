@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <TY_N_BScfq_Bulding.label>Лёгкая оборонительная турель</TY_N_BScfq_Bulding.label>
+  <TY_N_BScfq_Bulding.description>Лёгкая турель, разработанная для борьбы с мелкими зверями и бандитами. Не ожидайте от неё ничего, кроме привлечения огня в крупномасштабных боях.</TY_N_BScfq_Bulding.description>
+  <TY_N_BScfq_Bulding_Blueprint.label>Лёгкая оборонительная турель (чертёж)</TY_N_BScfq_Bulding_Blueprint.label>
+  <TY_N_BScfq_Bulding_Frame.label>Лёгкая оборонительная турель (строительство)</TY_N_BScfq_Bulding_Frame.label>
+  <TY_N_BScfq_Bulding_Frame.description>Лёгкая турель, разработанная для борьбы с мелкими зверями и бандитами. Не ожидайте от неё ничего, кроме привлечения огня в крупномасштабных боях.</TY_N_BScfq_Bulding_Frame.description>
+  <TY_BScfq_TurretWeapon.label>Турель с пистолетом-пулемётом</TY_BScfq_TurretWeapon.label>
+  <TY_N_BSjzpt_Bulding.label>Автоматическая противотанковая крепость</TY_N_BSjzpt_Bulding.label>
+  <TY_N_BSjzpt_Bulding.description>Автоматическая противотанковая крепость легко пробивает броню с высокой точностью, но может испытывать затруднения с близкими целями. Сочетание с автоматической пушечной крепостью повышает эффективность.</TY_N_BSjzpt_Bulding.description>
+  <TY_N_BSjzpt_Bulding_Blueprint.label>Автоматическая противотанковая крепость (чертёж)</TY_N_BSjzpt_Bulding_Blueprint.label>
+  <TY_N_BSjzpt_Bulding_Frame.label>Автоматическая противотанковая крепость (строительство)</TY_N_BSjzpt_Bulding_Frame.label>
+  <TY_N_BSjzpt_Bulding_Frame.description>Автоматическая противотанковая крепость легко пробивает броню с высокой точностью, но может испытывать затруднения с близкими целями. Сочетание с автоматической пушечной крепостью повышает эффективность.</TY_N_BSjzpt_Bulding_Frame.description>
+  <TY_BSjzbq_TurretWeapon.label>Автоматическая противотанковая пушка</TY_BSjzbq_TurretWeapon.label>
+  <TY_N_Bsjzbq_Bullet.label>Снаряд автоматической противотанковой пушки</TY_N_Bsjzbq_Bullet.label>
+  <TY_N_BSlf_Bulding.label>Автоматическая пушечная крепость</TY_N_BSlf_Bulding.label>
+  <TY_N_BSlf_Bulding.description>Автоматическая пушечная крепость отличается скорострельностью и мощным огнём, особенно эффективна против скоплений врагов. Тактическое сочетание с точными турелями максимизирует боеспособность.</TY_N_BSlf_Bulding.description>
+  <TY_N_BSlf_Bulding_Blueprint.label>Automated Gun Bastion (чертёж)</TY_N_BSlf_Bulding_Blueprint.label>
+  <TY_N_BSlf_Bulding_Frame.label>Automated Gun Bastion (строительство)</TY_N_BSlf_Bulding_Frame.label>
+  <TY_N_BSlf_Bulding_Frame.description>Автоматическая пушечная крепость отличается скорострельностью и мощным огнём, особенно эффективна против скоплений врагов. Тактическое сочетание с точными турелями максимизирует боеспособность.</TY_N_BSlf_Bulding_Frame.description>
+  <TY_BSlf_TurretWeapon.label>Автоматическая пушка</TY_BSlf_TurretWeapon.label>
+  <TY_N_Bslf_Bullet.label>Снаряд автоматической пушки</TY_N_Bslf_Bullet.label>
+  <TY_A_DropPodIncoming.label>Высокоугловой щит Речной Долины</TY_A_DropPodIncoming.label>
+  <TY_A_DropPodIncoming.description>Щит, специально предназначенный для перехвата высокоугловых снарядов, не способен остановить ближние снаряды. Питается от внутреннего источника, не требует внешнего питания и не подвержен влиянию солнечных вспышек.</TY_A_DropPodIncoming.description>
+  <TY_A_DropPodIncoming_Blueprint.label>Высокоугловой щит Речной Долины (чертёж)</TY_A_DropPodIncoming_Blueprint.label>
+  <TY_A_DropPodIncoming_Frame.label>Высокоугловой щит Речной Долины (строительство)</TY_A_DropPodIncoming_Frame.label>
+  <TY_A_DropPodIncoming_Frame.description>Щит, специально предназначенный для перехвата высокоугловых снарядов, не способен остановить ближние снаряды. Питается от внутреннего источника, не требует внешнего питания и не подвержен влиянию солнечных вспышек.</TY_A_DropPodIncoming_Frame.description>
+  <TY_A_DropPodIncoming_D.label>Низкоугловой щит Речной Долины</TY_A_DropPodIncoming_D.label>
+  <TY_A_DropPodIncoming_D.description>Щит, специально предназначенный для перехвата ближних снарядов, не способен остановить высокоугловые снаряды, такие как миномётные. Питается от внутреннего источника, не требует внешнего питания и не подвержен влиянию солнечных вспышек.</TY_A_DropPodIncoming_D.description>
+  <TY_A_DropPodIncoming_D_Blueprint.label>Низкоугловой щит Речной Долины (чертёж)</TY_A_DropPodIncoming_D_Blueprint.label>
+  <TY_A_DropPodIncoming_D_Frame.label>Низкоугловой щит Речной Долины (строительство)</TY_A_DropPodIncoming_D_Frame.label>
+  <TY_A_DropPodIncoming_D_Frame.description>Щит, специально предназначенный для перехвата ближних снарядов, не способен остановить высокоугловые снаряды, такие как миномётные. Питается от внутреннего источника, не требует внешнего питания и не подвержен влиянию солнечных вспышек.</TY_A_DropPodIncoming_D_Frame.description>
+  <TY_A_DropPodIncoming_D_A.label>Большой низкоугловой щит Речной Долины</TY_A_DropPodIncoming_D_A.label>
+  <TY_A_DropPodIncoming_D_A.description>Щит, специально предназначенный для перехвата ближних снарядов, не способен остановить высокоугловые снаряды, такие как миномётные. Питается от внутреннего источника, не требует внешнего питания и не подвержен влиянию солнечных вспышек.</TY_A_DropPodIncoming_D_A.description>
+  <TY_A_DropPodIncoming_D_A_Blueprint.label>Большой низкоугловой щит Речной Долины (чертёж)</TY_A_DropPodIncoming_D_A_Blueprint.label>
+  <TY_A_DropPodIncoming_D_A_Frame.label>Большой низкоугловой щит Речной Долины (строительство)</TY_A_DropPodIncoming_D_A_Frame.label>
+  <TY_A_DropPodIncoming_D_A_Frame.description>Щит, специально предназначенный для перехвата ближних снарядов, не способен остановить высокоугловые снаряды, такие как миномётные. Питается от внутреннего источника, не требует внешнего питания и не подвержен влиянию солнечных вспышек.</TY_A_DropPodIncoming_D_A_Frame.description>
+</LanguageData>

@@ -1,56 +1,52 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
   <Mech_A_BRM2A.label>Робот ополчения "Легион"-1</Mech_A_BRM2A.label>
   <Mech_A_BRM2A.description>Робот ополчения "Легион"-1 — это механоид, разработанный изгнанными новаторами Красного Сектора на основе модификаций рамы робота 0-173. Его прочная металлическая броня обходится ценой того, что эта модель ограничена переноской грузов в трудовых задачах.</Mech_A_BRM2A.description>
   <Mech_A_BRM2A.tools.0.label>Удар</Mech_A_BRM2A.tools.0.label>
-  <!-- Flesh Type: Mechanoid -->
-  <Corpse_Mech_A_BRM2A.label>Труп робота ополчения "Легион"-1</Corpse_Mech_A_BRM2A.label>
-  <Corpse_Mech_A_BRM2A.description>Труп робота ополчения "Легион"-1</Corpse_Mech_A_BRM2A.description>
-
+  <Mech_A_BRM2A_Corpse.label>Труп робота-ополченца «Легион»-1</Mech_A_BRM2A_Corpse.label>
+  <Mech_A_BRM2A_Corpse.description>Труп робота-ополченца «Легион»-1</Mech_A_BRM2A_Corpse.description>
   <Mech_A_BRM3A.label>Самоходный колёсный гаубичный мехпёс "Охотничий тигр"-3</Mech_A_BRM3A.label>
   <Mech_A_BRM3A.description>Самоходный колёсный гаубичный мехпёс "Охотничий тигр"-3 — это мехпёс, разработанный и позже снятый с производства Красным Сектором Плювиорхид. Теперь он в основном оснащается войсками второй линии, такими как Красная Гвардия.\nНа обычной местности "Охотничий тигр"-3 расставляет конечности и использует колёса для высокоскоростного движения. На пересечённой местности он встаёт и использует конечности для преодоления препятствий. В сочетании с автоматической гаубицей, оснащённой интегрированными оптическими прицелами и ИИ управления огнём, эта модель механоидного пса может адаптироваться как к полевым, так и к городским боевым условиям.</Mech_A_BRM3A.description>
   <Mech_A_BRM3A.tools.0.label>Таран</Mech_A_BRM3A.tools.0.label>
-  <!-- Flesh Type: Mechanoid -->
-  <Corpse_Mech_A_BRM3A.label>Труп самоходного колёсного гаубичного мехпса "Охотничий тигр"-3</Corpse_Mech_A_BRM3A.label>
-  <Corpse_Mech_A_BRM3A.description>Труп самоходного колёсного гаубичного мехпса "Охотничий тигр"-3</Corpse_Mech_A_BRM3A.description>
-
+  <Mech_A_BRM3A_Corpse.label>Труп самоходной колёсной гаубицы «Охотничий тигр»-3</Mech_A_BRM3A_Corpse.label>
+  <Mech_A_BRM3A_Corpse.description>Труп самоходной колёсной гаубицы «Охотничий тигр»-3</Mech_A_BRM3A_Corpse.description>
   <Mech_A_MiniUMV.label>Самоходное колёсное миномётное транспортное средство "Праща"-7</Mech_A_MiniUMV.label>
   <Mech_A_MiniUMV.description>Самоходное колёсное миномётное транспортное средство "Праща"-7 — это небольшой механоид поддержки огня, разработанный Федерацией Речной Долины. В наши дни оно чаще назначается для использования Красной Гвардией.\n*Примечание: может запускать только стандартные миномётные боеприпасы.</Mech_A_MiniUMV.description>
   <Mech_A_MiniUMV.tools.0.label>Таран</Mech_A_MiniUMV.tools.0.label>
-  <!-- Flesh Type: Mechanoid -->
-  <Corpse_Mech_A_MiniUMV.label>Труп самоходного колёсного миномётного транспортного средства "Праща"-7</Corpse_Mech_A_MiniUMV.label>
-  <Corpse_Mech_A_MiniUMV.description>Труп самоходного колёсного миномётного транспортного средства "Праща"-7</Corpse_Mech_A_MiniUMV.description>
-
+  <Mech_A_MiniUMV_Corpse.label>Труп самоходного колёсного миномёта «Праща»-7</Mech_A_MiniUMV_Corpse.label>
+  <Mech_A_MiniUMV_Corpse.description>Труп самоходного колёсного миномёта «Праща»-7</Mech_A_MiniUMV_Corpse.description>
   <Mech_A_JiXieTi.label>Огнемётное транспортное средство</Mech_A_JiXieTi.label>
   <Mech_A_JiXieTi.description>Огнемётное транспортное средство было создано на основе шасси серии "Праща"-7, которые были оснащены дополнительными бронеплитами и огнемётами.</Mech_A_JiXieTi.description>
   <Mech_A_JiXieTi.tools.0.label>Таран</Mech_A_JiXieTi.tools.0.label>
-  <!-- Flesh Type: Mechanoid -->
-  <Corpse_Mech_A_JiXieTi.label>Труп огнемётного транспортного средства</Corpse_Mech_A_JiXieTi.label>
-  <Corpse_Mech_A_JiXieTi.description>Труп огнемётного транспортного средства</Corpse_Mech_A_JiXieTi.description>
-
+  <Mech_A_JiXieTi_Corpse.label>Труп огнемётной машины</Mech_A_JiXieTi_Corpse.label>
+  <Mech_A_JiXieTi_Corpse.description>Труп огнемётной машины</Mech_A_JiXieTi_Corpse.description>
   <Mech_A_XGJQG.label>Мехпёс "Доберман"-4</Mech_A_XGJQG.label>
   <Mech_A_XGJQG.description>Серия мехпсов "Доберман"-4 — это общий термин для серии лёгких роботов в форме собак, разработанных Федерацией Речной Долины в 5460-х и 5470-х годах. В прошлом они обычно служили для привлечения огня для солдат в городских боях. В наши дни они чаще используются Красной Гвардией пионерских правительств Красного Сектора.</Mech_A_XGJQG.description>
   <Mech_A_XGJQG.tools.0.label>Удар</Mech_A_XGJQG.tools.0.label>
-  <!-- Flesh Type: Mechanoid -->
-  <Corpse_Mech_A_XGJQG.label>Труп мехпса "Доберман"-4</Corpse_Mech_A_XGJQG.label>
-  <Corpse_Mech_A_XGJQG.description>Труп мехпса "Доберман"-4</Corpse_Mech_A_XGJQG.description>
-
+  <Mech_A_XGJQG_Corpse.label>Труп мехапса «Доберман»-4</Mech_A_XGJQG_Corpse.label>
+  <Mech_A_XGJQG_Corpse.description>Труп мехапса «Доберман»-4</Mech_A_XGJQG_Corpse.description>
   <Mech_A_WRJ.label>Беспилотный летательный аппарат "Гроза-TK19"</Mech_A_WRJ.label>
   <Mech_A_WRJ.description>Беспилотный летательный аппарат "Гроза-TK19" — это модульная авиационная боевая платформа.\nСтандартная конфигурация включает:\n- Система пилонов вооружения СМК-7 (совместима с некоторым оружием системы Аквила)\n- Лазерная пушка ORH-3 (дальность 15 клеток)\n- Отсек полезной нагрузки многоцелевого назначения (транспортировка грузов)\n\nОсобенности:\n- Позволяет оснащать определённым оружием для повышения производительности.\n- Может использоваться как обычный транспортный дрон в мирное время.\n- Разрешает улучшение производительности через специальные модули улучшения.\n\n*Примечание: Лазерные компоненты требуют независимого источника питания (не работают при установленном оружии).</Mech_A_WRJ.description>
   <Mech_A_WRJ.tools.0.label>Удар</Mech_A_WRJ.tools.0.label>
-  <!-- Flesh Type: Mechanoid -->
-  <Corpse_Mech_A_WRJ.label>Труп беспилотного летательного аппарата "Гроза-TK19"</Corpse_Mech_A_WRJ.label>
-  <Corpse_Mech_A_WRJ.description>Труп беспилотного летательного аппарата "Гроза-TK19"</Corpse_Mech_A_WRJ.description>
-
+  <Mech_A_WRJ_Corpse.label>Труп БПЛА Гроза-ТК19 «Раскат»</Mech_A_WRJ_Corpse.label>
+  <Mech_A_WRJ_Corpse.description>Труп БПЛА Гроза-ТК19 «Раскат»</Mech_A_WRJ_Corpse.description>
   <TY_A_Mech_GongBingJQR.label>Строительный робот "Гигантская обезьяна"-7</TY_A_Mech_GongBingJQR.label>
   <TY_A_Mech_GongBingJQR.description>Серия "Гигантская обезьяна" — это строительный инженерный робот, исследованный и произведённый правительством Красного Сектора звезды "Тревога" в 5484 году.\nБлагодаря своим толстокожим и износостойким характеристикам, его экспортные модели, имитации и производные стали высоко востребованными сокровищами в строительных отраслях различных наций или регионов военачальников.\nЭто версия модели "Гигантской обезьяны" для окраинных миров.</TY_A_Mech_GongBingJQR.description>
   <TY_A_Mech_GongBingJQR.tools.0.label>Удар</TY_A_Mech_GongBingJQR.tools.0.label>
-
-  <!-- Flesh Type: Mechanoid -->
+  <TY_A_Mech_GongBingJQR_Corpse.label>Труп строительного робота «Гигантская обезьяна»-7</TY_A_Mech_GongBingJQR_Corpse.label>
+  <TY_A_Mech_GongBingJQR_Corpse.description>Труп строительного робота «Гигантская обезьяна»-7</TY_A_Mech_GongBingJQR_Corpse.description>
+  <Corpse_Mech_A_BRM2A.label>Труп робота ополчения "Легион"-1</Corpse_Mech_A_BRM2A.label>
+  <Corpse_Mech_A_BRM2A.description>Труп робота ополчения "Легион"-1</Corpse_Mech_A_BRM2A.description>
+  <Corpse_Mech_A_BRM3A.label>Труп самоходного колёсного гаубичного мехпса "Охотничий тигр"-3</Corpse_Mech_A_BRM3A.label>
+  <Corpse_Mech_A_BRM3A.description>Труп самоходного колёсного гаубичного мехпса "Охотничий тигр"-3</Corpse_Mech_A_BRM3A.description>
+  <Corpse_Mech_A_MiniUMV.label>Труп самоходного колёсного миномётного транспортного средства "Праща"-7</Corpse_Mech_A_MiniUMV.label>
+  <Corpse_Mech_A_MiniUMV.description>Труп самоходного колёсного миномётного транспортного средства "Праща"-7</Corpse_Mech_A_MiniUMV.description>
+  <Corpse_Mech_A_JiXieTi.label>Труп огнемётного транспортного средства</Corpse_Mech_A_JiXieTi.label>
+  <Corpse_Mech_A_JiXieTi.description>Труп огнемётного транспортного средства</Corpse_Mech_A_JiXieTi.description>
+  <Corpse_Mech_A_XGJQG.label>Труп мехпса "Доберман"-4</Corpse_Mech_A_XGJQG.label>
+  <Corpse_Mech_A_XGJQG.description>Труп мехпса "Доберман"-4</Corpse_Mech_A_XGJQG.description>
+  <Corpse_Mech_A_WRJ.label>Труп беспилотного летательного аппарата "Гроза-TK19"</Corpse_Mech_A_WRJ.label>
+  <Corpse_Mech_A_WRJ.description>Труп беспилотного летательного аппарата "Гроза-TK19"</Corpse_Mech_A_WRJ.description>
   <Corpse_TY_A_Mech_GongBingJQR.label>Труп строительного робота "Гигантская обезьяна"-7</Corpse_TY_A_Mech_GongBingJQR.label>
   <Corpse_TY_A_Mech_GongBingJQR.description>Труп строительного робота "Гигантская обезьяна"-7</Corpse_TY_A_Mech_GongBingJQR.description>
-
-
 </LanguageData>
-

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Make_SlYan.label>Изготовить атомный бионический глаз</Make_SlYan.label>
+  <Make_SlYan.description>Изготовить атомный бионический глаз</Make_SlYan.description>
+  <Make_SlYan.jobString>Изготовление</Make_SlYan.jobString>
+  <Make_SlEr.label>Изготовить атомное бионическое ухо</Make_SlEr.label>
+  <Make_SlEr.description>Изготовить атомное бионическое ухо</Make_SlEr.description>
+  <Make_SlEr.jobString>Изготовление</Make_SlEr.jobString>
+  <Make_SlJizhui.label>Изготовить атомный бионический позвоночник</Make_SlJizhui.label>
+  <Make_SlJizhui.description>Изготовить атомный бионический позвоночник</Make_SlJizhui.description>
+  <Make_SlJizhui.jobString>Изготовление</Make_SlJizhui.jobString>
+  <Make_SlWei.label>Изготовить атомный бионический желудок</Make_SlWei.label>
+  <Make_SlWei.description>Изготовить атомный бионический желудок</Make_SlWei.description>
+  <Make_SlWei.jobString>Изготовление</Make_SlWei.jobString>
+  <Make_SlFei.label>Изготовить атомное бионическое лёгкое</Make_SlFei.label>
+  <Make_SlFei.description>Изготовить атомное бионическое лёгкое</Make_SlFei.description>
+  <Make_SlFei.jobString>Изготовление</Make_SlFei.jobString>
+  <Make_SlShen.label>Изготовить атомную бионическую почку</Make_SlShen.label>
+  <Make_SlShen.description>Изготовить атомную бионическую почку</Make_SlShen.description>
+  <Make_SlShen.jobString>Изготовление</Make_SlShen.jobString>
+  <Make_SlGan.label>Изготовить атомную бионическую печень</Make_SlGan.label>
+  <Make_SlGan.description>Изготовить атомную бионическую печень</Make_SlGan.description>
+  <Make_SlGan.jobString>Изготовление</Make_SlGan.jobString>
+  <Make_SlBi.label>Изготовить атомную бионическую руку</Make_SlBi.label>
+  <Make_SlBi.description>Изготовить атомную бионическую руку</Make_SlBi.description>
+  <Make_SlBi.jobString>Изготовление</Make_SlBi.jobString>
+  <Make_SlTui.label>Изготовить атомную бионическую ногу</Make_SlTui.label>
+  <Make_SlTui.description>Изготовить атомную бионическую ногу</Make_SlTui.description>
+  <Make_SlTui.jobString>Изготовление</Make_SlTui.jobString>
+</LanguageData>

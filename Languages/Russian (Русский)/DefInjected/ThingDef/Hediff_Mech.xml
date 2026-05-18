@@ -1,28 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- 速度升级模块 -->
-
   <MechSpeedUpgradeModule.label>Модуль улучшения скорости механоида</MechSpeedUpgradeModule.label>
   <MechSpeedUpgradeModule.description>Модуль улучшения для повышения скорости механоидов.</MechSpeedUpgradeModule.description>
   <MechSpeedUpgradeModule.modExtensions.0.upgradeEffects.0.label>Улучшение скорости</MechSpeedUpgradeModule.modExtensions.0.upgradeEffects.0.label>
-
-
-  <!-- 效率升级模块 -->
-
   <MechEfficiencyUpgradeModule.label>Модуль улучшения эффективности работы</MechEfficiencyUpgradeModule.label>
   <MechEfficiencyUpgradeModule.description>Модуль улучшения для повышения эффективности работы механоидов.</MechEfficiencyUpgradeModule.description>
   <MechEfficiencyUpgradeModule.modExtensions.0.upgradeEffects.0.label>Улучшение эффективности</MechEfficiencyUpgradeModule.modExtensions.0.upgradeEffects.0.label>
-
-
-  <!-- 装甲升级升级模块 -->
-
   <MechMultiUpgradeModule.label>Модуль улучшения брони</MechMultiUpgradeModule.label>
   <MechMultiUpgradeModule.description>Модуль улучшения для повышения брони механоидов.</MechMultiUpgradeModule.description>
   <MechMultiUpgradeModule.modExtensions.0.upgradeEffects.0.label>Усиление брони</MechMultiUpgradeModule.modExtensions.0.upgradeEffects.0.label>
   <MechMultiUpgradeModule_WRJ.label>Модуль улучшения беспилотного летательного аппарата "Гроза-TK19"</MechMultiUpgradeModule_WRJ.label>
   <MechMultiUpgradeModule_WRJ.description>Модуль улучшения для повышения характеристик беспилотного летательного аппарата "Гроза-TK19".</MechMultiUpgradeModule_WRJ.description>
   <MechMultiUpgradeModule_WRJ.modExtensions.0.upgradeEffects.0.label>Усиление беспилотного летательного аппарата "Гроза-TK19"</MechMultiUpgradeModule_WRJ.modExtensions.0.upgradeEffects.0.label>
-
+  <MechStateRecoveryChip.label>Чип восстановления состояния механоида</MechStateRecoveryChip.label>
+  <MechStateRecoveryChip.description>Специальный чип данных, восстанавливающий ранее применённые улучшения механоида.</MechStateRecoveryChip.description>
 </LanguageData>
-

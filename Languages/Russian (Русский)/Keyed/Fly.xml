@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <TY_FlightControl_Toggle>Переключить режим полёта</TY_FlightControl_Toggle>
+  <TY_FlightControl_ToggleDesc>Настройки управления полётом {0}. Нажмите для переключения режима полёта.</TY_FlightControl_ToggleDesc>
+  <TY_FlightControl_Never>Никогда не летать</TY_FlightControl_Never>
+  <TY_FlightControl_OnlyMove>Полёт только при перемещении</TY_FlightControl_OnlyMove>
+  <TY_FlightControl_Always>Всегда разрешать полёт</TY_FlightControl_Always>
+  <TY_FlightControl_NeverDesc>Текущий режим: никогда не летать
+Юнит не будет летать, даже если экипирован полётным устройством.</TY_FlightControl_NeverDesc>
+  <TY_FlightControl_OnlyMoveDesc>Текущий режим: полёт только при перемещении
+Юнит использует способность к полёту только при перемещении в указанную точку.</TY_FlightControl_OnlyMoveDesc>
+  <TY_FlightControl_AlwaysDesc>Текущий режим: всегда разрешать полёт
+Юнит может использовать способность к полёту при выполнении любых задач (при соблюдении условий полёта).</TY_FlightControl_AlwaysDesc>
+  <DriveS_InFlight>В полёте</DriveS_InFlight>
+</LanguageData>

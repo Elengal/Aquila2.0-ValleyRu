@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <TYHuman.label>Человек Аквилы</TYHuman.label>
+  <TYHuman.corePart.parts.0.customLabel>ребро</TYHuman.corePart.parts.0.customLabel>
+  <TYHuman.corePart.parts.1.customLabel>грудина</TYHuman.corePart.parts.1.customLabel>
+  <TYHuman.corePart.parts.2.customLabel>таз</TYHuman.corePart.parts.2.customLabel>
+  <TYHuman.corePart.parts.3.customLabel>позвоночник</TYHuman.corePart.parts.3.customLabel>
+  <TYHuman.corePart.parts.4.customLabel>желудок</TYHuman.corePart.parts.4.customLabel>
+  <TYHuman.corePart.parts.5.customLabel>реактор (сердце)</TYHuman.corePart.parts.5.customLabel>
+  <TYHuman.corePart.parts.6.customLabel>левое лёгкое</TYHuman.corePart.parts.6.customLabel>
+  <TYHuman.corePart.parts.7.customLabel>правое лёгкое</TYHuman.corePart.parts.7.customLabel>
+  <TYHuman.corePart.parts.8.customLabel>левая почка</TYHuman.corePart.parts.8.customLabel>
+  <TYHuman.corePart.parts.9.customLabel>правая почка</TYHuman.corePart.parts.9.customLabel>
+  <TYHuman.corePart.parts.10.customLabel>печень</TYHuman.corePart.parts.10.customLabel>
+  <TYHuman.corePart.parts.11.customLabel>шея</TYHuman.corePart.parts.11.customLabel>
+  <TYHuman.corePart.parts.11.parts.0.parts.0.customLabel>череп</TYHuman.corePart.parts.11.parts.0.parts.0.customLabel>
+  <TYHuman.corePart.parts.11.parts.0.parts.0.parts.0.customLabel>мозг</TYHuman.corePart.parts.11.parts.0.parts.0.parts.0.customLabel>
+  <TYHuman.corePart.parts.11.parts.0.parts.1.customLabel>левый глаз</TYHuman.corePart.parts.11.parts.0.parts.1.customLabel>
+  <TYHuman.corePart.parts.11.parts.0.parts.2.customLabel>правый глаз</TYHuman.corePart.parts.11.parts.0.parts.2.customLabel>
+  <TYHuman.corePart.parts.11.parts.0.parts.3.customLabel>левое ухо</TYHuman.corePart.parts.11.parts.0.parts.3.customLabel>
+  <TYHuman.corePart.parts.11.parts.0.parts.4.customLabel>правое ухо</TYHuman.corePart.parts.11.parts.0.parts.4.customLabel>
+  <TYHuman.corePart.parts.11.parts.0.parts.5.customLabel>нос</TYHuman.corePart.parts.11.parts.0.parts.5.customLabel>
+  <TYHuman.corePart.parts.11.parts.0.parts.6.customLabel>челюсть</TYHuman.corePart.parts.11.parts.0.parts.6.customLabel>
+  <TYHuman.corePart.parts.12.customLabel>левое плечо</TYHuman.corePart.parts.12.customLabel>
+  <TYHuman.corePart.parts.12.parts.0.customLabel>левая ключица</TYHuman.corePart.parts.12.parts.0.customLabel>
+  <TYHuman.corePart.parts.12.parts.1.customLabel>левая рука</TYHuman.corePart.parts.12.parts.1.customLabel>
+  <TYHuman.corePart.parts.12.parts.1.parts.0.customLabel>левая плечевая кость</TYHuman.corePart.parts.12.parts.1.parts.0.customLabel>
+  <TYHuman.corePart.parts.12.parts.1.parts.1.customLabel>левая лучевая кость</TYHuman.corePart.parts.12.parts.1.parts.1.customLabel>
+  <TYHuman.corePart.parts.12.parts.1.parts.2.customLabel>левая кисть</TYHuman.corePart.parts.12.parts.1.parts.2.customLabel>
+  <TYHuman.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>левый мизинец</TYHuman.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <TYHuman.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>левый безымянный палец</TYHuman.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <TYHuman.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>левый средний палец</TYHuman.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <TYHuman.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>левый указательный палец</TYHuman.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <TYHuman.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>левый большой палец</TYHuman.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <TYHuman.corePart.parts.13.customLabel>правое плечо</TYHuman.corePart.parts.13.customLabel>
+  <TYHuman.corePart.parts.13.parts.0.customLabel>правая ключица</TYHuman.corePart.parts.13.parts.0.customLabel>
+  <TYHuman.corePart.parts.13.parts.1.customLabel>правая рука</TYHuman.corePart.parts.13.parts.1.customLabel>
+  <TYHuman.corePart.parts.13.parts.1.parts.0.customLabel>правая плечевая кость</TYHuman.corePart.parts.13.parts.1.parts.0.customLabel>
+  <TYHuman.corePart.parts.13.parts.1.parts.1.customLabel>правая лучевая кость</TYHuman.corePart.parts.13.parts.1.parts.1.customLabel>
+  <TYHuman.corePart.parts.13.parts.1.parts.2.customLabel>правая кисть</TYHuman.corePart.parts.13.parts.1.parts.2.customLabel>
+  <TYHuman.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>правый мизинец</TYHuman.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <TYHuman.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>правый безымянный палец</TYHuman.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <TYHuman.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>правый средний палец</TYHuman.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <TYHuman.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>правый указательный палец</TYHuman.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <TYHuman.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>правый большой палец</TYHuman.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <TYHuman.corePart.parts.14.customLabel>поясница</TYHuman.corePart.parts.14.customLabel>
+  <TYHuman.corePart.parts.15.customLabel>левая нога</TYHuman.corePart.parts.15.customLabel>
+  <TYHuman.corePart.parts.15.parts.0.customLabel>левая бедренная кость</TYHuman.corePart.parts.15.parts.0.customLabel>
+  <TYHuman.corePart.parts.15.parts.1.customLabel>левая большеберцовая кость</TYHuman.corePart.parts.15.parts.1.customLabel>
+  <TYHuman.corePart.parts.15.parts.2.customLabel>левая стопа</TYHuman.corePart.parts.15.parts.2.customLabel>
+  <TYHuman.corePart.parts.15.parts.2.parts.0.customLabel>левый мизинец ноги</TYHuman.corePart.parts.15.parts.2.parts.0.customLabel>
+  <TYHuman.corePart.parts.15.parts.2.parts.1.customLabel>левый четвёртый палец ноги</TYHuman.corePart.parts.15.parts.2.parts.1.customLabel>
+  <TYHuman.corePart.parts.15.parts.2.parts.2.customLabel>левый средний палец ноги</TYHuman.corePart.parts.15.parts.2.parts.2.customLabel>
+  <TYHuman.corePart.parts.15.parts.2.parts.3.customLabel>левый второй палец ноги</TYHuman.corePart.parts.15.parts.2.parts.3.customLabel>
+  <TYHuman.corePart.parts.15.parts.2.parts.4.customLabel>левый большой палец ноги</TYHuman.corePart.parts.15.parts.2.parts.4.customLabel>
+  <TYHuman.corePart.parts.16.customLabel>правая нога</TYHuman.corePart.parts.16.customLabel>
+  <TYHuman.corePart.parts.16.parts.0.customLabel>правая бедренная кость</TYHuman.corePart.parts.16.parts.0.customLabel>
+  <TYHuman.corePart.parts.16.parts.1.customLabel>правая большеберцовая кость</TYHuman.corePart.parts.16.parts.1.customLabel>
+  <TYHuman.corePart.parts.16.parts.2.customLabel>правая стопа</TYHuman.corePart.parts.16.parts.2.customLabel>
+  <TYHuman.corePart.parts.16.parts.2.parts.0.customLabel>правый мизинец ноги</TYHuman.corePart.parts.16.parts.2.parts.0.customLabel>
+  <TYHuman.corePart.parts.16.parts.2.parts.1.customLabel>правый четвёртый палец ноги</TYHuman.corePart.parts.16.parts.2.parts.1.customLabel>
+  <TYHuman.corePart.parts.16.parts.2.parts.2.customLabel>правый средний палец ноги</TYHuman.corePart.parts.16.parts.2.parts.2.customLabel>
+  <TYHuman.corePart.parts.16.parts.2.parts.3.customLabel>правый второй палец ноги</TYHuman.corePart.parts.16.parts.2.parts.3.customLabel>
+  <TYHuman.corePart.parts.16.parts.2.parts.4.customLabel>правый большой палец ноги</TYHuman.corePart.parts.16.parts.2.parts.4.customLabel>
+</LanguageData>

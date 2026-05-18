@@ -1,12 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
   <TY_A_Nano_industrial_manufacturing_station_NO.label>Нано-промышленная производственная станция (Неактивна)</TY_A_Nano_industrial_manufacturing_station_NO.label>
   <TY_A_Nano_industrial_manufacturing_station_NO.description>При активации будет излучать электромагнитные волны определённого частотного диапазона, которые привлекут внимание близлежащих механоидов. Активация продлится 5 дней, в течение которых неизбежно будет привлечено большое количество механоидных подразделений для рейда. Пожалуйста, подготовьте свои оборонительные сооружения.</TY_A_Nano_industrial_manufacturing_station_NO.description>
+  <TY_A_Nano_industrial_manufacturing_station_NO_Blueprint.label>Nano Industrial Manufacture Facility (Inactive)</TY_A_Nano_industrial_manufacturing_station_NO_Blueprint.label>
+  <TY_A_Nano_industrial_manufacturing_station_NO_Frame.label>Nano Industrial Manufacture Facility (Inactive)</TY_A_Nano_industrial_manufacturing_station_NO_Frame.label>
+  <TY_A_Nano_industrial_manufacturing_station_NO_Frame.description>When activated, it will emit electromagnetic waves of a specific frequency band that will attract the attention of nearby mechanoids. The activation will last for 5 days, during which a large number of mechanoid units will inevitably be attracted to raid. Please prepare your defenses.</TY_A_Nano_industrial_manufacturing_station_NO_Frame.description>
   <Blueprint_TY_A_Nano_industrial_manufacturing_station_NO.label>Нано-промышленная производственная станция (Неактивна)</Blueprint_TY_A_Nano_industrial_manufacturing_station_NO.label>
   <Frame_TY_A_Nano_industrial_manufacturing_station_NO.label>Нано-промышленная производственная станция (Неактивна)</Frame_TY_A_Nano_industrial_manufacturing_station_NO.label>
   <Frame_TY_A_Nano_industrial_manufacturing_station_NO.description>При активации будет излучать электромагнитные волны определённого частотного диапазона, которые привлекут внимание близлежащих механоидов. Активация продлится 5 дней, в течение которых неизбежно будет привлечено большое количество механоидных подразделений для рейда. Пожалуйста, подготовьте свои оборонительные сооружения.</Frame_TY_A_Nano_industrial_manufacturing_station_NO.description>
-
-
 </LanguageData>
-

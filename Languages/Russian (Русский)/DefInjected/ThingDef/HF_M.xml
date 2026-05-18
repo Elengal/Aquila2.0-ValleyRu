@@ -1,9 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
   <TY_A_Mech_Terror_Drone_A.label>Распад</TY_A_Mech_Terror_Drone_A.label>
   <TY_A_Mech_Terror_Drone_A.description>Распад</TY_A_Mech_Terror_Drone_A.description>
-
-
+  <TY_A_Mech_Terror_Drone_A.comps.1.useLabel>Установить {0_label}, чтобы стать механитором</TY_A_Mech_Terror_Drone_A.comps.1.useLabel>
+  <TY_A_Mech_Terror_Drone_A.comps.3.useLabel>Имплантировать подсоединение</TY_A_Mech_Terror_Drone_A.comps.3.useLabel>
 </LanguageData>
-

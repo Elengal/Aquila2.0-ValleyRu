@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <TY_A_RemoteRepair.label>Reforged Remote Repair</TY_A_RemoteRepair.label>
+  <TY_A_RemoteRepair.description>Позволяет мозгу установить прямую психическую связь с механоидами, обеспечивая психическое наведение для удалённого ремонта самовосстанавливающихся нано-машин механоидов.</TY_A_RemoteRepair.description>
+  <TY_A_RemoteShield.label>Reforged Remote Shield Module</TY_A_RemoteShield.label>
+  <TY_A_RemoteShield.description>Модуль улучшения, позволяющий механиторам удалённо проецировать щиты на механоидов. Механитор должен непрерывно сосредоточиваться на целевом механоиде для поддержания щита, что может спасти жизнь механоида в критический момент.</TY_A_RemoteShield.description>
+</LanguageData>

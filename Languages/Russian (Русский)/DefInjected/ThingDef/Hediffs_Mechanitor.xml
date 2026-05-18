@@ -1,15 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
   <YYS_YTCDMechlink.label>Мехлинк Синтетиков</YYS_YTCDMechlink.label>
   <YYS_YTCDMechlink.description>Изначально Синтетики Розарии служили ручными базовыми станциями для сети ОГАС, но позже было обнаружено, что они неожиданно хорошо подходят для установки дешёвых гештальт-мехлинков.\nСпециализированные мехлинки Синтетиков Розарии для управления механоидными подразделениями, хотя большинство промышленных зон Новой Федерации Речной Долины теперь напрямую используют систему ОГАС, контрольные узлы Розарии остаются полезными только в пограничных пионерских и военных операциях.</YYS_YTCDMechlink.description>
-
-
-  <!-- 带了这个损坏核心的JB的pawn在光辉里 -->
-
+  <YYS_YTCDMechlink.comps.1.useLabel>Use (Must Be A Reforged)</YYS_YTCDMechlink.comps.1.useLabel>
   <YYS_YTCDMechlinkImplantThing.label>Черепной штифт мехлинка Синтетиков</YYS_YTCDMechlinkImplantThing.label>
   <YYS_YTCDMechlinkImplantThing.description>Обычно только Церковь Славы может изготавливать специальные черепные штифты, которые используются для того, чтобы пленники Синтетиков Розарии теряли контроль над своими механоидами.</YYS_YTCDMechlinkImplantThing.description>
-
-
 </LanguageData>
-

@@ -1,12 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- 要求攻击指定地点据点 -->
-
+  <TY_A_OpportunitySite_BanditCamp.root.nodes.12.node.nodes.0.label>Задание просрочено:</TY_A_OpportunitySite_BanditCamp.root.nodes.12.node.nodes.0.label>
+  <TY_A_OpportunitySite_BanditCamp.root.nodes.12.node.nodes.0.text>The bandit camp has packed up and moved on. The quest  has expired.</TY_A_OpportunitySite_BanditCamp.root.nodes.12.node.nodes.0.text>
+  <TY_A_OpportunitySite_BanditCamp.root.nodes.13.node.nodes.0.label>Задание провалено:</TY_A_OpportunitySite_BanditCamp.root.nodes.13.node.nodes.0.label>
+  <TY_A_OpportunitySite_BanditCamp.root.nodes.13.node.nodes.0.text>After being discovered, the bandit camp has dispersed. The quest has ended.</TY_A_OpportunitySite_BanditCamp.root.nodes.13.node.nodes.0.text>
+  <TY_A_OpportunitySite_BanditCamp.root.nodes.14.node.nodes.1.nodeIfChosenPawnSignalUsed.label></TY_A_OpportunitySite_BanditCamp.root.nodes.14.node.nodes.1.nodeIfChosenPawnSignalUsed.label>
+  <TY_A_OpportunitySite_BanditCamp.root.nodes.14.node.nodes.1.nodeIfChosenPawnSignalUsed.text>Эти поселенцы участвовали в победе за задание. Хотят знать, кто должен получить награду за эту услугу.</TY_A_OpportunitySite_BanditCamp.root.nodes.14.node.nodes.1.nodeIfChosenPawnSignalUsed.text>
   <TY_A_OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings.0>
-      questDescription-&gt;
+      questDescription->
     </TY_A_OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings.0>
-  <TY_A_OpportunitySite_BanditCamp.questNameRules.rulesStrings.0>questName-&gt;</TY_A_OpportunitySite_BanditCamp.questNameRules.rulesStrings.0>
-
-
+  <TY_A_OpportunitySite_BanditCamp.questNameRules.rulesStrings.0>questName-></TY_A_OpportunitySite_BanditCamp.questNameRules.rulesStrings.0>
 </LanguageData>

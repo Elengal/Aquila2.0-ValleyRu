@@ -1,10 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- 运输囚犯的穿梭机 -->
-
-  <TY_A_PrisonerBounty.questDescriptionRules.rulesStrings.0>questDescription-&gt;запустил транспортный шаттл для заключённых, пожалуйста, подождите.</TY_A_PrisonerBounty.questDescriptionRules.rulesStrings.0>
-  <TY_A_PrisonerBounty.questNameRules.rulesStrings.0>questName-&gt;Транспортный шаттл для заключённых</TY_A_PrisonerBounty.questNameRules.rulesStrings.0>
-
-
+  <TY_A_PrisonerBounty.root.nodes.1.node.nodes.2.label>Транспортный шаттл для пленников прибыл.</TY_A_PrisonerBounty.root.nodes.1.node.nodes.2.label>
+  <TY_A_PrisonerBounty.root.nodes.1.node.nodes.2.text>Транспортный шаттл для пленников прибыл.</TY_A_PrisonerBounty.root.nodes.1.node.nodes.2.text>
+  <TY_A_PrisonerBounty.questDescriptionRules.rulesStrings.0>questDescription->запустил транспортный шаттл для заключённых, пожалуйста, подождите.</TY_A_PrisonerBounty.questDescriptionRules.rulesStrings.0>
+  <TY_A_PrisonerBounty.questNameRules.rulesStrings.0>questName->Транспортный шаттл для заключённых</TY_A_PrisonerBounty.questNameRules.rulesStrings.0>
 </LanguageData>

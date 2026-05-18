@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <LanguageData><![CDATA[<TY_A_Red_Army_Communication_Station_Start_Dialogue_Box>[КомЗвезда] Справочное бюро революционной помощи</TY_A_Red_Army_Communication_Station_Start_Dialogue_Box>
+  <TY_A_Your_faction_is_hostile_to_the_Red_Army>Ваш фракция враждебна к {0}</TY_A_Your_faction_is_hostile_to_the_Red_Army>
+  <TY_A_Create_Red_Army_main_menu_ode>"Переключаю на революционный канал связи"
+После секунды-двух помех новый голос звучит в ваших ушах.
+"Привет, товарищ! Добро пожаловать на радиостанцию КомЗвезды (˶>w•)✧"
+"КомЗвезда стремится помогать и поддерживать каждый прогрессивный дружественный фракцию и партнёра（˶˃ w <˶）"
+"Вы можете получать задания, решать проблемы различных коммун. Накапливайте репутационные талоны, завоёвывайте дружбу через честь и кровь, чтобы получить больше технологий, помощи и сотрудничества( ୧〃•̀w•〃).
+Чем мы можем вам помочь? ₍^˶ ╸o  ╸˵^₎"
+
+Текущие репутационные талоны: {0}</TY_A_Create_Red_Army_main_menu_ode>
+  <TY_A_Red_Army_Military_Assistance>Запросить военную поддержку</TY_A_Red_Army_Military_Assistance>
+  <TY_A_Red_Army_Military_Assistance_q>Текущие репутационные талоны: {0}
+
+
+"Устанавливаю срочную связь с ближайшими вооружёнными силами Красного сектора и Красной гвардией. Товарищ, выберите нужную вам военную поддержку."</TY_A_Red_Army_Military_Assistance_q>
+  <TY_A_Red_Army_Military_Assistance_q_Q>Звено — 250 репутационных талонов</TY_A_Red_Army_Military_Assistance_q_Q>
+  <TY_A_Red_Army_Military_Assistance_q_W>Отделение — 600 репутационных талонов</TY_A_Red_Army_Military_Assistance_q_W>
+  <TY_A_Red_Army_Military_Assistance_q_E>Взвод — 1200 репутационных талонов</TY_A_Red_Army_Military_Assistance_q_E>
+  <TY_A_Red_Army_Military_Assistance_w>Военная поддержка готова к развертыванию! ੭ ᐕ)੭</TY_A_Red_Army_Military_Assistance_w>
+  <TY_A_Red_Army_Military_Assistance_w_NO>Следующий запрос на развертывание военной поддержки будет готов через {0} дней</TY_A_Red_Army_Military_Assistance_w_NO>
+  <TY_A_Red_Army_Military_Assistance_w_q>Военная поддержка развернута! / ᐕ)/</TY_A_Red_Army_Military_Assistance_w_q>
+  <TY_A_Request_item_options>Запросить материальную помощь</TY_A_Request_item_options>
+  <TY_A_Request_item_options_q>Текущие репутационные талоны: {0}
+
+
+"Товарищ, материальная помощь КомЗвезды охватывает всё ψ(｀∇´)ψ! Вы можете выбрать из: оружие, медикаменты, бионику, архотех, сырьё и многое другое o(￣▽￣)d. Пожалуйста, выберите нужную вам помощь."{1}</TY_A_Request_item_options_q>
+  <TY_A_Request_item_options_W>Запрос {0} потребляет: {1} репутационных талонов</TY_A_Request_item_options_W>
+  <TY_A_Request_item_options_E>Помощь доставлена</TY_A_Request_item_options_E>
+  <TY_A_Request_item_options_E_Q>Следующая партия помощи пополнится через {0} дней</TY_A_Request_item_options_E_Q>
+  <TY_A_Request_item_options_R>Товары, заказанные у {0}, прибыли!</TY_A_Request_item_options_R>
+  <TY_A_Browse_available_items>Высокотехнологичная помощь</TY_A_Browse_available_items>
+  <TY_A_Available_items>Текущие репутационные талоны: {0}
+
+
+"Товарищ, программа высокотехнологичной помощи имеет обширный ассортимент товаров. Если не нашли нужное, попробуйте более подробные категории.(´ω｀)ゞ"</TY_A_Available_items>
+  <TY_A_Item_market_cooldown>Отключено при отсутствии запасов</TY_A_Item_market_cooldown>
+  <TY_A_Recruitment_Structure_Options>Назначение специалистов-конструктов</TY_A_Recruitment_Structure_Options>
+  <TY_A_Recruitment_Structure>Текущие репутационные талоны: {0}
+
+"Связываюсь с добровольцами-конструктами, готовыми поддержать вас, товарищ ［( ̳• v • ̳)7"</TY_A_Recruitment_Structure>
+  <TY_A_Spending_federal_currency_to_select_personality_recruitmen_constructs>Потратить {0} репутационных талонов для набора конструкта с выбором черт</TY_A_Spending_federal_currency_to_select_personality_recruitmen_constructs>
+  <TY_A_Red_Select_Features>Выберите требуемую черту:</TY_A_Red_Select_Features>
+  <TY_A_No_desired_features>Черта не требуется</TY_A_No_desired_features>
+  <TY_A_Skills_for_selecting_constructs>Выберите требуемый навык конструкта:</TY_A_Skills_for_selecting_constructs>
+  <TY_A_Skills_for_selecting_constructs_NO>Навык конструкта не требуется</TY_A_Skills_for_selecting_constructs_NO>
+  <TY_A_Not_enough_federal_currency>Недостаточно репутационных талонов</TY_A_Not_enough_federal_currency>
+  <TY_A_There_are_no_structures_available_for_recruitment>Нет конструкторов для набора</TY_A_There_are_no_structures_available_for_recruitment>
+  <TY_A_There_are_Y_structures_available_for_recruitment>Конструкты доступны для набора</TY_A_There_are_Y_structures_available_for_recruitment>
+  <TY_A_The_next_construct_is_recruited_after_Tianke>Следующий конструкт будет доступен для набора через {0} дн.</TY_A_The_next_construct_is_recruited_after_Tianke>
+  <TY_A_GetRequest_task_options>Запросить задания (в разработке)</TY_A_GetRequest_task_options>
+  <TY_A_Purchase_federal_currency_with_silver>Запросить серебряную помощь</TY_A_Purchase_federal_currency_with_silver>
+  <TY_A_Display_information_on_exchanging_silver_for_rewards>Текущие репутационные талоны: {0}
+Текущее количество серебра: {1}
+
+
+"Хорошо, товарищ, я немедленно свяжусь с финансовым отделом. Укажите необходимое вам количество серебра. 丿(•u•  )丿"</TY_A_Display_information_on_exchanging_silver_for_rewards>
+  <TY_A_Display_the_exchange_of_silver_for_federal_currency>Обменять {0} серебра за {1} репутационных талонов</TY_A_Display_the_exchange_of_silver_for_federal_currency>
+  <TY_A_There_is_not_enough_silver_displayed>Недостаточно репутационных талонов</TY_A_There_is_not_enough_silver_displayed>
+  <TY_A_Return_to_the_root_node>Вернуться в главное меню</TY_A_Return_to_the_root_node>
+  <TY_A_Purchase_federal_currency_with_silver_A>Обмен заслуг на репутационные талоны</TY_A_Purchase_federal_currency_with_silver_A>
+  <TY_A_Choose_items_to_exchange_for_federal_currency>"Хорошо, товарищ, я подготовил документы и архивы, готов записать ваши заслуги и достижения! Выберите соответствующие документы и архивы. m(˶ • ᴗ • ˶)m"
+
+{0} репутационных талонов</TY_A_Choose_items_to_exchange_for_federal_currency>
+  <TY_A_Exchange_item_for_currency>Обменять {0} (получить {1} репутационных талонов за каждый)</TY_A_Exchange_item_for_currency>
+  <TY_A_Exchange_details>Детали обмена:
+
+Предмет: {0}
+Доступно: {1}
+Курс обмена: {2} репутационных талонов за каждый
+Минимальное количество обмена: {3}
+За один обмен: получить {4} репутационных талонов</TY_A_Exchange_details>
+  <TY_A_Exchange_once>Обменять {0} {1} (получить {2} репутационных талонов)</TY_A_Exchange_once>
+  <TY_A_Exchange_ten_times>Обменять {0} {1} (получить {2} репутационных талонов)</TY_A_Exchange_ten_times>
+  <TY_A_Exchange_all>Обменять все {0} {1} (получить {2} репутационных талонов)</TY_A_Exchange_all>
+  <TY_A_Back_to_item_list>Вернуться к списку предметов</TY_A_Back_to_item_list>
+  <TY_A_Not_enough_items>Недостаточно {0}</TY_A_Not_enough_items>
+  <TY_A_No_items_to_exchange>Нет предметов для обмена</TY_A_No_items_to_exchange>
+  <TY_A_Exchange_successful>Успешно обменяно {0} {1}. Получено {2} репутационных талонов. Общая сумма репутационных талонов: {3}</TY_A_Exchange_successful>
+  <TY_A_Prisoner_Bounty_Request>Пленник в обмен на заслуги</TY_A_Prisoner_Bounty_Request>
+  <TY_A_Select_Prisoner>"Понял, товарищ. Мы направляем соответствующий отдел для конвоирования. Выберите пленников для отправки. [( ̳• 、• ̳)7"
+
+Выбрать пленника: {0}, Тип: {1}, Фракция: {2}, Награда: {3}</TY_A_Select_Prisoner>
+  <TY_A_No_Faction>Без фракции</TY_A_No_Faction>
+  <TY_A_Selected_Prisoners>Выбранные пленники</TY_A_Selected_Prisoners>
+  <TY_A_Total_Bounty_Value>Общая стоимость награды</TY_A_Total_Bounty_Value>
+  <TY_A_Confirm_Prisoner_Selection>Подтвердить</TY_A_Confirm_Prisoner_Selection>
+  <TY_A_No_Prisoners_Selected>Пленники не выбраны</TY_A_No_Prisoners_Selected>
+  <TY_A_Cancel>Отмена</TY_A_Cancel>
+  <TY_A_No_Prisoners_Available>Нет доступных пленников</TY_A_No_Prisoners_Available>
+  <TY_A_Go_Back>Назад</TY_A_Go_Back>
+  <TY_A_Active_Prisoner_Bounty_Quest>Активное задание за голову пленника</TY_A_Active_Prisoner_Bounty_Quest>
+  <TY_A_Unlock_Prisoner_Bounty_Early>Разблокировать досрочно (Если прибылаший шаттл был уничтожён или по иной причине расчёт не удался, возникнет эта проблема. Вам нужно заплатить сбор для разблокировки.)</TY_A_Unlock_Prisoner_Bounty_Early>
+  <TY_A_Honor_Items_Exchange_Description>Вы можете обменять почётные предметы на очки репутации. Выберите тип предмета для обмена:</TY_A_Honor_Items_Exchange_Description>
+  <TY_A_No_Honor_Items_Available>У вас нет доступных почётных предметов. Почётные предметы должны находиться в зоне действия торгового маяка или у поселенцев.</TY_A_No_Honor_Items_Available>
+  <TY_A_Return>Вернуться</TY_A_Return>
+  <TY_A_Honor_Items_Exchange>Обмен на репутацию</TY_A_Honor_Items_Exchange>
+  <TY_A_Exchange_Honor_Item_Group>{0} x{1} ({2} репутации за каждый)</TY_A_Exchange_Honor_Item_Group>
+  <TY_A_Honor_Exchange_Details>Предмет: {0}
+Доступное количество: {1}
+Ценность каждого: {2} очков репутации
+Общая ценность: {3} очков репутации
+
+Выберите количество для обмена:</TY_A_Honor_Exchange_Details>
+  <TY_A_Exchange_Honor_Once>Обменять {0} {1} (получить {2} репутации)</TY_A_Exchange_Honor_Once>
+  <TY_A_Exchange_Honor_Ten>Обменять {0} {1} (получить {2} репутации)</TY_A_Exchange_Honor_Ten>
+  <TY_A_Exchange_Honor_All>Обменять все {0} {1} (получить {2} репутации)</TY_A_Exchange_Honor_All>
+  <TY_A_Back_to_honor_item_list>Вернуться к списку предметов</TY_A_Back_to_honor_item_list>
+  <TY_A_Honor_Exchange_Success>Успешно обменяно {0} {1}, получено {2} очков репутации {3}.</TY_A_Honor_Exchange_Success>
+  <LetterTextSpacedroneHacked_Custom>Вы завершили взлом {0} и получили важную информацию.</LetterTextSpacedroneHacked_Custom>
+  <TY_A_Exchange_for_items>Обменять на предметы</TY_A_Exchange_for_items>
+  <TY_A_Exchange_for_silver>Обменять на серебро</TY_A_Exchange_for_silver>
+  <TY_A_Federal_currency>билеты репутации</TY_A_Federal_currency>
+  <TY_A_Honor_Exchange>Обмен репутации</TY_A_Honor_Exchange>
+  <TY_A_Insufficient_reputation>Недостаточно репутации</TY_A_Insufficient_reputation>
+  <TY_A_Insufficient_silver>Недостаточно серебра</TY_A_Insufficient_silver>
+  <TY_A_Item_already_claimed>Этот предмет уже получен</TY_A_Item_already_claimed>
+  <TY_A_No_items_available>Нет доступных предметов</TY_A_No_items_available>
+  <TY_A_Prisoner_Bounty>Награда за заключённого</TY_A_Prisoner_Bounty>
+  <TY_A_Prisoner_Bounty_Description>Выдача заключённого в обмен на билеты репутации. Сумма награды зависит от ценности заключённого.</TY_A_Prisoner_Bounty_Description>
+  <TY_A_Prisoner_Bounty_Price>Награда: {0} билетов репутации</TY_A_Prisoner_Bounty_Price>
+  <TY_A_Prisoner_Bounty_Title>Награда за заключённого — Коммунистический межзвёздный альянс</TY_A_Prisoner_Bounty_Title>
+  <TY_A_Receive_items>Получить предметы</TY_A_Receive_items>
+  <TY_A_Red_Army_Communication_Station>Станция связи Красной Армии</TY_A_Red_Army_Communication_Station>
+  <TY_A_Red_Army_cannot_contact>Невозможно связаться с Красной Армией</TY_A_Red_Army_cannot_contact>
+  <TY_A_Red_Army_communication_established>Связь с Красной Армией установлена</TY_A_Red_Army_communication_established>
+  <TY_A_Select_Prisoner_For_Bounty>Выберите заключённого для передачи</TY_A_Select_Prisoner_For_Bounty>
+  <TY_A_Sell_Prisoner>Передать заключённого</TY_A_Sell_Prisoner>
+  <TY_A_Silver_Exchange>Обмен серебра</TY_A_Silver_Exchange>
+  <TY_A_Silver_Exchange_Description>Обмен серебра на билеты репутации и наоборот.</TY_A_Silver_Exchange_Description>
+  <TY_A_Silver_Exchange_Rate>Курс обмена: {0} серебра = {1} билет репутации</TY_A_Silver_Exchange_Rate>
+  <TY_A_Spend_honor_to_buy_items>Потратить билеты репутации на предметы</TY_A_Spend_honor_to_buy_items>
+  <TY_A_Spend_honor_to_buy_silver>Потратить билеты репутации на серебро</TY_A_Spend_honor_to_buy_silver>
+  <TY_A_Submit_Prisoner>Передать заключённого</TY_A_Submit_Prisoner>
+  <TY_A_Successful_Exchange>Обмен успешен</TY_A_Successful_Exchange>
+  <TY_A_Transfer_Prisoner_To_Red_Army>Передать заключённого Красной Армии</TY_A_Transfer_Prisoner_To_Red_Army>
+  <TY_A_Unable_to_exchange>Невозможно совершить обмен</TY_A_Unable_to_exchange>
+  <TY_A_Prisoner_Bounty_Confirm>Вы уверены, что хотите передать этого заключённого? Награда: {0} билетов репутации</TY_A_Prisoner_Bounty_Confirm>
+  <TY_A_View_Honor_Shop>Магазин репутации</TY_A_View_Honor_Shop>
+  <TY_A_Honor_Shop>Магазин репутации</TY_A_Honor_Shop>
+  <TY_A_Purchase_Successful>Покупка успешна</TY_A_Purchase_Successful>
+  <TY_A_Purchase_Failed>Покупка не удалась</TY_A_Purchase_Failed>
+  <TY_A_Honor_Balance>Баланс репутации: {0}</TY_A_Honor_Balance>
+  <TY_A_Select_Category>Выберите категорию</TY_A_Select_Category>
+  <TY_A_Weapons>Оружие</TY_A_Weapons>
+  <TY_A_Armor>Броня</TY_A_Armor>
+  <TY_A_Supplies>Припасы</TY_A_Supplies>
+  <TY_A_Technology>Технологии</TY_A_Technology>
+  <TY_A_Misc>Разное</TY_A_Misc>
+  <TY_A_Confirm_Purchase>Подтвердить покупку: {0} за {1} билетов репутации?</TY_A_Confirm_Purchase>
+  <TY_A_Insufficient_Honor>Недостаточно билетов репутации</TY_A_Insufficient_Honor>
+  <TY_A_Max_Honor>Максимум репутации</TY_A_Max_Honor>
+  <TY_A_Current_Honor>Текущая репутация: {0}</TY_A_Current_Honor>
+  <TY_A_Gain_Honor>Получить репутацию</TY_A_Gain_Honor>
+  <TY_A_Spend_Honor>Потратить репутацию</TY_A_Spend_Honor>]]></LanguageData>
+</LanguageData>

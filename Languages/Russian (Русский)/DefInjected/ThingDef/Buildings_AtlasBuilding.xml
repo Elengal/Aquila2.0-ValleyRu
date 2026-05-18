@@ -1,201 +1,187 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Bridge can be built here  地形承受能力 -->
-
   <TY_A_Bed_Building.label>Закрытая кровать</TY_A_Bed_Building.label>
   <TY_A_Bed_Building.description>Физиологическая структура Синтетиков приводит к значительным ежедневным умственным и физическим затратам, поэтому требуется увеличенное время сна. Специальная герметичная среда закрытой кровати в сочетании с очищенным воздухом и специальными газами обеспечивает ускоренные функции сна.</TY_A_Bed_Building.description>
+  <TY_A_Bed_Building_Blueprint.label>Капсульная кровать (чертёж)</TY_A_Bed_Building_Blueprint.label>
+  <TY_A_Bed_Building_Blueprint_Install.label>Капсульная кровать (чертёж)</TY_A_Bed_Building_Blueprint_Install.label>
+  <TY_A_Bed_Building_Frame.label>Капсульная кровать (строительство)</TY_A_Bed_Building_Frame.label>
+  <TY_A_Bed_Building_Frame.description>Физиологическая структура Конструкторов приводит к значительным ежедневным психическим и физическим затратам, поэтому требуется увеличенное время сна. Специальная герметичная среда капсульной кровати в сочетании с очищенным воздухом и особыми газами обеспечивает ускоренные функции сна.</TY_A_Bed_Building_Frame.description>
+  <TY_RoyalBed.label>Закрытая двуспальная кровать</TY_RoyalBed.label>
+  <TY_RoyalBed.description>Физиологическая структура Синтетиков приводит к значительным ежедневным умственным и физическим затратам, поэтому требуется увеличенное время сна. Специальная герметичная среда закрытой двуспальной кровати в сочетании с очищенным воздухом и специальными газами обеспечивает ускоренные функции сна.</TY_RoyalBed.description>
+  <TY_RoyalBed_Blueprint.label>Капсульная двуспальная кровать (чертёж)</TY_RoyalBed_Blueprint.label>
+  <TY_RoyalBed_Blueprint_Install.label>Капсульная двуспальная кровать (чертёж)</TY_RoyalBed_Blueprint_Install.label>
+  <TY_RoyalBed_Frame.label>Капсульная двуспальная кровать (строительство)</TY_RoyalBed_Frame.label>
+  <TY_RoyalBed_Frame.description>Физиологическая структура Конструкторов приводит к значительным ежедневным психическим и физическим затратам, поэтому требуется увеличенное время сна. Специальная герметичная среда капсульной двуспальной кровати в сочетании с очищенным воздухом и особыми газами обеспечивает ускоренные функции сна.</TY_RoyalBed_Frame.description>
+  <TY_A_Sculpture_Building.label>Скульптура "Серп и Молот" Речной Долины</TY_A_Sculpture_Building.label>
+  <TY_A_Sculpture_Building.description>Скульптурная структура, встречающаяся в различных культурных заведениях и конференц-залах, часто также используется как фоновое украшение за кафедрой.</TY_A_Sculpture_Building.description>
+  <TY_A_Sculpture_Building_Blueprint.label>Скульптура «Серп и Молот» Речной Долины (чертёж)</TY_A_Sculpture_Building_Blueprint.label>
+  <TY_A_Sculpture_Building_Blueprint_Install.label>Скульптура «Серп и Молот» Речной Долины (чертёж)</TY_A_Sculpture_Building_Blueprint_Install.label>
+  <TY_A_Sculpture_Building_Frame.label>Скульптура «Серп и Молот» Речной Долины (строительство)</TY_A_Sculpture_Building_Frame.label>
+  <TY_A_Sculpture_Building_Frame.description>Скульптурная конструкция, встречающаяся в различных культурных учреждениях и залах заседаний, часто используемая как фоновое украшение за трибуной.</TY_A_Sculpture_Building_Frame.description>
+  <TY_A_Wall_Building_B.label>Окрашиваемая жилая стена</TY_A_Wall_Building_B.label>
+  <TY_A_Wall_Building_B.description>Стена, используемая в большинстве небольших гражданских зданий.</TY_A_Wall_Building_B.description>
+  <TY_A_Wall_Building.label>Оранжевая жилая стена</TY_A_Wall_Building.label>
+  <TY_A_Wall_Building.description>Стена, используемая в большинстве небольших гражданских зданий.</TY_A_Wall_Building.description>
+  <TY_A_Wall_Building_A.label>Бледно-оранжевая жилая стена с горизонтальными насечками</TY_A_Wall_Building_A.label>
+  <TY_A_Wall_Building_A.description>Стена, используемая в большинстве небольших гражданских зданий.</TY_A_Wall_Building_A.description>
+  <TY_A_Wall_Building_A_A.label>Стена исследовательского подразделения "Авангард"</TY_A_Wall_Building_A_A.label>
+  <TY_A_Wall_Building_A_A.description>Стена, широко используемая в исследовательских комплексах.</TY_A_Wall_Building_A_A.description>
+  <TY_A_Wall_Building_A_B.label>Стена правительственного департамента "Классицизм"</TY_A_Wall_Building_A_B.label>
+  <TY_A_Wall_Building_A_B.description>Стена, используемая в некоторых зданиях правительственных департаментов.</TY_A_Wall_Building_A_B.description>
+  <TY_A_Wall_Building_A_B_P.label>Нано-пенная стена</TY_A_Wall_Building_A_B_P.label>
+  <TY_A_Wall_Building_A_B_P.description>Временное покрытие, построенное Синтетиком, выпускающим наномашины.</TY_A_Wall_Building_A_B_P.description>
+  <TY_A_XG_LBQ1_CH_A_Building.label>Окно оранжевой жилой стены</TY_A_XG_LBQ1_CH_A_Building.label>
+  <TY_A_XG_LBQ1_CH_A_Building.description>Окно оранжевой жилой стены</TY_A_XG_LBQ1_CH_A_Building.description>
+  <TY_A_XG_LBQ1_CH_B_Building.label>Окно бледно-оранжевой жилой стены с горизонтальными насечками</TY_A_XG_LBQ1_CH_B_Building.label>
+  <TY_A_XG_LBQ1_CH_B_Building.description>Окно бледно-оранжевой жилой стены с горизонтальными насечками</TY_A_XG_LBQ1_CH_B_Building.description>
+  <TY_A_Autodoor.label>Автоматическая дверь</TY_A_Autodoor.label>
+  <TY_A_Autodoor.description>Электрические автоматические двери — это двери, используемые в большинстве зданий Федерации Речной Долины.</TY_A_Autodoor.description>
+  <TY_A_Autodoor_Blueprint.label>Автодверь (чертёж)</TY_A_Autodoor_Blueprint.label>
+  <TY_A_Autodoor_Frame.label>Автодверь (строительство)</TY_A_Autodoor_Frame.label>
+  <TY_A_Autodoor_Frame.description>Электрические автодвери — двери, используемые в большинстве зданий Федерации Речной Долины.</TY_A_Autodoor_Frame.description>
+  <TY_Door.label>Простая дверь</TY_Door.label>
+  <TY_Door.description>Двери, которые обычно используют дерево в качестве материала.</TY_Door.description>
+  <TY_Door_Blueprint.label>Простая дверь (чертёж)</TY_Door_Blueprint.label>
+  <TY_Door_Frame.label>Простая дверь (строительство)</TY_Door_Frame.label>
+  <TY_Door_Frame.description>Двери, обычно использующие дерево в качестве материала.</TY_Door_Frame.description>
+  <TY_SecurityDoor.label>Охранные ворота Бюро связи</TY_SecurityDoor.label>
+  <TY_SecurityDoor.description>Охранные ворота обычно используются Отделом исключений при Бюро связи для содержания особо опасных сущностей, а также используются в различных крупных зданиях.</TY_SecurityDoor.description>
+  <TY_SecurityDoor_Blueprint.label>Контрольно-пропускной пункт Бюро связи (чертёж)</TY_SecurityDoor_Blueprint.label>
+  <TY_SecurityDoor_Frame.label>Контрольно-пропускной пункт Бюро связи (строительство)</TY_SecurityDoor_Frame.label>
+  <TY_SecurityDoor_Frame.description>Ворота безопасности обычно используются Отделением Исключений при Бюро связи для содержания Исключительных Сущностей, а также в различных крупных зданиях.</TY_SecurityDoor_Frame.description>
+  <ty_Fence.label>Белый забор</ty_Fence.label>
+  <ty_Fence.description>Белый забор</ty_Fence.description>
+  <ty_Fence_Blueprint.label>Белый забор (чертёж)</ty_Fence_Blueprint.label>
+  <ty_Fence_Frame.label>Белый забор (строительство)</ty_Fence_Frame.label>
+  <ty_Fence_Frame.description>Белый забор</ty_Fence_Frame.description>
+  <TY_XG_footstep_A.label>Боковые ступени</TY_XG_footstep_A.label>
+  <TY_XG_footstep_A.description>Боковые ступени</TY_XG_footstep_A.description>
+  <TY_XG_footstep_A_Blueprint.label>Боковые ступени (чертёж)</TY_XG_footstep_A_Blueprint.label>
+  <TY_XG_footstep_A_Frame.label>Боковые ступени (строительство)</TY_XG_footstep_A_Frame.label>
+  <TY_XG_footstep_A_Frame.description>Боковые ступени</TY_XG_footstep_A_Frame.description>
+  <TY_XG_footstep_E.label>Средние ступени</TY_XG_footstep_E.label>
+  <TY_XG_footstep_E.description>Средние ступени</TY_XG_footstep_E.description>
+  <TY_XG_footstep_E_Blueprint.label>Средние ступени (чертёж)</TY_XG_footstep_E_Blueprint.label>
+  <TY_XG_footstep_E_Frame.label>Средние ступени (строительство)</TY_XG_footstep_E_Frame.label>
+  <TY_XG_footstep_E_Frame.description>Средние ступени</TY_XG_footstep_E_Frame.description>
+  <TY_XG_footstep_B.label>Левое ограждение лестницы</TY_XG_footstep_B.label>
+  <TY_XG_footstep_B.description>Левое ограждение лестницы</TY_XG_footstep_B.description>
+  <TY_XG_footstep_B_Blueprint.label>Левое ограждение лестницы (чертёж)</TY_XG_footstep_B_Blueprint.label>
+  <TY_XG_footstep_B_Frame.label>Левое ограждение лестницы (строительство)</TY_XG_footstep_B_Frame.label>
+  <TY_XG_footstep_B_Frame.description>Левое ограждение лестницы</TY_XG_footstep_B_Frame.description>
+  <TY_XG_footstep_C.label>Правое ограждение лестницы</TY_XG_footstep_C.label>
+  <TY_XG_footstep_C.description>Правое ограждение лестницы</TY_XG_footstep_C.description>
+  <TY_XG_footstep_C_Blueprint.label>Правое ограждение лестницы (чертёж)</TY_XG_footstep_C_Blueprint.label>
+  <TY_XG_footstep_C_Frame.label>Правое ограждение лестницы (строительство)</TY_XG_footstep_C_Frame.label>
+  <TY_XG_footstep_C_Frame.description>Правое ограждение лестницы</TY_XG_footstep_C_Frame.description>
+  <TY_XG_footstep_D.label>Среднее ограждение лестницы</TY_XG_footstep_D.label>
+  <TY_XG_footstep_D.description>Среднее ограждение лестницы</TY_XG_footstep_D.description>
+  <TY_XG_footstep_D_Blueprint.label>Среднее ограждение лестницы (чертёж)</TY_XG_footstep_D_Blueprint.label>
+  <TY_XG_footstep_D_Frame.label>Среднее ограждение лестницы (строительство)</TY_XG_footstep_D_Frame.label>
+  <TY_XG_footstep_D_Frame.description>Среднее ограждение лестницы</TY_XG_footstep_D_Frame.description>
+  <TY_LBQ1_1_T_D.label>Колонна плаката 1</TY_LBQ1_1_T_D.label>
+  <TY_LBQ1_1_T_D.description>Текст: Наша жизнь готова расцвести в будущем.</TY_LBQ1_1_T_D.description>
+  <TY_LBQ1_1_T_D_Blueprint.label>Агитационная тумба 1 (чертёж)</TY_LBQ1_1_T_D_Blueprint.label>
+  <TY_LBQ1_1_T_D_Frame.label>Агитационная тумба 1 (строительство)</TY_LBQ1_1_T_D_Frame.label>
+  <TY_LBQ1_1_T_D_Frame.description>Текст: Наши жизни грядут во расцвете.</TY_LBQ1_1_T_D_Frame.description>
+  <TY_LBQ1_2_T_D.label>Колонна плаката 2</TY_LBQ1_2_T_D.label>
+  <TY_LBQ1_2_T_D.description>Текст: Восемь часов работы! Остальное — наша жизнь!</TY_LBQ1_2_T_D.description>
+  <TY_LBQ1_2_T_D_Blueprint.label>Агитационная тумба 2 (чертёж)</TY_LBQ1_2_T_D_Blueprint.label>
+  <TY_LBQ1_2_T_D_Frame.label>Агитационная тумба 2 (строительство)</TY_LBQ1_2_T_D_Frame.label>
+  <TY_LBQ1_2_T_D_Frame.description>Текст: Восемь часов работы! Оставшееся — нашей жизни!</TY_LBQ1_2_T_D_Frame.description>
+  <TY_LBQ1_3_T_D.label>Колонна плаката 3</TY_LBQ1_3_T_D.label>
+  <TY_LBQ1_3_T_D.description>Текст: Советский народ от звёзд шагнул во вселенную.</TY_LBQ1_3_T_D.description>
+  <TY_LBQ1_3_T_D_Blueprint.label>Агитационная тумба 3 (чертёж)</TY_LBQ1_3_T_D_Blueprint.label>
+  <TY_LBQ1_3_T_D_Frame.label>Агитационная тумба 3 (строительство)</TY_LBQ1_3_T_D_Frame.label>
+  <TY_LBQ1_3_T_D_Frame.description>Текст: Советский народ дошёл от звёзд до Вселенной.</TY_LBQ1_3_T_D_Frame.description>
+  <TY_LBQ1_4_T_D.label>Колонна плаката 4</TY_LBQ1_4_T_D.label>
+  <TY_LBQ1_4_T_D.description>Картина</TY_LBQ1_4_T_D.description>
+  <TY_LBQ1_4_T_D_Blueprint.label>Агитационная тумба 4 (чертёж)</TY_LBQ1_4_T_D_Blueprint.label>
+  <TY_LBQ1_4_T_D_Frame.label>Агитационная тумба 4 (строительство)</TY_LBQ1_4_T_D_Frame.label>
+  <TY_LBQ1_4_T_D_Frame.description>Картина</TY_LBQ1_4_T_D_Frame.description>
+  <TY_LBQ1_4_T_E.label>Колонна плаката 5</TY_LBQ1_4_T_E.label>
+  <TY_LBQ1_4_T_E.description>Текст: Слава героев-космонавтов Федерации — это слава народа Федерации.</TY_LBQ1_4_T_E.description>
+  <TY_LBQ1_4_T_E_Blueprint.label>Агитационная тумба 5 (чертёж)</TY_LBQ1_4_T_E_Blueprint.label>
+  <TY_LBQ1_4_T_E_Frame.label>Агитационная тумба 5 (строительство)</TY_LBQ1_4_T_E_Frame.label>
+  <TY_LBQ1_4_T_E_Frame.description>Текст: Слава героев-космонавтов Федерации — это слава народа Федерации.</TY_LBQ1_4_T_E_Frame.description>
+  <TY_LBQ1_4_T_F.label>Колонна плаката 6</TY_LBQ1_4_T_F.label>
+  <TY_LBQ1_4_T_F.description>Текст: Победа! К коммунизму!</TY_LBQ1_4_T_F.description>
+  <TY_LBQ1_4_T_F_Blueprint.label>Агитационная тумба 6 (чертёж)</TY_LBQ1_4_T_F_Blueprint.label>
+  <TY_LBQ1_4_T_F_Frame.label>Агитационная тумба 6 (строительство)</TY_LBQ1_4_T_F_Frame.label>
+  <TY_LBQ1_4_T_F_Frame.description>Текст: Победа! К коммунизму!</TY_LBQ1_4_T_F_Frame.description>
+  <TY_LBQ1_4_T_G.label>Колонна плаката 7</TY_LBQ1_4_T_G.label>
+  <TY_LBQ1_4_T_G.description>Текст: Мы отправимся в путешествие по безграничной вселенной!</TY_LBQ1_4_T_G.description>
+  <TY_LBQ1_4_T_G_Blueprint.label>Агитационная тумба 7 (чертёж)</TY_LBQ1_4_T_G_Blueprint.label>
+  <TY_LBQ1_4_T_G_Frame.label>Агитационная тумба 7 (строительство)</TY_LBQ1_4_T_G_Frame.label>
+  <TY_LBQ1_4_T_G_Frame.description>Текст: Мы отправимся в бескрайнюю Вселенную!</TY_LBQ1_4_T_G_Frame.description>
+  <TY_XGDZQ.label>Клавиатура</TY_XGDZQ.label>
+  <TY_XGDZQ.description>Музыкальный инструмент, играемый вживую с использованием электронных синтезированных звуков, с разными клавишами, поддерживающими различные звуковые эффекты.</TY_XGDZQ.description>
+  <TY_XGDZQ_Blueprint.label>Клавишный инструмент (чертёж)</TY_XGDZQ_Blueprint.label>
+  <TY_XGDZQ_Blueprint_Install.label>Клавишный инструмент (чертёж)</TY_XGDZQ_Blueprint_Install.label>
+  <TY_XGDZQ_Frame.label>Клавишный инструмент (строительство)</TY_XGDZQ_Frame.label>
+  <TY_XGDZQ_Frame.description>Музыкальный инструмент, играющий вживую с использованием электронных синтезированных звуков, различные клавиши поддерживают разные звуковые эффекты.</TY_XGDZQ_Frame.description>
   <Blueprint_TY_A_Bed_Building.label>Закрытая кровать (чертёж)</Blueprint_TY_A_Bed_Building.label>
   <Blueprint_Install_TY_A_Bed_Building.label>Закрытая кровать (чертёж)</Blueprint_Install_TY_A_Bed_Building.label>
   <Frame_TY_A_Bed_Building.label>Закрытая кровать (строительство)</Frame_TY_A_Bed_Building.label>
   <Frame_TY_A_Bed_Building.description>Физиологическая структура Синтетиков приводит к значительным ежедневным умственным и физическим затратам, поэтому требуется увеличенное время сна. Специальная герметичная среда закрытой кровати в сочетании с очищенным воздухом и специальными газами обеспечивает ускоренные функции сна.</Frame_TY_A_Bed_Building.description>
-
-  <TY_RoyalBed.label>Закрытая двуспальная кровать</TY_RoyalBed.label>
-  <TY_RoyalBed.description>Физиологическая структура Синтетиков приводит к значительным ежедневным умственным и физическим затратам, поэтому требуется увеличенное время сна. Специальная герметичная среда закрытой двуспальной кровати в сочетании с очищенным воздухом и специальными газами обеспечивает ускоренные функции сна.</TY_RoyalBed.description>
   <Blueprint_TY_RoyalBed.label>Закрытая двуспальная кровать (чертёж)</Blueprint_TY_RoyalBed.label>
   <Blueprint_Install_TY_RoyalBed.label>Закрытая двуспальная кровать (чертёж)</Blueprint_Install_TY_RoyalBed.label>
   <Frame_TY_RoyalBed.label>Закрытая двуспальная кровать (строительство)</Frame_TY_RoyalBed.label>
   <Frame_TY_RoyalBed.description>Физиологическая структура Синтетиков приводит к значительным ежедневным умственным и физическим затратам, поэтому требуется увеличенное время сна. Специальная герметичная среда закрытой двуспальной кровати в сочетании с очищенным воздухом и специальными газами обеспечивает ускоренные функции сна.</Frame_TY_RoyalBed.description>
-
-  <TY_A_Sculpture_Building.label>Скульптура "Серп и Молот" Речной Долины</TY_A_Sculpture_Building.label>
-  <TY_A_Sculpture_Building.description>Скульптурная структура, встречающаяся в различных культурных заведениях и конференц-залах, часто также используется как фоновое украшение за кафедрой.</TY_A_Sculpture_Building.description>
   <Blueprint_TY_A_Sculpture_Building.label>Скульптура "Серп и Молот" Речной Долины (чертёж)</Blueprint_TY_A_Sculpture_Building.label>
   <Blueprint_Install_TY_A_Sculpture_Building.label>Скульптура "Серп и Молот" Речной Долины (чертёж)</Blueprint_Install_TY_A_Sculpture_Building.label>
   <Frame_TY_A_Sculpture_Building.label>Скульптура "Серп и Молот" Речной Долины (строительство)</Frame_TY_A_Sculpture_Building.label>
   <Frame_TY_A_Sculpture_Building.description>Скульптурная структура, встречающаяся в различных культурных заведениях и конференц-залах, часто также используется как фоновое украшение за кафедрой.</Frame_TY_A_Sculpture_Building.description>
-
-
-  <!-- 可粉刷民居墙 -->
-
-  <TY_A_Wall_Building_B.label>Окрашиваемая жилая стена</TY_A_Wall_Building_B.label>
-  <TY_A_Wall_Building_B.description>Стена, используемая в большинстве небольших гражданских зданий.</TY_A_Wall_Building_B.description>
-
-
-  <!-- 橙色民居墙 -->
-
-  <TY_A_Wall_Building.label>Оранжевая жилая стена</TY_A_Wall_Building.label>
-  <TY_A_Wall_Building.description>Стена, используемая в большинстве небольших гражданских зданий.</TY_A_Wall_Building.description>
-
-
-  <!-- 淡橘色横刻线民居墙 -->
-
-  <TY_A_Wall_Building_A.label>Бледно-оранжевая жилая стена с горизонтальными насечками</TY_A_Wall_Building_A.label>
-  <TY_A_Wall_Building_A.description>Стена, используемая в большинстве небольших гражданских зданий.</TY_A_Wall_Building_A.description>
-
-
-  <!-- 先锋派科研单位墙 -->
-
-  <TY_A_Wall_Building_A_A.label>Стена исследовательского подразделения "Авангард"</TY_A_Wall_Building_A_A.label>
-  <TY_A_Wall_Building_A_A.description>Стена, широко используемая в исследовательских комплексах.</TY_A_Wall_Building_A_A.description>
-
-
-  <!-- 古典主义机关部门墙 -->
-
-  <TY_A_Wall_Building_A_B.label>Стена правительственного департамента "Классицизм"</TY_A_Wall_Building_A_B.label>
-  <TY_A_Wall_Building_A_B.description>Стена, используемая в некоторых зданиях правительственных департаментов.</TY_A_Wall_Building_A_B.description>
-
-
-  <!-- 纳米泡沫墙 - 与其他墙不同，使用基础BuildingBase -->
-
-  <TY_A_Wall_Building_A_B_P.label>Нано-пенная стена</TY_A_Wall_Building_A_B_P.label>
-  <TY_A_Wall_Building_A_B_P.description>Временное покрытие, построенное Синтетиком, выпускающим наномашины.</TY_A_Wall_Building_A_B_P.description>
-
-
-  <!-- 橙色墙窗户 -->
-
-  <TY_A_XG_LBQ1_CH_A_Building.label>Окно оранжевой жилой стены</TY_A_XG_LBQ1_CH_A_Building.label>
-  <TY_A_XG_LBQ1_CH_A_Building.description>Окно оранжевой жилой стены</TY_A_XG_LBQ1_CH_A_Building.description>
-
-
-  <!-- 淡橘色横刻线墙窗户 -->
-
-  <TY_A_XG_LBQ1_CH_B_Building.label>Окно бледно-оранжевой жилой стены с горизонтальными насечками</TY_A_XG_LBQ1_CH_B_Building.label>
-  <TY_A_XG_LBQ1_CH_B_Building.description>Окно бледно-оранжевой жилой стены с горизонтальными насечками</TY_A_XG_LBQ1_CH_B_Building.description>
-
-  <TY_A_Autodoor.label>Автоматическая дверь</TY_A_Autodoor.label>
-  <TY_A_Autodoor.description>Электрические автоматические двери — это двери, используемые в большинстве зданий Федерации Речной Долины.</TY_A_Autodoor.description>
   <Blueprint_TY_A_Autodoor.label>Автоматическая дверь (чертёж)</Blueprint_TY_A_Autodoor.label>
   <Frame_TY_A_Autodoor.label>Автоматическая дверь (строительство)</Frame_TY_A_Autodoor.label>
   <Frame_TY_A_Autodoor.description>Электрические автоматические двери — это двери, используемые в большинстве зданий Федерации Речной Долины.</Frame_TY_A_Autodoor.description>
-
-  <TY_Door.label>Простая дверь</TY_Door.label>
-  <TY_Door.description>Двери, которые обычно используют дерево в качестве материала.</TY_Door.description>
   <Blueprint_TY_Door.label>Простая дверь (чертёж)</Blueprint_TY_Door.label>
   <Frame_TY_Door.label>Простая дверь (строительство)</Frame_TY_Door.label>
   <Frame_TY_Door.description>Двери, которые обычно используют дерево в качестве материала.</Frame_TY_Door.description>
-
-  <TY_SecurityDoor.label>Охранные ворота Бюро связи</TY_SecurityDoor.label>
-  <TY_SecurityDoor.description>Охранные ворота обычно используются Отделом исключений при Бюро связи для содержания особо опасных сущностей, а также используются в различных крупных зданиях.</TY_SecurityDoor.description>
   <Blueprint_TY_SecurityDoor.label>Охранные ворота Бюро связи (чертёж)</Blueprint_TY_SecurityDoor.label>
   <Frame_TY_SecurityDoor.label>Охранные ворота Бюро связи (строительство)</Frame_TY_SecurityDoor.label>
   <Frame_TY_SecurityDoor.description>Охранные ворота обычно используются Отделом исключений при Бюро связи для содержания особо опасных сущностей, а также используются в различных крупных зданиях.</Frame_TY_SecurityDoor.description>
-
-  <ty_Fence.label>Белый забор</ty_Fence.label>
-  <ty_Fence.description>Белый забор</ty_Fence.description>
   <Blueprint_ty_Fence.label>Белый забор (чертёж)</Blueprint_ty_Fence.label>
   <Frame_ty_Fence.label>Белый забор (строительство)</Frame_ty_Fence.label>
   <Frame_ty_Fence.description>Белый забор</Frame_ty_Fence.description>
-
-
-  <!-- 侧面台阶 -->
-
-  <TY_XG_footstep_A.label>Боковые ступени</TY_XG_footstep_A.label>
-  <TY_XG_footstep_A.description>Боковые ступени</TY_XG_footstep_A.description>
   <Blueprint_TY_XG_footstep_A.label>Боковые ступени (чертёж)</Blueprint_TY_XG_footstep_A.label>
   <Frame_TY_XG_footstep_A.label>Боковые ступени (строительство)</Frame_TY_XG_footstep_A.label>
   <Frame_TY_XG_footstep_A.description>Боковые ступени</Frame_TY_XG_footstep_A.description>
-
-
-  <!-- 中间台阶 -->
-
-  <TY_XG_footstep_E.label>Средние ступени</TY_XG_footstep_E.label>
-  <TY_XG_footstep_E.description>Средние ступени</TY_XG_footstep_E.description>
   <Blueprint_TY_XG_footstep_E.label>Средние ступени (чертёж)</Blueprint_TY_XG_footstep_E.label>
   <Frame_TY_XG_footstep_E.label>Средние ступени (строительство)</Frame_TY_XG_footstep_E.label>
   <Frame_TY_XG_footstep_E.description>Средние ступени</Frame_TY_XG_footstep_E.description>
-
-
-  <!-- 左楼梯护栏 -->
-
-  <TY_XG_footstep_B.label>Левое ограждение лестницы</TY_XG_footstep_B.label>
-  <TY_XG_footstep_B.description>Левое ограждение лестницы</TY_XG_footstep_B.description>
   <Blueprint_TY_XG_footstep_B.label>Левое ограждение лестницы (чертёж)</Blueprint_TY_XG_footstep_B.label>
   <Frame_TY_XG_footstep_B.label>Левое ограждение лестницы (строительство)</Frame_TY_XG_footstep_B.label>
   <Frame_TY_XG_footstep_B.description>Левое ограждение лестницы</Frame_TY_XG_footstep_B.description>
-
-
-  <!-- 右楼梯护栏 -->
-
-  <TY_XG_footstep_C.label>Правое ограждение лестницы</TY_XG_footstep_C.label>
-  <TY_XG_footstep_C.description>Правое ограждение лестницы</TY_XG_footstep_C.description>
   <Blueprint_TY_XG_footstep_C.label>Правое ограждение лестницы (чертёж)</Blueprint_TY_XG_footstep_C.label>
   <Frame_TY_XG_footstep_C.label>Правое ограждение лестницы (строительство)</Frame_TY_XG_footstep_C.label>
   <Frame_TY_XG_footstep_C.description>Правое ограждение лестницы</Frame_TY_XG_footstep_C.description>
-
-
-  <!-- 中间楼梯护栏 -->
-
-  <TY_XG_footstep_D.label>Среднее ограждение лестницы</TY_XG_footstep_D.label>
-  <TY_XG_footstep_D.description>Среднее ограждение лестницы</TY_XG_footstep_D.description>
   <Blueprint_TY_XG_footstep_D.label>Среднее ограждение лестницы (чертёж)</Blueprint_TY_XG_footstep_D.label>
   <Frame_TY_XG_footstep_D.label>Среднее ограждение лестницы (строительство)</Frame_TY_XG_footstep_D.label>
   <Frame_TY_XG_footstep_D.description>Среднее ограждение лестницы</Frame_TY_XG_footstep_D.description>
-
-
-  <!-- 具体宣传画定义 - 标准尺寸 -->
-
-  <TY_LBQ1_1_T_D.label>Колонна плаката 1</TY_LBQ1_1_T_D.label>
-  <TY_LBQ1_1_T_D.description>Текст: Наша жизнь готова расцвести в будущем.</TY_LBQ1_1_T_D.description>
   <Blueprint_TY_LBQ1_1_T_D.label>Колонна плаката 1 (чертёж)</Blueprint_TY_LBQ1_1_T_D.label>
   <Frame_TY_LBQ1_1_T_D.label>Колонна плаката 1 (строительство)</Frame_TY_LBQ1_1_T_D.label>
   <Frame_TY_LBQ1_1_T_D.description>Текст: Наша жизнь готова расцвести в будущем.</Frame_TY_LBQ1_1_T_D.description>
-
-  <TY_LBQ1_2_T_D.label>Колонна плаката 2</TY_LBQ1_2_T_D.label>
-  <TY_LBQ1_2_T_D.description>Текст: Восемь часов работы! Остальное — наша жизнь!</TY_LBQ1_2_T_D.description>
   <Blueprint_TY_LBQ1_2_T_D.label>Колонна плаката 2 (чертёж)</Blueprint_TY_LBQ1_2_T_D.label>
   <Frame_TY_LBQ1_2_T_D.label>Колонна плаката 2 (строительство)</Frame_TY_LBQ1_2_T_D.label>
   <Frame_TY_LBQ1_2_T_D.description>Текст: Восемь часов работы! Остальное — наша жизнь!</Frame_TY_LBQ1_2_T_D.description>
-
-  <TY_LBQ1_3_T_D.label>Колонна плаката 3</TY_LBQ1_3_T_D.label>
-  <TY_LBQ1_3_T_D.description>Текст: Советский народ от звёзд шагнул во вселенную.</TY_LBQ1_3_T_D.description>
   <Blueprint_TY_LBQ1_3_T_D.label>Колонна плаката 3 (чертёж)</Blueprint_TY_LBQ1_3_T_D.label>
   <Frame_TY_LBQ1_3_T_D.label>Колонна плаката 3 (строительство)</Frame_TY_LBQ1_3_T_D.label>
   <Frame_TY_LBQ1_3_T_D.description>Текст: Советский народ от звёзд шагнул во вселенную.</Frame_TY_LBQ1_3_T_D.description>
-
-  <TY_LBQ1_4_T_D.label>Колонна плаката 4</TY_LBQ1_4_T_D.label>
-  <TY_LBQ1_4_T_D.description>Картина</TY_LBQ1_4_T_D.description>
   <Blueprint_TY_LBQ1_4_T_D.label>Колонна плаката 4 (чертёж)</Blueprint_TY_LBQ1_4_T_D.label>
   <Frame_TY_LBQ1_4_T_D.label>Колонна плаката 4 (строительство)</Frame_TY_LBQ1_4_T_D.label>
   <Frame_TY_LBQ1_4_T_D.description>Картина</Frame_TY_LBQ1_4_T_D.description>
-
-
-  <!-- 具体宣传画定义 - 大尺寸 -->
-
-  <TY_LBQ1_4_T_E.label>Колонна плаката 5</TY_LBQ1_4_T_E.label>
-  <TY_LBQ1_4_T_E.description>Текст: Слава героев-космонавтов Федерации — это слава народа Федерации.</TY_LBQ1_4_T_E.description>
   <Blueprint_TY_LBQ1_4_T_E.label>Колонна плаката 5 (чертёж)</Blueprint_TY_LBQ1_4_T_E.label>
   <Frame_TY_LBQ1_4_T_E.label>Колонна плаката 5 (строительство)</Frame_TY_LBQ1_4_T_E.label>
   <Frame_TY_LBQ1_4_T_E.description>Текст: Слава героев-космонавтов Федерации — это слава народа Федерации.</Frame_TY_LBQ1_4_T_E.description>
-
-  <TY_LBQ1_4_T_F.label>Колонна плаката 6</TY_LBQ1_4_T_F.label>
-  <TY_LBQ1_4_T_F.description>Текст: Победа! К коммунизму!</TY_LBQ1_4_T_F.description>
   <Blueprint_TY_LBQ1_4_T_F.label>Колонна плаката 6 (чертёж)</Blueprint_TY_LBQ1_4_T_F.label>
   <Frame_TY_LBQ1_4_T_F.label>Колонна плаката 6 (строительство)</Frame_TY_LBQ1_4_T_F.label>
   <Frame_TY_LBQ1_4_T_F.description>Текст: Победа! К коммунизму!</Frame_TY_LBQ1_4_T_F.description>
-
-  <TY_LBQ1_4_T_G.label>Колонна плаката 7</TY_LBQ1_4_T_G.label>
-  <TY_LBQ1_4_T_G.description>Текст: Мы отправимся в путешествие по безграничной вселенной!</TY_LBQ1_4_T_G.description>
   <Blueprint_TY_LBQ1_4_T_G.label>Колонна плаката 7 (чертёж)</Blueprint_TY_LBQ1_4_T_G.label>
   <Frame_TY_LBQ1_4_T_G.label>Колонна плаката 7 (строительство)</Frame_TY_LBQ1_4_T_G.label>
   <Frame_TY_LBQ1_4_T_G.description>Текст: Мы отправимся в путешествие по безграничной вселенной!</Frame_TY_LBQ1_4_T_G.description>
-
-  <TY_XGDZQ.label>Клавиатура</TY_XGDZQ.label>
-  <TY_XGDZQ.description>Музыкальный инструмент, играемый вживую с использованием электронных синтезированных звуков, с разными клавишами, поддерживающими различные звуковые эффекты.</TY_XGDZQ.description>
   <Blueprint_TY_XGDZQ.label>Клавиатура (чертёж)</Blueprint_TY_XGDZQ.label>
   <Blueprint_Install_TY_XGDZQ.label>Клавиатура (чертёж)</Blueprint_Install_TY_XGDZQ.label>
   <Frame_TY_XGDZQ.label>Клавиатура (строительство)</Frame_TY_XGDZQ.label>
   <Frame_TY_XGDZQ.description>Музыкальный инструмент, играемый вживую с использованием электронных синтезированных звуков, с разными клавишами, поддерживающими различные звуковые эффекты.</Frame_TY_XGDZQ.description>
-
-
 </LanguageData>
-

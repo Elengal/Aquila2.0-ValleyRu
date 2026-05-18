@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <TY_A_Overloaded_exercise_of_the_heart.label>Перегрузка сердца</TY_A_Overloaded_exercise_of_the_heart.label>
+  <TY_A_Overloaded_exercise_of_the_heart.description>Скорость кровотечения при активации увеличивается на 200% в обмен на повышение сознания, движения и манипуляции.</TY_A_Overloaded_exercise_of_the_heart.description>
+  <DriveSjump.label>Прыжок</DriveSjump.label>
+  <DriveSjump.description>Прыжок после концентрации силы и энергии в ногах.</DriveSjump.description>
+  <DriveSjump.verbProperties.label>Прыжок</DriveSjump.verbProperties.label>
+  <TY_A_IncineratorBurner.label>Выброс пламени</TY_A_IncineratorBurner.label>
+  <TY_A_IncineratorBurner.description>Выброс смешанного топлива</TY_A_IncineratorBurner.description>
+  <TY_Treatment_of_foam.label>Исцелительная пена</TY_Treatment_of_foam.label>
+  <TY_Treatment_of_foam.description>Управление нано-машинами для закупорки раны и выделения целебных химикатов для быстрой перевязки.</TY_Treatment_of_foam.description>
+  <TY_B_hemostasis_A_A.label>Остановка кровотечения</TY_B_hemostasis_A_A.label>
+  <TY_B_hemostasis_A_A.description>Управление нано-машинами для быстрой закупорки раны с целью остановки кровотечения, но риск инфекции сохраняется.</TY_B_hemostasis_A_A.description>
+  <TY_B_relievepain_A_A.label>Обезболивание</TY_B_relievepain_A_A.label>
+  <TY_B_relievepain_A_A.description>Управление нано-машинами для выделения особых химических сигналов, блокирующих передачу боли, но будьте осторожны: это не исцелит рану.</TY_B_relievepain_A_A.description>
+  <TY_BerserkPulse.label>Пульс берсерка</TY_BerserkPulse.label>
+  <TY_BerserkPulse.description>Управление нано-машинами для подачи особых сигналов, нарушающих нервную систему врагов, заставляя их временно впасть в бешенство.</TY_BerserkPulse.description>
+  <TY_C_Stun_A.label>Оглушение</TY_C_Stun_A.label>
+  <TY_C_Stun_A.description>Управление нано-машинами для подачи особых сигналов, нарушающих нервную систему врагов, оглушая и обездвиживая их.</TY_C_Stun_A.description>
+  <TY_Invisibility.label>Невидимость</TY_Invisibility.label>
+  <TY_Invisibility.description>Управление нано-машинами для прикрепления к поверхности тела и изменения их свойств для достижения оптического камуфляжа.</TY_Invisibility.description>
+  <TY_A_C_Sian_Weinstein_A.label>Сандевистан</TY_A_C_Sian_Weinstein_A.label>
+  <TY_A_C_Sian_Weinstein_A.description>Управление нано-машинами для подачи ускоряющих сигналов в нервную систему, тело Драйвера переходит в режим перегрузки полного ускорения. Движение настолько быстрое, что оставляет лишь остаточный след в глазах обычных людей.</TY_A_C_Sian_Weinstein_A.description>
+  <TY_A_C_Bully_chip_A.label>Момент неуязвимости</TY_A_C_Bully_chip_A.label>
+  <TY_A_C_Bully_chip_A.description>Активировать все нано-машины в теле. Нано-машины будут активно защищать Драйвера от урона, восстанавливать тело и ускорять его функции, чтобы на короткое время обрести сверхчеловеческое тело и тело бессмертного!</TY_A_C_Bully_chip_A.description>
+  <TY_Wallraise.label>Возвести стену</TY_Wallraise.label>
+  <TY_Wallraise.description>Управление быстро расширяющимися нано-машинами для формирования затвердевшей пены в качестве укрытия.</TY_Wallraise.description>
+  <TY_BulletShield.label>Выпустить большой щит из нано-компонентов</TY_BulletShield.label>
+  <TY_BulletShield.description>Управление нано-машинами для выброса нано-пыли в воздух, формируя большой щит, блокирующий снаряды от низких до высоких углов. Но взамен нано-пыль также блокирует дальние атаки, выпущенные по врагу изнутри наружу.\nВыброс большого щита нано-компонентов вызывает перегрузку и перегрев микросхемы, поэтому требуется 14 часов на охлаждение.</TY_BulletShield.description>
+  <TY_D_moderate_A_A.label>Замедление</TY_D_moderate_A_A.label>
+  <TY_D_moderate_A_A.description>Управление нано-машинами для испускания особых сигналов, замедляющих проводимость нервного центра человека, что приводит к снижению скорости движения.</TY_D_moderate_A_A.description>
+  <TY_Resurrected_Nanomechanical_Devices.label>Нано-машины воскрешения</TY_Resurrected_Nanomechanical_Devices.label>
+  <TY_Resurrected_Nanomechanical_Devices.description>Нано-машины воскрешения</TY_Resurrected_Nanomechanical_Devices.description>
+  <TY_A_Launch_nano_erosion_bullets.label>Запуск нано-эрозийных пуль</TY_A_Launch_nano_erosion_bullets.label>
+  <TY_A_Launch_nano_erosion_bullets.description>Запуск нано-эрозийных пуль</TY_A_Launch_nano_erosion_bullets.description>
+  <TY_Test.label>Тест</TY_Test.label>
+  <TY_Test.description>Тест.</TY_Test.description>
+</LanguageData>
