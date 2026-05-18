@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <TY_A_Mech_A_Nurse_DropPodIncoming_A.label>Тактический высокоугловой щит Долины</TY_A_Mech_A_Nurse_DropPodIncoming_A.label>
+  <TY_A_Mech_A_Nurse_DropPodIncoming_A.description>Как правило, способен перехватывать высокоугловые снаряды, но не низкоугловые.</TY_A_Mech_A_Nurse_DropPodIncoming_A.description>
+
+  <!-- BaZhuKickDash -->
+  <BaZhuKickDash.label>Пинок-рывок</BaZhuKickDash.label>
+  <BaZhuKickDash.description>Босс «БаZhu» совершает короткий рывок к цели. При столкновении с противником наносит удар тараном и отбрасывает его по дуге; при приземлении цель получает повторный тяжёлый удар и кратковременно теряет равновесие.\n\nПерезарядка: 360 секунд</BaZhuKickDash.description>
+
+  <!-- DriveDashWithDrag -->
+  <DriveDashWithDrag.label>Рывок с захватом</DriveDashWithDrag.label>
+  <DriveDashWithDrag.description>Стремительный рывок к цели. Если на пути есть противник, он будет захвачен и потащен вместе с боссом. При столкновении наносится урон тараном, а по прибытии — повторный урон и оглушение.</DriveDashWithDrag.description>
+
+  <!-- TY_Ability_CarpetBombing -->
+  <TY_Ability_CarpetBombing.label>Ковровая бомбардировка</TY_Ability_CarpetBombing.label>
+  <TY_Ability_CarpetBombing.description>Вызов истребителя для ковровой бомбардировки, наносящей опустошительный удар по обширной области.</TY_Ability_CarpetBombing.description>
+
+  <!-- TY_Ability_PrecisionStrike -->
+  <TY_Ability_PrecisionStrike.label>Точный удар</TY_Ability_PrecisionStrike.label>
+  <TY_Ability_PrecisionStrike.description>Вызов истребителя для сброса высокоточной бомбы, наносящей разрушительный урон одиночной цели.</TY_Ability_PrecisionStrike.description>
+
+  <!-- TY_Ability_ShockwaveKnockback -->
+  <TY_Ability_ShockwaveKnockback.label>Отбрасывание</TY_Ability_ShockwaveKnockback.label>
+  <TY_Ability_ShockwaveKnockback.description>Высвобождение мощной ударной волны, отбрасывающей всех врагов в радиусе 3.9 клеток. Отброшенные враги отлетают на 3–5 клеток; при столкновении со стеной получают дополнительный тупой урон и кратковременно оглушаются.\n\nПерезарядка: 15 секунд</TY_Ability_ShockwaveKnockback.description>
+
+  <!-- TY_Boss_SmokeGrenade -->
+  <TY_Boss_SmokeGrenade.label>Шок-граната</TY_Boss_SmokeGrenade.label>
+  <TY_Boss_SmokeGrenade.description>Бросок шок-гранаты в скопление противников для создания хаоса и прикрытия.</TY_Boss_SmokeGrenade.description>
+</LanguageData>

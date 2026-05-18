@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_Mech_A_Nurse_DropPodIncoming.comps.Comp_RV_DestroyAfterDelay.countdownLabel>сгорит через</TY_A_Mech_A_Nurse_DropPodIncoming.comps.Comp_RV_DestroyAfterDelay.countdownLabel>
+  <TY_A_Mech_A_Nurse_DropPodIncoming.label>Тактический щит высокого угла Долины</TY_A_Mech_A_Nurse_DropPodIncoming.label>
+  <TY_A_Mech_A_Nurse_DropPodIncoming.description>Обычно способен перехватывать снаряды высокого угла, но не низкоугловые летящие.</TY_A_Mech_A_Nurse_DropPodIncoming.description>
+
+  <TY_A_DropPodIncoming_A_A.label>Крупный щит высокого угла Долины (защита от EMP)</TY_A_DropPodIncoming_A_A.label>
+  <TY_A_DropPodIncoming_A_A.description>Щит, специально предназначенный для перехвата высокоугловых траекторий, не может перехватывать близкие снаряды. Военная версия щита иммунна к EMP.</TY_A_DropPodIncoming_A_A.description>
+
+  <!-- Ideology-specific entries -->
+  <TY_A_DropPodIncoming_D_C.label>Долинный полноугловой щит с защитой от ЭМИ</TY_A_DropPodIncoming_D_C.label>
+  <TY_A_DropPodIncoming_D_C.description>Способен одновременно перехватывать близкие пули и дальние высокодуговые боеприпасы, при этом невосприимчив к ЭМИ — военная версия щита. Однако плата за это — отсутствие какого-либо увеличения ёмкости щита при значительном росте стоимости.</TY_A_DropPodIncoming_D_C.description>
+
+  <TY_A_DropPodIncoming_D_A_A.label>Долинный крупный полноугловой щит с защитой от ЭМИ</TY_A_DropPodIncoming_D_A_A.label>
+  <TY_A_DropPodIncoming_D_A_A.description>Способен одновременно перехватывать близкие пули и дальние высокодуговые боеприпасы, при этом невосприимчив к ЭМИ — военная версия щита. Однако плата за это — отсутствие какого-либо увеличения ёмкости щита при значительном росте стоимости.</TY_A_DropPodIncoming_D_A_A.description>
+
+</LanguageData>

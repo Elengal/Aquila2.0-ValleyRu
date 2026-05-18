@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Боевое командование -->
+  <TY_CombatCommand.label>Боевое командование</TY_CombatCommand.label>
+  <TY_CombatCommand.description>Ободряя и командуя союзниками поблизости, этот человек может усилить их концентрацию в бою и, таким образом, их боевую эффективность.</TY_CombatCommand.description>
+
+  <TY_CombatCommandBuff.label>Боевое командование</TY_CombatCommandBuff.label>
+  <TY_CombatCommandBuff.description>Боевые способности усилены благодаря нахождению рядом с тем, кто использует способность боевого командования.</TY_CombatCommandBuff.description>
+
+  <!-- Состояния Сандевистан -->
+  <TY_A_C_Sian_Weinstein_AA.labelNoun>активация Сандевистан</TY_A_C_Sian_Weinstein_AA.labelNoun>
+
+  <!-- Импланты механитора -->
+  <YYS_YTCDMechlinkImplant.comps.HediffComp_YTCDMechlinkImplant.brokenLabelInBracketsExtra>повреждён</YYS_YTCDMechlinkImplant.comps.HediffComp_YTCDMechlinkImplant.brokenLabelInBracketsExtra>
+  <YYS_YTCDMechlinkImplant.descriptionShort>Механический центр для точного управления механоидами Розарии конструктов Люсии.</YYS_YTCDMechlinkImplant.descriptionShort>
+
+  <TY_A_Civilian_control_link.descriptionShort>Федеральный имплант, увеличивающий количество контрольных групп механитора и повышающий скорость работы механоидов под контролем механитора. Этот имплант можно установить до 10 раз для усиления эффекта.</TY_A_Civilian_control_link.descriptionShort>
+
+  <TY_A_MechFormfeederImplant.descriptionShort>Имплант, позволяющий механитору увеличивать скорость выращивания при работе с мехинкубатором. Можно установить до 3 раз для усиления эффекта.</TY_A_MechFormfeederImplant.descriptionShort>
+
+  <TY_A_RemoteRepairerImplant.descriptionShort>Имплант, позволяющий пользователю удалённо ремонтировать механоидов. Можно установить до 3 раз.</TY_A_RemoteRepairerImplant.descriptionShort>
+
+  <TY_A_RepairProbeImplant.descriptionShort>Имплант, позволяющий механитору быстрее ремонтировать механоидов. Можно установить до 3 раз.</TY_A_RepairProbeImplant.descriptionShort>
+
+  <!-- Отладочные метки -->
+  <TestState_D.renderNodeProperties.0.debugLabel>Доберман-4 дополнительная броня</TestState_D.renderNodeProperties.0.debugLabel>
+  <XG_JQG_WuRenJin.renderNodeProperties.0.debugLabel>Доберман-4 компонент дрона</XG_JQG_WuRenJin.renderNodeProperties.0.debugLabel>
+  <XG_JQG_BeiBao.renderNodeProperties.0.debugLabel>Доберман-4 дополнительный рюкзак (не завершено)</XG_JQG_BeiBao.renderNodeProperties.0.debugLabel>
+  <MechXwSnake.renderNodeProperties.0.debugLabel>Гремучая змея - автоматическая граната, тяжёлая пушка</MechXwSnake.renderNodeProperties.0.debugLabel>
+
+  <!-- Состояния повреждений -->
+  <TY_MaBi_Shang.labelNounPretty>{0} на {1}</TY_MaBi_Shang.labelNounPretty>
+  <TY_hesh.labelNounPretty>{0} на {1}</TY_hesh.labelNounPretty>
+  <TY_A_Scratch.comps.HediffComp_GetsPermanent.permanentLabel>шрам от царапины</TY_A_Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
+  <TY_A_Scratch.labelNounPretty>{0} на {1}</TY_A_Scratch.labelNounPretty>
+  <TY_A_Copper_head_belt_beating.labelNounPretty>{0} на {1}</TY_A_Copper_head_belt_beating.labelNounPretty>
+
+  <TY_A_Abasia.descriptionShort>Похоже, [PAWN_nameDef] пережил ряд несчастий и проявил поразительную силу, в результате чего в следующие несколько дней [PAWN_possessive] тело будет крайне измотано и неподвижно.</TY_A_Abasia.descriptionShort>
+
+</LanguageData>
+

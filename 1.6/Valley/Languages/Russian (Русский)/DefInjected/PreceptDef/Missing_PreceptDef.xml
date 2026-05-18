@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Предписания -->
+  <TY_Apostasy_Abhorrent.label>Ненависть</TY_Apostasy_Abhorrent.label>
+  <TY_Apostasy_Abhorrent.description>Как можно отказаться от мести за эту тысячелетнюю ненависть и кровавый долг? Как можно простить за наших предков?!</TY_Apostasy_Abhorrent.description>
+  <TY_Apostasy_Abhorrent.comps.0.description>Сменил идеологию</TY_Apostasy_Abhorrent.comps.0.description>
+
+  <TY_ShareWealAndWoe.label>Разделять радости и горести</TY_ShareWealAndWoe.label>
+  <TY_ShareWealAndWoe.description>Мы никогда не позволим нашим лидерам стать новыми угнетателями, властвующими над нами.</TY_ShareWealAndWoe.description>
+  <TY_ShareWealAndWoe.tipLabelOverride>Лидеры и проповедники должны иметь те же условия, что и обычные колонисты.</TY_ShareWealAndWoe.tipLabelOverride>
+
+</LanguageData>
+

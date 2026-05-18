@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <TYCommand_HoldTheLine.label>Эластичная оборона</TYCommand_HoldTheLine.label>
+  <TYCommand_HoldTheLine.description>Только объединившись мы выживем!
+
+Мы все переживём это!</TYCommand_HoldTheLine.description>
+  <TYCommand_LiberationCall.label>Горн освобождения</TYCommand_LiberationCall.label>
+  <TYCommand_LiberationCall.description>Враг замечен! Занять боевые посты!</TYCommand_LiberationCall.description>
+  <TYCommand_CalmDown.label>Успокойтесь</TYCommand_CalmDown.label>
+  <TYCommand_CalmDown.description>Мы справимся!</TYCommand_CalmDown.description>
+  <TYCommand_ForceBlock.label>Принудительное удержание</TYCommand_ForceBlock.label>
+  <TYCommand_ForceBlock.description>Единственный способ предотвратить опасную ситуацию — принудительно удержать товарища от её совершения.</TYCommand_ForceBlock.description>
+  <TYCommand_ForceBlock.comps.CompAbilityEffect_ForceBlock.message>{INITIATOR_labelShort} удалось принудительно удержать {RECIPIENT_labelShort}.</TYCommand_ForceBlock.comps.CompAbilityEffect_ForceBlock.message>
+  <TYCommand_RelieveStress.label>Снять стресс</TYCommand_RelieveStress.label>
+  <TYCommand_RelieveStress.description>Воскресить дух товарища, потерявшегося в смятении и бедствии. Однако снимающий стресс, принимающий горькую воду, непременно подвергается влиянию одновременно.</TYCommand_RelieveStress.description>
+  <TYCommand_RelieveStress.comps.CompAbilityEffect_RelieveStress.failMessage>{INITIATOR_labelShort} не удалось снять стресс {RECIPIENT_labelShort}.</TYCommand_RelieveStress.comps.CompAbilityEffect_RelieveStress.failMessage>
+  <TYCommand_RelieveStress.comps.CompAbilityEffect_RelieveStress.successMeaasge>{INITIATOR_labelShort} удалось снять стресс {RECIPIENT_labelShort}.</TYCommand_RelieveStress.comps.CompAbilityEffect_RelieveStress.successMeaasge>
+  <TYCommand_RelieveStress.comps.CompAbilityEffect_RelieveStress.triumphMessage>{INITIATOR_labelShort} удалось снять стресс {RECIPIENT_labelShort} и воскресить {RECIPIENT_labelShort}.</TYCommand_RelieveStress.comps.CompAbilityEffect_RelieveStress.triumphMessage>
+</LanguageData>

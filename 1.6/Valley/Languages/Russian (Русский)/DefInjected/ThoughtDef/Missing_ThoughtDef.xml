@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Мысли -->
+  <TY_Onfided.stages.0.label>Выслушал жалобы</TY_Onfided.stages.0.label>
+  <TY_Onfided.stages.0.description>Все страдания, которые были высказаны, обрушились на меня... Нет, я должен оставаться сильным...</TY_Onfided.stages.0.description>
+
+  <TY_ForcedDown.stages.0.label>Принудительно остановлен</TY_ForcedDown.stages.0.label>
+  <TY_ForcedDown.stages.0.description>Проклятый заградотряд... Но не до такой же степени...</TY_ForcedDown.stages.0.description>
+  <TY_ForcedDown.stages.0.labelSocial>действия заградотряда</TY_ForcedDown.stages.0.labelSocial>
+
+  <TY_ForcedDown_Revolution.stages.0.label>Принудительно остановлен (понимание)</TY_ForcedDown_Revolution.stages.0.label>
+  <TY_ForcedDown_Revolution.stages.0.description>Хотя то, что я тогда делал, было немного...</TY_ForcedDown_Revolution.stages.0.description>
+
+</LanguageData>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_Launch_Nano_erosion_jet_bullets.label>Нано-эрозионная струя</TY_A_Launch_Nano_erosion_jet_bullets.label>
+
+  <TY_A_Launch_nano_flying_knives_bullets.label>Нано-эрозионный летающий нож</TY_A_Launch_nano_flying_knives_bullets.label>
+
+  <LBD_AtTB_B.label>Плазменная импульсная ракета</LBD_AtTB_B.label>
+
+  <TY_A_erosion_bullets.label>Нанокоррозионная пуля</TY_A_erosion_bullets.label>
+
+  <TY_FastPawnFlyer.label>Быстрый прыжковый полёт</TY_FastPawnFlyer.label>
+  <TY_FastPawnFlyer.description>Быстрое состояние полёта для выполнения быстрого прыжка.</TY_FastPawnFlyer.description>
+
+</LanguageData>

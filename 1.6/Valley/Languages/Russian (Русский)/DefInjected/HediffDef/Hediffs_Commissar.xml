@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TYHediff_HoldTheLine.label>Гибкая оборона</TYHediff_HoldTheLine.label>
+  <TYHediff_HoldTheLine.description>Мы все должны выжить!\n\nПовышает защиту и скорость передвижения. Манёвр или удержание.</TYHediff_HoldTheLine.description>
+
+  <TYHediff_HoldTheLine_Buff.label>Гибкая оборона</TYHediff_HoldTheLine_Buff.label>
+  <TYHediff_HoldTheLine_Buff.description>Мы все должны выжить!\n\nПовышает защиту и скорость передвижения. Манёвр или удержание.</TYHediff_HoldTheLine_Buff.description>
+
+  <TYHediff_LiberationCall.label>Сигнал атаки!</TYHediff_LiberationCall.label>
+  <TYHediff_LiberationCall.description>Обнаружен враг — отдан приказ к бою!\n\nУвеличивает точность стрельбы и снижает время прицеливания. Быстрое восстановление, короткая длительность — для партизанских вылазок.</TYHediff_LiberationCall.description>
+
+  <TYHediff_LiberationCall_Buff.label>Сигнал атаки!</TYHediff_LiberationCall_Buff.label>
+  <TYHediff_LiberationCall_Buff.description>Обнаружен враг — отдан приказ к бою!\n\nУвеличивает точность стрельбы и снижает время прицеливания. Быстрое восстановление, короткая длительность — для партизанских вылазок.</TYHediff_LiberationCall_Buff.description>
+
+  <TYHeiff_CalmDown.label>Спокойнее!</TYHeiff_CalmDown.label>
+  <TYHeiff_CalmDown.description>Мы обязательно продержимся!\n\nПовышает порог нервного срыва.</TYHeiff_CalmDown.description>
+
+  <TYHeiff_CalmDown_Buff.label>Спокойнее!</TYHeiff_CalmDown_Buff.label>
+  <TYHeiff_CalmDown_Buff.description>Мы обязательно продержимся!\n\nПовышает порог нервного срыва.</TYHeiff_CalmDown_Buff.description>
+
+  <TYHediff_ForcedDown.label>Жёсткое усмирение</TYHediff_ForcedDown.label>
+  <TYHediff_ForcedDown.description>Если товарищ ведёт себя опасно, приходится принудительно остановить его.</TYHediff_ForcedDown.description>
+</LanguageData>

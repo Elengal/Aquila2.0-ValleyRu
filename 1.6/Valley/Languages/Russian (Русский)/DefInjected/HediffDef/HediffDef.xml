@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <TY_CombatCommand.label>Боевое командование</TY_CombatCommand.label>
+  <TY_CombatCommand.description>Поощряя и командуя ближайшими союзниками, этот человек может повысить их концентрацию</TY_CombatCommand.description>
+  <TY_CombatCommandBuff.label>Боевое командование</TY_CombatCommandBuff.label>
+  <TY_CombatCommandBuff.description>Боевые способности усилены благодаря нахождению рядом с командиром</TY_CombatCommandBuff.description>
+</LanguageData>

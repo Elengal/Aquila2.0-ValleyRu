@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+  <v1.6>
+    <li IfModActive="TYll.valley">1.6/Valley</li>
+    <li IfModActive="Ludeon.RimWorld.Ideology">1.6/Ideology</li>
+  </v1.6>
+</loadFolders>
