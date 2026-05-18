@@ -93,20 +93,29 @@ Aquila2.0-ValleyRu/
 │   ├── About.xml          # Метаданные мода
 │   ├── ModIcon.png        # Иконка мода
 │   └── Preview.png        # Превью
-└── Languages/
-    └── Russian (Русский)/
-        ├── DefInjected/   # Переводы Def-объектов
-        │   ├── AbilityDef/
-        │   ├── AlienRace.AlienBackstoryDef/
-        │   ├── BodyDef/
-        │   ├── BodyPartDef/
-        │   ├── FactionDef/
-        │   ├── GeneDef/
-        │   ├── HediffDef/
-        │   ├── RecipeDef/
-        │   ├── ThingDef/
-        │   └── ...         # И другие категории
-        └── Keyed/          # Переводы по ключам
+├── 1.6/
+│   ├── Valley/            # Базовый контент Valley
+│   │   └── Languages/Russian (Русский)/
+│   │       ├── DefInjected/   # Переводы Def-объектов
+│   │       │   ├── AbilityDef/
+│   │       │   ├── AlienRace.AlienBackstoryDef/
+│   │       │   ├── BodyDef/
+│   │       │   ├── FactionDef/
+│   │       │   ├── GeneDef/
+│   │       │   ├── HediffDef/
+│   │       │   ├── ThingDef/
+│   │       │   └── ...         # И другие категории
+│   │       ├── Keyed/          # Переводы по ключам
+│   │       └── Strings/        # Строки (имена и т.д.)
+│   └── Ideology/         # Контент для DLC Ideology
+│       └── Languages/Russian (Русский)/
+│           └── DefInjected/
+│               ├── AbilityDef/
+│               ├── HediffDef/
+│               ├── MemeDef/
+│               ├── PreceptDef/
+│               └── ...         # И другие категории
+└── LoadFolders.xml        # Условия загрузки по модам
 ```
 
 ## 📜 Лицензия
